@@ -301,6 +301,11 @@ footer { padding: 2rem; text-align: center; background: var(--cream); color: var
 .source-link a {
   font-weight: 700;
 }
+
+.archive-link {
+  display: block;
+  margin-top: 1rem;
+}
 .archive-page {
   padding: clamp(3rem, 7vw, 7rem) clamp(1rem, 6vw, 6rem);
 }

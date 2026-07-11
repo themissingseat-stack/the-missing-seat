@@ -61,8 +61,28 @@ h3 { font-size: 1.55rem; }
 .hero-chair { display: flex; justify-content: center; }
 .hero-chair img { width: min(360px, 80vw); filter: drop-shadow(0 24px 35px rgba(32,25,21,.22)); }
 
-.statement { background: var(--dark); color: var(--cream); padding: clamp(2rem, 6vw, 5rem); font-size: clamp(1.5rem, 3vw, 3rem); line-height: 1.25; }
-.statement p { max-width: 1050px; margin: auto; }
+.statement {
+  background: var(--dark);
+  color: var(--cream);
+  padding: clamp(3rem, 7vw, 6rem);
+  text-align: center;
+}
+
+.statement p {
+  max-width: 850px;
+  margin: 0 auto;
+  font-size: clamp(1.8rem, 4vw, 3.4rem);
+  line-height: 1.25;
+}
+
+.statement strong {
+  display: block;
+  margin-top: 2rem;
+  font-size: 0.55em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
 
 .split-section, .chair-section, .cards-section, .take-seat, .contact-section {
   padding: clamp(3rem, 7vw, 6rem) clamp(1rem, 6vw, 6rem);

@@ -88,15 +88,32 @@ h3 { font-size: 1.55rem; }
   padding: clamp(3rem, 7vw, 6rem) clamp(1rem, 6vw, 6rem);
 }
 
-.split-section {
+split-section {
   display: grid;
   grid-template-columns: .8fr 1.2fr;
   gap: 3rem;
 }
 
 .text-block {
+  max-width: 720px;
   font-size: 1.15rem;
+  line-height: 1.75;
   color: var(--muted);
+}
+
+.story-question {
+  font-size: clamp(2rem, 4vw, 3.5rem);
+  line-height: 1.05;
+  color: var(--rust);
+  margin: 2.5rem 0;
+}
+
+.text-block p {
+  margin: 0 0 1.4rem;
+}
+
+.text-block p:last-child {
+  margin-bottom: 0;
 }
 
 .chair-section { display: grid; grid-template-columns: .75fr 1.25fr; gap: 3rem; align-items: center; background: var(--cream); }

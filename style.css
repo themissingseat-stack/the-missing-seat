@@ -411,17 +411,18 @@ footer { padding: 2rem; text-align: center; background: var(--cream); color: var
 /* ===== HOW THE PLATFORM WORKS ===== */
 
 .transition-section {
-  padding: 3rem 2rem;
+  padding: 5rem 2rem;
   text-align: center;
   background: #faf8f5;
 }
 
 .transition-section .eyebrow {
-  color: #b85c38;
-  font-weight: 700;
-  letter-spacing: .15em;
-  text-transform: uppercase;
-  margin-bottom: 1rem;
+    color: #b85c38;
+    font-size: 1.3rem;
+    font-weight: 700;
+    letter-spacing: .35em;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
 }
 
 .transition-section h2 {

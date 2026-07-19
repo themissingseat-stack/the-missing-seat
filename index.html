@@ -244,7 +244,32 @@
       <h2>Choose a story.</h2>
       <div class="cards">
 
-        <article class="card story-feature">
+          <article
+  class="card story-feature scheduled-story"
+  data-publish-date="2026-07-20"
+>
+  <p class="story-meta">
+    CURRENT NEWS UPDATE • INVESTIGATIVE TRUST • JULY 20, 2026
+  </p>
+
+  <h3>
+    <img class="mini-chair" src="assets/the-chair.svg" alt="" />
+    Three Deaths. Three Families.
+  </h3>
+
+  <p>
+    Nolan Wells, To’Nea Nicole Miller and Juliana Nzita died under different
+    circumstances. What connects their cases is one urgent question: When
+    public trust is already broken, is an official conclusion enough?
+  </p>
+
+  <a
+    class="card-link"
+    href="three-deaths-three-families.html"
+  >
+    Read the Current News Update →
+  </a>
+</article>
   <p class="story-meta">
     EQUALITY • CIVIL RIGHTS • JULY 19, 2026
   </p>
@@ -323,7 +348,7 @@
 
   <a
     class="card-link"
-    href="it-takes-a-village-where-did-it-go.html"
+    href="it-takes-a-village.html"
   >
     Read the Story →
   </a>
@@ -504,6 +529,44 @@
   <p><strong>The Missing Seat</strong></p>
   <p>Ally = Action. Take Your Seat. 🪑</p>
 </footer>
+
+
+<script>
+  (() => {
+    function getBerlinDate() {
+      const parts = new Intl.DateTimeFormat("en-US", {
+        timeZone: "Europe/Berlin",
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit"
+      }).formatToParts(new Date());
+
+      const date = {};
+
+      parts.forEach((part) => {
+        if (part.type !== "literal") {
+          date[part.type] = part.value;
+        }
+      });
+
+      return `${date.year}-${date.month}-${date.day}`;
+    }
+
+    function updateScheduledStories() {
+      const today = getBerlinDate();
+
+      document
+        .querySelectorAll(".scheduled-story[data-publish-date]")
+        .forEach((story) => {
+          story.hidden = story.dataset.publishDate > today;
+        });
+    }
+
+    updateScheduledStories();
+
+    window.setInterval(updateScheduledStories, 60000);
+  })();
+</script>
 
 </body>
 </html>

@@ -65,12 +65,173 @@
     </section>
 
 
-    <section class="archive-list">
-<article class="archive-card">
+     <section class="archive-list">
 
-  <p class="story-meta">
-    REPRESENTATION &amp; DEMOCRACY • JULY 15, 2026
-  </p>
+      <article
+        class="archive-card scheduled-story"
+        data-publish-date="2026-07-20"
+      >
+
+        <p class="story-meta">
+          CURRENT NEWS UPDATE • INVESTIGATIVE TRUST • JULY 20, 2026
+        </p>
+
+        <img
+          class="mini-chair"
+          src="assets/the-chair.svg"
+          alt=""
+        />
+
+        <h2>
+          Three Deaths. Three Families.
+        </h2>
+
+        <p>
+          Nolan Wells, To’Nea Nicole Miller, and Juliana Nzita died under
+          different circumstances. What connects their cases is one urgent
+          question: When public trust is already broken, is an official
+          conclusion enough?
+        </p>
+
+        <a
+          class="card-link"
+          href="three-deaths-three-families.html"
+        >
+          Read the Current News Update →
+        </a>
+
+            </article>
+
+
+      <article class="archive-card">
+
+        <p class="story-meta">
+          EQUALITY &amp; CIVIL RIGHTS • JULY 19, 2026
+        </p>
+
+        <img
+          class="mini-chair"
+          src="assets/the-chair.svg"
+          alt=""
+        />
+
+        <h2>
+          The Equality Paradox
+        </h2>
+
+        <p>
+          How can two people sincerely believe they are both being
+          discriminated against? Understanding today's equality debate
+          requires understanding history.
+        </p>
+
+        <a
+          class="card-link"
+          href="the-equality-paradox.html"
+        >
+          Read the Story →
+        </a>
+
+      </article>
+
+
+      <article class="archive-card">
+
+        <p class="story-meta">
+          NEURODIVERSITY &amp; INCLUSION • JULY 18, 2026
+        </p>
+
+        <img
+          class="mini-chair"
+          src="assets/the-chair.svg"
+          alt=""
+        />
+
+        <h2>
+          You Don't Look Autistic.
+        </h2>
+
+        <p>
+          Autism doesn't have a single look. Many autistic people spend
+          their lives masking who they are just to fit into a world that
+          misunderstands them.
+        </p>
+
+        <a
+          class="card-link"
+          href="you-dont-look-autistic.html"
+        >
+          Read the Story →
+        </a>
+
+      </article>
+
+
+      <article class="archive-card">
+
+        <p class="story-meta">
+          HISTORY &amp; REPARATORY JUSTICE • JULY 17, 2026
+        </p>
+
+        <img
+          class="mini-chair"
+          src="assets/the-chair.svg"
+          alt=""
+        />
+
+        <h2>
+          The Bill Was Never Paid
+        </h2>
+
+        <p>
+          When Britain abolished slavery, it compensated enslavers—not
+          the enslaved. The debate over reparatory justice continues today.
+        </p>
+
+        <a
+          class="card-link"
+          href="the-bill-was-never-paid.html"
+        >
+          Read the Story →
+        </a>
+
+      </article>
+
+
+      <article class="archive-card">
+      <article class="archive-card">
+
+        <p class="story-meta">
+          FAMILY SUPPORT &amp; COMMUNITY • JULY 16, 2026
+        </p>
+
+        <img
+          class="mini-chair"
+          src="assets/the-chair.svg"
+          alt=""
+        />
+
+        <h2>
+          It Takes a Village. Where Did It Go?
+        </h2>
+
+        <p>
+          Millions of parents are raising children alone. The missing seat
+          isn't love—it's support. What happens when communities stop
+          showing up?
+        </p>
+
+        <a
+  class="card-link"
+  href="it-takes-a-village.html"
+>
+  Read the Story →
+</a>
+
+      </article>
+        <p class="story-meta">
+          REPRESENTATION &amp; DEMOCRACY • JULY 15, 2026
+        </p>
 
   <img
     class="mini-chair"
@@ -224,7 +385,45 @@
       Ally = Action. Take Your Seat. 🪑
     </p>
 
-  </footer>
+   </footer>
+
+
+  <script>
+    (() => {
+      function getBerlinDate() {
+        const parts = new Intl.DateTimeFormat("en-US", {
+          timeZone: "Europe/Berlin",
+          year: "numeric",
+          month: "2-digit",
+          day: "2-digit"
+        }).formatToParts(new Date());
+
+        const date = {};
+
+        parts.forEach((part) => {
+          if (part.type !== "literal") {
+            date[part.type] = part.value;
+          }
+        });
+
+        return `${date.year}-${date.month}-${date.day}`;
+      }
+
+      function updateScheduledStories() {
+        const today = getBerlinDate();
+
+        document
+          .querySelectorAll(".scheduled-story[data-publish-date]")
+          .forEach((story) => {
+            story.hidden = story.dataset.publishDate > today;
+          });
+      }
+
+      updateScheduledStories();
+
+      window.setInterval(updateScheduledStories, 60000);
+    })();
+  </script>
 
 </body>
 </html>

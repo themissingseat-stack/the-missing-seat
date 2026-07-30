@@ -713,3 +713,24 @@ footer {
     line-height: 1.6;
     font-size: .95rem;
 }
+.featured-heading {
+  margin-top: 4rem;
+  margin-bottom: 0.75rem;
+  font-size: clamp(2rem, 4vw, 3.5rem);
+  line-height: 1.1;
+}
+
+.cards-section .lead {
+  max-width: 760px;
+  margin-bottom: 2rem;
+}
+
+.center-button {
+  display: flex;
+  justify-content: center;
+  margin-top: 2.5rem;
+}
+
+.center-button .button {
+  text-align: center;
+}

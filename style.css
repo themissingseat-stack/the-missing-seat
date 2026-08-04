@@ -734,3 +734,7 @@ footer {
 .center-button .button {
   text-align: center;
 }
+/* Publication dates remain in HTML for internal scheduling but are hidden publicly */
+.internal-date {
+  display: none;
+}

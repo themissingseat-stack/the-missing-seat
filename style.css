@@ -738,3 +738,17 @@ footer {
 .internal-date {
   display: none;
 }
+/* Get Involved cards */
+.take-seat .journey-step {
+  color: #1f1a17;
+}
+
+.take-seat .journey-step h3,
+.take-seat .journey-step p {
+  color: #1f1a17;
+}
+
+.take-seat .journey-step a {
+  color: #8a4f2d;
+  font-weight: 700;
+}

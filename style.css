@@ -752,3 +752,12 @@ footer {
   color: #8a4f2d;
   font-weight: 700;
 }
+.legal-links {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+}
+
+.legal-links a {
+  color: inherit;
+  text-decoration: underline;
+}

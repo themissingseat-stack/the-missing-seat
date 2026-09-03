@@ -1,12 +1,21 @@
 <svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="512" height="512" fill="#FBF8F2"/>
-<g fill="#171513">
-<path d="M153 82c0-11 9-20 20-20h166c11 0 20 9 20 20v66c0 11-9 20-20 20H173c-11 0-20-9-20-20V82Z"/>
-<rect x="165" y="151" width="24" height="151" rx="8"/>
-<rect x="323" y="151" width="24" height="151" rx="8"/>
-<path d="M135 286c0-10 8-18 18-18h206c10 0 18 8 18 18v45c0 10-8 18-18 18H153c-10 0-18-8-18-18v-45Z"/>
-<path d="M158 341h29l-18 112h-31l20-112Z"/>
-<path d="M325 341h29l20 112h-31l-18-112Z"/>
+<defs><filter id="glow" x="-80%" y="-30%" width="260%" height="160%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<g stroke="#171513" stroke-linecap="round" stroke-linejoin="round">
+<path d="M142 82 Q256 58 370 82 L362 123 Q256 107 150 123 Z" fill="#171513" stroke-width="8"/>
+<path d="M151 112 L171 292" stroke-width="18"/>
+<path d="M361 112 L341 292" stroke-width="18"/>
+<path d="M190 120 L200 281" stroke-width="12"/>
+<path d="M224 116 L229 281" stroke-width="11"/>
+<path d="M288 116 L283 281" stroke-width="11"/>
+<path d="M322 120 L312 281" stroke-width="12"/>
+<path d="M132 282 Q256 263 380 282 L369 323 Q256 339 143 323 Z" fill="#171513" stroke-width="7"/>
+<path d="M164 316 L136 452" stroke-width="20"/>
+<path d="M348 316 L376 452" stroke-width="20"/>
+<path d="M204 326 L194 423" stroke-width="15"/>
+<path d="M308 326 L318 423" stroke-width="15"/>
+<path d="M153 390 Q256 405 359 390" stroke-width="13"/>
 </g>
-<path d="M256 168v92" stroke="#9A4A32" stroke-width="10" stroke-linecap="round"/>
+<path d="M256 114 L256 279" stroke="#C99136" stroke-width="10" stroke-linecap="round" filter="url(#glow)"/>
+<path d="M256 114 L256 279" stroke="#F0B84B" stroke-width="5" stroke-linecap="round"/>
 </svg>

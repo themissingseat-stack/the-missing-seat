@@ -1,9 +1,21 @@
 <svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="512" height="512" rx="96" fill="#FFF7EA"/>
-  <path d="M168 96c0-18 14-32 32-32h112c18 0 32 14 32 32v150H168V96Z" fill="#201915"/>
-  <path d="M150 248h212c15 0 27 12 27 27v22c0 15-12 27-27 27H150c-15 0-27-12-27-27v-22c0-15 12-27 27-27Z" fill="#8F3F24"/>
-  <path d="M168 324h48v124h-48V324ZM296 324h48v124h-48V324Z" fill="#201915"/>
-  <path d="M189 111h134" stroke="#BD8B4A" stroke-width="20" stroke-linecap="round"/>
-  <path d="M189 164h134" stroke="#BD8B4A" stroke-width="20" stroke-linecap="round"/>
-  <path d="M189 217h134" stroke="#BD8B4A" stroke-width="20" stroke-linecap="round"/>
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#F0C86B"/><stop offset=".45" stop-color="#C99637"/><stop offset="1" stop-color="#9C671F"/></linearGradient></defs>
+<g stroke="#171513" stroke-linecap="round" stroke-linejoin="round">
+<path d="M137 86 Q256 52 375 86" stroke-width="22"/>
+<path d="M148 94 Q156 188 166 278" stroke-width="13"/>
+<path d="M364 94 Q356 188 346 278" stroke-width="13"/>
+<path d="M183 98 Q188 186 192 272" stroke-width="8"/>
+<path d="M219 94 Q222 184 223 272" stroke-width="8"/>
+<path d="M293 94 Q290 184 289 272" stroke-width="8"/>
+<path d="M329 98 Q324 186 320 272" stroke-width="8"/>
+<path d="M154 277 Q256 291 358 277" stroke-width="20"/>
+<path d="M169 290 Q156 365 142 449" stroke-width="15"/>
+<path d="M343 290 Q356 365 370 449" stroke-width="15"/>
+<path d="M209 291 Q204 350 199 414" stroke-width="10"/>
+<path d="M303 291 Q308 350 313 414" stroke-width="10"/>
+<path d="M151 389 Q256 367 361 389" stroke-width="9"/>
+<path d="M200 365 Q256 352 312 365" stroke-width="7"/>
+</g>
+<path d="M256 92 Q256 184 256 273" stroke="url(#g)" stroke-width="9" stroke-linecap="round"/>
+<circle cx="256" cy="98" r="5" fill="#F3CF76"/>
 </svg>

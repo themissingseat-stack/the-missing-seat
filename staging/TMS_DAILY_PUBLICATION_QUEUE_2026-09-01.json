@@ -1,9 +1,11 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "created": "2026-08-31",
+  "last_reconciled": "2026-09-05",
   "timezone": "Europe/Berlin",
   "policy": {
-    "cadence": "one editorial per calendar day",
+    "cadence": "no more than one editorial per calendar day",
+    "publication_order": "dynamic based on verified live publication; blocked items remain waiting",
     "prepublish_checks": [
       "Confirm title/slug is not already live",
       "Confirm material distinctness from live TMS coverage",
@@ -21,53 +23,67 @@
       "TMS 055: When “Never Again” Does Not Include Everyone",
       "TMS 056: She Was Seven. America Had 104 Years."
     ],
-    "exclusion_reason": "These titles are already represented on the live site and/or are subject to approved duplication/replacement decisions. Do not republish them as new editorials."
+    "exclusion_reason": "These titles are already represented on the live site, require live-status verification, and/or are subject to approved duplication/replacement decisions. Do not republish them as new editorials."
+  },
+  "publication_hold": {
+    "active": true,
+    "reason": "The actual deployment source for themissingseat.org remains unconfirmed; GitHub main and the staging branch are materially different.",
+    "verified_live_queue_items": 0
   },
   "queue": [
     {
-      "publish_date": "2026-09-01",
+      "queue_position": 1,
       "title": "How Far Have We Come? Show Me the Receipt.",
       "slug": "how-far-have-we-come-show-me-the-receipt.html",
       "theme": "Race, Progress, Repair & Accountability",
       "source": "File Library: TMS_How_Far_Have_We_Come_Show_Me_the_Receipt_Editorial_Draft.md",
-      "status": "approved_for_daily_queue",
-      "distinctness": "Distinct from The Bill Was Never Paid and Tulsa repair coverage because its primary transaction is the language and standard of racial progress itself: personal achievement versus institutional credit, barrier removal versus repair, and the demand for a measurable receipt."
+      "status": "finished_unpublished_waiting",
+      "original_publish_date": "2026-09-01"
     },
     {
-      "publish_date": "2026-09-02",
+      "queue_position": 2,
+      "title": "THE CAMPAIGN WAS THE AD. WE’RE STUCK WITH THE BILL.",
+      "slug": "the-campaign-was-the-ad-were-stuck-with-the-bill.html",
+      "theme": "Elections, Economic Accountability & Public Spending",
+      "source": "Conversation: Editorial Full Packages — Australia election-costing / American Election Receipt editorial",
+      "status": "finished_unpublished_priority_insert",
+      "priority_rule": "Publish immediately after How Far Have We Come; if that title is already verified live, publish next."
+    },
+    {
+      "queue_position": 3,
       "title": "The Navy Spent $3.4 Billion Keeping Submarines and Crews Waiting",
       "slug": "the-navy-spent-3-4-billion-keeping-submarines-and-crews-waiting.html",
       "theme": "Government Accountability & Military Readiness",
       "source": "File Library: TMS_Three_Editorials_and_Unpublished_Inventory_2026-08-31.md",
-      "status": "approved_for_daily_queue",
-      "distinctness": "No materially similar live TMS editorial located. Focus is military maintenance capacity, readiness, idle operational days, public cost and GAO accountability."
+      "status": "finished_unpublished_waiting",
+      "original_publish_date": "2026-09-02"
     },
     {
-      "publish_date": "2026-09-03",
+      "queue_position": 4,
       "title": "The Apartment Was Available. Access Still Wasn't.",
       "slug": "the-apartment-was-available-access-still-wasnt.html",
       "theme": "Disability, Accessibility & Housing",
       "source": "File Library: TMS_Three_Editorials_and_Unpublished_Inventory_2026-08-31.md",
-      "status": "approved_for_daily_queue",
-      "distinctness": "No materially similar live TMS editorial located. Focus is disability accommodation, accessibility process, delay, documentation and a 2026 Fair Housing Act settlement."
+      "status": "finished_unpublished_waiting",
+      "original_publish_date": "2026-09-03"
     },
     {
-      "publish_date": "2026-09-04",
+      "queue_position": 5,
       "title": "The Government Isn't the Public's Boss",
       "slug": "the-government-isnt-the-publics-boss.html",
       "theme": "Government Power, Rights & Remedies",
       "source": "File Library: TMS_Government_Power_Public_Power_Editorial_Draft.md",
-      "status": "approved_for_daily_queue",
-      "distinctness": "Related to constitutional accountability coverage but materially distinct because it advances a concrete institutional proposal: a Public Rights and Remedy Commission for rights violations left without an effective judicial remedy."
+      "status": "finished_unpublished_waiting",
+      "original_publish_date": "2026-09-04"
     },
     {
-      "publish_date": "2026-09-05",
+      "queue_position": 6,
       "title": "Two Tenants Were Incarcerated. Only One Allegedly Lost the Keys.",
       "slug": "two-tenants-were-incarcerated-only-one-allegedly-lost-the-keys.html",
       "theme": "Race, Housing, Incarceration & Civil Rights",
       "source": "File Library: TMS_Three_Editorials_and_Unpublished_Inventory_2026-08-31.md",
-      "status": "approved_for_daily_queue",
-      "distinctness": "No materially similar live TMS editorial located. Focus is a matched racial comparator, selective housing enforcement, retaliation allegations and the resulting Fair Housing Act settlement."
+      "status": "finished_unpublished_blocked",
+      "original_publish_date": "2026-09-05"
     }
   ]
 }

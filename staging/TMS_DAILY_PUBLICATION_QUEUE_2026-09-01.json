@@ -1,7 +1,7 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-09-05",
+  "last_reconciled": "2026-09-06",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -10,80 +10,64 @@
       "Confirm title/slug is not already live",
       "Confirm material distinctness from live TMS coverage",
       "Recheck factual claims, dates, source links, verification notice and legal allegation/settlement language",
-      "Verify the actual deployment source before changing public index/archive/topic pages",
-      "After publication, verify live article URL and navigation/card visibility"
+      "After publication, verify live article URL and archive visibility"
     ],
-    "excluded_from_queue": [
-      "TMS 049: The Midterms Are Where Power Becomes Personal",
+    "excluded_retired_duplicates": [
       "TMS 050: When AI Accuses You, Who Checks the Machine?",
-      "TMS 051: The Camera Accuses. You Have to Prove It Wrong.",
       "TMS 052: Who Gave the Court the Last Word?",
       "TMS 053: Who Gets to Edit the National Memory?",
-      "TMS 054: The Children Hidden Inside the Supply Chain",
-      "TMS 055: When “Never Again” Does Not Include Everyone",
       "TMS 056: She Was Seven. America Had 104 Years."
-    ],
-    "exclusion_reason": "These titles are already represented on the live site, require live-status verification, and/or are subject to approved duplication/replacement decisions. Do not republish them as new editorials."
+    ]
   },
-  "publication_hold": {
-    "active": true,
-    "reason": "The actual deployment source for themissingseat.org remains unconfirmed; GitHub main and the staging branch are materially different.",
-    "verified_live_queue_items": 0
+  "deployment": {
+    "source": "GitHub main: themissingseat-stack/the-missing-seat",
+    "status": "confirmed by successful publication and live verification on 2026-09-05"
   },
+  "published_record": [
+    {
+      "title": "How Far Have We Come? Show Me the Receipt.",
+      "slug": "how-far-have-we-come-show-me-the-receipt.html",
+      "published_verified": "2026-09-05"
+    },
+    {
+      "title": "The Navy Spent $3.4 Billion Keeping Submarines and Crews Waiting",
+      "slug": "the-navy-spent-3-4-billion-keeping-submarines-and-crews-waiting.html",
+      "published_verified": "2026-09-05"
+    },
+    {
+      "title": "The Apartment Was Available. Access Still Wasn't.",
+      "slug": "the-apartment-was-available-access-still-wasnt.html",
+      "published_verified": "2026-09-05"
+    },
+    {
+      "title": "The Government Isn't the Public's Boss",
+      "slug": "the-government-isnt-the-publics-boss.html",
+      "published_verified": "2026-09-05"
+    },
+    {
+      "title": "Two Tenants Were Incarcerated. Only One Allegedly Lost the Keys.",
+      "slug": "two-tenants-were-incarcerated-only-one-allegedly-lost-the-keys.html",
+      "published_verified": "2026-09-05"
+    }
+  ],
   "queue": [
     {
       "queue_position": 1,
-      "title": "How Far Have We Come? Show Me the Receipt.",
-      "slug": "how-far-have-we-come-show-me-the-receipt.html",
-      "theme": "Race, Progress, Repair & Accountability",
-      "source": "File Library: TMS_How_Far_Have_We_Come_Show_Me_the_Receipt_Editorial_Draft.md",
-      "status": "finished_unpublished_waiting",
-      "original_publish_date": "2026-09-01"
-    },
-    {
-      "queue_position": 2,
       "title": "THE CAMPAIGN WAS THE AD. WE’RE STUCK WITH THE BILL.",
       "slug": "the-campaign-was-the-ad-were-stuck-with-the-bill.html",
       "theme": "Elections, Economic Accountability & Public Spending",
       "source": "Conversation: Editorial Full Packages — Australia election-costing / American Election Receipt editorial",
-      "status": "finished_unpublished_priority_insert",
-      "priority_rule": "Publish immediately after How Far Have We Come; if that title is already verified live, publish next."
-    },
-    {
-      "queue_position": 3,
-      "title": "The Navy Spent $3.4 Billion Keeping Submarines and Crews Waiting",
-      "slug": "the-navy-spent-3-4-billion-keeping-submarines-and-crews-waiting.html",
-      "theme": "Government Accountability & Military Readiness",
-      "source": "File Library: TMS_Three_Editorials_and_Unpublished_Inventory_2026-08-31.md",
-      "status": "finished_unpublished_waiting",
-      "original_publish_date": "2026-09-02"
-    },
-    {
-      "queue_position": 4,
-      "title": "The Apartment Was Available. Access Still Wasn't.",
-      "slug": "the-apartment-was-available-access-still-wasnt.html",
-      "theme": "Disability, Accessibility & Housing",
-      "source": "File Library: TMS_Three_Editorials_and_Unpublished_Inventory_2026-08-31.md",
-      "status": "finished_unpublished_waiting",
-      "original_publish_date": "2026-09-03"
-    },
-    {
-      "queue_position": 5,
-      "title": "The Government Isn't the Public's Boss",
-      "slug": "the-government-isnt-the-publics-boss.html",
-      "theme": "Government Power, Rights & Remedies",
-      "source": "File Library: TMS_Government_Power_Public_Power_Editorial_Draft.md",
-      "status": "finished_unpublished_waiting",
-      "original_publish_date": "2026-09-04"
-    },
-    {
-      "queue_position": 6,
-      "title": "Two Tenants Were Incarcerated. Only One Allegedly Lost the Keys.",
-      "slug": "two-tenants-were-incarcerated-only-one-allegedly-lost-the-keys.html",
-      "theme": "Race, Housing, Incarceration & Civil Rights",
-      "source": "File Library: TMS_Three_Editorials_and_Unpublished_Inventory_2026-08-31.md",
-      "status": "finished_unpublished_blocked",
-      "original_publish_date": "2026-09-05"
+      "status": "blocked_canonical_final_text_not_recovered",
+      "priority_rule": "Publish in the next available slot after the canonical complete package is recovered and reverified.",
+      "drive_search_2026-09-06": "No matching authoritative file found using title and distinctive-text searches."
     }
-  ]
+  ],
+  "counts": {
+    "full_finished_unpublished": 1,
+    "currently_queued": 1,
+    "publication_ready": 0,
+    "retired_replaced_duplicates": 4,
+    "requiring_live_site_repository_reconciliation": 0,
+    "verified_published_from_queue": 5
+  }
 }

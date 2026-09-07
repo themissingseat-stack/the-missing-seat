@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-09-06",
+  "last_reconciled": "2026-09-07",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -59,7 +59,7 @@
       "source": "Conversation: Editorial Full Packages — Australia election-costing / American Election Receipt editorial",
       "status": "blocked_canonical_final_text_not_recovered",
       "priority_rule": "Publish in the next available slot after the canonical complete package is recovered and reverified.",
-      "drive_search_2026-09-06": "No matching authoritative file found using title and distinctive-text searches."
+      "drive_search_2026-09-07": "No matching authoritative file found using title and distinctive-text searches; misleading unrelated Drive matches were excluded."
     }
   ],
   "counts": {

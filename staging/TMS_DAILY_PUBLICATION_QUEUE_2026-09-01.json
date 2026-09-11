@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-09-10",
+  "last_reconciled": "2026-09-11",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -21,34 +21,14 @@
   },
   "deployment": {
     "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "confirmed by successful publication and live verification on 2026-09-05"
+    "status": "confirmed by successful publication and live verification on 2026-09-05; main remains the recorded deployment source"
   },
   "published_record": [
-    {
-      "title": "How Far Have We Come? Show Me the Receipt.",
-      "slug": "how-far-have-we-come-show-me-the-receipt.html",
-      "published_verified": "2026-09-05"
-    },
-    {
-      "title": "The Navy Spent $3.4 Billion Keeping Submarines and Crews Waiting",
-      "slug": "the-navy-spent-3-4-billion-keeping-submarines-and-crews-waiting.html",
-      "published_verified": "2026-09-05"
-    },
-    {
-      "title": "The Apartment Was Available. Access Still Wasn't.",
-      "slug": "the-apartment-was-available-access-still-wasnt.html",
-      "published_verified": "2026-09-05"
-    },
-    {
-      "title": "The Government Isn't the Public's Boss",
-      "slug": "the-government-isnt-the-publics-boss.html",
-      "published_verified": "2026-09-05"
-    },
-    {
-      "title": "Two Tenants Were Incarcerated. Only One Allegedly Lost the Keys.",
-      "slug": "two-tenants-were-incarcerated-only-one-allegedly-lost-the-keys.html",
-      "published_verified": "2026-09-05"
-    }
+    {"title":"How Far Have We Come? Show Me the Receipt.","slug":"how-far-have-we-come-show-me-the-receipt.html","published_verified":"2026-09-05"},
+    {"title":"The Navy Spent $3.4 Billion Keeping Submarines and Crews Waiting","slug":"the-navy-spent-3-4-billion-keeping-submarines-and-crews-waiting.html","published_verified":"2026-09-05"},
+    {"title":"The Apartment Was Available. Access Still Wasn't.","slug":"the-apartment-was-available-access-still-wasnt.html","published_verified":"2026-09-05"},
+    {"title":"The Government Isn't the Public's Boss","slug":"the-government-isnt-the-publics-boss.html","published_verified":"2026-09-05"},
+    {"title":"Two Tenants Were Incarcerated. Only One Allegedly Lost the Keys.","slug":"two-tenants-were-incarcerated-only-one-allegedly-lost-the-keys.html","published_verified":"2026-09-05"}
   ],
   "queue": [
     {
@@ -57,17 +37,29 @@
       "slug": "the-campaign-was-the-ad-were-stuck-with-the-bill.html",
       "theme": "Elections, Economic Accountability & Public Spending",
       "source": "Conversation: Editorial Full Packages — Australia election-costing / American Election Receipt editorial",
+      "completion_status": "full_finished",
+      "publication_status": "unpublished",
+      "duplication_status": "no live duplicate found in repository search; live URL check unavailable in this run",
       "status": "blocked_canonical_final_text_not_recovered",
       "priority_rule": "Publish in the next available slot after the canonical complete package is recovered and reverified.",
-      "drive_search_2026-09-07": "No matching authoritative file found using title and distinctive-text searches; misleading unrelated Drive matches were excluded.",
-      "drive_search_2026_09_08": "Repeated title, project-name, and distinctive-concept searches found no authoritative final standalone package; unrelated Drive matches excluded.",
-      "drive_search_2026_09_09": "No authoritative final standalone package found. Searches also checked newly discussed Eiffel Tower, Halima Cissé, and Germany/U.S. trafficking titles; those remain research or requested-draft subjects, not completed ledger entries.",
-      "drive_search_2026_09_10": "No authoritative standalone package found by exact-title search. The user has approved all proposed story topics for full development, but those topics remain research-stage and are not finished-editorial ledger entries."
+      "drive_search_2026_09_11": "Exact-title search again found no authoritative standalone package."
+    },
+    {
+      "queue_position": 2,
+      "title": "THEY TRUSTED BLACK WOMEN WITH THEIR BABIES. JUST NOT WITH POWER.",
+      "slug": "they-trusted-black-women-with-their-babies-just-not-with-power.html",
+      "theme": "Black Women, Labor, Care, Health & Power",
+      "source": "Conversation completed 2026-09-11: full web editorial plus Facebook and Instagram versions",
+      "completion_status": "full_finished",
+      "publication_status": "unpublished",
+      "duplication_status": "no title match found in Google Drive or GitHub default-branch search",
+      "status": "blocked_prepublish_verification",
+      "notes": "Complete article body and TMS elements exist. Before publication, verify wet-nursing history with primary/academic sources; replace or corroborate Axios/Forbes secondary citations; verify 1881 washerwomen, New Deal exclusions, breadwinner definition/year, entrepreneurship and Fortune 500 claims; add consolidated Receipts links, verification notice, image/alt text, HTML, archive/topic card. Queue only after the higher-priority campaign editorial."
     }
   ],
   "counts": {
-    "full_finished_unpublished": 1,
-    "currently_queued": 1,
+    "full_finished_unpublished": 2,
+    "currently_queued": 2,
     "publication_ready": 0,
     "retired_replaced_duplicates": 4,
     "requiring_live_site_repository_reconciliation": 0,

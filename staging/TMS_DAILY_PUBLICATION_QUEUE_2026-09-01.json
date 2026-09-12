@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-09-11",
+  "last_reconciled": "2026-09-12",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -24,11 +24,31 @@
     "status": "confirmed by successful publication and live verification on 2026-09-05; main remains the recorded deployment source"
   },
   "published_record": [
-    {"title":"How Far Have We Come? Show Me the Receipt.","slug":"how-far-have-we-come-show-me-the-receipt.html","published_verified":"2026-09-05"},
-    {"title":"The Navy Spent $3.4 Billion Keeping Submarines and Crews Waiting","slug":"the-navy-spent-3-4-billion-keeping-submarines-and-crews-waiting.html","published_verified":"2026-09-05"},
-    {"title":"The Apartment Was Available. Access Still Wasn't.","slug":"the-apartment-was-available-access-still-wasnt.html","published_verified":"2026-09-05"},
-    {"title":"The Government Isn't the Public's Boss","slug":"the-government-isnt-the-publics-boss.html","published_verified":"2026-09-05"},
-    {"title":"Two Tenants Were Incarcerated. Only One Allegedly Lost the Keys.","slug":"two-tenants-were-incarcerated-only-one-allegedly-lost-the-keys.html","published_verified":"2026-09-05"}
+    {
+      "title": "How Far Have We Come? Show Me the Receipt.",
+      "slug": "how-far-have-we-come-show-me-the-receipt.html",
+      "published_verified": "2026-09-05"
+    },
+    {
+      "title": "The Navy Spent $3.4 Billion Keeping Submarines and Crews Waiting",
+      "slug": "the-navy-spent-3-4-billion-keeping-submarines-and-crews-waiting.html",
+      "published_verified": "2026-09-05"
+    },
+    {
+      "title": "The Apartment Was Available. Access Still Wasn't.",
+      "slug": "the-apartment-was-available-access-still-wasnt.html",
+      "published_verified": "2026-09-05"
+    },
+    {
+      "title": "The Government Isn't the Public's Boss",
+      "slug": "the-government-isnt-the-publics-boss.html",
+      "published_verified": "2026-09-05"
+    },
+    {
+      "title": "Two Tenants Were Incarcerated. Only One Allegedly Lost the Keys.",
+      "slug": "two-tenants-were-incarcerated-only-one-allegedly-lost-the-keys.html",
+      "published_verified": "2026-09-05"
+    }
   ],
   "queue": [
     {
@@ -39,10 +59,11 @@
       "source": "Conversation: Editorial Full Packages — Australia election-costing / American Election Receipt editorial",
       "completion_status": "full_finished",
       "publication_status": "unpublished",
-      "duplication_status": "no live duplicate found in repository search; live URL check unavailable in this run",
+      "duplication_status": "No title or slug match found in GitHub main or Google Drive; live publication remains unverified because the article file is absent from the recorded deployment source.",
       "status": "blocked_canonical_final_text_not_recovered",
       "priority_rule": "Publish in the next available slot after the canonical complete package is recovered and reverified.",
-      "drive_search_2026_09_11": "Exact-title search again found no authoritative standalone package."
+      "drive_search_2026_09_11": "Exact-title search again found no authoritative standalone package.",
+      "drive_search_2026_09_12": "Exact-title and recent-document searches again found no authoritative standalone package; GitHub main also has no campaign slug."
     },
     {
       "queue_position": 2,
@@ -54,7 +75,7 @@
       "publication_status": "unpublished",
       "duplication_status": "no title match found in Google Drive or GitHub default-branch search",
       "status": "blocked_prepublish_verification",
-      "notes": "Complete article body and TMS elements exist. Before publication, verify wet-nursing history with primary/academic sources; replace or corroborate Axios/Forbes secondary citations; verify 1881 washerwomen, New Deal exclusions, breadwinner definition/year, entrepreneurship and Fortune 500 claims; add consolidated Receipts links, verification notice, image/alt text, HTML, archive/topic card. Queue only after the higher-priority campaign editorial."
+      "notes": "Complete article body and TMS elements exist. Before publication, verify wet-nursing history with primary/academic sources; replace or corroborate Axios/Forbes secondary citations; verify 1881 washerwomen, New Deal exclusions, breadwinner definition/year, entrepreneurship and Fortune 500 claims; add consolidated Receipts links, verification notice, image/alt text, HTML, archive/topic card. Queue only after the higher-priority campaign editorial. Rechecked 2026-09-12: no Drive copy and no GitHub main article slug; no publication action taken."
     }
   ],
   "counts": {

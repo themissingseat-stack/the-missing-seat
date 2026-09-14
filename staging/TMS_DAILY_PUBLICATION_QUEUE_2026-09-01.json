@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-09-13",
+  "last_reconciled": "2026-09-14",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -64,7 +64,8 @@
       "priority_rule": "Publish in the next available slot after the canonical complete package is recovered and reverified.",
       "drive_search_2026_09_11": "Exact-title search again found no authoritative standalone package.",
       "drive_search_2026_09_12": "Exact-title and recent-document searches again found no authoritative standalone package; GitHub main also has no campaign slug.",
-      "drive_search_2026_09_13": "No authoritative package found by exact-title Drive search; recorded GitHub deployment source still has no article file."
+      "drive_search_2026_09_13": "No authoritative package found by exact-title Drive search; recorded GitHub deployment source still has no article file.",
+      "drive_search_2026_09_14": "No authoritative package found by exact-title Drive search; GitHub default-branch search still found no article or campaign text."
     },
     {
       "queue_position": 2,
@@ -76,7 +77,7 @@
       "publication_status": "unpublished",
       "duplication_status": "no title match found in Google Drive or GitHub default-branch search",
       "status": "blocked_prepublish_verification",
-      "notes": "Complete article body and TMS elements exist. Before publication, verify wet-nursing history with primary/academic sources; replace or corroborate Axios/Forbes secondary citations; verify 1881 washerwomen, New Deal exclusions, breadwinner definition/year, entrepreneurship and Fortune 500 claims; add consolidated Receipts links, verification notice, image/alt text, HTML, archive/topic card. Queue only after the higher-priority campaign editorial. Rechecked 2026-09-12: no Drive copy and no GitHub main article slug; no publication action taken. Rechecked 2026-09-13: still absent from Drive and GitHub main; prepublication evidence pass remains outstanding."
+      "notes": "Complete article body and TMS elements exist. Before publication, verify wet-nursing history with primary/academic sources; replace or corroborate Axios/Forbes secondary citations; verify 1881 washerwomen, New Deal exclusions, breadwinner definition/year, entrepreneurship and Fortune 500 claims; add consolidated Receipts links, verification notice, image/alt text, HTML, archive/topic card. Queue only after the higher-priority campaign editorial. Rechecked 2026-09-12: no Drive copy and no GitHub main article slug; no publication action taken. Rechecked 2026-09-13: still absent from Drive and GitHub main; prepublication evidence pass remains outstanding. Rechecked 2026-09-14: still absent from Drive and GitHub default branch; evidence pass remains outstanding."
     }
   ],
   "counts": {
@@ -86,5 +87,14 @@
     "retired_replaced_duplicates": 4,
     "requiring_live_site_repository_reconciliation": 0,
     "verified_published_from_queue": 5
-  }
+  },
+  "pending_priority_requests": [
+    {
+      "title": "The Government Calls It a Work Requirement. The Receipt May Show a Coverage-Removal System.",
+      "topic": "Medicaid and SNAP restrictions",
+      "requested_action": "Prepare web, Facebook and Instagram package and publish as soon as safely verified.",
+      "ledger_status": "not_counted_as_full_finished",
+      "reason": "No complete standalone package was found in Google Drive or GitHub on 2026-09-14; conversation material is substantial but the requested consolidated web/FB/IG publication package and prepublication evidence pass are not yet recoverable as a finished artifact."
+    }
+  ]
 }

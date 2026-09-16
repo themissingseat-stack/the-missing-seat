@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-09-15",
+  "last_reconciled": "2026-09-16",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -11,7 +11,8 @@
       "Confirm material distinctness from live TMS coverage",
       "Recheck factual claims, dates, source links, verification notice and legal allegation/settlement language",
       "After publication, verify live article URL and archive visibility",
-      "Pass the Regular Joe and AI-error review: normal paragraphs, plain language, no repetition or AI theatrics, strongest verified evidence, clear beneficiary/burden/power/action"
+      "Pass the Regular Joe and AI-error review: normal paragraphs, plain language, no repetition or AI theatrics, strongest verified evidence, clear beneficiary/burden/power/action",
+      "Confirm the shared editorial template renders as a serious, readable page on desktop and mobile; online is not the same as finished"
     ],
     "excluded_retired_duplicates": [
       "TMS 050: When AI Accuses You, Who Checks the Machine?",
@@ -68,7 +69,9 @@
       "drive_search_2026_09_13": "No authoritative package found by exact-title Drive search; recorded GitHub deployment source still has no article file.",
       "drive_search_2026_09_14": "No authoritative package found by exact-title Drive search; GitHub default-branch search still found no article or campaign text.",
       "drive_search_2026_09_15": "Exact-title search again found no authoritative standalone package; GitHub main still has no campaign article file.",
-      "publication_hold_2026_09_15": "Not published: canonical final text remains unrecovered, and the article cannot pass factual, voice, AI-error, or layout review without it."
+      "publication_hold_2026_09_15": "Not published: canonical final text remains unrecovered, and the article cannot pass factual, voice, AI-error, or layout review without it.",
+      "drive_search_2026_09_16": "Exact-title search again found no authoritative standalone package; GitHub main and the staging tree still contain no campaign article file.",
+      "publication_hold_2026_09_16": "Not published: canonical final text remains unrecovered, so factual, voice, AI-error, action, and layout review cannot be completed."
     },
     {
       "queue_position": 2,
@@ -82,7 +85,9 @@
       "status": "blocked_prepublish_verification",
       "notes": "Complete article body and TMS elements exist. Before publication, verify wet-nursing history with primary/academic sources; replace or corroborate Axios/Forbes secondary citations; verify 1881 washerwomen, New Deal exclusions, breadwinner definition/year, entrepreneurship and Fortune 500 claims; add consolidated Receipts links, verification notice, image/alt text, HTML, archive/topic card. Queue only after the higher-priority campaign editorial. Rechecked 2026-09-12: no Drive copy and no GitHub main article slug; no publication action taken. Rechecked 2026-09-13: still absent from Drive and GitHub main; prepublication evidence pass remains outstanding. Rechecked 2026-09-14: still absent from Drive and GitHub default branch; evidence pass remains outstanding.",
       "drive_search_2026_09_15": "No exact or broad Drive copy identified; GitHub main still has no article slug. Evidence, voice, AI-error, and layout review remain outstanding.",
-      "publication_hold_2026_09_15": "Not published: newly required editorial-quality review has not been completed."
+      "publication_hold_2026_09_15": "Not published: newly required editorial-quality review has not been completed.",
+      "drive_search_2026_09_16": "Exact and broad Drive searches found no authoritative standalone package; GitHub main and staging still contain no article slug.",
+      "publication_hold_2026_09_16": "Not published: evidence review and the newly confirmed Regular Joe, AI-error, and professional-layout review remain incomplete."
     }
   ],
   "counts": {
@@ -101,5 +106,16 @@
       "ledger_status": "not_counted_as_full_finished",
       "reason": "No complete standalone package was found in Google Drive or GitHub on 2026-09-14; conversation material is substantial but the requested consolidated web/FB/IG publication package and prepublication evidence pass are not yet recoverable as a finished artifact."
     }
-  ]
+  ],
+  "website_quality_status": {
+    "as_of": "2026-09-16",
+    "status": "publication_hold_pending_template_and_story_rewrite",
+    "finding": "Existing published editorials have not been systematically rewritten to the new standard. Dear World was inspected but not corrected and confirmed live.",
+    "priority_order": [
+      "Verify and repair shared website/editorial template",
+      "Audit and rewrite Dear World first",
+      "Audit remaining published stories one by one",
+      "Resume new queue publications only after each item passes all gates"
+    ]
+  }
 }

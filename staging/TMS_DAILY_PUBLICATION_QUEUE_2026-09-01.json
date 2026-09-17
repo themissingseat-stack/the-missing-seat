@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-09-16",
+  "last_reconciled": "2026-09-17",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -71,7 +71,9 @@
       "drive_search_2026_09_15": "Exact-title search again found no authoritative standalone package; GitHub main still has no campaign article file.",
       "publication_hold_2026_09_15": "Not published: canonical final text remains unrecovered, and the article cannot pass factual, voice, AI-error, or layout review without it.",
       "drive_search_2026_09_16": "Exact-title search again found no authoritative standalone package; GitHub main and the staging tree still contain no campaign article file.",
-      "publication_hold_2026_09_16": "Not published: canonical final text remains unrecovered, so factual, voice, AI-error, action, and layout review cannot be completed."
+      "publication_hold_2026_09_16": "Not published: canonical final text remains unrecovered, so factual, voice, AI-error, action, and layout review cannot be completed.",
+      "drive_search_2026_09_17": "Exact-title Drive search returned no result; GitHub main still contains no campaign article file or slug.",
+      "publication_hold_2026_09_17": "Not published: canonical complete text remains unrecovered and cannot pass evidence, voice, AI-error, action, or layout review."
     },
     {
       "queue_position": 2,
@@ -87,7 +89,9 @@
       "drive_search_2026_09_15": "No exact or broad Drive copy identified; GitHub main still has no article slug. Evidence, voice, AI-error, and layout review remain outstanding.",
       "publication_hold_2026_09_15": "Not published: newly required editorial-quality review has not been completed.",
       "drive_search_2026_09_16": "Exact and broad Drive searches found no authoritative standalone package; GitHub main and staging still contain no article slug.",
-      "publication_hold_2026_09_16": "Not published: evidence review and the newly confirmed Regular Joe, AI-error, and professional-layout review remain incomplete."
+      "publication_hold_2026_09_16": "Not published: evidence review and the newly confirmed Regular Joe, AI-error, and professional-layout review remain incomplete.",
+      "drive_search_2026_09_17": "Exact-title Drive search did not locate the editorial; GitHub main still contains no matching article file or slug.",
+      "publication_hold_2026_09_17": "Not published: the conversation draft remains unavailable as an authoritative artifact and the evidence, Regular Joe, AI-error, and layout reviews remain incomplete."
     }
   ],
   "counts": {
@@ -108,9 +112,9 @@
     }
   ],
   "website_quality_status": {
-    "as_of": "2026-09-16",
+    "as_of": "2026-09-17",
     "status": "publication_hold_pending_template_and_story_rewrite",
-    "finding": "Existing published editorials have not been systematically rewritten to the new standard. Dear World was inspected but not corrected and confirmed live.",
+    "finding": "Existing published editorials still have not been systematically rewritten. GitHub main continues to contain the 34 KB Dear World page, and no corrected replacement has been confirmed live.",
     "priority_order": [
       "Verify and repair shared website/editorial template",
       "Audit and rewrite Dear World first",

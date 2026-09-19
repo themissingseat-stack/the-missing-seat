@@ -105,10 +105,11 @@
     "currently_queued": 0,
     "publication_ready": 0,
     "retired_replaced_duplicates": 4,
-    "requiring_live_site_repository_reconciliation": 1,
+    "requiring_live_site_repository_reconciliation": 0,
     "verified_published_from_queue": 5,
     "reserved_queue_slots_pending_body_verification": 2,
-    "historically_reported_finished_pending_body_verification": 2
+    "historically_reported_finished_pending_body_verification": 2,
+    "live_site_access_verification_pending": 1
   },
   "pending_priority_requests": [
     {

@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-09-19",
+  "last_reconciled": "2026-09-20",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -76,7 +76,8 @@
       "publication_hold_2026_09_17": "Not published: canonical complete text remains unrecovered and cannot pass evidence, voice, AI-error, action, or layout review.",
       "drive_search_2026_09_18": "Exact-title Drive search again returned no result; GitHub main remains unchanged and contains no campaign article file or slug.",
       "publication_hold_2026_09_18": "Not published: canonical text is still missing and no Regular Joe, AI-error, evidence, or layout review is possible.",
-      "publication_hold_2026_09_19": "Not published: no authoritative complete text could be retrieved from Drive or GitHub; source, voice, AI-error, action and page-layout checks cannot be completed."
+      "publication_hold_2026_09_19": "Not published: no authoritative complete text could be retrieved from Drive or GitHub; source, voice, AI-error, action and page-layout checks cannot be completed.",
+      "publication_hold_2026_09_20": "No publication: exact-title Drive search returned no canonical article; source and quality checks remain impossible."
     },
     {
       "queue_position": 2,
@@ -97,7 +98,8 @@
       "publication_hold_2026_09_17": "Not published: the conversation draft remains unavailable as an authoritative artifact and the evidence, Regular Joe, AI-error, and layout reviews remain incomplete.",
       "drive_search_2026_09_18": "Exact-title Drive search produced no authoritative editorial package; GitHub main remains unchanged with no matching file or slug.",
       "publication_hold_2026_09_18": "Not published: authoritative artifact, evidence verification, rewrite review, and professional presentation remain incomplete.",
-      "publication_hold_2026_09_19": "Not published: no authoritative complete text could be retrieved from Drive or GitHub; source, voice, AI-error, action and page-layout checks cannot be completed."
+      "publication_hold_2026_09_19": "Not published: no authoritative complete text could be retrieved from Drive or GitHub; source, voice, AI-error, action and page-layout checks cannot be completed.",
+      "publication_hold_2026_09_20": "No publication: Drive title search returned an unrelated audit, not the editorial; original conversation body is still not independently recoverable for review."
     }
   ],
   "counts": {
@@ -121,9 +123,9 @@
     }
   ],
   "website_quality_status": {
-    "as_of": "2026-09-19",
+    "as_of": "2026-09-20",
     "status": "publication_hold_pending_template_and_story_rewrite",
-    "finding": "The Dear World GitHub main file remains unchanged; live website could not be independently fetched today, so live/repository parity and current layout are unverified. No rewrite-ready article was found in GitHub or Drive.",
+    "finding": "No newly recovered finished editorial in Drive or staged ledger; the live website fetch failed, so layout and deployment parity cannot be reconfirmed. Publication remains on hold.",
     "priority_order": [
       "Verify and repair shared website/editorial template",
       "Audit and rewrite Dear World first",

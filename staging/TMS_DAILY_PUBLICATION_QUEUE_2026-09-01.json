@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-09-21",
+  "last_reconciled": "2026-09-22",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -78,7 +78,8 @@
       "publication_hold_2026_09_18": "Not published: canonical text is still missing and no Regular Joe, AI-error, evidence, or layout review is possible.",
       "publication_hold_2026_09_19": "Not published: no authoritative complete text could be retrieved from Drive or GitHub; source, voice, AI-error, action and page-layout checks cannot be completed.",
       "publication_hold_2026_09_20": "No publication: exact-title Drive search returned no canonical article; source and quality checks remain impossible.",
-      "publication_hold_2026_09_21": "No publication: exact-title Drive search again found no canonical article, and GitHub contains no recoverable body; required evidence, voice, AI-error, action, and layout checks cannot be completed."
+      "publication_hold_2026_09_21": "No publication: exact-title Drive search again found no canonical article, and GitHub contains no recoverable body; required evidence, voice, AI-error, action, and layout checks cannot be completed.",
+      "publication_hold_2026_09_22": "No publication: exact-title Google Drive search returned no canonical article, and GitHub still contains no recoverable complete body."
     },
     {
       "queue_position": 2,
@@ -101,7 +102,8 @@
       "publication_hold_2026_09_18": "Not published: authoritative artifact, evidence verification, rewrite review, and professional presentation remain incomplete.",
       "publication_hold_2026_09_19": "Not published: no authoritative complete text could be retrieved from Drive or GitHub; source, voice, AI-error, action and page-layout checks cannot be completed.",
       "publication_hold_2026_09_20": "No publication: Drive title search returned an unrelated audit, not the editorial; original conversation body is still not independently recoverable for review.",
-      "publication_hold_2026_09_21": "No publication: exact-title Drive search found only an unrelated audit document, not the editorial; no authoritative article body is recoverable for the required evidence and quality review."
+      "publication_hold_2026_09_21": "No publication: exact-title Drive search found only an unrelated audit document, not the editorial; no authoritative article body is recoverable for the required evidence and quality review.",
+      "publication_hold_2026_09_22": "No publication: exact-title Google Drive search returned no editorial, and GitHub still contains no authoritative complete body for evidence and quality review."
     }
   ],
   "counts": {
@@ -125,9 +127,9 @@
     }
   ],
   "website_quality_status": {
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-22",
     "status": "publication_hold_pending_template_and_story_rewrite",
-    "finding": "No newly recovered finished editorial was found in Drive or GitHub. Dear World remains unrevised in the repository. Live layout and deployment parity could not be independently reconfirmed, so publication remains on hold.",
+    "finding": "No canonical body for either reserved story was recovered from Google Drive or GitHub. No editorial qualifies as independently verified, publication-ready work; public files remain unchanged.",
     "priority_order": [
       "Verify and repair shared website/editorial template",
       "Audit and rewrite Dear World first",

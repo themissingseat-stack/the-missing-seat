@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-09-24",
+  "last_reconciled": "2026-09-25",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -81,7 +81,8 @@
       "publication_hold_2026_09_21": "No publication: exact-title Drive search again found no canonical article, and GitHub contains no recoverable body; required evidence, voice, AI-error, action, and layout checks cannot be completed.",
       "publication_hold_2026_09_22": "No publication: exact-title Google Drive search returned no canonical article, and GitHub still contains no recoverable complete body.",
       "publication_hold_2026_09_23": "No publication: exact-title Drive search again returned no canonical complete body; GitHub contains no publication package.",
-      "publication_hold_2026_09_24": "No publication: exact-title Google Drive search again returned no canonical complete body; GitHub contains no publication package."
+      "publication_hold_2026_09_24": "No publication: exact-title Google Drive search again returned no canonical complete body; GitHub contains no publication package.",
+      "publication_hold_2026_09_25": "No publication: exact-title Google Drive search again returned no canonical complete body; GitHub contains no publication package."
     },
     {
       "queue_position": 2,
@@ -107,7 +108,8 @@
       "publication_hold_2026_09_21": "No publication: exact-title Drive search found only an unrelated audit document, not the editorial; no authoritative article body is recoverable for the required evidence and quality review.",
       "publication_hold_2026_09_22": "No publication: exact-title Google Drive search returned no editorial, and GitHub still contains no authoritative complete body for evidence and quality review.",
       "publication_hold_2026_09_23": "No publication: exact-title Drive search again returned no editorial; GitHub contains no authoritative complete body for prepublication review.",
-      "publication_hold_2026_09_24": "No publication: exact-title Google Drive search again returned no editorial; GitHub contains no authoritative complete body for prepublication review."
+      "publication_hold_2026_09_24": "No publication: exact-title Google Drive search again returned no editorial; GitHub contains no authoritative complete body for prepublication review.",
+      "publication_hold_2026_09_25": "No publication: exact-title Google Drive search again returned no editorial; GitHub contains no authoritative complete body for prepublication review."
     }
   ],
   "counts": {
@@ -131,7 +133,7 @@
     }
   ],
   "website_quality_status": {
-    "as_of": "2026-09-24",
+    "as_of": "2026-09-25",
     "status": "publication_hold_pending_template_and_story_rewrite",
     "finding": "No canonical body for either reserved story was recovered from Google Drive or GitHub. Counts and priority order are unchanged; no public file change was made.",
     "priority_order": [

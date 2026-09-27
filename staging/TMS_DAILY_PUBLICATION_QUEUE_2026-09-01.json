@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-09-26",
+  "last_reconciled": "2026-09-27",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -23,7 +23,7 @@
   },
   "deployment": {
     "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "Previously confirmed 2026-09-05, but live deployment source and parity were not independently reconfirmed on 2026-09-19; no public file change is authorized until reconfirmed."
+    "status": "Confirmed by successful live publication of the campaign editorial on 2026-09-27; no second publication attempted the same day."
   },
   "published_record": [
     {
@@ -50,52 +50,25 @@
       "title": "Two Tenants Were Incarcerated. Only One Allegedly Lost the Keys.",
       "slug": "two-tenants-were-incarcerated-only-one-allegedly-lost-the-keys.html",
       "published_verified": "2026-09-05"
+    },
+    {
+      "title": "The Campaign Was the Ad. We’re Stuck With the Bill.",
+      "slug": "the-campaign-was-the-ad-were-stuck-with-the-bill.html",
+      "published_verified": "2026-09-27"
     }
   ],
   "queue": [
     {
       "queue_position": 1,
-      "title": "THE CAMPAIGN WAS THE AD. WE’RE STUCK WITH THE BILL.",
-      "slug": "the-campaign-was-the-ad-were-stuck-with-the-bill.html",
-      "theme": "Elections, Economic Accountability & Public Spending",
-      "source": "Conversation: Editorial Full Packages — Australia election-costing / American Election Receipt editorial",
-      "completion_status": "historically_reported_finished_body_not_recoverable_for_independent_verification",
-      "publication_status": "unpublished",
-      "duplication_status": "No title or slug match found in GitHub main or Google Drive; live publication remains unverified because the article file is absent from the recorded deployment source.",
-      "status": "blocked_canonical_final_text_not_recovered",
-      "priority_rule": "Publish in the next available slot after the canonical complete package is recovered and reverified.",
-      "drive_search_2026_09_11": "Exact-title search again found no authoritative standalone package.",
-      "drive_search_2026_09_12": "Exact-title and recent-document searches again found no authoritative standalone package; GitHub main also has no campaign slug.",
-      "drive_search_2026_09_13": "No authoritative package found by exact-title Drive search; recorded GitHub deployment source still has no article file.",
-      "drive_search_2026_09_14": "No authoritative package found by exact-title Drive search; GitHub default-branch search still found no article or campaign text.",
-      "drive_search_2026_09_15": "Exact-title search again found no authoritative standalone package; GitHub main still has no campaign article file.",
-      "publication_hold_2026_09_15": "Not published: canonical final text remains unrecovered, and the article cannot pass factual, voice, AI-error, or layout review without it.",
-      "drive_search_2026_09_16": "Exact-title search again found no authoritative standalone package; GitHub main and the staging tree still contain no campaign article file.",
-      "publication_hold_2026_09_16": "Not published: canonical final text remains unrecovered, so factual, voice, AI-error, action, and layout review cannot be completed.",
-      "drive_search_2026_09_17": "Exact-title Drive search returned no result; GitHub main still contains no campaign article file or slug.",
-      "publication_hold_2026_09_17": "Not published: canonical complete text remains unrecovered and cannot pass evidence, voice, AI-error, action, or layout review.",
-      "drive_search_2026_09_18": "Exact-title Drive search again returned no result; GitHub main remains unchanged and contains no campaign article file or slug.",
-      "publication_hold_2026_09_18": "Not published: canonical text is still missing and no Regular Joe, AI-error, evidence, or layout review is possible.",
-      "publication_hold_2026_09_19": "Not published: no authoritative complete text could be retrieved from Drive or GitHub; source, voice, AI-error, action and page-layout checks cannot be completed.",
-      "publication_hold_2026_09_20": "No publication: exact-title Drive search returned no canonical article; source and quality checks remain impossible.",
-      "publication_hold_2026_09_21": "No publication: exact-title Drive search again found no canonical article, and GitHub contains no recoverable body; required evidence, voice, AI-error, action, and layout checks cannot be completed.",
-      "publication_hold_2026_09_22": "No publication: exact-title Google Drive search returned no canonical article, and GitHub still contains no recoverable complete body.",
-      "publication_hold_2026_09_23": "No publication: exact-title Drive search again returned no canonical complete body; GitHub contains no publication package.",
-      "publication_hold_2026_09_24": "No publication: exact-title Google Drive search again returned no canonical complete body; GitHub contains no publication package.",
-      "publication_hold_2026_09_25": "No publication: exact-title Google Drive search again returned no canonical complete body; GitHub contains no publication package.",
-      "publication_hold_2026_09_26": "No publication: exact-title Google Drive search again returned no canonical complete body; GitHub contains no publication package."
-    },
-    {
-      "queue_position": 2,
       "title": "THEY TRUSTED BLACK WOMEN WITH THEIR BABIES. JUST NOT WITH POWER.",
       "slug": "they-trusted-black-women-with-their-babies-just-not-with-power.html",
       "theme": "Black Women, Labor, Care, Health & Power",
-      "source": "Conversation completed 2026-09-11: full web editorial plus Facebook and Instagram versions",
-      "completion_status": "historically_reported_finished_body_not_recoverable_for_independent_verification",
+      "source": "staging/editorials/TMS_They_Trusted_Black_Women_Publication_Package_2026-09-27.md",
+      "completion_status": "full_finished_verified_publication_package",
       "publication_status": "unpublished",
-      "duplication_status": "no title match found in Google Drive or GitHub default-branch search",
-      "status": "blocked_authoritative_body_and_prepublish_review",
-      "notes": "Complete article body and TMS elements exist. Before publication, verify wet-nursing history with primary/academic sources; replace or corroborate Axios/Forbes secondary citations; verify 1881 washerwomen, New Deal exclusions, breadwinner definition/year, entrepreneurship and Fortune 500 claims; add consolidated Receipts links, verification notice, image/alt text, HTML, archive/topic card. Queue only after the higher-priority campaign editorial. Rechecked 2026-09-12: no Drive copy and no GitHub main article slug; no publication action taken. Rechecked 2026-09-13: still absent from Drive and GitHub main; prepublication evidence pass remains outstanding. Rechecked 2026-09-14: still absent from Drive and GitHub default branch; evidence pass remains outstanding.",
+      "duplication_status": "No matching live title or slug found in GitHub main or Google Drive on 2026-09-27.",
+      "status": "publication_ready_queued",
+      "notes": "Full article body, metadata, excerpt, source links, verification notice, story-specific action, and social copy completed September 27, 2026. Evidence rechecked against Smithsonian, U.S. Department of Labor, House Historian, and CAWP. Not published today because the campaign editorial already filled the one-editorial-per-day slot.",
       "drive_search_2026_09_15": "No exact or broad Drive copy identified; GitHub main still has no article slug. Evidence, voice, AI-error, and layout review remain outstanding.",
       "publication_hold_2026_09_15": "Not published: newly required editorial-quality review has not been completed.",
       "drive_search_2026_09_16": "Exact and broad Drive searches found no authoritative standalone package; GitHub main and staging still contain no article slug.",
@@ -115,15 +88,15 @@
     }
   ],
   "counts": {
-    "full_finished_unpublished": 0,
-    "currently_queued": 0,
-    "publication_ready": 0,
+    "full_finished_unpublished": 1,
+    "currently_queued": 1,
+    "publication_ready": 1,
     "retired_replaced_duplicates": 4,
     "requiring_live_site_repository_reconciliation": 0,
-    "verified_published_from_queue": 5,
-    "reserved_queue_slots_pending_body_verification": 2,
-    "historically_reported_finished_pending_body_verification": 2,
-    "live_site_access_verification_pending": 1
+    "verified_published_from_queue": 6,
+    "reserved_queue_slots_pending_body_verification": 0,
+    "historically_reported_finished_pending_body_verification": 0,
+    "live_site_access_verification_pending": 0
   },
   "pending_priority_requests": [
     {
@@ -135,14 +108,13 @@
     }
   ],
   "website_quality_status": {
-    "as_of": "2026-09-26",
-    "status": "publication_hold_pending_template_and_story_rewrite",
-    "finding": "No canonical body for either reserved story was recovered from Google Drive or GitHub. Counts and priority order are unchanged; no public file change was made.",
+    "as_of": "2026-09-27",
+    "status": "queue_ready_next_slot",
+    "finding": "Campaign editorial verified live. Black-women editorial completed and staged as the only finished unpublished item. No second public article was released today.",
     "priority_order": [
-      "Verify and repair shared website/editorial template",
-      "Audit and rewrite Dear World first",
-      "Audit remaining published stories one by one",
-      "Resume new queue publications only after each item passes all gates"
+      "Publish the Black-women editorial in the next available daily slot after final HTML/image check",
+      "Continue completing genuinely new reserve editorials",
+      "Keep the 16 approved website replacements separate from new publication inventory"
     ]
   }
 }

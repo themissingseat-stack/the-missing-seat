@@ -62,11 +62,25 @@
       "published_verified": "2026-09-28"
     }
   ],
-  "queue": [],
+  "queue": [
+    {
+      "queue_position": 1,
+      "title": "THEY SERVED THE UNITED STATES. THE NEAREST VA CARE MAY BE AN OCEAN AWAY.",
+      "slug": "they-served-the-united-states-the-nearest-va-care-may-be-an-ocean-away.html",
+      "theme": "Veterans, Pacific Communities, Health Care & Government Accountability",
+      "source": "staging/editorials/TMS_They_Served_The_United_States_VA_Care_Publication_Package_2026-09-28.md",
+      "drive_url": "https://drive.google.com/file/d/1odRtxQ_FznwKhuoyrDnPLWMM8JCMuRpk/view?usp=drivesdk",
+      "completion_status": "full_finished_verified_publication_package",
+      "publication_status": "unpublished",
+      "duplication_status": "No matching title, slug, full package, or live-site story found in GitHub or Google Drive on 2026-09-28.",
+      "status": "publication_ready_queued",
+      "notes": "Completed after the September 28 daily publication slot was filled by the Black-women editorial. Central claims verified against GAO-26-109152, published September 25, 2026, and official Interior sources. VA partial-implementation measures are expressly labeled as plans without a GAO-reported timeline. Article includes metadata, excerpt, full body, receipts, verification notice, action and social copy."
+    }
+  ],
   "counts": {
-    "full_finished_unpublished": 0,
-    "currently_queued": 0,
-    "publication_ready": 0,
+    "full_finished_unpublished": 1,
+    "currently_queued": 1,
+    "publication_ready": 1,
     "retired_replaced_duplicates": 4,
     "requiring_live_site_repository_reconciliation": 0,
     "verified_published_from_queue": 7,
@@ -88,8 +102,8 @@
     "status": "published_and_live_verified",
     "finding": "Black-women editorial is live, featured on the homepage, present at the top of the archive, and included in RSS. Browser verification found no horizontal overflow or broken archive images.",
     "priority_order": [
-      "Complete the next genuinely new editorial before adding it to the queue",
-      "Continue source-verified discovery without repeating recent subjects",
+      "Publish the FAS veterans editorial in the next available daily slot after HTML conversion and final live-site uniqueness check",
+      "Continue completing genuinely new reserve editorials",
       "Keep the 16 approved website replacements separate from new publication inventory"
     ]
   },

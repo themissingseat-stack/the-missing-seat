@@ -23,7 +23,7 @@
   },
   "deployment": {
     "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "Confirmed by successful live publication of the campaign editorial on 2026-09-27; no second publication attempted the same day."
+    "status": "GitHub main confirmed as the live deployment source. Sept. 28 article, homepage feature, archive card, and RSS changes deployed; browser check found no horizontal overflow or broken archive images."
   },
   "published_record": [
     {
@@ -59,8 +59,7 @@
     {
       "title": "They Trusted Black Women With Their Babies. Just Not With Power.",
       "slug": "they-trusted-black-women-with-their-babies-just-not-with-power.html",
-      "repository_published": "2026-09-28",
-      "live_verification_status": "deployment_pending_at_08:18_CEST"
+      "published_verified": "2026-09-28"
     }
   ],
   "queue": [],
@@ -69,11 +68,11 @@
     "currently_queued": 0,
     "publication_ready": 0,
     "retired_replaced_duplicates": 4,
-    "requiring_live_site_repository_reconciliation": 1,
-    "verified_published_from_queue": 6,
+    "requiring_live_site_repository_reconciliation": 0,
+    "verified_published_from_queue": 7,
     "reserved_queue_slots_pending_body_verification": 0,
     "historically_reported_finished_pending_body_verification": 0,
-    "live_site_access_verification_pending": 1
+    "live_site_access_verification_pending": 0
   },
   "pending_priority_requests": [
     {
@@ -86,11 +85,11 @@
   ],
   "website_quality_status": {
     "as_of": "2026-09-28",
-    "status": "repository_published_deployment_pending",
-    "finding": "Black-women editorial committed to GitHub main, added to homepage, archive, and RSS. The public custom domain was still serving the previous homepage immediately after the commits, so live verification remains pending.",
+    "status": "published_and_live_verified",
+    "finding": "Black-women editorial is live, featured on the homepage, present at the top of the archive, and included in RSS. Browser verification found no horizontal overflow or broken archive images.",
     "priority_order": [
-      "Verify the deployed article URL and homepage/archive visibility after the hosting refresh",
       "Complete the next genuinely new editorial before adding it to the queue",
+      "Continue source-verified discovery without repeating recent subjects",
       "Keep the 16 approved website replacements separate from new publication inventory"
     ]
   },

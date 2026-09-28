@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-09-27",
+  "last_reconciled": "2026-09-28",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -55,48 +55,25 @@
       "title": "The Campaign Was the Ad. We’re Stuck With the Bill.",
       "slug": "the-campaign-was-the-ad-were-stuck-with-the-bill.html",
       "published_verified": "2026-09-27"
-    }
-  ],
-  "queue": [
+    },
     {
-      "queue_position": 1,
-      "title": "THEY TRUSTED BLACK WOMEN WITH THEIR BABIES. JUST NOT WITH POWER.",
+      "title": "They Trusted Black Women With Their Babies. Just Not With Power.",
       "slug": "they-trusted-black-women-with-their-babies-just-not-with-power.html",
-      "theme": "Black Women, Labor, Care, Health & Power",
-      "source": "staging/editorials/TMS_They_Trusted_Black_Women_Publication_Package_2026-09-27.md",
-      "completion_status": "full_finished_verified_publication_package",
-      "publication_status": "unpublished",
-      "duplication_status": "No matching live title or slug found in GitHub main or Google Drive on 2026-09-27.",
-      "status": "publication_ready_queued",
-      "notes": "Full article body, metadata, excerpt, source links, verification notice, story-specific action, and social copy completed September 27, 2026. Evidence rechecked against Smithsonian, U.S. Department of Labor, House Historian, and CAWP. Not published today because the campaign editorial already filled the one-editorial-per-day slot.",
-      "drive_search_2026_09_15": "No exact or broad Drive copy identified; GitHub main still has no article slug. Evidence, voice, AI-error, and layout review remain outstanding.",
-      "publication_hold_2026_09_15": "Not published: newly required editorial-quality review has not been completed.",
-      "drive_search_2026_09_16": "Exact and broad Drive searches found no authoritative standalone package; GitHub main and staging still contain no article slug.",
-      "publication_hold_2026_09_16": "Not published: evidence review and the newly confirmed Regular Joe, AI-error, and professional-layout review remain incomplete.",
-      "drive_search_2026_09_17": "Exact-title Drive search did not locate the editorial; GitHub main still contains no matching article file or slug.",
-      "publication_hold_2026_09_17": "Not published: the conversation draft remains unavailable as an authoritative artifact and the evidence, Regular Joe, AI-error, and layout reviews remain incomplete.",
-      "drive_search_2026_09_18": "Exact-title Drive search produced no authoritative editorial package; GitHub main remains unchanged with no matching file or slug.",
-      "publication_hold_2026_09_18": "Not published: authoritative artifact, evidence verification, rewrite review, and professional presentation remain incomplete.",
-      "publication_hold_2026_09_19": "Not published: no authoritative complete text could be retrieved from Drive or GitHub; source, voice, AI-error, action and page-layout checks cannot be completed.",
-      "publication_hold_2026_09_20": "No publication: Drive title search returned an unrelated audit, not the editorial; original conversation body is still not independently recoverable for review.",
-      "publication_hold_2026_09_21": "No publication: exact-title Drive search found only an unrelated audit document, not the editorial; no authoritative article body is recoverable for the required evidence and quality review.",
-      "publication_hold_2026_09_22": "No publication: exact-title Google Drive search returned no editorial, and GitHub still contains no authoritative complete body for evidence and quality review.",
-      "publication_hold_2026_09_23": "No publication: exact-title Drive search again returned no editorial; GitHub contains no authoritative complete body for prepublication review.",
-      "publication_hold_2026_09_24": "No publication: exact-title Google Drive search again returned no editorial; GitHub contains no authoritative complete body for prepublication review.",
-      "publication_hold_2026_09_25": "No publication: exact-title Google Drive search again returned no editorial; GitHub contains no authoritative complete body for prepublication review.",
-      "publication_hold_2026_09_26": "No publication: exact-title Google Drive search again returned no editorial; GitHub contains no authoritative complete body for prepublication review."
+      "repository_published": "2026-09-28",
+      "live_verification_status": "deployment_pending_at_08:18_CEST"
     }
   ],
+  "queue": [],
   "counts": {
-    "full_finished_unpublished": 1,
-    "currently_queued": 1,
-    "publication_ready": 1,
+    "full_finished_unpublished": 0,
+    "currently_queued": 0,
+    "publication_ready": 0,
     "retired_replaced_duplicates": 4,
-    "requiring_live_site_repository_reconciliation": 0,
+    "requiring_live_site_repository_reconciliation": 1,
     "verified_published_from_queue": 6,
     "reserved_queue_slots_pending_body_verification": 0,
     "historically_reported_finished_pending_body_verification": 0,
-    "live_site_access_verification_pending": 0
+    "live_site_access_verification_pending": 1
   },
   "pending_priority_requests": [
     {
@@ -108,13 +85,33 @@
     }
   ],
   "website_quality_status": {
-    "as_of": "2026-09-27",
-    "status": "queue_ready_next_slot",
-    "finding": "Campaign editorial verified live. Black-women editorial completed and staged as the only finished unpublished item. No second public article was released today.",
+    "as_of": "2026-09-28",
+    "status": "repository_published_deployment_pending",
+    "finding": "Black-women editorial committed to GitHub main, added to homepage, archive, and RSS. The public custom domain was still serving the previous homepage immediately after the commits, so live verification remains pending.",
     "priority_order": [
-      "Publish the Black-women editorial in the next available daily slot after final HTML/image check",
-      "Continue completing genuinely new reserve editorials",
+      "Verify the deployed article URL and homepage/archive visibility after the hosting refresh",
+      "Complete the next genuinely new editorial before adding it to the queue",
       "Keep the 16 approved website replacements separate from new publication inventory"
     ]
-  }
+  },
+  "story_briefs_2026_09_28": [
+    {
+      "title": "The Warning Arrived. Just Not in Your Language.",
+      "seat_affected": "People with limited English proficiency during severe weather",
+      "source": "https://www.gao.gov/products/gao-26-107680",
+      "status": "verified GAO finding; AI alert project planning shortcomings are agency-program findings, not proof that every alert failed"
+    },
+    {
+      "title": "The Job Center Was Open. Access Was Still Missing.",
+      "seat_affected": "Job seekers with disabilities",
+      "source": "https://www.gao.gov/products/gao-26-107473",
+      "status": "verified GAO finding; more than 500,000 were unemployed and actively seeking work annually in 2021–2024"
+    },
+    {
+      "title": "The Loan Rule Changed. Did Anyone Tell the Servicer?",
+      "seat_affected": "Federal student-loan borrowers",
+      "source": "https://www.gao.gov/products/gao-26-107780",
+      "status": "verified GAO report, publicly released August 6, 2026"
+    }
+  ]
 }

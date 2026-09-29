@@ -24,40 +24,46 @@ Every TMS editorial must:
    - Status: publication-ready / first in queue
    - Action: final fact check, TMS-standard review, publish
 
-2. **Unsafe School Facilities**
+2. **African American Lynchings and Hangings in America — Updated National Accounting**
+   - Status: approved / research update started
+   - Focus: distinguish hanging from lynching; use the latest documented national counts; Reconstruction-era racial terror; lynchings inside and outside the South; the role of mobs, local officials and failures of prosecution; anti-lynching campaigns; the 2022 Emmett Till Antilynching Act; what remains uncounted; current remembrance and local memorialization work
+   - Evidence anchors: Equal Justice Initiative, NAACP, Library of Congress, Smithsonian/NMAAHC, Congress.gov, DOJ
+   - Action: complete current evidence review, write full TMS editorial, verify every count and date, publish
+
+3. **Unsafe School Facilities**
    - Status: verified brief available
    - Action: complete full TMS editorial, verify, publish
 
-3. **Fair-Housing Backlog**
+4. **Fair-Housing Backlog**
    - Status: verified brief available
    - Action: complete full TMS editorial, verify, publish
 
-4. **Arkansas Rural Maternal Health**
+5. **Arkansas Rural Maternal Health**
    - Status: research/story brief available
    - Action: complete full TMS editorial, verify, publish
 
-5. **Tribal Homelessness Evidence**
+6. **Tribal Homelessness Evidence**
    - Status: research brief available
    - Action: complete full TMS editorial, verify, publish
 
-6. **Multilingual Weather Alerts**
+7. **Multilingual Weather Alerts**
    - Status: approved / in progress
    - Action: complete research and full TMS editorial, verify, publish
 
-7. **Disability Access at Job Centers**
+8. **Disability Access at Job Centers**
    - Status: approved / in progress
    - Action: complete research and full TMS editorial, verify, publish
 
-8. **Student-Loan Servicer Communication**
+9. **Student-Loan Servicer Communication**
    - Status: approved / in progress
    - Action: complete research and full TMS editorial, verify, publish
 
-9. **America Is Giving Away Its Future, Brick by Brick**
+10. **America Is Giving Away Its Future, Brick by Brick**
    - Status: approved / in development
    - Focus: Canada recruiting scientists; research cuts; weakened oversight/civil-rights enforcement; who benefits and who pays
    - Action: complete research and full TMS editorial, verify, publish
 
-10. **Medicaid/SNAP Work Requirements**
+11. **Medicaid/SNAP Work Requirements**
     - Status: unfinished / blocked
     - Action: resolve evidence gaps before publication
 

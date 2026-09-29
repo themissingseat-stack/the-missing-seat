@@ -69,11 +69,25 @@
       "drive_url": "https://drive.google.com/file/d/1odRtxQ_FznwKhuoyrDnPLWMM8JCMuRpk/view?usp=drivesdk"
     }
   ],
-  "queue": [],
+  "queue": [
+    {
+      "queue_position": 1,
+      "title": "The HR Manager Said No to Discrimination. Then She Allegedly Lost Her Job.",
+      "slug": "the-hr-manager-said-no-to-discrimination-then-she-allegedly-lost-her-job.html",
+      "theme": "Work, Race, Women & Immigrant Communities",
+      "source": "staging/editorials/TMS_The_HR_Manager_Said_No_Publication_Package_2026-09-29.md",
+      "drive_url": "https://drive.google.com/file/d/1xqA6wM2c8xbDTUD6zmb6J0UQBcjyYOO9/view?usp=drivesdk",
+      "completion_status": "full_finished_verified_publication_package",
+      "publication_status": "unpublished",
+      "duplication_status": "No matching title, slug, or finished editorial found on the live site, GitHub default branch, queue inventory, or Google Drive on 2026-09-29. A short discovery brief exists and is not a duplicate editorial.",
+      "status": "publication_ready_queued",
+      "notes": "Completed September 29 after the daily publication slot was filled by the FAS veterans editorial. Central claims verified against the EEOC settlement announcement, a federal court order, EEOC retaliation guidance, and the agency class-member notice. All disputed conduct is labeled as allegation; the settlement is not described as an admission or adjudicated finding. Package includes metadata, excerpt, full body, receipts, verification notice, counterargument, action, and social copy."
+    }
+  ],
   "counts": {
-    "full_finished_unpublished": 0,
-    "currently_queued": 0,
-    "publication_ready": 0,
+    "full_finished_unpublished": 1,
+    "currently_queued": 1,
+    "publication_ready": 1,
     "retired_replaced_duplicates": 4,
     "requiring_live_site_repository_reconciliation": 0,
     "verified_published_from_queue": 8,
@@ -95,8 +109,8 @@
     "status": "published_and_live_verified",
     "finding": "FAS veterans editorial is live, featured on the homepage, present at the top of the archive, included on the World Affairs & Human Rights topic page and in RSS. Browser verification found no horizontal overflow or broken archive images.",
     "priority_order": [
-      "Complete and verify the Medicaid/SNAP work-requirement publication package before adding it to the ledger",
-      "Continue completing genuinely new reserve editorials",
+      "Publish the HR retaliation editorial in the next available daily slot after final same-day source and live-site uniqueness checks",
+      "Complete and verify the Medicaid/SNAP work-requirement publication package",
       "Keep the 16 approved website replacements separate from new publication inventory"
     ]
   },

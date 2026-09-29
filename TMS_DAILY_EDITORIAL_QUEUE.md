@@ -68,6 +68,27 @@ Every TMS editorial must:
     - Status: unfinished / blocked
     - Action: resolve evidence gaps before publication
 
+
+## New research leads — not yet in posting order
+
+- **You Can Prove the Harm. Now Prove the Intent.**
+  - HHS ended disparate-impact liability under its Title VI regulations in July 2026. Research the practical effect on complaints involving racial disparities in federally funded health programs while preserving the distinction between disparate impact and intentional discrimination.
+
+- **The Desegregation Order Is Gone. What Changed in the Schools?**
+  - DOJ announced dismissal of more than 50 long-running school-desegregation cases in September 2026 after case-by-case unitary-status reviews. Build a district-by-district evidence test of demographics, facilities, discipline, staffing, course access and outcomes before and after dismissal.
+
+- **The Presumption Is Gone: What the New DBE Rule Means for Black-Owned Contractors**
+  - DOT's September 2026 final DBE/ACDBE rule eliminates race- and sex-based presumptions of disadvantage and requires individualized determinations. Examine certification losses, delays, contract awards and who gains or loses access.
+
+- **The Scholarship Rule Nobody Is Talking About**
+  - Treasury/IRS proposed regulations would put private schools' tax-exempt status at risk for race-based admissions, scholarships, loans or other programs. Examine the estimated institutional/student reach, alternatives using race-neutral criteria, and likely effects on scholarships designed for Black students.
+
+- **Minority Health and Minority Business Funding in the September Rescission Package**
+  - The September 25, 2026 rescission proposal targets funding connected to the Office of Minority Health and Minority Business Development Agency, among other programs. Track what is proposed versus actually rescinded, congressional/legal responses, and concrete program-level effects.
+
+- **What Civil-Rights Enforcement Is Being Redefined to Mean**
+  - Build a current cross-agency ledger of 2025–2026 changes at DOJ, HHS, Education, HUD, DOT, SBA and Treasury that redefine race-conscious remedies, disparate-impact standards, desegregation oversight and minority-business programs. Separate enacted rules, proposals, litigation, injunctions and unresolved questions.
+
 ## Queue handling
 
 - Publish exactly one genuinely new editorial per day.

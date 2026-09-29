@@ -31,40 +31,47 @@ Every TMS editorial must:
    - Required caution: do not call a death a lynching unless evidence supports that conclusion; distinguish official findings, family claims, criminal charges, unresolved facts and historical context.
    - Action: complete current case ledger, verify each name/date/location/ruling, write full TMS editorial, publish
 
-3. **Unsafe School Facilities**
+3. **What Does America Think Rape Is Worth? Women, Children, Race and the Sentencing Gap**
+   - Status: approved / evidence review started
+   - Focus: test whether White male defendants receive disproportionate leniency in sexual-assault cases; compare child-victim and adult-victim cases; examine charging, plea bargaining, probation, suspended sentences, downward variances, statutory ranges and actual time imposed; distinguish federal from state systems; include victim race where the evidence permits.
+   - Current evidence anchors: U.S. Sentencing Commission FY2025 sexual-abuse and child-pornography data; 2023 USSC demographic sentencing report; 2026 systematic review of 347 sentencing studies; CDC/NISVS perpetrator-sex data; FBI/NIBRS victim/offender data; state sentencing datasets and selected case files.
+   - Required caution: do not claim that White men as a group protect rapists or that White defendants always receive lighter sexual-assault sentences. Test that hypothesis against the evidence and report contrary findings. Separate hands-on child sexual abuse from child-pornography offenses.
+   - Action: build a race/sex/victim-age sentencing ledger, identify recent representative cases, verify every sentence and charging decision, write full TMS editorial, publish
+
+4. **Unsafe School Facilities**
    - Status: verified brief available
    - Action: complete full TMS editorial, verify, publish
 
-4. **Fair-Housing Backlog**
+5. **Fair-Housing Backlog**
    - Status: verified brief available
    - Action: complete full TMS editorial, verify, publish
 
-5. **Arkansas Rural Maternal Health**
+6. **Arkansas Rural Maternal Health**
    - Status: research/story brief available
    - Action: complete full TMS editorial, verify, publish
 
-6. **Tribal Homelessness Evidence**
+7. **Tribal Homelessness Evidence**
    - Status: research brief available
    - Action: complete full TMS editorial, verify, publish
 
-7. **Multilingual Weather Alerts**
+8. **Multilingual Weather Alerts**
    - Status: approved / in progress
    - Action: complete research and full TMS editorial, verify, publish
 
-8. **Disability Access at Job Centers**
+9. **Disability Access at Job Centers**
    - Status: approved / in progress
    - Action: complete research and full TMS editorial, verify, publish
 
-9. **Student-Loan Servicer Communication**
+10. **Student-Loan Servicer Communication**
    - Status: approved / in progress
    - Action: complete research and full TMS editorial, verify, publish
 
-10. **America Is Giving Away Its Future, Brick by Brick**
+11. **America Is Giving Away Its Future, Brick by Brick**
    - Status: approved / in development
    - Focus: Canada recruiting scientists; research cuts; weakened oversight/civil-rights enforcement; who benefits and who pays
    - Action: complete research and full TMS editorial, verify, publish
 
-11. **Medicaid/SNAP Work Requirements**
+12. **Medicaid/SNAP Work Requirements**
     - Status: unfinished / blocked
     - Action: resolve evidence gaps before publication
 

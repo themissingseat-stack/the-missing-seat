@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-09-28",
+  "last_reconciled": "2026-09-29",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -23,7 +23,7 @@
   },
   "deployment": {
     "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "GitHub main confirmed as the live deployment source. Sept. 28 article, homepage feature, archive card, and RSS changes deployed; browser check found no horizontal overflow or broken archive images."
+    "status": "GitHub main confirmed as the live deployment source. Sept. 29 article, homepage feature, archive card, topic page, and RSS changes deployed; browser checks found the article live, the homepage feature visible, the archive card first, no horizontal overflow, and no broken archive images."
   },
   "published_record": [
     {
@@ -60,30 +60,23 @@
       "title": "They Trusted Black Women With Their Babies. Just Not With Power.",
       "slug": "they-trusted-black-women-with-their-babies-just-not-with-power.html",
       "published_verified": "2026-09-28"
-    }
-  ],
-  "queue": [
+    },
     {
-      "queue_position": 1,
-      "title": "THEY SERVED THE UNITED STATES. THE NEAREST VA CARE MAY BE AN OCEAN AWAY.",
+      "title": "They Served the United States. The Nearest VA Care May Be an Ocean Away.",
       "slug": "they-served-the-united-states-the-nearest-va-care-may-be-an-ocean-away.html",
-      "theme": "Veterans, Pacific Communities, Health Care & Government Accountability",
+      "published_verified": "2026-09-29",
       "source": "staging/editorials/TMS_They_Served_The_United_States_VA_Care_Publication_Package_2026-09-28.md",
-      "drive_url": "https://drive.google.com/file/d/1odRtxQ_FznwKhuoyrDnPLWMM8JCMuRpk/view?usp=drivesdk",
-      "completion_status": "full_finished_verified_publication_package",
-      "publication_status": "unpublished",
-      "duplication_status": "No matching title, slug, full package, or live-site story found in GitHub or Google Drive on 2026-09-28.",
-      "status": "publication_ready_queued",
-      "notes": "Completed after the September 28 daily publication slot was filled by the Black-women editorial. Central claims verified against GAO-26-109152, published September 25, 2026, and official Interior sources. VA partial-implementation measures are expressly labeled as plans without a GAO-reported timeline. Article includes metadata, excerpt, full body, receipts, verification notice, action and social copy."
+      "drive_url": "https://drive.google.com/file/d/1odRtxQ_FznwKhuoyrDnPLWMM8JCMuRpk/view?usp=drivesdk"
     }
   ],
+  "queue": [],
   "counts": {
-    "full_finished_unpublished": 1,
-    "currently_queued": 1,
-    "publication_ready": 1,
+    "full_finished_unpublished": 0,
+    "currently_queued": 0,
+    "publication_ready": 0,
     "retired_replaced_duplicates": 4,
     "requiring_live_site_repository_reconciliation": 0,
-    "verified_published_from_queue": 7,
+    "verified_published_from_queue": 8,
     "reserved_queue_slots_pending_body_verification": 0,
     "historically_reported_finished_pending_body_verification": 0,
     "live_site_access_verification_pending": 0
@@ -98,11 +91,11 @@
     }
   ],
   "website_quality_status": {
-    "as_of": "2026-09-28",
+    "as_of": "2026-09-29",
     "status": "published_and_live_verified",
-    "finding": "Black-women editorial is live, featured on the homepage, present at the top of the archive, and included in RSS. Browser verification found no horizontal overflow or broken archive images.",
+    "finding": "FAS veterans editorial is live, featured on the homepage, present at the top of the archive, included on the World Affairs & Human Rights topic page and in RSS. Browser verification found no horizontal overflow or broken archive images.",
     "priority_order": [
-      "Publish the FAS veterans editorial in the next available daily slot after HTML conversion and final live-site uniqueness check",
+      "Complete and verify the Medicaid/SNAP work-requirement publication package before adding it to the ledger",
       "Continue completing genuinely new reserve editorials",
       "Keep the 16 approved website replacements separate from new publication inventory"
     ]
@@ -125,6 +118,26 @@
       "seat_affected": "Federal student-loan borrowers",
       "source": "https://www.gao.gov/products/gao-26-107780",
       "status": "verified GAO report, publicly released August 6, 2026"
+    }
+  ],
+  "story_briefs_2026_09_29": [
+    {
+      "title": "The HR Manager Said No to Discrimination. Then She Allegedly Lost Her Job.",
+      "seat_affected": "Black, female, and Afghan job applicants, plus workers who oppose discrimination",
+      "source": "https://www.eeoc.gov/newsroom/mile-hi-foods-pay-15-million-eeoc-race-sex-and-national-origin-discrimination-lawsuit",
+      "status": "EEOC allegations resolved by a $1.5 million settlement and three-year consent decree; allegations were not adjudicated findings."
+    },
+    {
+      "title": "The School Was Open on Paper. The Building Said Otherwise.",
+      "seat_affected": "Students in districts with unsafe or failing school facilities",
+      "source": "https://www.gao.gov/products/gao-26-107970",
+      "status": "GAO nationwide survey estimates, publicly released September 14, 2026; estimates carry sampling uncertainty."
+    },
+    {
+      "title": "A Fair Housing Complaint Cannot Protect You If It Sits in a Backlog.",
+      "seat_affected": "Families with children, disabled tenants, and people reporting housing-related sexual harassment",
+      "source": "https://www.hud.gov/news/hud-no-26-069",
+      "status": "HUD charges are allegations, not adjudicated findings; backlog-reduction figure is HUD's reported administrative metric."
     }
   ]
 }

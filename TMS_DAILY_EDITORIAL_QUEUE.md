@@ -24,11 +24,12 @@ Every TMS editorial must:
    - Status: publication-ready / first in queue
    - Action: final fact check, TMS-standard review, publish
 
-2. **African American Lynchings and Hangings in America — Updated National Accounting**
-   - Status: approved / research update started
-   - Focus: distinguish hanging from lynching; use the latest documented national counts; Reconstruction-era racial terror; lynchings inside and outside the South; the role of mobs, local officials and failures of prosecution; anti-lynching campaigns; the 2022 Emmett Till Antilynching Act; what remains uncounted; current remembrance and local memorialization work
-   - Evidence anchors: Equal Justice Initiative, NAACP, Library of Congress, Smithsonian/NMAAHC, Congress.gov, DOJ
-   - Action: complete current evidence review, write full TMS editorial, verify every count and date, publish
+2. **Found Hanging in America: Why Are Black People Still Being Found This Way?**
+   - Status: approved / urgent current-story research
+   - Focus: contemporary cases of Black Americans found hanging from trees or in public places, especially 2025–2026; case-by-case official findings; family disputes and demands for transparency; which deaths were ruled suicide, homicide or remain contested; whether crime-scene, autopsy, surveillance and other evidence was independently reviewed; gaps in national data collection; and why the historical meaning of public hanging makes investigation standards and transparency especially important.
+   - Current evidence anchors: Sept. 10, 2026 congressional letter led by Reps. Ayanna Pressley and Yvette Clarke demanding DOJ/FBI review; AP reporting on roughly a half-dozen Black people found hanged across the South in the prior two years; current local reporting, medical-examiner findings, court records and law-enforcement records for each named case.
+   - Required caution: do not call a death a lynching unless evidence supports that conclusion; distinguish official findings, family claims, criminal charges, unresolved facts and historical context.
+   - Action: complete current case ledger, verify each name/date/location/ruling, write full TMS editorial, publish
 
 3. **Unsafe School Facilities**
    - Status: verified brief available

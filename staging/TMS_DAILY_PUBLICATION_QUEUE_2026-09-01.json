@@ -76,11 +76,25 @@
       "drive_url": "https://drive.google.com/file/d/1xqA6wM2c8xbDTUD6zmb6J0UQBcjyYOO9/view?usp=drivesdk"
     }
   ],
-  "queue": [],
+  "queue": [
+    {
+      "queue_position": 1,
+      "title": "The Efficiency Team Got Access. The Public Still Cannot See the Security Receipt.",
+      "slug": "the-efficiency-team-got-access-the-public-still-cannot-see-the-security-receipt.html",
+      "theme": "Democracy, Privacy & Government Accountability",
+      "source": "staging/editorials/TMS_The_Efficiency_Team_Got_Access_Publication_Package_2026-09-30.md",
+      "drive_url": "https://drive.google.com/file/d/1P8kSuT3MkcfbRz3V52-o10F8HsDwbJxQ/view?usp=drivesdk",
+      "completion_status": "full_finished_verified_publication_package",
+      "publication_status": "unpublished",
+      "duplication_status": "No matching finished editorial or live article found in GitHub, the staged queue, the live-site inventory, or Google Drive on 2026-09-30. A short story brief exists and is the source idea, not a duplicate editorial.",
+      "status": "publication_ready_queued",
+      "notes": "Completed September 30 after the daily publication slot was filled by the HR retaliation editorial. Central claims verified against GAO-26-108192 and the January and February 2025 White House orders. The package expressly states that GAO did not find a breach or data misuse and distinguishes missing documentation from proof that a control or record never existed. Includes metadata, excerpt, full body, power-benefit-burden analysis, action, receipts, verification notice, counterargument and social copy."
+    }
+  ],
   "counts": {
-    "full_finished_unpublished": 0,
-    "currently_queued": 0,
-    "publication_ready": 0,
+    "full_finished_unpublished": 1,
+    "currently_queued": 1,
+    "publication_ready": 1,
     "retired_replaced_duplicates": 4,
     "requiring_live_site_repository_reconciliation": 0,
     "verified_published_from_queue": 9,
@@ -102,6 +116,7 @@
     "status": "published_and_live_verified",
     "finding": "The HR retaliation editorial is live and appears first in the archive. The article renders with its seat summary, full body, action, receipts, verification notice, counterargument, and return navigation.",
     "priority_order": [
+      "Publish the DOGE system-access editorial in the next available daily slot after same-day source and uniqueness checks",
       "Complete and verify the Medicaid/SNAP work-requirement publication package",
       "Complete the broader Trump Receipt accounting requested by the user",
       "Keep the 16 approved website replacements separate from new publication inventory"

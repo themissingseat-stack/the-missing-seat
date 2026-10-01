@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-09-30",
+  "last_reconciled": "2026-10-01",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -23,7 +23,7 @@
   },
   "deployment": {
     "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "GitHub main confirmed as the live deployment source. Sept. 30 HR retaliation editorial, homepage feature, archive card, race topic page, and RSS were updated; live browser checks verified the article and first archive card."
+    "status": "GitHub main remains the confirmed deployment source. The October 1 security-receipt article is live at its canonical URL, but the archive still served the previous card list during the immediate browser check; archive/navigation visibility requires follow-up after cache/deployment propagation."
   },
   "published_record": [
     {
@@ -74,21 +74,29 @@
       "published_verified": "2026-09-30",
       "source": "staging/editorials/TMS_The_HR_Manager_Said_No_Publication_Package_2026-09-29.md",
       "drive_url": "https://drive.google.com/file/d/1xqA6wM2c8xbDTUD6zmb6J0UQBcjyYOO9/view?usp=drivesdk"
+    },
+    {
+      "title": "The Efficiency Team Got Access. The Public Still Cannot See the Security Receipt.",
+      "slug": "the-efficiency-team-got-access-the-public-still-cannot-see-the-security-receipt.html",
+      "published_verified": "2026-10-01",
+      "source": "staging/editorials/TMS_The_Efficiency_Team_Got_Access_Publication_Package_2026-09-30.md",
+      "drive_url": "https://drive.google.com/file/d/1P8kSuT3MkcfbRz3V52-o10F8HsDwbJxQ/view?usp=drivesdk",
+      "notes": "Direct live article URL verified October 1, 2026. Archive was still serving the prior card list during the same check, so navigation/cache visibility remains pending."
     }
   ],
   "queue": [
     {
       "queue_position": 1,
-      "title": "The Efficiency Team Got Access. The Public Still Cannot See the Security Receipt.",
-      "slug": "the-efficiency-team-got-access-the-public-still-cannot-see-the-security-receipt.html",
-      "theme": "Democracy, Privacy & Government Accountability",
-      "source": "staging/editorials/TMS_The_Efficiency_Team_Got_Access_Publication_Package_2026-09-30.md",
-      "drive_url": "https://drive.google.com/file/d/1P8kSuT3MkcfbRz3V52-o10F8HsDwbJxQ/view?usp=drivesdk",
+      "title": "The Water Project Was Built. The Missing Money Was for Keeping It Alive.",
+      "slug": "the-water-project-was-built-the-missing-money-was-for-keeping-it-alive.html",
+      "theme": "Indigenous Communities & Public Health",
+      "source": "staging/editorials/TMS_The_Water_Project_Was_Built_Publication_Package_2026-10-01.md",
+      "drive_url": "https://drive.google.com/file/d/1lVT-AEPvaDkM9NZ8jMzQFiWQ7EBHMT1g/view?usp=drivesdk",
       "completion_status": "full_finished_verified_publication_package",
       "publication_status": "unpublished",
-      "duplication_status": "No matching finished editorial or live article found in GitHub, the staged queue, the live-site inventory, or Google Drive on 2026-09-30. A short story brief exists and is the source idea, not a duplicate editorial.",
+      "duplication_status": "No matching title or live editorial was found in the reconciled published record or staged queue on October 1, 2026. This develops the September 22 GAO tribal-water report and is distinct from earlier tribal-housing and Indigenous-school-discipline coverage.",
       "status": "publication_ready_queued",
-      "notes": "Completed September 30 after the daily publication slot was filled by the HR retaliation editorial. Central claims verified against GAO-26-108192 and the January and February 2025 White House orders. The package expressly states that GAO did not find a breach or data misuse and distinguishes missing documentation from proof that a control or record never existed. Includes metadata, excerpt, full body, power-benefit-burden analysis, action, receipts, verification notice, counterargument and social copy."
+      "notes": "Completed October 1 after the daily publication slot was filled. Claims verified against GAO-26-107178. Agency disagreements and all open recommendations are labeled; no recommendation is presented as implemented. Includes metadata, full body, power-benefit-burden analysis, action, receipts, verification notice, counterargument and social copy."
     }
   ],
   "counts": {
@@ -96,11 +104,11 @@
     "currently_queued": 1,
     "publication_ready": 1,
     "retired_replaced_duplicates": 4,
-    "requiring_live_site_repository_reconciliation": 0,
-    "verified_published_from_queue": 9,
+    "requiring_live_site_repository_reconciliation": 1,
+    "verified_published_from_queue": 10,
     "reserved_queue_slots_pending_body_verification": 0,
     "historically_reported_finished_pending_body_verification": 0,
-    "live_site_access_verification_pending": 0
+    "live_site_access_verification_pending": 1
   },
   "pending_priority_requests": [
     {
@@ -109,16 +117,24 @@
       "requested_action": "Prepare web, Facebook and Instagram package and publish as soon as safely verified.",
       "ledger_status": "not_counted_as_full_finished",
       "reason": "No complete standalone package was found in Google Drive or GitHub on 2026-09-14; conversation material is substantial but the requested consolidated web/FB/IG publication package and prepublication evidence pass are not yet recoverable as a finished artifact."
+    },
+    {
+      "title": "The Trump Receipt: Who Benefited, Who Paid, and What Will America Be Left With?",
+      "topic": "Broad Trump accounting",
+      "requested_action": "Complete the broader accounting covering Black America, all Americans, personal and family benefit, claimed accomplishments, and lasting balance.",
+      "ledger_status": "not_counted_as_full_finished",
+      "reason": "The live Black America ledger is narrower than the requested comprehensive package; no complete standalone package has been verified."
     }
   ],
   "website_quality_status": {
-    "as_of": "2026-09-30",
-    "status": "published_and_live_verified",
-    "finding": "The HR retaliation editorial is live and appears first in the archive. The article renders with its seat summary, full body, action, receipts, verification notice, counterargument, and return navigation.",
+    "as_of": "2026-10-01",
+    "status": "article_live_archive_cache_pending",
+    "finding": "The security-receipt editorial is live and renders its complete body, seat summary, action, receipts, verification notice and counterargument. The archive had not yet exposed its new card during the same live check.",
     "priority_order": [
-      "Publish the DOGE system-access editorial in the next available daily slot after same-day source and uniqueness checks",
-      "Complete and verify the Medicaid/SNAP work-requirement publication package",
-      "Complete the broader Trump Receipt accounting requested by the user",
+      "Recheck archive, homepage and topic-card visibility after deployment propagation",
+      "Publish the tribal-water editorial in the next available daily slot after same-day source and uniqueness checks",
+      "Complete the Medicaid/SNAP work-requirement package",
+      "Complete the broader Trump Receipt accounting",
       "Keep the 16 approved website replacements separate from new publication inventory"
     ]
   },
@@ -180,6 +196,26 @@
       "seat_affected": "Women and others relying on private insurance for contraception",
       "source": "https://www.gao.gov/products/gao-26-108446",
       "status": "GAO report released September 24, 2026; federal investigations found specific instances of noncompliance, not evidence that every health plan violated the requirement."
+    }
+  ],
+  "story_briefs_2026_10_01": [
+    {
+      "title": "The Water Project Was Built. The Missing Money Was for Keeping It Alive.",
+      "seat_affected": "Tribal residents relying on safe drinking-water and wastewater systems",
+      "source": "https://www.gao.gov/products/gao-26-107178",
+      "status": "GAO findings published September 22, 2026. The $6 billion figure is IHS's November 2025 construction-need estimate; proposed statutory changes and maintenance pilot remain open, not implemented."
+    },
+    {
+      "title": "The Absence Rate Was Over 100%. The Oversight Had Already Stopped.",
+      "seat_affected": "K-12 students, especially in low-performing and high-turnover schools",
+      "source": "https://www.gao.gov/products/gao-26-107920",
+      "status": "GAO findings published September 23, 2026. GAO found mismatched data timeframes and suspended comprehensive monitoring; Education agreed with one recommendation and disagreed with two."
+    },
+    {
+      "title": "She Needed Time for Chemotherapy. The Attendance System Allegedly Counted It Against Her.",
+      "seat_affected": "Workers with cancer and other disabilities seeking reasonable accommodation",
+      "source": "https://www.eeoc.gov/newsroom/butterball-resolves-eeoc-disability-discrimination-lawsuit-230000",
+      "status": "EEOC allegations resolved by a $230,000 consent decree on September 15, 2026; no trial finding of liability. The decree requires accommodation processes, multilingual leave policies, training and reporting."
     }
   ]
 }

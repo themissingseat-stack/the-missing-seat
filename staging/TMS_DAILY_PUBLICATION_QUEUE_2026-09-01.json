@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-10-01",
+  "last_reconciled": "2026-10-02",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -97,12 +97,25 @@
       "duplication_status": "No matching title or live editorial was found in the reconciled published record or staged queue on October 1, 2026. This develops the September 22 GAO tribal-water report and is distinct from earlier tribal-housing and Indigenous-school-discipline coverage.",
       "status": "publication_ready_queued",
       "notes": "Completed October 1 after the daily publication slot was filled. Claims verified against GAO-26-107178. Agency disagreements and all open recommendations are labeled; no recommendation is presented as implemented. Includes metadata, full body, power-benefit-burden analysis, action, receipts, verification notice, counterargument and social copy."
+    },
+    {
+      "queue_position": 2,
+      "title": "The Absence Rate Was Over 100%. The Oversight Had Already Stopped.",
+      "slug": "the-absence-rate-was-over-100-percent-the-oversight-had-already-stopped.html",
+      "theme": "Education & Children",
+      "source": "staging/editorials/TMS_The_Absence_Rate_Was_Over_100_Percent_Publication_Package_2026-10-02.md",
+      "drive_url": "https://drive.google.com/file/d/1LfEcZpIJS3sUIGVrI2YUtDJlLmLOQ1Q7/view?usp=drivesdk",
+      "completion_status": "full_finished_verified_publication_package",
+      "publication_status": "unpublished",
+      "duplication_status": "No matching live title, published-record entry or staged editorial was found on October 2, 2026. It is materially distinct from TMS school-facilities, school-discipline and youth-mental-health coverage.",
+      "status": "publication_ready_queued",
+      "notes": "Completed October 2. Verified against GAO-26-107920, current Education Department chronic-absence information and the 2026 National Center for Homeless Education resource. Clearly distinguishes GAO findings, risk, open recommendations, agency disagreement, inference and opinion. Includes metadata, full body, power-benefit-burden analysis, action, receipts, verification notice, counterargument and social copy."
     }
   ],
   "counts": {
-    "full_finished_unpublished": 1,
-    "currently_queued": 1,
-    "publication_ready": 1,
+    "full_finished_unpublished": 2,
+    "currently_queued": 2,
+    "publication_ready": 2,
     "retired_replaced_duplicates": 4,
     "requiring_live_site_repository_reconciliation": 1,
     "verified_published_from_queue": 10,

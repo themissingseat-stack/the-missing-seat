@@ -23,7 +23,7 @@
   },
   "deployment": {
     "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "GitHub main remains the confirmed deployment source. The October 1 security-receipt article is live at its canonical URL, but the archive still served the previous card list during the immediate browser check; archive/navigation visibility requires follow-up after cache/deployment propagation."
+    "status": "GitHub main is the confirmed deployment source. The October 2 tribal-water article, homepage feature, archive card and RSS entry were committed. Browser verification was blocked by ERR_BLOCKED_BY_CLIENT, so public visibility remains pending; no second story may be published today."
   },
   "published_record": [
     {
@@ -87,19 +87,6 @@
   "queue": [
     {
       "queue_position": 1,
-      "title": "The Water Project Was Built. The Missing Money Was for Keeping It Alive.",
-      "slug": "the-water-project-was-built-the-missing-money-was-for-keeping-it-alive.html",
-      "theme": "Indigenous Communities & Public Health",
-      "source": "staging/editorials/TMS_The_Water_Project_Was_Built_Publication_Package_2026-10-01.md",
-      "drive_url": "https://drive.google.com/file/d/1lVT-AEPvaDkM9NZ8jMzQFiWQ7EBHMT1g/view?usp=drivesdk",
-      "completion_status": "full_finished_verified_publication_package",
-      "publication_status": "unpublished",
-      "duplication_status": "No matching title or live editorial was found in the reconciled published record or staged queue on October 1, 2026. This develops the September 22 GAO tribal-water report and is distinct from earlier tribal-housing and Indigenous-school-discipline coverage.",
-      "status": "publication_ready_queued",
-      "notes": "Completed October 1 after the daily publication slot was filled. Claims verified against GAO-26-107178. Agency disagreements and all open recommendations are labeled; no recommendation is presented as implemented. Includes metadata, full body, power-benefit-burden analysis, action, receipts, verification notice, counterargument and social copy."
-    },
-    {
-      "queue_position": 2,
       "title": "The Absence Rate Was Over 100%. The Oversight Had Already Stopped.",
       "slug": "the-absence-rate-was-over-100-percent-the-oversight-had-already-stopped.html",
       "theme": "Education & Children",
@@ -113,9 +100,9 @@
     }
   ],
   "counts": {
-    "full_finished_unpublished": 2,
-    "currently_queued": 2,
-    "publication_ready": 2,
+    "full_finished_unpublished": 1,
+    "currently_queued": 1,
+    "publication_ready": 1,
     "retired_replaced_duplicates": 4,
     "requiring_live_site_repository_reconciliation": 1,
     "verified_published_from_queue": 10,
@@ -140,12 +127,12 @@
     }
   ],
   "website_quality_status": {
-    "as_of": "2026-10-01",
-    "status": "article_live_archive_cache_pending",
-    "finding": "The security-receipt editorial is live and renders its complete body, seat summary, action, receipts, verification notice and counterargument. The archive had not yet exposed its new card during the same live check.",
+    "as_of": "2026-10-02",
+    "status": "deployment_committed_live_verification_pending",
+    "finding": "The tribal-water deployment is complete in GitHub main, but the browser client blocked the public URL check. The previous security-receipt archive card is present in current GitHub main.",
     "priority_order": [
-      "Recheck archive, homepage and topic-card visibility after deployment propagation",
-      "Publish the tribal-water editorial in the next available daily slot after same-day source and uniqueness checks",
+      "Verify the tribal-water article, homepage, archive card and RSS on the live site",
+      "Publish the chronic-absence editorial only in the next available daily slot",
       "Complete the Medicaid/SNAP work-requirement package",
       "Complete the broader Trump Receipt accounting",
       "Keep the 16 approved website replacements separate from new publication inventory"
@@ -229,6 +216,48 @@
       "seat_affected": "Workers with cancer and other disabilities seeking reasonable accommodation",
       "source": "https://www.eeoc.gov/newsroom/butterball-resolves-eeoc-disability-discrimination-lawsuit-230000",
       "status": "EEOC allegations resolved by a $230,000 consent decree on September 15, 2026; no trial finding of liability. The decree requires accommodation processes, multilingual leave policies, training and reporting."
+    }
+  ],
+  "deployment_pending_record": [
+    {
+      "queue_position": 1,
+      "title": "The Water Project Was Built. The Missing Money Was for Keeping It Alive.",
+      "slug": "the-water-project-was-built-the-missing-money-was-for-keeping-it-alive.html",
+      "theme": "Indigenous Communities & Public Health",
+      "source": "staging/editorials/TMS_The_Water_Project_Was_Built_Publication_Package_2026-10-01.md",
+      "drive_url": "https://drive.google.com/file/d/1lVT-AEPvaDkM9NZ8jMzQFiWQ7EBHMT1g/view?usp=drivesdk",
+      "completion_status": "full_finished_verified_publication_package",
+      "publication_status": "deployment_committed_live_verification_pending",
+      "duplication_status": "No matching title or live editorial was found in the reconciled published record or staged queue on October 1, 2026. This develops the September 22 GAO tribal-water report and is distinct from earlier tribal-housing and Indigenous-school-discipline coverage.",
+      "status": "publication_ready_queued",
+      "notes": "Completed October 1 after the daily publication slot was filled. Claims verified against GAO-26-107178. Agency disagreements and all open recommendations are labeled; no recommendation is presented as implemented. Includes metadata, full body, power-benefit-burden analysis, action, receipts, verification notice, counterargument and social copy.",
+      "publication_commit_date": "2026-10-02",
+      "main_commits": {
+        "article": "aafe59424c74b626813c7d7f9d27c83349e95a7f",
+        "homepage": "a3ddf9088b05ced039a44b122668564ecaa650a6",
+        "archive": "91f42018feca3930223234314afc8b4b3b6d7a6a",
+        "feed": "401e8e1d838fa791116147157ac074cdd48b5"
+      }
+    }
+  ],
+  "story_briefs_2026_10_02": [
+    {
+      "title": "The Court File Closed. Did the Equal School Arrive First?",
+      "seat_affected": "Black students and families in districts formerly operating legally segregated school systems",
+      "source": "https://www.justice.gov/opa/pr/justice-department-ends-over-50-half-century-old-desegregation-cases-throughout-united",
+      "status": "DOJ announced more than 50 dismissals and says it uses case-by-case unitary-status review. District-specific proof must be tested before drawing conclusions about present conditions."
+    },
+    {
+      "title": "ICE Bought Eleven Warehouses. Seven Are Already Headed Back Out the Door.",
+      "seat_affected": "People held in immigration detention and taxpayers",
+      "source": "https://www.gao.gov/products/gao-26-108663",
+      "status": "GAO finding published September 24, 2026. ICE reported more than $20 million in unrecoverable costs; DHS accepted the strategic-plan recommendation, which remains open."
+    },
+    {
+      "title": "The Committee Found Preventable Maternal Deaths. Who Made the Recommendations Real?",
+      "seat_affected": "Pregnant and postpartum women, especially Black and American Indian/Alaska Native women",
+      "source": "https://www.gao.gov/products/gao-26-108690",
+      "status": "GAO review of a nongeneralizable sample of 10 committees. National mortality and disparity figures rely on CDC/GAO evidence; the proposed story should track implementation rather than assume every recommendation was ignored."
     }
   ]
 }

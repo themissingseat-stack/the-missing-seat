@@ -104,6 +104,14 @@ Every TMS editorial must:
 
 ## New research leads — not yet in posting order
 
+- **When Corruption Stops Counting: How the Supreme Court Has Narrowed America's Anti-Corruption Laws**
+  - Status: editorial package in development / current 2026 update required
+  - Focus: Snyder v. United States, Percoco v. United States, McDonnell v. United States, Kelly v. United States, Ciminelli v. United States, Skilling v. United States, Citizens United, McCutcheon, and the 2026 National Republican Senatorial Committee v. FEC decision.
+  - Core test: distinguish what the Court actually held from the editorial argument that repeated narrowing of bribery, honest-services fraud, property fraud and campaign-finance rules leaves more influence, gratuities or political misconduct outside federal anti-corruption law.
+  - Required balance: explain the Court's stated reasons—First Amendment protection, fair notice, statutory text, federalism and limits on vague criminal laws—alongside dissents and critics warning that the rulings create enforcement gaps.
+  - Action: complete full TMS package with case timeline, current FEC spending data, Receipts & Recipes, social versions and fact-check note; do not publish until reviewed.
+
+
 - **You Can Prove the Harm. Now Prove the Intent.**
   - HHS ended disparate-impact liability under its Title VI regulations in July 2026. Research the practical effect on complaints involving racial disparities in federally funded health programs while preserving the distinction between disparate impact and intentional discrimination.
 

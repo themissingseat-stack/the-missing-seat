@@ -23,7 +23,7 @@
   },
   "deployment": {
     "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "GitHub main is the confirmed deployment source. The October 2 tribal-water article and chronic-absence article are both publicly visible. The chronic-absence article is the current homepage feature and first archive card. No additional approved unpublished editorial remained in the queue on October 3."
+    "status": "GitHub main remains the confirmed deployment source. Direct article URLs for the October 2 tribal-water and chronic-absence stories are publicly visible. However, the served archive still shows tribal water first and does not show chronic absence, while GitHub main contains the chronic-absence archive card and homepage feature. This live/repository mismatch blocks further publication until synchronization is understood."
   },
   "published_record": [
     {
@@ -99,7 +99,7 @@
       "publication_commit_date": "2026-10-02",
       "source": "staging/editorials/TMS_The_Absence_Rate_Was_Over_100_Percent_Publication_Package_2026-10-02.md",
       "drive_url": "https://drive.google.com/file/d/1LfEcZpIJS3sUIGVrI2YUtDJlLmLOQ1Q7/view?usp=drivesdk",
-      "notes": "Direct live article URL verified October 3, 2026. Homepage feature, archive lead card and RSS entry are present on GitHub main."
+      "notes": "Direct live article URL verified October 3, 2026. GitHub main contains the homepage feature, archive lead card and RSS entry, but the served archive still lacks the card; navigation/cache synchronization remains unresolved."
     }
   ],
   "queue": [],
@@ -108,11 +108,11 @@
     "currently_queued": 0,
     "publication_ready": 0,
     "retired_replaced_duplicates": 4,
-    "requiring_live_site_repository_reconciliation": 0,
+    "requiring_live_site_repository_reconciliation": 1,
     "verified_published_from_queue": 12,
     "reserved_queue_slots_pending_body_verification": 0,
     "historically_reported_finished_pending_body_verification": 0,
-    "live_site_access_verification_pending": 0
+    "live_site_access_verification_pending": 1
   },
   "pending_priority_requests": [
     {
@@ -132,9 +132,10 @@
   ],
   "website_quality_status": {
     "as_of": "2026-10-03",
-    "status": "deployment_live_verified",
-    "finding": "The tribal-water and chronic-absence articles are publicly visible. Chronic absence is the homepage feature and first archive card. No approved finished unpublished editorial remains queued.",
+    "status": "article_live_navigation_sync_pending",
+    "finding": "Both direct article URLs are live. GitHub main contains chronic absence as the homepage feature, first archive card and newest RSS item, but the served archive still lacks that card and leads with tribal water. No additional approved unpublished editorial remains queued.",
     "priority_order": [
+      "Resolve the served archive/homepage versus GitHub main synchronization gap",
       "Complete the Medicaid/SNAP work-requirement package",
       "Complete the broader Trump Receipt accounting",
       "Develop and approve the strongest new story brief before adding it to the queue",

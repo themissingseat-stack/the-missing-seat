@@ -22,6 +22,13 @@ Every TMS editorial must:
 
 ## Published from this queue
 
+- **2026-10-04 — America Keeps Measuring Black Anger. Who Is Measuring Black Strength?**
+  - Status: PUBLISHED by Jansen's explicit immediate-publication instruction.
+  - URL: https://themissingseat.org/black-strength-mental-cost-racism.html
+  - Distinct focus: adult racial stress, vigilance, resilience, recognition and support; not a duplicate of the child-crisis editorial.
+  - Article, archive, Race & Equal Humanity topic, homepage and feed included in the publication commit.
+
+
 - **2026-09-05 — How Far Have We Come? Show Me the Receipt.**
   - Status: PUBLISHED — do not queue or publish again.
   - Review-batch reconciliation completed 2026-10-03: article page and archive entry exist on the website.

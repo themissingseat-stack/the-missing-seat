@@ -124,6 +124,15 @@ Every TMS editorial must:
    - Required posting check: refresh all research links and time-sensitive claims; create the article page; add it to the Editorial Archive and Race & Equal Humanity topic page; update RSS; feature it on the homepage when appropriate; verify the public URL, title, body, source links, image, navigation, mobile layout, and absence of duplicates.
    - Action: publish in queue order after the earlier approved items; record the live URL and publication date here.
 
+
+14. **Before You Cut Care, Did You Stop Paying More for the Same Care?**
+   - Status: REVIEW READY / FULL JOE EDITORIAL PACKAGE AVAILABLE / AWAITING JANSEN APPROVAL / DO NOT PUBLISH
+   - Package: `editorial-packages/TMS_BEFORE_YOU_CUT_CARE_SITE_NEUTRAL_MEDICARE_PUBLICATION_PACKAGE.md`
+   - Focus: CBO's pre-reconciliation $156.9 billion Medicare site-neutral payment option; GAO's still-partially-addressed recommendation; contrast with 2025 Medicaid eligibility, enrollment, and financing changes; current CMS incremental site-neutral reforms; hospital access and safety-net counterarguments.
+   - Required caution: Medicare and Medicaid are different programs; do not claim the $156.9 billion could simply replace the Medicaid savings. Preserve hospital/rural access counterevidence and distinguish CBO options, GAO recommendations, enacted law, and CMS proposals.
+   - Action after approval: refresh all time-sensitive sources; duplication check; create article page; add to archive and correct topic page; update RSS; feature on homepage when appropriate; verify public URL, source links, image, navigation, mobile layout, and absence of duplicates.
+
+
 ## New research leads — not yet in posting order
 
 - **When Corruption Stops Counting: How the Supreme Court Has Narrowed America's Anti-Corruption Laws**

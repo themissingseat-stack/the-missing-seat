@@ -113,6 +113,17 @@ Every TMS editorial must:
    - Required posting check: refresh source links and factual claims; create the article page; add it to the Editorial Archive and Race & Equal Humanity topic page; update RSS; feature it on the homepage when appropriate; verify the public URL, title, body, source links, image, navigation, mobile layout, and absence of duplicates.
    - Action: publish in queue order after the earlier approved items; record the live URL and publication date here.
 
+
+14. **Learning to Unlearn**
+   - Status: APPROVED / FULL REVIEW PACKAGE AVAILABLE / QUEUED
+   - Package: `editorial-packages/TMS_LEARNING_TO_UNLEARN_REGULAR_JOE_EDITORIAL_PACKAGE.md`
+   - Topic: Race & Equal Humanity
+   - Focus: how racism can survive through inherited assumptions, fear, social learning and ideas people stop recognizing as learned; examines stubbornness, fear, loss, ignorance, strength and courage without reducing deliberate or structural racism to misunderstanding.
+   - Duplication check: PASSED. Distinct from **When “Colorblindness” Protects Inequality**, **Black History Did Not Begin With Slavery**, **Who Writes History?**, and **You Can Talk About Racism and Still Be Happy**.
+   - Required caution: do not excuse deliberate racism as ignorance; do not imply that individual attitude change alone repairs structural discrimination; preserve the distinction between learned prejudice, institutional practices and intentional discrimination.
+   - Required posting check: refresh all research links and time-sensitive claims; create the article page; add it to the Editorial Archive and Race & Equal Humanity topic page; update RSS; feature it on the homepage when appropriate; verify the public URL, title, body, source links, image, navigation, mobile layout, and absence of duplicates.
+   - Action: publish in queue order after the earlier approved items; record the live URL and publication date here.
+
 ## New research leads — not yet in posting order
 
 - **When Corruption Stops Counting: How the Supreme Court Has Narrowed America's Anti-Corruption Laws**

@@ -42,7 +42,7 @@ America spent generations making race somebody else’s burden. Expecting Black 
 
 ## Production status and identity
 
-Prepared October 3, 2026. REVIEW READY / QUEUED FOR REVIEW / AWAITING JANSEN APPROVAL. Do not publish automatically. Editorial number and internal publication date: assign after approval in the existing numbering system. No visible publication date.
+Prepared October 3, 2026. APPROVED / FULL EDITORIAL PACKAGE AVAILABLE / QUEUED. Jansen approved publication on October 3, 2026; publish in queue order. Editorial number and internal publication date: assign after approval in the existing numbering system. No visible publication date.
 
 Stories: how contradictory expectations affect Black Americans’ trust.
 Evidence: documented displacement, civil-rights statutes, 2022 family wealth and the 2023 admissions ruling.
@@ -158,7 +158,7 @@ Canonical URL on publication: https://themissingseat.org/the-absurdity-of-being-
 Homepage, archive and Race & Equal Humanity cards: use the same factual excerpt below, adapting container class to the existing page.
 Visible date: none.
 Internal scheduling date: assign at publication.
-Do not insert cards or feed items before approval.
+Insert cards and feed item when this approved story is published in queue order.
 
 ## Visual direction and alt text
 
@@ -175,7 +175,7 @@ Existing decorative chair icon: empty alt attribute; adjacent title carries mean
 
 ## Complete standalone story HTML for publication
 
-No public story file has been created. This complete template is contained here for staging after approval; assign the editorial number then.
+No public story file has been created. This complete template is contained here for staging at its approved queue turn; assign the editorial number then.
 
 ```html
 <!doctype html>
@@ -218,7 +218,7 @@ No public story file has been created. This complete template is contained here 
 - [x] Facebook, Instagram, Threads and WhatsApp copy
 - [x] SEO, cards, slug, alt text and visual direction
 - [x] Complete story HTML supplied
-- [ ] Jansen approval of this finished draft
+- [x] Jansen approval of this finished draft, October 3, 2026
 - [ ] Refresh time-sensitive sources and current archive-wide duplication check
 - [ ] Assign editorial number and internal publication date
 - [ ] Match final HTML to current site layout and test mobile/navigation

@@ -102,25 +102,11 @@
       "notes": "Direct live article URL verified October 3, 2026. GitHub main contains the homepage feature, archive lead card and RSS entry, but the served archive still lacks the card; navigation/cache synchronization remains unresolved."
     }
   ],
-  "queue": [
-    {
-      "queue_position": 1,
-      "title": "The Disaster Plan Included Everyone. The Training for Disability Access Disappeared.",
-      "slug": "the-disaster-plan-included-everyone-the-training-for-disability-access-disappeared.html",
-      "theme": "Disability Rights & Disaster Response",
-      "source": "staging/editorials/TMS_The_Disaster_Plan_Included_Everyone_Publication_Package_2026-10-03.md",
-      "drive_url": "https://drive.google.com/file/d/1iwXDfGPgos77Dsjf8UUi7SAD6F_Wkx3o/view?usp=drivesdk",
-      "completion_status": "full_finished_verified_publication_package",
-      "publication_status": "unpublished",
-      "duplication_status": "No matching live title, GitHub default-branch content, staged editorial package or Drive publication package was found on October 3, 2026. The October 3 story brief is the precursor, not a separate finished editorial.",
-      "status": "publication_ready_queued",
-      "notes": "Completed October 3. Claims verified against GAO-26-108057 and the official federal disaster-assistance portal. Distinguishes verified findings, FEMA's explanation, agency concurrence, open recommendations, limitations, inference and opinion. Includes metadata, full body, power-benefit-burden analysis, counterargument, action, receipts, verification notice and social copy. Hold deployment until the live archive/homepage synchronization mismatch is resolved."
-    }
-  ],
+  "queue": [],
   "counts": {
-    "full_finished_unpublished": 1,
-    "currently_queued": 1,
-    "publication_ready": 1,
+    "full_finished_unpublished": 0,
+    "currently_queued": 0,
+    "publication_ready": 0,
     "retired_replaced_duplicates": 4,
     "requiring_live_site_repository_reconciliation": 1,
     "verified_published_from_queue": 12,
@@ -236,7 +222,22 @@
       "status": "EEOC allegations resolved by a $230,000 consent decree on September 15, 2026; no trial finding of liability. The decree requires accommodation processes, multilingual leave policies, training and reporting."
     }
   ],
-  "deployment_pending_record": [],
+  "deployment_pending_record": [
+    {
+      "queue_position": 1,
+      "title": "The Disaster Plan Included Everyone. The Training for Disability Access Disappeared.",
+      "slug": "the-disaster-plan-included-everyone-the-training-for-disability-access-disappeared.html",
+      "theme": "Disability Rights & Disaster Response",
+      "source": "staging/editorials/TMS_The_Disaster_Plan_Included_Everyone_Publication_Package_2026-10-03.md",
+      "drive_url": "https://drive.google.com/file/d/1iwXDfGPgos77Dsjf8UUi7SAD6F_Wkx3o/view?usp=drivesdk",
+      "completion_status": "full_finished_verified_publication_package",
+      "publication_status": "publication_committed_live_verification_pending",
+      "duplication_status": "No matching live title, GitHub default-branch content, staged editorial package or Drive publication package was found on October 3, 2026. The October 3 story brief is the precursor, not a separate finished editorial.",
+      "status": "publication_ready_queued",
+      "notes": "Completed October 3. Claims verified against GAO-26-108057 and the official federal disaster-assistance portal. Distinguishes verified findings, FEMA's explanation, agency concurrence, open recommendations, limitations, inference and opinion. Includes metadata, full body, power-benefit-burden analysis, counterargument, action, receipts, verification notice and social copy. Hold deployment until the live archive/homepage synchronization mismatch is resolved.",
+      "publication_commit_date": "2026-10-03"
+    }
+  ],
   "story_briefs_2026_10_02": [
     {
       "title": "The Court File Closed. Did the Equal School Arrive First?",

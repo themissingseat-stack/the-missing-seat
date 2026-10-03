@@ -102,6 +102,17 @@ Every TMS editorial must:
    - Status: unfinished / blocked
    - Action: resolve evidence gaps before publication
 
+
+13. **You Can Talk About Racism and Still Be Happy**
+   - Status: APPROVED / FULL REVIEW PACKAGE AVAILABLE / QUEUED
+   - Package: `editorial-packages/TMS_YOU_CAN_TALK_ABOUT_RACISM_AND_STILL_BE_HAPPY_PUBLICATION_PACKAGE.md`
+   - Topic: Race & Equal Humanity
+   - Focus: why remembering slavery, Jim Crow, segregation and their measurable consequences is not the same as assigning inherited guilt; uses Germany's Holocaust remembrance culture as a carefully limited comparison about public memory, not historical equivalence.
+   - Duplication check: PASSED. Distinct from **When “Never Again” Does Not Include Everyone**, which addresses contemporary anti-Black discrimination in Germany, and **Who Writes History?**, which addresses book removals and public memory.
+   - Required caution: do not equate the Holocaust and American slavery; do not imply that every present racial disparity is caused by slavery or that every White American benefited equally. Keep the argument evidence-first and distinguish ending an injury from repairing accumulated loss.
+   - Required posting check: refresh source links and factual claims; create the article page; add it to the Editorial Archive and Race & Equal Humanity topic page; update RSS; feature it on the homepage when appropriate; verify the public URL, title, body, source links, image, navigation, mobile layout, and absence of duplicates.
+   - Action: publish in queue order after the earlier approved items; record the live URL and publication date here.
+
 ## New research leads — not yet in posting order
 
 - **When Corruption Stops Counting: How the Supreme Court Has Narrowed America's Anti-Corruption Laws**

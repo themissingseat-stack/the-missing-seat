@@ -4,6 +4,8 @@ Purpose: maintain a one-new-editorial-per-day publication cadence for The Missin
 
 ## Permanent publication rules
 
+Jansen’s instruction to put an editorial in the website queue constitutes approval for publication. Do not add another approval gate to that instruction. Research leads or unfinished packages still require completion and verification before posting.
+
 Every TMS editorial must:
 - sound like Jansen and use normal paragraphs
 - explain everything plainly
@@ -134,14 +136,14 @@ Every TMS editorial must:
 
 
 16. **The Absurdity of Being Black in America**
-   - Status: REVIEW READY / FULL EDITORIAL PACKAGE AVAILABLE / QUEUED FOR REVIEW / AWAITING JANSEN APPROVAL / DO NOT PUBLISH
+   - Status: APPROVED / FULL EDITORIAL PACKAGE AVAILABLE / QUEUED
    - Package: `editorial-packages/TMS_THE_ABSURDITY_OF_BEING_BLACK_IN_AMERICA_PUBLICATION_PACKAGE.md`
    - Topic: Race & Equal Humanity; secondary Justice & Law.
    - Focus: contradictory demands on Black Americans, public trust, institutional responsibility and a concrete request for records, responses and results.
    - Attribution: inspired by the framing of a Joshua Doss Harvard reel; no verified transcript and no quotation or attribution of TMS arguments to Doss.
    - Duplication: deliberate follow-up to existing repair/colorblindness coverage; substantial thematic overlap disclosed. Current live archive and queue-wide distinct-contribution check required before counting as a genuinely new daily editorial.
-   - Action after draft approval: refresh sources; confirm distinct contribution; assign editorial number; stage supplied HTML; update article/archive/topic/homepage/RSS in queue order; verify live links and mobile layout.
-   - Prepared: 2026-10-03. No public publication authorized by this entry.
+   - Action: publish in approved queue order; refresh sources; confirm distinct contribution; assign editorial number; stage supplied HTML; update article/archive/topic/homepage/RSS in queue order; verify live links and mobile layout.
+   - Approved by Jansen: 2026-10-03. Authorized for publication in queue order.
 
 
 ## New research leads — not yet in posting order

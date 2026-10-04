@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-10-03",
+  "last_reconciled": "2026-10-04",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -23,7 +23,7 @@
   },
   "deployment": {
     "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "GitHub main remains the confirmed deployment source. Direct article URLs for the October 2 tribal-water and chronic-absence stories are publicly visible. However, the served archive still shows tribal water first and does not show chronic absence, while GitHub main contains the chronic-absence archive card and homepage feature. This live/repository mismatch blocks further publication until synchronization is understood."
+    "status": "GitHub main is the confirmed deployment source. The served archive now matches the repository and visibly lists the October 4 Black-strength editorial, the October 3 FEMA disability-access editorial, the chronic-absence editorial and the tribal-water editorial in the expected order."
   },
   "published_record": [
     {
@@ -100,19 +100,54 @@
       "source": "staging/editorials/TMS_The_Absence_Rate_Was_Over_100_Percent_Publication_Package_2026-10-02.md",
       "drive_url": "https://drive.google.com/file/d/1LfEcZpIJS3sUIGVrI2YUtDJlLmLOQ1Q7/view?usp=drivesdk",
       "notes": "Direct live article URL verified October 3, 2026. GitHub main contains the homepage feature, archive lead card and RSS entry, but the served archive still lacks the card; navigation/cache synchronization remains unresolved."
+    },
+    {
+      "title": "The Disaster Plan Included Everyone. The Training for Disability Access Disappeared.",
+      "slug": "the-disaster-plan-included-everyone-the-training-for-disability-access-disappeared.html",
+      "published_verified": "2026-10-03",
+      "source": "GitHub main commit b05dd9bb830a69afeaba13e91ee0c5935815a8ca",
+      "notes": "Direct article and archive card verified live October 4, 2026."
+    },
+    {
+      "title": "America Keeps Measuring Black Anger. Who Is Measuring Black Strength?",
+      "slug": "black-strength-mental-cost-racism.html",
+      "published_verified": "2026-10-04",
+      "source": "editorial-packages/TMS_Black_Strength_English_Package.md; GitHub main commit 418e8d3cf7c17c9451d1b0bc9f48b24624ae3794",
+      "notes": "Published by Jansen's explicit immediate-publication instruction. Direct archive card and URL verified live October 4, 2026."
     }
   ],
-  "queue": [],
+  "queue": [
+    {
+      "position": 1,
+      "title": "The Absurdity of Being Black in America",
+      "slug": "the-absurdity-of-being-black-in-america",
+      "status": "approved; full finished editorial; queued for next available calendar-day slot",
+      "approved": "2026-10-03",
+      "earliest_publication_date": "2026-10-05",
+      "source": "editorial-packages/TMS_THE_ABSURDITY_OF_BEING_BLACK_IN_AMERICA_PUBLICATION_PACKAGE.md",
+      "duplication_status": "materially distinct; focuses on contradictory expectations placed on Black Americans, trust, displacement, wealth and present-day equality claims",
+      "related_live_comparators": [
+        "black-strength-mental-cost-racism.html",
+        "how-far-have-we-come-show-me-the-receipt.html"
+      ],
+      "remaining_work": [
+        "Refresh time-sensitive sources immediately before publication",
+        "Recheck live archive for material duplication",
+        "Assign internal editorial number/date",
+        "Render in current site layout and verify mobile/navigation"
+      ]
+    }
+  ],
   "counts": {
-    "full_finished_unpublished": 0,
-    "currently_queued": 0,
-    "publication_ready": 0,
+    "full_finished_unpublished": 1,
+    "currently_queued": 1,
+    "publication_ready": 1,
     "retired_replaced_duplicates": 4,
-    "requiring_live_site_repository_reconciliation": 1,
-    "verified_published_from_queue": 12,
+    "requiring_live_site_repository_reconciliation": 0,
+    "verified_published_from_queue": 14,
     "reserved_queue_slots_pending_body_verification": 0,
     "historically_reported_finished_pending_body_verification": 0,
-    "live_site_access_verification_pending": 1
+    "live_site_access_verification_pending": 0
   },
   "pending_priority_requests": [
     {
@@ -131,12 +166,11 @@
     }
   ],
   "website_quality_status": {
-    "as_of": "2026-10-03",
-    "status": "article_live_navigation_sync_pending",
-    "finding": "Both direct article URLs are live. GitHub main contains chronic absence as the homepage feature, first archive card and newest RSS item, but the served archive still lacks that card and leads with tribal water. No additional approved unpublished editorial remains queued.",
+    "as_of": "2026-10-04",
+    "status": "live_archive_and_repository_reconciled",
+    "finding": "The served archive now visibly matches GitHub main for the newest stories. The October 4 publication slot was filled by the Black-strength editorial; no second story may publish today.",
     "priority_order": [
-      "Resolve the served archive/homepage versus GitHub main synchronization gap",
-      "Publish the FEMA disability-access editorial in the next safe daily slot",
+      "Publish the approved Absurdity editorial in the next safe daily slot after a fresh verification pass",
       "Complete the Medicaid/SNAP work-requirement package",
       "Complete the broader Trump Receipt accounting",
       "Keep the 16 approved website replacements separate from new publication inventory"
@@ -276,6 +310,26 @@
       "seat_affected": "Veterans and VA staff exposed to harassment, sexual harassment or sexual assault in medical centers",
       "source": "https://www.gao.gov/products/gao-26-109183",
       "status": "GAO found more than 31,000 reported incidents in fiscal years 2020-2025 but cautioned that reports likely underestimate prevalence. VA did not provide comments; GAO's systemwide prevalence recommendation remains open."
+    }
+  ],
+  "story_briefs_2026_10_04": [
+    {
+      "title": "The Budget Decisions Became Legally Binding. Then the Public Website Disappeared.",
+      "seat_affected": "Taxpayers, Congress and anyone tracking federal spending",
+      "source": "https://www.gao.gov/products/e12062",
+      "status": "GAO General Counsel letter; OMB says disclosure can expose deliberative or sensitive information, while GAO disputes that characterization for legally binding apportionments."
+    },
+    {
+      "title": "USAID Ended. The State Department Took the Programs Without a Written Decision Rule.",
+      "seat_affected": "Refugees and populations relying on U.S. humanitarian and development assistance",
+      "source": "https://www.gao.gov/products/gao-26-108607",
+      "status": "GAO report published September 30, 2026; GAO found State lacked documented guidance for consistent and effective foreign-assistance decisions after taking over remaining USAID programs."
+    },
+    {
+      "title": "The Accommodation Worked for Seven Years. Then the Nursing Home Allegedly Took It Away.",
+      "seat_affected": "Disabled workers, especially direct-care and nursing-home staff",
+      "source": "https://www.eeoc.gov/newsroom/eeoc-sues-optima-care-fountains-disability-discrimination",
+      "status": "EEOC lawsuit announced October 1, 2026; allegations are not adjudicated findings and no settlement or liability determination has been reported."
     }
   ]
 }

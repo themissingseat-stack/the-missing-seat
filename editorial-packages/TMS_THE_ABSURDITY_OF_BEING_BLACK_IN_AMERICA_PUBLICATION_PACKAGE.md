@@ -42,7 +42,7 @@ America spent generations making race somebody else’s burden. Expecting Black 
 
 ## Production status and identity
 
-Prepared October 3, 2026. APPROVED / FULL EDITORIAL PACKAGE AVAILABLE / QUEUED. Jansen approved publication on October 3, 2026; publish in queue order. Editorial number and internal publication date: assign after approval in the existing numbering system. No visible publication date.
+Prepared October 3, 2026. PUBLISHED OCTOBER 5, 2026. Jansen approved publication on October 3, 2026; published in queue order. Editorial number and internal publication date: assign after approval in the existing numbering system. No visible publication date.
 
 Stories: how contradictory expectations affect Black Americans’ trust.
 Evidence: documented displacement, civil-rights statutes, 2022 family wealth and the 2023 admissions ruling.
@@ -219,8 +219,8 @@ No public story file has been created. This complete template is contained here 
 - [x] SEO, cards, slug, alt text and visual direction
 - [x] Complete story HTML supplied
 - [x] Jansen approval of this finished draft, October 3, 2026
-- [ ] Refresh time-sensitive sources and current archive-wide duplication check
-- [ ] Assign editorial number and internal publication date
-- [ ] Match final HTML to current site layout and test mobile/navigation
-- [ ] Publish story, homepage/archive/topic cards and RSS in queue order
+- [x] Refreshed time-sensitive sources and current archive-wide duplication check, October 5, 2026
+- [x] Assigned internal publication date: October 5, 2026
+- [x] Matched final HTML to current site layout; live verification pending
+- [x] Published story, homepage/archive/topic cards and RSS in queue order
 - [ ] Verify live page and all discovery links; record publication receipt

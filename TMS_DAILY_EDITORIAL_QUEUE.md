@@ -1,201 +1,275 @@
 # TMS Daily Editorial Queue
 
-Purpose: maintain a one-new-editorial-per-day publication cadence for The Missing Seat.
+**Reconciled:** 2026-10-06
+
+Purpose: keep The Missing Seat publication order accurate, prevent duplicate publication, and maintain a default cadence of one genuinely new editorial per day. When a backlog exists, Jansen has authorized publishing two genuinely new editorials on the same day.
 
 ## Permanent publication rules
 
 Jansen’s instruction to put an editorial in the website queue constitutes approval for publication. Do not add another approval gate to that instruction. Research leads or unfinished packages still require completion and verification before posting.
 
 Every TMS editorial must:
-- sound like Jansen and use normal paragraphs
-- explain everything plainly
-- remove repetition and AI theatrics
-- keep only the strongest evidence
-- distinguish fact, allegation, inference, opinion, counterevidence and unresolved questions
-- clearly identify who benefited, who paid, who had power and who was missing
-- explain why the story matters
-- end with meaningful ways to participate
+
+- sound like Jansen
+- use a real publication structure: developed paragraphs, restrained subheads, and normal editorial flow
+- pass the **Regular Joe Test**: a lay reader should understand what happened, why it matters, what the evidence shows, and what can be done without already knowing the law, history, agency, or jargon
+- explain necessary legal, academic, technical, or government terms in plain English
+- avoid stacked one-line dramatic paragraphs, rhetorical-question chains, repetitive cadence, and AI theatrics
+- keep the evidence and complexity while simplifying the explanation, not the truth
+- use the standing editorial flow as a guide: **HOOK → HUMAN → STORY → SURPRISE → RECEIPT → CONSEQUENCE → TODAY → POSSIBILITY → ACTION**
+- identify **Who is missing?**
+- use **Receipts = how we know** and **Recipes = what the reader can actually do**
+- preserve **S · E · A · T = Stories · Evidence · Action · Together**
+- cover consequence, not provocation
+- distinguish fact, allegation, inference, opinion, counterevidence, and unresolved questions
+- identify who benefited, who paid, who held power, and who carried the burden where the evidence supports it
+- fact-check and refresh time-sensitive claims immediately before publication
+- run a duplication check against live article pages, the Editorial Archive, topic pages, and the current queue before publication
+- treat a materially updated follow-up as potentially new; same subject matter alone does not make it a duplicate
 - remain serious enough to cite and defend
-- pass the Regular Joe Test
-- be checked for duplication before publication
-- be fact-checked and updated immediately before publication
 
-## Published from this queue
+## Publication-status definitions
 
-- **2026-10-06 — You Can Talk About Racism and Still Be Happy**
-  - Status: PUBLISHED
+- **PUBLISHED / VERIFIED COMPLETE** = article page is live and the normal website publication surfaces have been updated as appropriate.
+- **PUBLISHED / RECONCILIATION NEEDED** = a live article page exists, but one or more archive/topic/RSS/homepage integrations still need repair. Do not publish the story again; repair the website shell only.
+- **APPROVED / QUEUED** = Jansen has approved publication and the item remains in posting order.
+- **PUBLICATION-READY** = full editorial package exists and is ready for final pre-publication verification.
+- **BLOCKED** = the item may not be substituted silently. Identify the blocker and notify Jansen before moving past it.
+- **RESEARCH / BRIEF ONLY** = not ready to post.
+- **AWAITING APPROVAL** = do not publish.
+
+## Published / do not queue again
+
+### 2026-10-06
+- **You Can Talk About Racism and Still Be Happy**
+  - Status: **PUBLISHED / VERIFIED COMPLETE**
   - URL: https://themissingseat.org/you-can-talk-about-racism-and-still-be-happy.html
-  - Article, archive, Race & Equal Humanity topic, homepage feature and RSS feed included in publication commits.
+  - Article, Editorial Archive, Race & Equal Humanity topic, homepage feature, and RSS updated.
 
-- **2026-10-04 — America Keeps Measuring Black Anger. Who Is Measuring Black Strength?**
-  - Status: PUBLISHED by Jansen's explicit immediate-publication instruction.
+### 2026-10-05
+- **The Absurdity of Being Black in America**
+  - Status: **PUBLISHED / VERIFIED COMPLETE**
+  - URL: https://themissingseat.org/the-absurdity-of-being-black-in-america.html
+  - Article, archive, Race topic, homepage, and RSS publication commits exist.
+
+- **Found Hanging in America: Why Are Black People Still Being Found This Way?**
+  - Status: **PUBLISHED / RECONCILIATION NEEDED**
+  - URL: https://themissingseat.org/found-hanging-in-america-why-are-black-people-still-being-found-this-way.html
+  - A live article page was created on 2026-10-05.
+  - Current reconciliation finding: the title is not present in `stories.html`, `index.html`, or `feed.xml`.
+  - Action: add the existing live article to the proper archive/topic/RSS/homepage surfaces as appropriate. **Do not republish or recreate the article.**
+
+### 2026-10-04
+- **America Keeps Measuring Black Anger. Who Is Measuring Black Strength?**
+  - Status: **PUBLISHED / VERIFIED COMPLETE**
   - URL: https://themissingseat.org/black-strength-mental-cost-racism.html
-  - Distinct focus: adult racial stress, vigilance, resilience, recognition and support; not a duplicate of the child-crisis editorial.
-  - Article, archive, Race & Equal Humanity topic, homepage and feed included in the publication commit.
 
+### 2026-10-03
+- **The Disaster Plan Included Everyone. The Training for Disability Access Disappeared.**
+  - Status: **PUBLISHED**
+  - URL: https://themissingseat.org/the-disaster-plan-included-everyone-the-training-for-disability-access-disappeared.html
 
-- **2026-09-05 — How Far Have We Come? Show Me the Receipt.**
-  - Status: PUBLISHED — do not queue or publish again.
-  - Review-batch reconciliation completed 2026-10-03: article page and archive entry exist on the website.
+### 2026-10-02
+- **The Absence Rate Was Over 100%. The Oversight Had Already Stopped.**
+  - Status: **PUBLISHED**
+  - URL: https://themissingseat.org/the-absence-rate-was-over-100-percent-the-oversight-had-already-stopped.html
 
-- **2026-09-05 — The Navy Spent $3.4 Billion Keeping Submarines and Crews Waiting**
-  - Status: PUBLISHED — do not queue or publish again.
-  - Review-batch reconciliation completed 2026-10-03: article page and archive entry exist on the website.
+### 2026-10-01
+- **The Water Project Was Built. The Missing Money Was for Keeping It Alive.**
+  - Status: **PUBLISHED**
+  - URL: https://themissingseat.org/the-water-project-was-built-the-missing-money-was-for-keeping-it-alive.html
 
-- **2026-09-05 — The Apartment Was Available. Access Still Wasn't.**
-  - Status: PUBLISHED — do not queue or publish again.
-  - Review-batch reconciliation completed 2026-10-03: article page and archive entry exist on the website.
+### 2026-09-30
+- **The Efficiency Team Got Access. The Public Still Cannot See the Security Receipt.**
+  - Status: **PUBLISHED**
+  - URL: https://themissingseat.org/the-efficiency-team-got-access-the-public-still-cannot-see-the-security-receipt.html
 
-- **2026-09-05 — The Government Isn't the Public's Boss**
-  - Status: PUBLISHED — do not queue or publish again.
-  - Review-batch reconciliation completed 2026-10-03: article page and archive entry exist on the website.
+- **The HR Manager Said No to Discrimination. Then She Allegedly Lost Her Job.**
+  - Status: **PUBLISHED / VERIFIED COMPLETE**
+  - URL: https://themissingseat.org/the-hr-manager-said-no-to-discrimination-then-she-allegedly-lost-her-job.html
 
-- **2026-09-30 — The HR Manager Said No to Discrimination. Then She Allegedly Lost Her Job.**
-  - Status: PUBLISHED
-  - Verified on site, archive, Race & Equal Humanity topic page, homepage feature, and RSS feed.
-  - Publication basis: September 25, 2026 EEOC announcement of a $1.5 million settlement and three-year consent decree in EEOC v. Mile Hi Foods, Co., et al.; allegations are explicitly distinguished from adjudicated findings.
+### 2026-09-29
+- **America Is Giving Away Its Future**
+  - Status: **PUBLISHED**
+  - URL: https://themissingseat.org/america-is-giving-away-its-future.html
+  - Removed from the future queue. The older queue entry **America Is Giving Away Its Future, Brick by Brick** referred to work that has now been published under this live title.
 
-## Daily publication order
+- **They Served the United States. The Nearest VA Care May Be an Ocean Away.**
+  - Status: **PUBLISHED / RECONCILIATION NEEDED**
+  - URL: https://themissingseat.org/they-served-the-united-states-the-nearest-va-care-may-be-an-ocean-away.html
+  - Article page and RSS evidence exist; current archive reconciliation found no title entry in `stories.html`.
+  - Action: repair archive/topic/homepage integration as appropriate. Do not republish.
 
-1. **The Cloud Has an Address. Somebody Else Is Paying the Bill.**
-   - Status: APPROVED / FULL REVIEW PACKAGE AVAILABLE / NEXT TO PUBLISH
-   - Focus: data-center growth, who profits, electricity and water demand, land use, public subsidies, and the communities carrying environmental and infrastructure burdens.
-   - Required pre-publication check: refresh all time-sensitive figures and claims; confirm the story is not already live under this or a substantially similar title; preserve fact/inference/opinion distinctions.
-   - Required posting check: create the article page; add it to the Editorial Archive and the correct topic page; update RSS; feature it on the homepage when appropriate; then verify the public URL, title, body, source links, image, navigation, mobile layout, and absence of duplicates.
-   - Action: verify, publish once, and record the live URL and publication date here.
+### 2026-09-28
+- **They Trusted Black Women With Their Babies. Just Not With Power.**
+  - Status: **PUBLISHED / RECONCILIATION NEEDED**
+  - URL: https://themissingseat.org/they-trusted-black-women-with-their-babies-just-not-with-power.html
+  - Article page and RSS evidence exist; current archive reconciliation found no title entry in `stories.html`.
+  - Action: repair archive/topic/homepage integration as appropriate. Do not republish.
 
-2. **Found Hanging in America: Why Are Black People Still Being Found This Way?**
-   - Status: FOLLOW-UP / MATERIAL NEW EVIDENCE — REASSESS IN LATER SLOT
-   - Similarity ruling corrected 2026-10-06: same subject matter does not make this a duplicate. The controlling thesis, new cases, congressional action, changed investigative record and accountability question must be assessed against the closest live comparator when its publication slot arrives.
-   - Existing TMS coverage: **“No Foul Play”: What Black Families Are Asked to Trust** (published Aug. 2, 2026) already examines contemporary Black hanging deaths, including Kyle Bassinga and Jerard Jackson; explicitly warns that “found hanged” is not synonymous with “lynched”; explains the racial-terror history; sets evidence/transparency standards; and commits TMS to updating the record when new evidence emerges.
-   - 2026-10-01 verification: the existing article substantially overlaps the proposed premise, so publishing the queued story as written would violate the no-duplication and genuinely-new-story rules.
-   - Material new evidence that belongs in an UPDATE/FOLLOW-UP rather than a duplicate article: On Sept. 10, 2026, Rep. Ayanna Pressley and 59 colleagues asked DOJ/FBI for comprehensive review of Black hanging deaths and systematic data collection, saying at least 10 had been reported in 2026. Tasia Fortune’s Aug. 3 Jackson, Mississippi death has since been ruled homicide; police testimony says she was killed before her body was hung in a staged scene. Three men have been charged with murder. Fortune’s mother has said she does not believe the killing was racially motivated. Demetrius Fleming’s Aug. 21 Roanoke Rapids, North Carolina death was publicly described by police as an open, equivocal death investigation with no assumption yet as to suicide, homicide or accident in the latest reliable reporting located.
-   - Required caution: the congressional letter’s count is a lawmaker claim/request for investigation, not proof that the deaths were lynchings or homicides. Do not collapse suicide findings, disputed findings, open investigations and confirmed homicide into one evidentiary category.
-   - Action: retain as an eligible substantive follow-up. Before publication, refresh every case, preserve the closest live comparator, and verify that the new evidence still supports a materially distinct and useful editorial.
+### 2026-09-26
+- **The Campaign Was the Ad. We’re Stuck With the Bill.**
+  - Status: **PUBLISHED**
+  - URL: https://themissingseat.org/the-campaign-was-the-ad-were-stuck-with-the-bill.html
 
-3. **What Does America Think Rape Is Worth? Women, Children, Race and the Sentencing Gap**
-   - Status: approved / evidence review started
-   - Focus: test whether White male defendants receive disproportionate leniency in sexual-assault cases; compare child-victim and adult-victim cases; examine charging, plea bargaining, probation, suspended sentences, downward variances, statutory ranges and actual time imposed; distinguish federal from state systems; include victim race where the evidence permits.
-   - Current evidence anchors: U.S. Sentencing Commission FY2025 sexual-abuse and child-pornography data; 2023 USSC demographic sentencing report; 2026 systematic review of 347 sentencing studies; CDC/NISVS perpetrator-sex data; FBI/NIBRS victim/offender data; state sentencing datasets and selected case files.
-   - Required caution: do not claim that White men as a group protect rapists or that White defendants always receive lighter sexual-assault sentences. Test that hypothesis against the evidence and report contrary findings. Separate hands-on child sexual abuse from child-pornography offenses.
-   - Action: build a race/sex/victim-age sentencing ledger, identify recent representative cases, verify every sentence and charging decision, write full TMS editorial, publish
+### 2026-09-13
+- **Trump and Black America: What Helped, What Hurt, and What Will Last?**
+  - Status: **PUBLISHED**
+  - URL: https://themissingseat.org/trump-and-black-america-what-helped-what-hurt-and-what-will-last.html
 
-4. **Unsafe School Facilities**
-   - Status: verified brief available
-   - Action: complete full TMS editorial, verify, publish
+### 2026-09-12
+- **Dear World: Before You Tell Me How Great America Is, Tell the Whole Story**
+  - Status: **PUBLISHED**
+  - URL: https://themissingseat.org/dear-world-before-you-tell-me-how-great-america-is.html
 
-5. **Fair-Housing Backlog**
-   - Status: verified brief available
-   - Action: complete full TMS editorial, verify, publish
+- **Germany Has to Decide What Kind of Country It Wants to Be**
+  - Status: **PUBLISHED**
+  - English: https://themissingseat.org/germany-must-decide-what-kind-of-country-it-wants-to-be.html
+  - German: https://themissingseat.org/deutschland-muss-entscheiden-was-fuer-ein-land-es-sein-will.html
 
-6. **Arkansas Rural Maternal Health**
-   - Status: research/story brief available
-   - Action: complete full TMS editorial, verify, publish
+- **If a Program Was Built to Reach Black Americans, Say So.**
+  - Status: **PUBLISHED / RECONCILIATION NEEDED**
+  - URL: https://themissingseat.org/if-a-program-was-built-to-reach-black-americans-say-so.html
+  - Live article page exists, but the title is not currently present in `stories.html`, `index.html`, or `feed.xml`.
+  - Action: repair normal website publication surfaces. Do not republish.
 
-7. **Tribal Homelessness Evidence**
-   - Status: research brief available
-   - Action: complete full TMS editorial, verify, publish
+### 2026-09-05
+- **How Far Have We Come? Show Me the Receipt.** — PUBLISHED
+- **The Navy Spent $3.4 Billion Keeping Submarines and Crews Waiting** — PUBLISHED
+- **The Apartment Was Available. Access Still Wasn't.** — PUBLISHED
+- **Two Tenants Were Incarcerated. Only One Allegedly Lost the Keys.** — PUBLISHED
+- **The Government Isn't the Public's Boss** — PUBLISHED
 
-8. **Multilingual Weather Alerts**
-   - Status: approved / in progress
-   - Action: complete research and full TMS editorial, verify, publish
+Older live stories remain protected against duplicate publication by the live article files and Editorial Archive. A queue item must be checked against the repository before a new page is created.
 
-9. **Disability Access at Job Centers**
-   - Status: approved / in progress
-   - Action: complete research and full TMS editorial, verify, publish
+## Website reconciliation backlog
 
-10. **Student-Loan Servicer Communication**
-   - Status: approved / in progress
-   - Action: complete research and full TMS editorial, verify, publish
+These repairs **do not count as new daily editorials**:
 
-11. **America Is Giving Away Its Future, Brick by Brick**
-   - Status: approved / in development
-   - Focus: Canada recruiting scientists; research cuts; weakened oversight/civil-rights enforcement; who benefits and who pays
-   - Action: complete research and full TMS editorial, verify, publish
+1. Add **Found Hanging in America** to the appropriate archive/topic/RSS/homepage surfaces.
+2. Add **They Served the United States. The Nearest VA Care May Be an Ocean Away.** to the Editorial Archive and any missing website surfaces.
+3. Add **They Trusted Black Women With Their Babies. Just Not With Power.** to the Editorial Archive and any missing website surfaces.
+4. Add **If a Program Was Built to Reach Black Americans, Say So.** to the Editorial Archive and any missing website surfaces.
 
-12. **Medicaid/SNAP Work Requirements**
-   - Status: unfinished / blocked
-   - Action: resolve evidence gaps before publication
+## Active daily publication order
 
+### 1. The Cloud Has an Address. Somebody Else Is Paying the Bill.
+- Status: **APPROVED / QUEUED / BLOCKED**
+- Focus: data-center growth, profits, electricity and water demand, land use, public subsidies, and communities carrying environmental and infrastructure burdens.
+- Reconciliation finding: the old queue claimed a full review package existed, but no Cloud/data-center package is present in the current `editorial-packages` directory.
+- Blocker: recover or rebuild the full Regular Joe publication package and refresh all current figures and claims.
+- Action: do **not** silently skip. Notify Jansen before substituting another story.
 
-13. **You Can Talk About Racism and Still Be Happy**
-   - Status: PUBLISHED — 2026-10-06
-   - Live URL: https://themissingseat.org/you-can-talk-about-racism-and-still-be-happy.html
-   - Publication verification: article page, Editorial Archive, Race & Equal Humanity topic page, RSS feed and homepage feature updated.
-   - Similarity review: PASSED. Closest live comparators preserve different controlling theses; this editorial focuses on public memory without inherited personal guilt.
-   - Status before publication: APPROVED / FULL REVIEW PACKAGE AVAILABLE / QUEUED
-   - Package: `editorial-packages/TMS_YOU_CAN_TALK_ABOUT_RACISM_AND_STILL_BE_HAPPY_PUBLICATION_PACKAGE.md`
-   - Topic: Race & Equal Humanity
-   - Focus: why remembering slavery, Jim Crow, segregation and their measurable consequences is not the same as assigning inherited guilt; uses Germany's Holocaust remembrance culture as a carefully limited comparison about public memory, not historical equivalence.
-   - Duplication check: PASSED. Distinct from **When “Never Again” Does Not Include Everyone**, which addresses contemporary anti-Black discrimination in Germany, and **Who Writes History?**, which addresses book removals and public memory.
-   - Required caution: do not equate the Holocaust and American slavery; do not imply that every present racial disparity is caused by slavery or that every White American benefited equally. Keep the argument evidence-first and distinguish ending an injury from repairing accumulated loss.
-   - Required posting check: refresh source links and factual claims; create the article page; add it to the Editorial Archive and Race & Equal Humanity topic page; update RSS; feature it on the homepage when appropriate; verify the public URL, title, body, source links, image, navigation, mobile layout, and absence of duplicates.
-   - Action: publish in queue order after the earlier approved items; record the live URL and publication date here.
+### 2. What Does America Think Rape Is Worth? Women, Children, Race and the Sentencing Gap
+- Status: **APPROVED / QUEUED / EVIDENCE REVIEW UNDERWAY / NOT PUBLICATION-READY**
+- Research file: `TMS_RAPE_SENTENCING_RESEARCH.md`
+- Focus: test sentencing patterns rather than assume them; compare child/adult victim cases, charging, pleas, probation, suspended sentences, downward variances, statutory ranges, and actual time imposed.
+- Required caution: distinguish federal/state systems; separate hands-on child sexual abuse from child-pornography offenses; report contrary findings.
+- Action: complete sentencing ledger, representative-case verification, full Regular Joe editorial, Receipts & Recipes, social versions, duplication check, and final fact-check.
 
+### 3. Unsafe School Facilities
+- Status: **APPROVED / QUEUED / VERIFIED BRIEF ONLY**
+- Action: complete full TMS editorial, Regular Joe review, duplication check, verification, and publication package.
 
-14. **Learning to Unlearn**
-   - Status: APPROVED / FULL REVIEW PACKAGE AVAILABLE / QUEUED
-   - Package: `editorial-packages/TMS_LEARNING_TO_UNLEARN_REGULAR_JOE_EDITORIAL_PACKAGE.md`
-   - Topic: Race & Equal Humanity
-   - Focus: how racism can survive through inherited assumptions, fear, social learning and ideas people stop recognizing as learned; examines stubbornness, fear, loss, ignorance, strength and courage without reducing deliberate or structural racism to misunderstanding.
-   - Duplication check: PASSED. Distinct from **When “Colorblindness” Protects Inequality**, **Black History Did Not Begin With Slavery**, **Who Writes History?**, and **You Can Talk About Racism and Still Be Happy**.
-   - Required caution: do not excuse deliberate racism as ignorance; do not imply that individual attitude change alone repairs structural discrimination; preserve the distinction between learned prejudice, institutional practices and intentional discrimination.
-   - Required posting check: refresh all research links and time-sensitive claims; create the article page; add it to the Editorial Archive and Race & Equal Humanity topic page; update RSS; feature it on the homepage when appropriate; verify the public URL, title, body, source links, image, navigation, mobile layout, and absence of duplicates.
-   - Action: publish in queue order after the earlier approved items; record the live URL and publication date here.
+### 4. Fair-Housing Backlog
+- Status: **APPROVED / QUEUED / VERIFIED BRIEF ONLY**
+- Action: complete full TMS editorial, Regular Joe review, duplication check, verification, and publication package.
 
+### 5. Arkansas Rural Maternal Health
+- Status: **APPROVED / QUEUED / RESEARCH BRIEF ONLY**
+- Action: complete research and full TMS publication package.
 
-14. **Before You Cut Care, Did You Stop Paying More for the Same Care?**
-   - Status: REVIEW READY / FULL JOE EDITORIAL PACKAGE AVAILABLE / AWAITING JANSEN APPROVAL / DO NOT PUBLISH
-   - Package: `editorial-packages/TMS_BEFORE_YOU_CUT_CARE_SITE_NEUTRAL_MEDICARE_PUBLICATION_PACKAGE.md`
-   - Focus: CBO's pre-reconciliation $156.9 billion Medicare site-neutral payment option; GAO's still-partially-addressed recommendation; contrast with 2025 Medicaid eligibility, enrollment, and financing changes; current CMS incremental site-neutral reforms; hospital access and safety-net counterarguments.
-   - Required caution: Medicare and Medicaid are different programs; do not claim the $156.9 billion could simply replace the Medicaid savings. Preserve hospital/rural access counterevidence and distinguish CBO options, GAO recommendations, enacted law, and CMS proposals.
-   - Action after approval: refresh all time-sensitive sources; duplication check; create article page; add to archive and correct topic page; update RSS; feature on homepage when appropriate; verify public URL, source links, image, navigation, mobile layout, and absence of duplicates.
+### 6. Tribal Homelessness Evidence
+- Status: **APPROVED / QUEUED / RESEARCH BRIEF ONLY**
+- Action: complete research and full TMS publication package.
 
+### 7. The Warning Arrived. The Language Did Not.
+- Former queue label: **Multilingual Weather Alerts**
+- Status: **APPROVED / QUEUED / FULL, FINISHED, PUBLICATION-READY**
+- Package: `editorial-packages/TMS_THE_WARNING_ARRIVED_THE_LANGUAGE_DID_NOT_2026-10-05.md`
+- Topic: Democracy & Government
+- Focus: language access in emergency weather alerts, federal/local gaps, current translation systems, and accountable use of AI translation.
+- Duplication check in package: distinct from the FEMA disability-access editorial.
+- Action: refresh time-sensitive source links immediately before publication, then publish in queue order.
 
-16. **The Absurdity of Being Black in America**
-   - Status: APPROVED / FULL EDITORIAL PACKAGE AVAILABLE / QUEUED
-   - Package: `editorial-packages/TMS_THE_ABSURDITY_OF_BEING_BLACK_IN_AMERICA_PUBLICATION_PACKAGE.md`
-   - Topic: Race & Equal Humanity; secondary Justice & Law.
-   - Focus: contradictory demands on Black Americans, public trust, institutional responsibility and a concrete request for records, responses and results.
-   - Attribution: inspired by the framing of a Joshua Doss Harvard reel; no verified transcript and no quotation or attribution of TMS arguments to Doss.
-   - Duplication: deliberate follow-up to existing repair/colorblindness coverage; substantial thematic overlap disclosed. Current live archive and queue-wide distinct-contribution check required before counting as a genuinely new daily editorial.
-   - Action: publish in approved queue order; refresh sources; confirm distinct contribution; assign editorial number; stage supplied HTML; update article/archive/topic/homepage/RSS in queue order; verify live links and mobile layout.
-   - Approved by Jansen: 2026-10-03. Authorized for publication in queue order.
+### 8. Disability Access at Job Centers
+- Status: **APPROVED / QUEUED / IN PROGRESS**
+- Action: complete research and full TMS publication package.
 
+### 9. Student-Loan Servicer Communication
+- Status: **APPROVED / QUEUED / IN PROGRESS**
+- Action: complete research and full TMS publication package.
 
-## New research leads — not yet in posting order
+### 10. Medicaid/SNAP Work Requirements
+- Status: **APPROVED / QUEUED / BLOCKED**
+- Blocker: unresolved evidence gaps.
+- Action: resolve evidence gaps before publication.
+
+### 11. Learning to Unlearn
+- Status in queue: **APPROVED / QUEUED / FULL PACKAGE AVAILABLE**
+- Package: `editorial-packages/TMS_LEARNING_TO_UNLEARN_REGULAR_JOE_EDITORIAL_PACKAGE.md`
+- Topic: Race & Equal Humanity
+- Focus: learned assumptions, fear, identity, socialization, and what it takes to reconsider inherited racial beliefs without excusing deliberate or structural racism.
+- Duplication check: previously passed against the closest live comparators.
+- Reconciliation note: the package header still says “DRAFT FOR REVIEW / NOT YET QUEUED,” while the queue later records Jansen approval and queued status. Treat the queue approval as controlling; update the package metadata before publication rather than asking for another approval.
+- Action: final source refresh, package-metadata correction, duplication recheck, then publish in queue order.
+
+## Publication-ready reserve packages — not yet assigned a queue position
+
+These are finished packages but are **not silently inserted ahead of the active order**:
+
+- **They Served the Country. The Food Benefit Still Missed Them.**
+  - Status: **FULL, FINISHED, PUBLICATION-READY, UNPUBLISHED**
+  - Package: `editorial-packages/TMS_VETERANS_FOOD_INSECURITY_SNAP_PUBLICATION_PACKAGE_2026-10-06.md`
+  - Focus: veteran food insecurity, SNAP participation, outdated outreach, and VA-USDA coordination.
+  - Package duplication check says it is distinct from both the live Freely Associated States VA-care editorial and the unfinished Medicaid/SNAP work-requirements package.
+
+- **Germany Created a Seat for Police Complaints. Who Can Actually Use It?**
+  - Status: **FULL, FINISHED, PUBLICATION-READY, UNPUBLISHED**
+  - Package: `editorial-packages/TMS_GERMANY_POLICE_COMPLAINTS_PUBLICATION_PACKAGE_2026-10-06.md`
+  - Germany weekly slot noted in package: week of October 5–11, package 1 of 2.
+  - Focus: Germany’s Federal Parliamentary Commissioner for the Police Authorities, racial-profiling complaints, federal police accountability, and practical access to the remedy.
+
+## Review-ready but not approved for publication
+
+- **Before You Cut Care, Did You Stop Paying More for the Same Care?**
+  - Status: **REVIEW READY / FULL JOE PACKAGE / AWAITING JANSEN APPROVAL / DO NOT PUBLISH**
+  - Package: `editorial-packages/TMS_BEFORE_YOU_CUT_CARE_SITE_NEUTRAL_MEDICARE_PUBLICATION_PACKAGE.md`
+  - Focus: Medicare site-neutral payment reform, Medicaid changes, savings claims, hospital/rural counterarguments, and the difference between proposed options and enacted policy.
+
+## Research leads — not yet in posting order
 
 - **When Corruption Stops Counting: How the Supreme Court Has Narrowed America's Anti-Corruption Laws**
-  - Status: editorial package in development / current 2026 update required
-  - Focus: Snyder v. United States, Percoco v. United States, McDonnell v. United States, Kelly v. United States, Ciminelli v. United States, Skilling v. United States, Citizens United, McCutcheon, and the 2026 National Republican Senatorial Committee v. FEC decision.
-  - Core test: distinguish what the Court actually held from the editorial argument that repeated narrowing of bribery, honest-services fraud, property fraud and campaign-finance rules leaves more influence, gratuities or political misconduct outside federal anti-corruption law.
-  - Required balance: explain the Court's stated reasons—First Amendment protection, fair notice, statutory text, federalism and limits on vague criminal laws—alongside dissents and critics warning that the rulings create enforcement gaps.
-  - Action: complete full TMS package with case timeline, current FEC spending data, Receipts & Recipes, social versions and fact-check note; do not publish until reviewed.
-
+  - Status: research/editorial package in development; current 2026 update required.
+  - Research file: `TMS_SUPREME_COURT_CORRUPTION_RESEARCH.md`
 
 - **You Can Prove the Harm. Now Prove the Intent.**
-  - HHS ended disparate-impact liability under its Title VI regulations in July 2026. Research the practical effect on complaints involving racial disparities in federally funded health programs while preserving the distinction between disparate impact and intentional discrimination.
+  - Research HHS’s 2026 Title VI disparate-impact change and practical effects.
 
 - **The Desegregation Order Is Gone. What Changed in the Schools?**
-  - DOJ announced dismissal of more than 50 long-running school-desegregation cases in September 2026 after case-by-case unitary-status reviews. Build a district-by-district evidence test of demographics, facilities, discipline, staffing, course access and outcomes before and after dismissal.
+  - Build district-by-district evidence before/after dismissal of desegregation cases.
 
 - **The Presumption Is Gone: What the New DBE Rule Means for Black-Owned Contractors**
-  - DOT's September 2026 final DBE/ACDBE rule eliminates race- and sex-based presumptions of disadvantage and requires individualized determinations. Examine certification losses, delays, contract awards and who gains or loses access.
+  - Track certification, contract awards, delays, and individualized disadvantage determinations.
 
 - **The Scholarship Rule Nobody Is Talking About**
-  - Treasury/IRS proposed regulations would put private schools' tax-exempt status at risk for race-based admissions, scholarships, loans or other programs. Examine the estimated institutional/student reach, alternatives using race-neutral criteria, and likely effects on scholarships designed for Black students.
+  - Track Treasury/IRS proposal, institutional/student reach, alternatives, and effects on scholarships designed for Black students.
 
 - **Minority Health and Minority Business Funding in the September Rescission Package**
-  - The September 25, 2026 rescission proposal targets funding connected to the Office of Minority Health and Minority Business Development Agency, among other programs. Track what is proposed versus actually rescinded, congressional/legal responses, and concrete program-level effects.
+  - Separate proposal from enacted rescission and track concrete program effects.
 
 - **What Civil-Rights Enforcement Is Being Redefined to Mean**
-  - Build a current cross-agency ledger of 2025–2026 changes at DOJ, HHS, Education, HUD, DOT, SBA and Treasury that redefine race-conscious remedies, disparate-impact standards, desegregation oversight and minority-business programs. Separate enacted rules, proposals, litigation, injunctions and unresolved questions.
+  - Build a cross-agency 2025–2026 ledger covering DOJ, HHS, Education, HUD, DOT, SBA, and Treasury.
 
 ## Queue handling
 
-- Publish exactly one genuinely new editorial per day.
-- Revised older editorials do not count as the daily new story.
+- Default: publish **one genuinely new editorial per day**.
+- When a backlog exists, Jansen has authorized publishing **two genuinely new editorials on the same day**.
+- Revised older editorials and website-shell repairs do **not** count as the daily new story.
+- If the next approved item is a true duplicate, skip it and continue to the next approved unpublished story until a genuinely new story is reached.
+- A follow-up with material new events, evidence, official findings, or a different accountability question is **not automatically a duplicate**.
+- If the next item is blocked by incomplete verification or missing evidence, mark the blocker and notify Jansen before substituting another story.
 - Do not skip an item merely because another story is easier.
-- If the next item cannot responsibly be published because verification is incomplete, mark the blocker clearly and notify Jansen before substituting another story.
-- After publication, mark the story PUBLISHED with date and move the next item to the top.
-- Update the article page, archive, correct topic page, RSS feed and homepage feature when appropriate.
+- After publication, record the date and live URL here and remove the item from active posting order.
+- Update the article page, Editorial Archive, correct topic page, RSS feed, and homepage feature when appropriate.
+- Verify the public URL, title, body, source links, navigation, mobile layout, and absence of accidental duplicates after publication.

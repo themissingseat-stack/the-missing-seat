@@ -125,9 +125,9 @@
   ],
   "queue": [],
   "counts": {
-    "full_finished_unpublished": 3,
+    "full_finished_unpublished": 4,
     "currently_queued": 0,
-    "publication_ready": 3,
+    "publication_ready": 4,
     "retired_replaced_duplicates": 4,
     "requiring_live_site_repository_reconciliation": 0,
     "requiring_status_verification": 1,
@@ -373,6 +373,24 @@
         "create HTML and image treatment",
         "recheck GAO recommendation status immediately before publication"
       ]
+    },
+    {
+      "title": "Germany Created a Seat for Police Complaints. Who Can Actually Use It?",
+      "slug": "germany-created-a-seat-for-police-complaints-who-can-actually-use-it",
+      "completion_status": "full_finished_publication_ready",
+      "publication_status": "unpublished",
+      "duplication_status": "materially distinct; examines access, jurisdiction, outcomes and racial-profiling complaints under Germany's federal Police Commissioner Act, not migration politics or Germany's historical Never Again promise",
+      "related_live_comparators": [
+        "germany-must-decide-what-kind-of-country-it-wants-to-be"
+      ],
+      "queue_position": null,
+      "source": "editorial-packages/TMS_GERMANY_POLICE_COMPLAINTS_PUBLICATION_PACKAGE_2026-10-06.md",
+      "remaining_work": [
+        "Jansen approval",
+        "final live-site slug and title check",
+        "create HTML and image treatment",
+        "refresh 2025-2026 report and complaint-page status before publication"
+      ]
     }
   ],
   "status_verification_ledger": [
@@ -401,5 +419,23 @@
       "source": "https://www.gao.gov/products/gao-27-108779",
       "status": "GAO report published October 2, 2026. A district court found the 2025 downsizing implementation unlawful; the government appealed. Returned staff told GAO they still lacked policy direction as of the review period."
     }
-  ]
+  ],
+  "germany_weekly_delivery": {
+    "week": "2026-10-05/2026-10-11",
+    "target_packages": 2,
+    "completed_packages": 1,
+    "remaining_packages": 1,
+    "target_days": [
+      "2026-10-06",
+      "2026-10-09"
+    ],
+    "delivered": [
+      {
+        "date": "2026-10-06",
+        "title": "Germany Created a Seat for Police Complaints. Who Can Actually Use It?",
+        "source": "editorial-packages/TMS_GERMANY_POLICE_COMPLAINTS_PUBLICATION_PACKAGE_2026-10-06.md",
+        "status": "full_finished_publication_ready_unpublished"
+      }
+    ]
+  }
 }

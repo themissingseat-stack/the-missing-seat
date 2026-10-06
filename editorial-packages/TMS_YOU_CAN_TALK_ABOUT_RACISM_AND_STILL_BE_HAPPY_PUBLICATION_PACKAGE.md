@@ -2,7 +2,7 @@
 
 ## You Can Talk About Racism and Still Be Happy
 
-**Status:** APPROVED / FULL REVIEW PACKAGE AVAILABLE / QUEUED  
+**Status:** PUBLISHED — 2026-10-06  
 **Website topic:** Race & Equal Humanity  
 **Working slug:** `you-can-talk-about-racism-and-still-be-happy`  
 **Topic page:** `topics/race-equal-humanity.html`  
@@ -111,7 +111,7 @@ The editorial also must not imply that all present racial disparities are caused
 
 ## Verification / Fact-Check Note
 
-**Verified 2026-10-03.**
+**Verified 2026-10-06.**
 
 1. Germany continues an official national remembrance culture around the crimes of National Socialism. The federal government describes January 27 as the day of remembrance for victims of National Socialism and supports memorials and documentation centers.
 2. The comparison is explicitly about remembrance, not historical equivalence.

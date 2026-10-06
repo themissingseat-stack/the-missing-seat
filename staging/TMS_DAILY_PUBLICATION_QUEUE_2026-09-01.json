@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-10-05",
+  "last_reconciled": "2026-10-06",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -125,9 +125,9 @@
   ],
   "queue": [],
   "counts": {
-    "full_finished_unpublished": 2,
+    "full_finished_unpublished": 3,
     "currently_queued": 0,
-    "publication_ready": 2,
+    "publication_ready": 3,
     "retired_replaced_duplicates": 4,
     "requiring_live_site_repository_reconciliation": 0,
     "requiring_status_verification": 1,
@@ -153,11 +153,11 @@
     }
   ],
   "website_quality_status": {
-    "as_of": "2026-10-05",
+    "as_of": "2026-10-06",
     "status": "live_archive_and_repository_reconciled",
-    "finding": "The October 5 Absurdity editorial is live and visible on the direct page, homepage, archive and Race & Equal Humanity topic page. No second editorial was published.",
+    "finding": "A new veterans and SNAP access editorial was completed and added to the unpublished ledger. No editorial was published.",
     "priority_order": [
-      "Obtain Jansen approval before placing either finished reserve editorial in the publication queue",
+      "Obtain Jansen approval before placing any finished reserve editorial in the publication queue",
       "Locate and verify the complete Cloud editorial package",
       "Complete the Medicaid/SNAP work-requirement package",
       "Complete the broader Trump Receipt accounting",
@@ -355,6 +355,23 @@
         "Jansen approval",
         "recheck GAO recommendation status before publication",
         "create HTML and image treatment"
+      ]
+    },
+    {
+      "title": "They Served the Country. The Food Benefit Still Missed Them.",
+      "slug": "they-served-the-country-the-food-benefit-still-missed-them",
+      "completion_status": "full_finished_publication_ready",
+      "publication_status": "unpublished",
+      "duplication_status": "materially distinct; focuses on veteran food insecurity, SNAP take-up, tailored outreach and the VA-USDA hand-off, not Pacific veterans' geographic access to VA care or the unfinished Medicaid/SNAP work-requirement package",
+      "related_live_comparators": [
+        "they-served-the-united-states-the-nearest-va-care-may-be-an-ocean-away.html"
+      ],
+      "queue_position": null,
+      "source": "editorial-packages/TMS_VETERANS_FOOD_INSECURITY_SNAP_PUBLICATION_PACKAGE_2026-10-06.md",
+      "remaining_work": [
+        "Jansen approval",
+        "create HTML and image treatment",
+        "recheck GAO recommendation status immediately before publication"
       ]
     }
   ],

@@ -22,6 +22,11 @@ Every TMS editorial must:
 
 ## Published from this queue
 
+- **2026-10-06 — You Can Talk About Racism and Still Be Happy**
+  - Status: PUBLISHED
+  - URL: https://themissingseat.org/you-can-talk-about-racism-and-still-be-happy.html
+  - Article, archive, Race & Equal Humanity topic, homepage feature and RSS feed included in publication commits.
+
 - **2026-10-04 — America Keeps Measuring Black Anger. Who Is Measuring Black Strength?**
   - Status: PUBLISHED by Jansen's explicit immediate-publication instruction.
   - URL: https://themissingseat.org/black-strength-mental-cost-racism.html
@@ -60,12 +65,13 @@ Every TMS editorial must:
    - Action: verify, publish once, and record the live URL and publication date here.
 
 2. **Found Hanging in America: Why Are Black People Still Being Found This Way?**
-   - Status: BLOCKED AS A GENUINELY NEW EDITORIAL — substantial duplication discovered 2026-10-01
+   - Status: FOLLOW-UP / MATERIAL NEW EVIDENCE — REASSESS IN LATER SLOT
+   - Similarity ruling corrected 2026-10-06: same subject matter does not make this a duplicate. The controlling thesis, new cases, congressional action, changed investigative record and accountability question must be assessed against the closest live comparator when its publication slot arrives.
    - Existing TMS coverage: **“No Foul Play”: What Black Families Are Asked to Trust** (published Aug. 2, 2026) already examines contemporary Black hanging deaths, including Kyle Bassinga and Jerard Jackson; explicitly warns that “found hanged” is not synonymous with “lynched”; explains the racial-terror history; sets evidence/transparency standards; and commits TMS to updating the record when new evidence emerges.
    - 2026-10-01 verification: the existing article substantially overlaps the proposed premise, so publishing the queued story as written would violate the no-duplication and genuinely-new-story rules.
    - Material new evidence that belongs in an UPDATE/FOLLOW-UP rather than a duplicate article: On Sept. 10, 2026, Rep. Ayanna Pressley and 59 colleagues asked DOJ/FBI for comprehensive review of Black hanging deaths and systematic data collection, saying at least 10 had been reported in 2026. Tasia Fortune’s Aug. 3 Jackson, Mississippi death has since been ruled homicide; police testimony says she was killed before her body was hung in a staged scene. Three men have been charged with murder. Fortune’s mother has said she does not believe the killing was racially motivated. Demetrius Fleming’s Aug. 21 Roanoke Rapids, North Carolina death was publicly described by police as an open, equivocal death investigation with no assumption yet as to suicide, homicide or accident in the latest reliable reporting located.
    - Required caution: the congressional letter’s count is a lawmaker claim/request for investigation, not proof that the deaths were lynchings or homicides. Do not collapse suicide findings, disputed findings, open investigations and confirmed homicide into one evidentiary category.
-   - Action: DO NOT publish as today’s new story. Treat the new evidence as a substantive update/follow-up to the Aug. 2 article unless a distinct new thesis is developed. Per queue rule, notify Jansen before substituting another story.
+   - Action: retain as an eligible substantive follow-up. Before publication, refresh every case, preserve the closest live comparator, and verify that the new evidence still supports a materially distinct and useful editorial.
 
 3. **What Does America Think Rape Is Worth? Women, Children, Race and the Sentencing Gap**
    - Status: approved / evidence review started
@@ -113,7 +119,11 @@ Every TMS editorial must:
 
 
 13. **You Can Talk About Racism and Still Be Happy**
-   - Status: APPROVED / FULL REVIEW PACKAGE AVAILABLE / QUEUED
+   - Status: PUBLISHED — 2026-10-06
+   - Live URL: https://themissingseat.org/you-can-talk-about-racism-and-still-be-happy.html
+   - Publication verification: article page, Editorial Archive, Race & Equal Humanity topic page, RSS feed and homepage feature updated.
+   - Similarity review: PASSED. Closest live comparators preserve different controlling theses; this editorial focuses on public memory without inherited personal guilt.
+   - Status before publication: APPROVED / FULL REVIEW PACKAGE AVAILABLE / QUEUED
    - Package: `editorial-packages/TMS_YOU_CAN_TALK_ABOUT_RACISM_AND_STILL_BE_HAPPY_PUBLICATION_PACKAGE.md`
    - Topic: Race & Equal Humanity
    - Focus: why remembering slavery, Jim Crow, segregation and their measurable consequences is not the same as assigning inherited guilt; uses Germany's Holocaust remembrance culture as a carefully limited comparison about public memory, not historical equivalence.

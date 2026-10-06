@@ -437,5 +437,25 @@
         "status": "full_finished_publication_ready_unpublished"
       }
     ]
-  }
+  },
+  "story_briefs_2026_10_06": [
+    {
+      "title": "The Housing Stock Grew. Families Still Ran Out of Rooms.",
+      "seat_affected": "Children, immigrant families, single-parent households and low-income renters in Germany",
+      "source": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/05/PD26_N030_63.html",
+      "status": "Destatis final 2025 EU-SILC results. Overcrowding is a statistical room-based measure, not proof that every household experienced unsafe housing or discrimination."
+    },
+    {
+      "title": "She Followed Military Orders. Her Civilian Job Allegedly Demoted Her for It.",
+      "seat_affected": "National Guard and Reserve members balancing military duty with civilian employment",
+      "source": "https://www.justice.gov/opa/pr/us-department-justice-obtains-settlement-behalf-national-guard-medic-alleged-employment",
+      "status": "DOJ allegations resolved through a court-approved $15,000 settlement on October 5, 2026. The settlement is not an adjudicated finding of liability."
+    },
+    {
+      "title": "The Applicants Had Prescriptions. The Shipyard Allegedly Treated Side Effects as Facts.",
+      "seat_affected": "Qualified workers with disabilities or disclosed prescription medications",
+      "source": "https://www.eeoc.gov/newsroom/eeoc-sues-bollinger-shipyards-continuing-disability-discrimination",
+      "status": "EEOC lawsuit filed September 30, 2026. Allegations have not been adjudicated. The agency describes five rescinded offers and similar earlier litigation."
+    }
+  ]
 }

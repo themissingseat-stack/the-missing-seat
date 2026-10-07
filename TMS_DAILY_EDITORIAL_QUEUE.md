@@ -1,12 +1,12 @@
 # TMS Daily Editorial Queue
 
-**Reconciled:** 2026-10-06
+**Reconciled:** 2026-10-07
 
 Purpose: keep The Missing Seat publication order accurate, prevent duplicate publication, and maintain a default cadence of one genuinely new editorial per day. When a backlog exists, Jansen has authorized publishing two genuinely new editorials on the same day.
 
 ## Permanent publication rules
 
-Jansen’s instruction to put an editorial in the website queue constitutes approval for publication. Do not add another approval gate to that instruction. Research leads or unfinished packages still require completion and verification before posting.
+Jansen’s instruction to put an editorial in the website queue constitutes approval for publication. Do not add another approval gate to that instruction. In addition, any editorial that is written in the established TMS publication format and has passed two mistake/fact-check reviews is considered approved for the queue and publication. A separate approval label or separate package file is not required. Research leads or unfinished work still require completion and two verification passes before posting.
 
 Every TMS editorial must:
 
@@ -153,37 +153,38 @@ These repairs **do not count as new daily editorials**:
 
 ## Active daily publication order
 
-### 1. The Cloud Has an Address. Somebody Else Is Paying the Bill.
-- Status: **APPROVED / QUEUED / BLOCKED**
-- Focus: data-center growth, profits, electricity and water demand, land use, public subsidies, and communities carrying environmental and infrastructure burdens.
-- Reconciliation finding: the old queue claimed a full review package existed, but no Cloud/data-center package is present in the current `editorial-packages` directory.
-- Blocker: recover or rebuild the full Regular Joe publication package and refresh all current figures and claims.
-- Action: do **not** silently skip. Notify Jansen before substituting another story.
+### PUBLISHED 2026-10-07 — The Cloud Has an Address. Somebody Else Is Paying the Bill.
+- Status: **PUBLISHED / VERIFIED COMPLETE**
+- URL: https://themissingseat.org/the-cloud-has-an-address-somebody-else-is-paying-the-bill.html
+- Package: `editorial-packages/TMS_THE_CLOUD_HAS_AN_ADDRESS_PUBLICATION_PACKAGE.md`
+- Verification: two-pass review completed October 7, 2026 — source/number audit plus claim/fairness/counterevidence audit.
+- Website surfaces: article, Editorial Archive, Democracy & Government topic page, RSS and homepage feature updated.
+- Focus: data-center growth, electricity and water demand, public subsidies, infrastructure cost allocation, and community accountability.
 
-### 2. What Does America Think Rape Is Worth? Women, Children, Race and the Sentencing Gap
+### 1. What Does America Think Rape Is Worth? Women, Children, Race and the Sentencing Gap
 - Status: **APPROVED / QUEUED / EVIDENCE REVIEW UNDERWAY / NOT PUBLICATION-READY**
 - Research file: `TMS_RAPE_SENTENCING_RESEARCH.md`
 - Focus: test sentencing patterns rather than assume them; compare child/adult victim cases, charging, pleas, probation, suspended sentences, downward variances, statutory ranges, and actual time imposed.
 - Required caution: distinguish federal/state systems; separate hands-on child sexual abuse from child-pornography offenses; report contrary findings.
 - Action: complete sentencing ledger, representative-case verification, full Regular Joe editorial, Receipts & Recipes, social versions, duplication check, and final fact-check.
 
-### 3. Unsafe School Facilities
+### 2. Unsafe School Facilities
 - Status: **APPROVED / QUEUED / VERIFIED BRIEF ONLY**
 - Action: complete full TMS editorial, Regular Joe review, duplication check, verification, and publication package.
 
-### 4. Fair-Housing Backlog
+### 3. Fair-Housing Backlog
 - Status: **APPROVED / QUEUED / VERIFIED BRIEF ONLY**
 - Action: complete full TMS editorial, Regular Joe review, duplication check, verification, and publication package.
 
-### 5. Arkansas Rural Maternal Health
+### 4. Arkansas Rural Maternal Health
 - Status: **APPROVED / QUEUED / RESEARCH BRIEF ONLY**
 - Action: complete research and full TMS publication package.
 
-### 6. Tribal Homelessness Evidence
+### 5. Tribal Homelessness Evidence
 - Status: **APPROVED / QUEUED / RESEARCH BRIEF ONLY**
 - Action: complete research and full TMS publication package.
 
-### 7. The Warning Arrived. The Language Did Not.
+### 6. The Warning Arrived. The Language Did Not.
 - Former queue label: **Multilingual Weather Alerts**
 - Status: **APPROVED / QUEUED / FULL, FINISHED, PUBLICATION-READY**
 - Package: `editorial-packages/TMS_THE_WARNING_ARRIVED_THE_LANGUAGE_DID_NOT_2026-10-05.md`

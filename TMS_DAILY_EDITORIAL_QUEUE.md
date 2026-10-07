@@ -32,7 +32,7 @@ Every TMS editorial must:
 
 - **PUBLISHED / VERIFIED COMPLETE** = article page is live and the normal website publication surfaces have been updated as appropriate.
 - **PUBLISHED / RECONCILIATION NEEDED** = a live article page exists, but one or more archive/topic/RSS/homepage integrations still need repair. Do not publish the story again; repair the website shell only.
-- **APPROVED / QUEUED** = Jansen has approved publication and the item remains in posting order.
+- **APPROVED / QUEUED** = a full finished editorial has passed two reviews and remains in posting order. Approved topics without full copy belong in development order.
 - **PUBLICATION-READY** = full editorial package exists and is ready for final pre-publication verification.
 - **BLOCKED** = the item may not be substituted silently. Identify the blocker and notify Jansen before moving past it.
 - **RESEARCH / BRIEF ONLY** = not ready to post.
@@ -160,7 +160,105 @@ These repairs **do not count as new daily editorials**:
 3. Add **They Trusted Black Women With Their Babies. Just Not With Power.** to the Editorial Archive and any missing website surfaces.
 4. Add **If a Program Was Built to Reach Black Americans, Say So.** to the Editorial Archive and any missing website surfaces.
 
-## Active daily publication order
+## Approved finished publication queue
+
+**Updated October 7, 2026: 6 full finished unpublished editorials, all approved and queued.** Approval follows Jansen’s instruction that complete TMS editorials passing two reviews are approved. The first two retain their relative order from the previous queue; newly admitted packages follow them.
+
+Two-review scope: primary evidence, numbers, dates and legal/factual posture; then corrected copy, readable paragraphs, plain English, counterargument, missing seat, practical action, metadata, social copy and ending. The Germany package now includes the ten cases in which the commissioner criticized police conduct and the statutory confidentiality limits. The Medicare package dates its savings estimate and distinguishes it from later changes and separate Medicaid projections.
+
+**Release prerequisites:** independent access to the live archive was unavailable in this review. Verify live title/slug/material distinctness and the actual deployment source before posting. Refresh dated recommendation/rule status, create HTML and selected images, then verify navigation. No calendar dates are assigned until those checks pass. These prerequisites do not require another editorial approval.
+
+### 1. The Warning Arrived. The Language Did Not.
+- Status: **APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED**
+- Package: [Complete editorial and publication materials](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_THE_WARNING_ARRIVED_THE_LANGUAGE_DID_NOT_2026-10-05.md)
+- Working slug: `the-warning-arrived-the-language-did-not`
+- Review 1 and review 2: **completed October 7, 2026**
+- Publication date: next eligible slot in this order, subject to release prerequisites above.
+
+### 2. Learning to Unlearn
+- Status: **APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED**
+- Package: [Complete editorial and publication materials](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_LEARNING_TO_UNLEARN_REGULAR_JOE_EDITORIAL_PACKAGE.md)
+- Working slug: `learning-to-unlearn`
+- Review 1 and review 2: **completed October 7, 2026**
+- Publication date: next eligible slot in this order, subject to release prerequisites above.
+
+### 3. Two Agencies Fund the Support. The Worker Still Gets Left Waiting.
+- Status: **APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED**
+- Package: [Complete editorial and publication materials](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_JOB_SUPPORT_HANDOFF_2026-10-04.md)
+- Working slug: `two-agencies-fund-the-support-the-worker-still-gets-left-waiting`
+- Review 1 and review 2: **completed October 7, 2026**
+- Publication date: next eligible slot in this order, subject to release prerequisites above.
+
+### 4. They Served the Country. The Food Benefit Still Missed Them.
+- Status: **APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED**
+- Package: [Complete editorial and publication materials](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_VETERANS_FOOD_INSECURITY_SNAP_PUBLICATION_PACKAGE_2026-10-06.md)
+- Working slug: `they-served-the-country-the-food-benefit-still-missed-them`
+- Review 1 and review 2: **completed October 7, 2026**
+- Publication date: next eligible slot in this order, subject to release prerequisites above.
+
+### 5. Germany Created a Seat for Police Complaints. Who Can Actually Use It?
+- Status: **APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED**
+- Package: [Complete editorial and publication materials](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GERMANY_POLICE_COMPLAINTS_PUBLICATION_PACKAGE_2026-10-06.md)
+- Working slug: `germany-created-a-seat-for-police-complaints-who-can-actually-use-it`
+- Review 1 and review 2: **completed October 7, 2026**
+- Publication date: next eligible slot in this order, subject to release prerequisites above.
+
+### 6. Before You Cut Care, Did You Stop Paying More for the Same Care?
+- Status: **APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED**
+- Package: [Complete editorial and publication materials](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_BEFORE_YOU_CUT_CARE_SITE_NEUTRAL_MEDICARE_PUBLICATION_PACKAGE.md)
+- Working slug: `before-you-cut-care-stop-paying-more-for-same-care`
+- Review 1 and review 2: **completed October 7, 2026**
+- Publication date: next eligible slot in this order, subject to release prerequisites above.
+
+## Development order: not finished publication inventory
+
+These previously approved subjects retain their development priority. They are not complete articles and are excluded from the finished queue count. The sentencing story and other unfinished leads require evidence and full copy; Medicaid/SNAP remains blocked. Finishing a lead requires the same two reviews before admission to the finished queue.
+
+### 1. What Does America Think Rape Is Worth? Women, Children, Race and the Sentencing Gap
+- Status: **APPROVED / QUEUED / EVIDENCE REVIEW UNDERWAY / NOT PUBLICATION-READY**
+- Research file: `TMS_RAPE_SENTENCING_RESEARCH.md`
+- Focus: test sentencing patterns rather than assume them; compare child/adult victim cases, charging, pleas, probation, suspended sentences, downward variances, statutory ranges, and actual time imposed.
+- Required caution: distinguish federal/state systems; separate hands-on child sexual abuse from child-pornography offenses; report contrary findings.
+- Action: complete sentencing ledger, representative-case verification, full Regular Joe editorial, Receipts & Recipes, social versions, duplication check, and final fact-check.
+
+
+### 2. Unsafe School Facilities
+- Status: **APPROVED / QUEUED / VERIFIED BRIEF ONLY**
+- Action: complete full TMS editorial, Regular Joe review, duplication check, verification, and publication package.
+
+
+### 3. Fair-Housing Backlog
+- Status: **APPROVED / QUEUED / VERIFIED BRIEF ONLY**
+- Action: complete full TMS editorial, Regular Joe review, duplication check, verification, and publication package.
+
+
+### 4. Arkansas Rural Maternal Health
+- Status: **APPROVED / QUEUED / RESEARCH BRIEF ONLY**
+- Action: complete research and full TMS publication package.
+
+
+### 5. Tribal Homelessness Evidence
+- Status: **APPROVED / QUEUED / RESEARCH BRIEF ONLY**
+- Action: complete research and full TMS publication package.
+
+
+### 8. Disability Access at Job Centers
+- Status: **APPROVED / QUEUED / IN PROGRESS**
+- Action: complete research and full TMS publication package.
+
+
+### 9. Student-Loan Servicer Communication
+- Status: **APPROVED / QUEUED / IN PROGRESS**
+- Action: complete research and full TMS publication package.
+
+
+### 10. Medicaid/SNAP Work Requirements
+- Status: **APPROVED / QUEUED / BLOCKED**
+- Blocker: unresolved evidence gaps.
+- Action: resolve evidence gaps before publication.
+
+
+## Newly published: removed from unfinished inventory
 
 ### PUBLISHED 2026-10-07 — The Cloud Has an Address. Somebody Else Is Paying the Bill.
 - Status: **PUBLISHED / VERIFIED COMPLETE**
@@ -170,82 +268,6 @@ These repairs **do not count as new daily editorials**:
 - Website surfaces: article, Editorial Archive, Democracy & Government topic page, RSS and homepage feature updated.
 - Focus: data-center growth, electricity and water demand, public subsidies, infrastructure cost allocation, and community accountability.
 
-### 1. What Does America Think Rape Is Worth? Women, Children, Race and the Sentencing Gap
-- Status: **APPROVED / QUEUED / EVIDENCE REVIEW UNDERWAY / NOT PUBLICATION-READY**
-- Research file: `TMS_RAPE_SENTENCING_RESEARCH.md`
-- Focus: test sentencing patterns rather than assume them; compare child/adult victim cases, charging, pleas, probation, suspended sentences, downward variances, statutory ranges, and actual time imposed.
-- Required caution: distinguish federal/state systems; separate hands-on child sexual abuse from child-pornography offenses; report contrary findings.
-- Action: complete sentencing ledger, representative-case verification, full Regular Joe editorial, Receipts & Recipes, social versions, duplication check, and final fact-check.
-
-### 2. Unsafe School Facilities
-- Status: **APPROVED / QUEUED / VERIFIED BRIEF ONLY**
-- Action: complete full TMS editorial, Regular Joe review, duplication check, verification, and publication package.
-
-### 3. Fair-Housing Backlog
-- Status: **APPROVED / QUEUED / VERIFIED BRIEF ONLY**
-- Action: complete full TMS editorial, Regular Joe review, duplication check, verification, and publication package.
-
-### 4. Arkansas Rural Maternal Health
-- Status: **APPROVED / QUEUED / RESEARCH BRIEF ONLY**
-- Action: complete research and full TMS publication package.
-
-### 5. Tribal Homelessness Evidence
-- Status: **APPROVED / QUEUED / RESEARCH BRIEF ONLY**
-- Action: complete research and full TMS publication package.
-
-### 6. The Warning Arrived. The Language Did Not.
-- Former queue label: **Multilingual Weather Alerts**
-- Status: **APPROVED / QUEUED / FULL, FINISHED, PUBLICATION-READY**
-- Package: `editorial-packages/TMS_THE_WARNING_ARRIVED_THE_LANGUAGE_DID_NOT_2026-10-05.md`
-- Topic: Democracy & Government
-- Focus: language access in emergency weather alerts, federal/local gaps, current translation systems, and accountable use of AI translation.
-- Duplication check in package: distinct from the FEMA disability-access editorial.
-- Action: refresh time-sensitive source links immediately before publication, then publish in queue order.
-
-### 8. Disability Access at Job Centers
-- Status: **APPROVED / QUEUED / IN PROGRESS**
-- Action: complete research and full TMS publication package.
-
-### 9. Student-Loan Servicer Communication
-- Status: **APPROVED / QUEUED / IN PROGRESS**
-- Action: complete research and full TMS publication package.
-
-### 10. Medicaid/SNAP Work Requirements
-- Status: **APPROVED / QUEUED / BLOCKED**
-- Blocker: unresolved evidence gaps.
-- Action: resolve evidence gaps before publication.
-
-### 11. Learning to Unlearn
-- Status in queue: **APPROVED / QUEUED / FULL PACKAGE AVAILABLE**
-- Package: `editorial-packages/TMS_LEARNING_TO_UNLEARN_REGULAR_JOE_EDITORIAL_PACKAGE.md`
-- Topic: Race & Equal Humanity
-- Focus: learned assumptions, fear, identity, socialization, and what it takes to reconsider inherited racial beliefs without excusing deliberate or structural racism.
-- Duplication check: previously passed against the closest live comparators.
-- Reconciliation note: the package header still says “DRAFT FOR REVIEW / NOT YET QUEUED,” while the queue later records Jansen approval and queued status. Treat the queue approval as controlling; update the package metadata before publication rather than asking for another approval.
-- Action: final source refresh, package-metadata correction, duplication recheck, then publish in queue order.
-
-## Publication-ready reserve packages — not yet assigned a queue position
-
-These are finished packages but are **not silently inserted ahead of the active order**:
-
-- **They Served the Country. The Food Benefit Still Missed Them.**
-  - Status: **FULL, FINISHED, PUBLICATION-READY, UNPUBLISHED**
-  - Package: `editorial-packages/TMS_VETERANS_FOOD_INSECURITY_SNAP_PUBLICATION_PACKAGE_2026-10-06.md`
-  - Focus: veteran food insecurity, SNAP participation, outdated outreach, and VA-USDA coordination.
-  - Package duplication check says it is distinct from both the live Freely Associated States VA-care editorial and the unfinished Medicaid/SNAP work-requirements package.
-
-- **Germany Created a Seat for Police Complaints. Who Can Actually Use It?**
-  - Status: **FULL, FINISHED, PUBLICATION-READY, UNPUBLISHED**
-  - Package: `editorial-packages/TMS_GERMANY_POLICE_COMPLAINTS_PUBLICATION_PACKAGE_2026-10-06.md`
-  - Germany weekly slot noted in package: week of October 5–11, package 1 of 2.
-  - Focus: Germany’s Federal Parliamentary Commissioner for the Police Authorities, racial-profiling complaints, federal police accountability, and practical access to the remedy.
-
-## Review-ready but not approved for publication
-
-- **Before You Cut Care, Did You Stop Paying More for the Same Care?**
-  - Status: **REVIEW READY / FULL JOE PACKAGE / AWAITING JANSEN APPROVAL / DO NOT PUBLISH**
-  - Package: `editorial-packages/TMS_BEFORE_YOU_CUT_CARE_SITE_NEUTRAL_MEDICARE_PUBLICATION_PACKAGE.md`
-  - Focus: Medicare site-neutral payment reform, Medicaid changes, savings claims, hospital/rural counterarguments, and the difference between proposed options and enacted policy.
 
 ## Research leads — not yet in posting order
 

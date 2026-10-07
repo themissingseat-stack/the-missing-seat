@@ -131,18 +131,127 @@
       "notes": "The live page, served editorial archive, GitHub homepage, Race & Equal Humanity topic page and feed entry were reconciled. This was not an item in the active staged queue."
     }
   ],
-  "queue": [],
+  "queue": [
+    {
+      "position": 1,
+      "title": "The Warning Arrived. The Language Did Not.",
+      "slug": "the-warning-arrived-the-language-did-not",
+      "status": "approved_queued_full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-07 primary evidence, numbers, dates and claim posture",
+      "review_2": "2026-10-07 corrected copy, format, fairness, CTA and metadata",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_THE_WARNING_ARRIVED_THE_LANGUAGE_DID_NOT_2026-10-05.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "release_checks": [
+        "refresh primary sources",
+        "independent live title/slug and material-duplication verification",
+        "confirm deployment source",
+        "HTML/image and navigation integration"
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Learning to Unlearn",
+      "slug": "learning-to-unlearn",
+      "status": "approved_queued_full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-07 primary evidence, numbers, dates and claim posture",
+      "review_2": "2026-10-07 corrected copy, format, fairness, CTA and metadata",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_LEARNING_TO_UNLEARN_REGULAR_JOE_EDITORIAL_PACKAGE.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "release_checks": [
+        "refresh primary sources",
+        "independent live title/slug and material-duplication verification",
+        "confirm deployment source",
+        "HTML/image and navigation integration"
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Two Agencies Fund the Support. The Worker Still Gets Left Waiting.",
+      "slug": "two-agencies-fund-the-support-the-worker-still-gets-left-waiting",
+      "status": "approved_queued_full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-07 primary evidence, numbers, dates and claim posture",
+      "review_2": "2026-10-07 corrected copy, format, fairness, CTA and metadata",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_JOB_SUPPORT_HANDOFF_2026-10-04.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "release_checks": [
+        "refresh primary sources",
+        "independent live title/slug and material-duplication verification",
+        "confirm deployment source",
+        "HTML/image and navigation integration"
+      ]
+    },
+    {
+      "position": 4,
+      "title": "They Served the Country. The Food Benefit Still Missed Them.",
+      "slug": "they-served-the-country-the-food-benefit-still-missed-them",
+      "status": "approved_queued_full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-07 primary evidence, numbers, dates and claim posture",
+      "review_2": "2026-10-07 corrected copy, format, fairness, CTA and metadata",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_VETERANS_FOOD_INSECURITY_SNAP_PUBLICATION_PACKAGE_2026-10-06.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "release_checks": [
+        "refresh primary sources",
+        "independent live title/slug and material-duplication verification",
+        "confirm deployment source",
+        "HTML/image and navigation integration"
+      ]
+    },
+    {
+      "position": 5,
+      "title": "Germany Created a Seat for Police Complaints. Who Can Actually Use It?",
+      "slug": "germany-created-a-seat-for-police-complaints-who-can-actually-use-it",
+      "status": "approved_queued_full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-07 primary evidence, numbers, dates and claim posture",
+      "review_2": "2026-10-07 corrected copy, format, fairness, CTA and metadata",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GERMANY_POLICE_COMPLAINTS_PUBLICATION_PACKAGE_2026-10-06.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "release_checks": [
+        "refresh primary sources",
+        "independent live title/slug and material-duplication verification",
+        "confirm deployment source",
+        "HTML/image and navigation integration"
+      ]
+    },
+    {
+      "position": 6,
+      "title": "Before You Cut Care, Did You Stop Paying More for the Same Care?",
+      "slug": "before-you-cut-care-stop-paying-more-for-same-care",
+      "status": "approved_queued_full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-07 primary evidence, numbers, dates and claim posture",
+      "review_2": "2026-10-07 corrected copy, format, fairness, CTA and metadata",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_BEFORE_YOU_CUT_CARE_SITE_NEUTRAL_MEDICARE_PUBLICATION_PACKAGE.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "release_checks": [
+        "refresh primary sources",
+        "independent live title/slug and material-duplication verification",
+        "confirm deployment source",
+        "HTML/image and navigation integration"
+      ]
+    }
+  ],
   "counts": {
-    "full_finished_unpublished": 5,
-    "currently_queued": 0,
-    "publication_ready": 5,
+    "full_finished_unpublished": 6,
+    "currently_queued": 6,
+    "publication_ready": 6,
     "retired_replaced_duplicates": 4,
     "requiring_live_site_repository_reconciliation": 0,
     "requiring_status_verification": 1,
     "verified_published_from_queue": 16,
     "reserved_queue_slots_pending_body_verification": 0,
-    "historically_reported_finished_pending_body_verification": 1,
-    "live_site_access_verification_pending": 0
+    "historically_reported_finished_pending_body_verification": 0,
+    "live_site_access_verification_pending": 1
   },
   "pending_priority_requests": [
     {
@@ -316,100 +425,131 @@
   ],
   "unpublished_ledger": [
     {
-      "title": "Two Agencies Fund the Support. The Worker Still Gets Left Waiting.",
-      "slug": "two-agencies-fund-the-support-the-worker-still-gets-left-waiting",
-      "completion_status": "full_finished_publication_ready",
-      "publication_status": "unpublished",
-      "duplication_status": "materially distinct; focuses on cross-agency supported-employment handoff failures rather than physical-access or disability-disaster systems",
-      "related_live_comparators": [
-        "the-apartment-was-available-access-still-wasnt.html",
-        "the-disaster-plan-included-everyone-the-training-for-disability-access-disappeared.html"
-      ],
-      "queue_position": null,
-      "source": "/workspace/scratch/a5144608a332/TMS_JOB_SUPPORT_HANDOFF_2026-10-04.md",
-      "remaining_work": [
-        "Jansen approval",
-        "copy package into durable GitHub staging",
-        "refresh primary sources",
-        "create HTML and image treatment"
-      ]
-    },
-    {
+      "position": 1,
       "title": "The Warning Arrived. The Language Did Not.",
       "slug": "the-warning-arrived-the-language-did-not",
-      "completion_status": "full_finished_publication_ready",
+      "status": "approved_queued_full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-07 primary evidence, numbers, dates and claim posture",
+      "review_2": "2026-10-07 corrected copy, format, fairness, CTA and metadata",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_THE_WARNING_ARRIVED_THE_LANGUAGE_DID_NOT_2026-10-05.md",
+      "scheduled_date": null,
       "publication_status": "unpublished",
-      "duplication_status": "materially distinct; examines language access before and during severe weather, not FEMA disability access after disaster",
-      "related_live_comparators": [
-        "the-disaster-plan-included-everyone-the-training-for-disability-access-disappeared.html"
+      "release_checks": [
+        "refresh primary sources",
+        "independent live title/slug and material-duplication verification",
+        "confirm deployment source",
+        "HTML/image and navigation integration"
       ],
-      "queue_position": null,
-      "source": "editorial-packages/TMS_THE_WARNING_ARRIVED_THE_LANGUAGE_DID_NOT_2026-10-05.md",
-      "remaining_work": [
-        "Jansen approval",
-        "recheck GAO recommendation status before publication",
-        "create HTML and image treatment"
-      ]
+      "completion_status": "full_finished",
+      "duplication_status": "repository/archive comparison passed; independent live check pending"
     },
     {
+      "position": 2,
+      "title": "Learning to Unlearn",
+      "slug": "learning-to-unlearn",
+      "status": "approved_queued_full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-07 primary evidence, numbers, dates and claim posture",
+      "review_2": "2026-10-07 corrected copy, format, fairness, CTA and metadata",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_LEARNING_TO_UNLEARN_REGULAR_JOE_EDITORIAL_PACKAGE.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "release_checks": [
+        "refresh primary sources",
+        "independent live title/slug and material-duplication verification",
+        "confirm deployment source",
+        "HTML/image and navigation integration"
+      ],
+      "completion_status": "full_finished",
+      "duplication_status": "repository/archive comparison passed; independent live check pending"
+    },
+    {
+      "position": 3,
+      "title": "Two Agencies Fund the Support. The Worker Still Gets Left Waiting.",
+      "slug": "two-agencies-fund-the-support-the-worker-still-gets-left-waiting",
+      "status": "approved_queued_full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-07 primary evidence, numbers, dates and claim posture",
+      "review_2": "2026-10-07 corrected copy, format, fairness, CTA and metadata",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_JOB_SUPPORT_HANDOFF_2026-10-04.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "release_checks": [
+        "refresh primary sources",
+        "independent live title/slug and material-duplication verification",
+        "confirm deployment source",
+        "HTML/image and navigation integration"
+      ],
+      "completion_status": "full_finished",
+      "duplication_status": "repository/archive comparison passed; independent live check pending"
+    },
+    {
+      "position": 4,
       "title": "They Served the Country. The Food Benefit Still Missed Them.",
       "slug": "they-served-the-country-the-food-benefit-still-missed-them",
-      "completion_status": "full_finished_publication_ready",
+      "status": "approved_queued_full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-07 primary evidence, numbers, dates and claim posture",
+      "review_2": "2026-10-07 corrected copy, format, fairness, CTA and metadata",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_VETERANS_FOOD_INSECURITY_SNAP_PUBLICATION_PACKAGE_2026-10-06.md",
+      "scheduled_date": null,
       "publication_status": "unpublished",
-      "duplication_status": "materially distinct; focuses on veteran food insecurity, SNAP take-up, tailored outreach and the VA-USDA hand-off, not Pacific veterans' geographic access to VA care or the unfinished Medicaid/SNAP work-requirement package",
-      "related_live_comparators": [
-        "they-served-the-united-states-the-nearest-va-care-may-be-an-ocean-away.html"
+      "release_checks": [
+        "refresh primary sources",
+        "independent live title/slug and material-duplication verification",
+        "confirm deployment source",
+        "HTML/image and navigation integration"
       ],
-      "queue_position": null,
-      "source": "editorial-packages/TMS_VETERANS_FOOD_INSECURITY_SNAP_PUBLICATION_PACKAGE_2026-10-06.md",
-      "remaining_work": [
-        "Jansen approval",
-        "create HTML and image treatment",
-        "recheck GAO recommendation status immediately before publication"
-      ]
+      "completion_status": "full_finished",
+      "duplication_status": "repository/archive comparison passed; independent live check pending"
     },
     {
+      "position": 5,
       "title": "Germany Created a Seat for Police Complaints. Who Can Actually Use It?",
       "slug": "germany-created-a-seat-for-police-complaints-who-can-actually-use-it",
-      "completion_status": "full_finished_publication_ready",
+      "status": "approved_queued_full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-07 primary evidence, numbers, dates and claim posture",
+      "review_2": "2026-10-07 corrected copy, format, fairness, CTA and metadata",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GERMANY_POLICE_COMPLAINTS_PUBLICATION_PACKAGE_2026-10-06.md",
+      "scheduled_date": null,
       "publication_status": "unpublished",
-      "duplication_status": "materially distinct; examines access, jurisdiction, outcomes and racial-profiling complaints under Germany's federal Police Commissioner Act, not migration politics or Germany's historical Never Again promise",
-      "related_live_comparators": [
-        "germany-must-decide-what-kind-of-country-it-wants-to-be"
+      "release_checks": [
+        "refresh primary sources",
+        "independent live title/slug and material-duplication verification",
+        "confirm deployment source",
+        "HTML/image and navigation integration"
       ],
-      "queue_position": null,
-      "source": "editorial-packages/TMS_GERMANY_POLICE_COMPLAINTS_PUBLICATION_PACKAGE_2026-10-06.md",
-      "remaining_work": [
-        "Jansen approval",
-        "final live-site slug and title check",
-        "create HTML and image treatment",
-        "refresh 2025-2026 report and complaint-page status before publication"
-      ]
+      "completion_status": "full_finished",
+      "duplication_status": "repository/archive comparison passed; independent live check pending"
     },
     {
-      "title": "She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.",
-      "slug": "she-was-qualified-to-repair-the-pallets",
-      "completion_status": "full_finished_publication_ready",
+      "position": 6,
+      "title": "Before You Cut Care, Did You Stop Paying More for the Same Care?",
+      "slug": "before-you-cut-care-stop-paying-more-for-same-care",
+      "status": "approved_queued_full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-07 primary evidence, numbers, dates and claim posture",
+      "review_2": "2026-10-07 corrected copy, format, fairness, CTA and metadata",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_BEFORE_YOU_CUT_CARE_SITE_NEUTRAL_MEDICARE_PUBLICATION_PACKAGE.md",
+      "scheduled_date": null,
       "publication_status": "unpublished",
-      "duplication_status": "materially distinct; examines an EEOC finding and pre-litigation settlement concerning alleged sex-based exclusion from pallet-repair hiring across five locations, not retaliation against an HR manager or broader workplace discrimination",
-      "related_live_comparators": [
-        "the-hr-manager-said-no-to-discrimination-then-she-allegedly-lost-her-job.html"
+      "release_checks": [
+        "refresh primary sources",
+        "independent live title/slug and material-duplication verification",
+        "confirm deployment source",
+        "HTML/image and navigation integration"
       ],
-      "queue_position": null,
-      "source": "editorial-packages/TMS_SHE_WAS_QUALIFIED_TO_REPAIR_THE_PALLETS_PUBLICATION_PACKAGE_2026-10-07.md",
-      "remaining_work": [
-        "Jansen approval",
-        "final live-site title and slug check",
-        "create article HTML and final image treatment",
-        "recheck claims deadline and settlement administrator information immediately before publication"
-      ]
+      "completion_status": "full_finished",
+      "duplication_status": "repository/archive comparison passed; independent live check pending"
     }
   ],
   "status_verification_ledger": [
     {
-      "title": "The Cloud Has an Address. Somebody Else Is Paying the Bill.",
-      "reason": "Prior review records describe a complete publication package and later handoff called it next to publish, but no body file was found in GitHub main or the staged queue branch during the October 5 reconciliation.",
-      "required_action": "Locate and verify the complete body before restoring it to the publishable count or queue."
+      "title": "Live deployment and archive pre-release verification",
+      "reason": "Independent live archive could not be accessed on October 7; repository and current canonical published ledger used for review. Do not infer deployment status from main.",
+      "required_action": "Confirm deployment source and compare live site before release."
     }
   ],
   "story_briefs_2026_10_05": [
@@ -492,9 +632,17 @@
   ],
   "daily_editorial_completion_2026_10_07": {
     "title": "She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.",
-    "status": "full_finished_publication_ready_unpublished",
+    "status": "published_per_canonical_ledger",
     "source": "editorial-packages/TMS_SHE_WAS_QUALIFIED_TO_REPAIR_THE_PALLETS_PUBLICATION_PACKAGE_2026-10-07.md",
     "publication_commit": "2012e9e6ce3c279df24b6f75582a677be5daaada",
     "notes": "New reserve editorial completed after repository, live-archive and ledger duplication checks. Not inserted into the queue or published without Jansen approval. Settlement posture and EEOC investigative findings are clearly distinguished from a court judgment."
-  }
+  },
+  "canonical_queue": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/TMS_DAILY_EDITORIAL_QUEUE.md",
+  "reconciliation_notes_2026_10_07": [
+    "main/TMS_DAILY_EDITORIAL_QUEUE.md is the canonical current posting order.",
+    "Pallet hiring and Cloud have published records in the canonical ledger and article files on main; excluded from unpublished count.",
+    "Job-support full body recovered, reviewed and persisted on main.",
+    "Six complete packages approved under Jansen's standing two-review instruction; unfinished briefs excluded.",
+    "Four retired/replaced duplicates retained; existing website revisions remain replacement work."
+  ]
 }

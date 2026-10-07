@@ -2,7 +2,7 @@
 
 ## Publication Metadata
 
-- **Status:** FULL, FINISHED, PUBLICATION-READY, UNPUBLISHED
+- **Status:** APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED
 - **Completion date:** October 5, 2026
 - **Working slug:** `the-warning-arrived-the-language-did-not`
 - **Suggested filename:** `the-warning-arrived-the-language-did-not.html`
@@ -24,43 +24,33 @@ Library and recent-queue searches found no completed TMS editorial centered on m
 
 ## Editorial
 
-An emergency warning can reach your phone on time and still arrive too late.
+An emergency warning can reach your phone on time and still arrive too late. The alarm sounds. The screen lights up. A storm is moving toward your neighborhood. There may be an evacuation order, a flash-flood warning or instructions about where to go. But the words are in a language you do not understand well enough to make a fast decision.
 
-The alarm sounds. The screen lights up. A storm is moving toward your neighborhood. There may be an evacuation order, a flash-flood warning or instructions about where to go. But the words are in a language you do not understand well enough to make a fast decision.
-
-Technically, the government sent the warning. Practically, it did not reach you.
-
-That distinction matters because weather emergencies do not pause while someone looks for a relative to translate, searches social media or waits for a neighbor to explain what the television just said. A warning has one job: give people information they can understand and use before the danger arrives.
+Technically, the government sent the warning. Practically, it did not reach you. That distinction matters because weather emergencies do not pause while someone looks for a relative to translate, searches social media or waits for a neighbor to explain what the television just said. A warning has one job: give people information they can understand and use before the danger arrives.
 
 ### Seat Summary
 
 - **Who is missing?** People with limited English proficiency, multilingual families, immigrant communities, community translators and local organizations that understand how warnings are actually received.
 - **Who is affected?** Roughly 26 million people in the United States who have limited ability to understand English, according to Census data cited by the Government Accountability Office.
-- **Who benefits?** Everyone benefits when alerts are fast and standardized. Agencies also benefit from systems that are easier and cheaper to operate in one language.
+- **Who benefits?** Everyone benefits when alerts are fast and standardized. A single-language system can reduce translation work; that is an operational inference, not a motive established by GAO.
 - **Who holds power?** The National Weather Service, the Federal Communications Commission, FEMA, broadcasters, wireless carriers, and state and local alerting authorities.
 - **Who carries the burden?** People who must translate a public warning for themselves while the clock is running, along with relatives, neighbors and community organizations that become an unofficial emergency-language system.
 
 ## The Receipt
 
-In January 2026, the Government Accountability Office reported that the United States still does not deliver weather warnings consistently in languages people can understand.
-
-The National Weather Service sends its Wireless Emergency Alerts in English and Spanish. Those are the short, text-like messages that appear on mobile phones. State and local authorities can also translate their alerts, but GAO found that most of their wireless alerts from December 2019 through December 2024 were issued only in English. That matters because local alerts may contain information the federal message does not, including evacuation orders.
+In January 2026, the Government Accountability Office reported that the United States still does not deliver weather warnings consistently in languages people can understand. The National Weather Service sends its Wireless Emergency Alerts in English and Spanish. Those are the short, text-like messages that appear on mobile phones. State and local authorities can also translate their alerts, but GAO found that most of their wireless alerts from December 2019 through December 2024 were issued only in English. That matters because local alerts may contain information the federal message does not, including evacuation orders.
 
 Television and radio are even less consistent. The Emergency Alert System carries urgent messages through broadcasters, but the National Weather Service provides most of those messages only in English. The agency has few radio transmitters that broadcast in other languages, and broadcasters have discretion over whether to air the messages. GAO also found that federal data are too limited to show clearly which languages people actually receive through television and radio.
 
 This is not evidence that public officials want immigrant communities to miss warnings. GAO identified real technical and resource problems. Emergency systems are complicated. State and local agencies may lack money, staff or translation expertise. Broadcasters and government agencies do not all operate the same equipment. A bad translation can also create danger, so speed cannot be the only measure.
 
-Those explanations are legitimate. They do not make the missing warning less dangerous.
+Those explanations are legitimate. They do not make the missing warning less dangerous. GAO said about 26 million people in the United States have limited ability to understand English. When a storm is approaching, language access is not a customer-service extra. It is part of whether the emergency system works.
 
-GAO said about 26 million people in the United States have limited ability to understand English. When a storm is approaching, language access is not a customer-service extra. It is part of whether the emergency system works.
-
-The federal government has taken steps forward. The Federal Communications Commission adopted requirements for wireless carriers to support prewritten emergency-alert templates in English and 14 additional languages. But those requirements are not scheduled to take effect until 2028.
+The federal government has taken steps forward. The Federal Communications Commission adopted requirements for wireless carriers to support prewritten emergency-alert templates in English, thirteen additional spoken languages and American Sign Language. But those requirements are not scheduled to take effect until June 12, 2028.
 
 The National Weather Service has also been testing artificial intelligence to translate forecasts, watches and warnings into Spanish, Simplified Chinese, Vietnamese, French and Samoan. As of December 2025, roughly one-quarter of Weather Service forecast offices and the National Hurricane Center were participating.
 
-That project could save time and widen access. It is also incomplete.
-
-GAO found that the Weather Service had not documented measurable performance goals, the resources required for each goal or the barriers that could prevent success. It had not updated its plan for the longer term. The agency agreed with GAO's recommendation to create a stronger implementation plan, but the recommendation remained open when this package was completed on October 5, 2026.
+That project could save time and widen access. It is also incomplete. GAO found that the Weather Service had not documented measurable performance goals, the resources required for each goal or the barriers that could prevent success. It had not updated its plan for the longer term. The agency agreed with GAO's recommendation to create a stronger implementation plan, but the recommendation remained open when this package was completed on October 7, 2026.
 
 That is the central problem. Government is using a promising tool for a life-safety function without yet showing the public a complete plan for where it must work, how accuracy will be measured, who will review errors, what it will cost and when people across the country can rely on it.
 
@@ -68,9 +58,7 @@ AI is not the villain in this story. It may be part of the solution. But a demon
 
 ## Why an Ordinary Person Should Care
 
-You do not need to speak another language to be affected by this gap.
-
-During an evacuation, everyone depends on everyone else receiving clear information. Confusion slows traffic, emergency calls and neighborhood response. A person who misses an order may need rescue later, placing residents and first responders at greater risk. A multilingual warning system is not a special benefit taken from English speakers. It is infrastructure that helps the whole community move together.
+You do not need to speak another language to be affected by this gap. During an evacuation, everyone depends on everyone else receiving clear information. Confusion slows traffic, emergency calls and neighborhood response. A person who misses an order may need rescue later, placing residents and first responders at greater risk. A multilingual warning system is not a special benefit taken from English speakers. It is infrastructure that helps the whole community move together.
 
 Language access also tells us something about public power. Government cannot define success as pressing “send.” The measure is whether the intended public received information in a form it could understand and act upon.
 
@@ -80,9 +68,7 @@ We would not accept a fire alarm that worked only in three-quarters of a buildin
 
 The missing seats are not merely those of professional translators. Emergency communication should include the people who know where language access breaks down: Spanish-speaking farmworkers, Vietnamese families along the Gulf Coast, Chinese-speaking elders, Samoan communities, French-speaking immigrants, Indigenous language speakers, refugees, local radio stations, disability advocates and community organizations already trusted by residents.
 
-Their role should not begin after a translation fails. They should help decide which languages are prioritized, how messages are tested, what words create confusion and which delivery channels people actually use.
-
-Federal agencies cannot translate every possible message into every language instantly. That is a real constraint. But a constraint should produce a transparent priority system, not silence. Officials should show how they identify local language needs, how they choose languages, what coverage remains missing and what backup exists when automated translation is uncertain.
+Their role should not begin after a translation fails. They should help decide which languages are prioritized, how messages are tested, what words create confusion and which delivery channels people actually use. Federal agencies cannot translate every possible message into every language instantly. That is a real constraint. But a constraint should produce a transparent priority system, not silence. Officials should show how they identify local language needs, how they choose languages, what coverage remains missing and what backup exists when automated translation is uncertain.
 
 ## The Recipe
 
@@ -109,9 +95,7 @@ Contact your city or county emergency-management office and ask one specific que
 
 > Which emergency alerts in this jurisdiction are available in languages other than English, which languages are covered, and where can the public see the written language-access and backup plan?
 
-If the answer is unclear, send the same question to one local elected representative and ask that the response be posted publicly before the next severe-weather season.
-
-This is realistic oversight. It does not require proving discrimination or waiting for a disaster. It asks the government to show whether its warning system reaches the people whose safety depends on it.
+If the answer is unclear, send the same question to one local elected representative and ask that the response be posted publicly before the next severe-weather season. This is realistic oversight. It does not require proving discrimination or waiting for a disaster. It asks the government to show whether its warning system reaches the people whose safety depends on it.
 
 ## Counterargument
 
@@ -121,11 +105,7 @@ Those concerns support careful planning, testing and funding. They do not suppor
 
 ## Return to the Seat
 
-The government should not congratulate itself because a phone made a sound.
-
-The job is not finished until the person holding that phone understands whether to stay, leave, shelter, turn around or help someone else.
-
-The warning arrived. The language did not. Fixing that is not charity for newcomers. It is what a public warning system owes the public.
+The government should not congratulate itself because a phone made a sound. The job is not finished until the person holding that phone understands whether to stay, leave, shelter, turn around or help someone else. The warning arrived. The language did not. Fixing that is not charity for newcomers. It is what a public warning system owes the public.
 
 Ally = Action. 🪑
 
@@ -133,7 +113,7 @@ Ally = Action. 🪑
 
 1. U.S. Government Accountability Office, **Weather Safety: Agencies Face Challenges Related to Multilingual Weather Alerts, and AI Project Needs Better Planning**, GAO-26-107680, published January 26, 2026: https://www.gao.gov/products/gao-26-107680
 2. Full GAO report, 22 pages, linked from the report page: https://www.gao.gov/assets/gao-26-107680.pdf
-3. Federal Communications Commission, multilingual Wireless Emergency Alert rulemaking and implementation materials: https://www.fcc.gov/multilingual-wireless-emergency-alerts
+3. Federal Communications Commission, multilingual Wireless Emergency Alert rulemaking and implementation materials: https://docs.fcc.gov/public/attachments/DA-26-78A1.pdf
 4. National Weather Service, alerts and warning information: https://www.weather.gov/safety/
 5. Ready.gov, emergency alerts and preparedness guidance: https://www.ready.gov/alerts
 
@@ -210,3 +190,10 @@ A warning is not truly public if millions of people cannot understand it. GAO fo
 - [ ] Final live-site slug and title uniqueness check immediately before publication
 - [ ] Create article HTML and image treatment after approval
 - [ ] Recheck GAO recommendation status immediately before publication
+
+
+## Two-review release record: October 7, 2026
+
+Pass 1: checked the controlling primary evidence, numbers, dates and claim attribution. Pass 2: checked readable paragraphs, plain-language explanations, counterargument, inference limits, who is missing, practical action, metadata, source list and required ending after corrections. Approved under Jansen’s standing instruction.
+
+Repository filenames, archive and current published ledger show no matching article. Independent live-site access was unavailable in this review; confirm the live archive and deployment source immediately before release. HTML, image selection and navigation integration remain publication work, not missing editorial content.

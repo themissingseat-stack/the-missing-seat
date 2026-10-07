@@ -2,7 +2,7 @@
 
 ## Publication Metadata
 
-- **Status:** FULL, FINISHED, PUBLICATION-READY, UNPUBLISHED
+- **Status:** APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED
 - **Completion date:** October 6, 2026
 - **Working slug:** `they-served-the-country-the-food-benefit-still-missed-them`
 - **Suggested filename:** `they-served-the-country-the-food-benefit-still-missed-them.html`
@@ -26,11 +26,7 @@ Library, repository and recent-workflow searches found no completed or published
 
 ## Editorial
 
-Serving your country does not fill a refrigerator.
-
-Neither does a thank-you at a ballgame, a discount on Veterans Day or another speech about honoring those who wore the uniform.
-
-Food does.
+Serving your country does not fill a refrigerator. Neither does a thank-you at a ballgame or another speech about honoring those who wore the uniform. Respect should include making sure eligible veterans can reach the food assistance already available.
 
 On October 1, 2026, the Government Accountability Office reported that an average of 1.4 million veterans faced food insecurity each year from 2015 through 2020. Food insecurity does not always mean a household has nothing to eat. It means there is not reliable access to enough food for an active, healthy life. It can mean smaller meals, skipped meals, cheaper food that works against a medical condition or the constant calculation of whether rent, medicine, gas or groceries can wait.
 
@@ -50,35 +46,23 @@ The benefit was there. Too often, the bridge to it was not.
 
 GAO did not report that 1.4 million veterans are food insecure today. The figure is a historical average from a 2023 RAND study covering 2015 through 2020. That distinction matters. The country needs more current data, and no honest article should turn an earlier average into a present-day head count.
 
-But the new federal review shows that the access problem is current.
+But the new federal review shows that the access problem is current. GAO examined state outreach plans, federal records and Census Bureau data. It also interviewed VA and USDA officials and representatives from 16 organizations with experience in veterans' issues or food assistance. The investigators found that the share of veterans in households receiving SNAP varied by state. Of the 47 states with federally approved SNAP outreach plans for fiscal year 2026, 39 identified veterans as a target group.
 
-GAO examined state outreach plans, federal records and Census Bureau data. It also interviewed VA and USDA officials and representatives from 16 organizations with experience in veterans' issues or food assistance. The investigators found that the share of veterans in households receiving SNAP varied by state. Of the 47 states with federally approved SNAP outreach plans for fiscal year 2026, 39 identified veterans as a target group.
-
-That sounds encouraging. It also leaves a basic question: What information are those outreach workers being given?
-
-GAO found that USDA had not developed SNAP outreach materials tailored to veterans in the previous five years, even though relevant program rules had changed. Stakeholders told GAO that some veterans carry misconceptions about SNAP. They may believe accepting help takes food away from someone else, that military or veterans' benefits automatically disqualify them, or that asking for assistance is a personal failure.
+That sounds encouraging. It also leaves a basic question: What information are those outreach workers being given? GAO found that USDA had not developed SNAP outreach materials tailored to veterans in the previous five years, even though relevant program rules had changed. Stakeholders told GAO that some veterans carry misconceptions about SNAP. They may believe accepting help takes food away from someone else, that military or veterans' benefits automatically disqualify them, or that asking for assistance is a personal failure.
 
 Those are reported barriers, not proven beliefs held by every veteran. Pride is not a diagnosis, and veterans are not one personality type. The more important point is institutional: When trusted messengers do not have clear, current materials built for the audience they are trying to reach, confusion gets the final word.
 
-There was supposed to be a stronger federal hand-off.
-
-VA and USDA signed a memorandum of agreement in September 2023 to address veteran food insecurity. According to GAO, their joint work slowed after April 2025 following the loss of key USDA staff. Officials from both agencies said they considered the agreement still active. Yet the agencies had not reviewed it when the agreement said they should, leaving its current status unclear.
+There was supposed to be a stronger federal hand-off. VA and USDA signed a memorandum of agreement in September 2023 to address veteran food insecurity. According to GAO, their joint work slowed after April 2025 following the loss of key USDA staff. Officials from both agencies said they considered the agreement still active. Yet the agencies had not reviewed it when the agreement said they should, leaving its current status unclear.
 
 That is not an accusation that anyone wanted veterans to go hungry. Staffing changes happen. Federal programs are complicated. States, not VA, make individual SNAP eligibility decisions, and eligibility depends on household circumstances and state rules.
 
-But an agreement that everyone says exists and no one has reviewed on schedule is not a dependable bridge. It is paperwork waiting for ownership.
+But an agreement that everyone says exists and no one has reviewed on schedule is not a dependable bridge. It is paperwork waiting for ownership. GAO made four recommendations. USDA should keep its SNAP eligibility website current on exceptions to the program's time limit. USDA should create and distribute veteran-specific outreach materials with the Veterans Health Administration. VA and USDA should each make sure a formal collaboration mechanism is in place, including reviewing and updating their agreement if necessary.
 
-GAO made four recommendations. USDA should keep its SNAP eligibility website current on exceptions to the program's time limit. USDA should create and distribute veteran-specific outreach materials with the Veterans Health Administration. VA and USDA should each make sure a formal collaboration mechanism is in place, including reviewing and updating their agreement if necessary.
-
-Both departments agreed. As of October 6, 2026, all four recommendations remained open on GAO's public page.
-
-Agreement is a start. Groceries are the measure.
+Both departments agreed. As of October 7, 2026, all four recommendations remained open on GAO's public page. Agreement is a start. Groceries are the measure.
 
 ## Why an Ordinary Person Should Care
 
-This is not only a veterans' issue.
-
-If a public program is funded, staffed and legally available but the people it was built to help cannot understand or reach it, the public pays twice. Taxpayers fund the benefit. Then families, charities, clinics and emergency systems absorb the harm when the benefit goes unused.
+This is not only a veterans' issue. If a public program is funded, staffed and legally available but the people it was built to help cannot understand or reach it, the public pays twice. Taxpayers fund the benefit. Then families, charities, clinics and emergency systems absorb the harm when the benefit goes unused.
 
 Food insecurity can make chronic illness harder to manage. A person choosing between groceries and medication is not making a clean health decision. A parent skipping meals so a child can eat is not experiencing an abstract policy gap. A veteran driving farther for cheaper food or relying on a food pantry after a benefit hand-off fails is carrying the administrative burden in real life.
 
@@ -88,9 +72,7 @@ The same lesson applies beyond this story. Government loves to count programs. T
 
 ## Who Was Missing From the Design?
 
-Veterans were named in most state outreach plans, but being named is not the same as having a seat.
-
-The system needs input from veterans who applied successfully, veterans who were denied, people who abandoned an application, rural veterans, disabled veterans, Native veterans, women veterans, military families, veterans who do not receive VA healthcare and local service organizations that already hear the questions federal agencies miss.
+Veterans were named in most state outreach plans, but being named is not the same as having a seat. The system needs input from veterans who applied successfully, veterans who were denied, people who abandoned an application, rural veterans, disabled veterans, Native veterans, women veterans, military families, veterans who do not receive VA healthcare and local service organizations that already hear the questions federal agencies miss.
 
 They can tell officials which words create confusion, which documents are hard to obtain, whether the state phone line answers, whether an online application works with a screen reader and whether a referral from a VA clinic actually reaches a person who can complete the next step.
 
@@ -128,19 +110,13 @@ This action does not ask veterans to become full-time investigators. It asks ele
 
 USDA and VA can fairly say they have not ignored this problem. VA screens patients for food insecurity, provides referrals and maintains a Food Security Office. USDA supports state outreach. Thirty-nine state outreach plans targeted veterans, and both departments agreed with GAO's recommendations.
 
-Those facts deserve credit.
-
-They also show why the remaining gap is fixable. This is not a demand to invent a new national benefit. The program, screening system, state network and interagency agreement already exist. The job is to update the information, repair the partnership and measure whether the hand-off reaches the kitchen table.
+Those facts deserve credit. They also show why the remaining gap is fixable. This is not a demand to invent a new national benefit. The program, screening system, state network and interagency agreement already exist. The job is to update the information, repair the partnership and measure whether the hand-off reaches the kitchen table.
 
 ## Return to the Seat
 
-America is comfortable thanking veterans in public. It should become just as comfortable asking whether a veteran has enough food in private.
+America is comfortable thanking veterans in public. It should become just as comfortable asking whether a veteran has enough food in private. The missing seat is not a place in a parade. It is a place in the system where one agency knows a person needs help, another agency controls the benefit and someone is responsible for making sure the connection does not disappear between them.
 
-The missing seat is not a place in a parade. It is a place in the system where one agency knows a person needs help, another agency controls the benefit and someone is responsible for making sure the connection does not disappear between them.
-
-They served the country. The food benefit still missed them.
-
-That is not a reason for another slogan. It is a reason to fix the hand-off.
+They served the country. The food benefit still missed them. That is not a reason for another slogan. It is a reason to fix the hand-off.
 
 Ally = Action. 🪑
 
@@ -229,3 +205,10 @@ The benefit exists. The hand-off weakened. GAO found that food-insecure veterans
 - [ ] Final live-site slug and title uniqueness check immediately before publication
 - [ ] Create article HTML and image treatment after approval
 - [ ] Recheck GAO recommendation status immediately before publication
+
+
+## Two-review release record: October 7, 2026
+
+Pass 1: checked the controlling primary evidence, numbers, dates and claim attribution. Pass 2: checked readable paragraphs, plain-language explanations, counterargument, inference limits, who is missing, practical action, metadata, source list and required ending after corrections. Approved under Jansen’s standing instruction.
+
+Repository filenames, archive and current published ledger show no matching article. Independent live-site access was unavailable in this review; confirm the live archive and deployment source immediately before release. HTML, image selection and navigation integration remain publication work, not missing editorial content.

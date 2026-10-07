@@ -2,7 +2,7 @@
 
 ## Learning to Unlearn
 
-**Status:** DRAFT FOR REVIEW / NOT YET QUEUED  
+**Status:** APPROVED / QUEUED / FULL, FINISHED  
 **Website topic:** Race & Equal Humanity  
 **Working slug:** `learning-to-unlearn`  
 **Website title:** Learning to Unlearn  
@@ -19,123 +19,53 @@
 
 # Editorial / Website Master
 
-I was thinking about racism and the way old ideas manage to survive, even after people insist they are not racist anymore, and one phrase kept coming back to me: **learning to unlearn**.
-
-Because sometimes what looks like stubbornness is actually fear.
+I was thinking about racism and the way old ideas manage to survive, even after people insist they are not racist anymore, and one phrase kept coming back to me: **learning to unlearn**. Because sometimes what looks like stubbornness is actually fear.
 
 Not always. Some people know exactly what they believe and do not want to change it. Some people benefit from the way things are. Some people are simply hateful. We should not turn every act of racism into a misunderstanding and excuse the harm.
 
-But I also think there are people holding on to old ideas because letting go feels like losing something much bigger than an argument.
+But I also think there are people holding on to old ideas because letting go feels like losing something much bigger than an argument. Maybe it means admitting that something your parents taught you was wrong. Maybe the history you learned in school was incomplete. Maybe somebody you respected said things you now realize were racist. Maybe a joke you laughed at was not harmless. Maybe the neighborhood your family warned you about was not dangerous for the reasons you were told. Maybe the people you learned to fear were never the problem.
 
-Maybe it means admitting that something your parents taught you was wrong. Maybe the history you learned in school was incomplete. Maybe somebody you respected said things you now realize were racist. Maybe a joke you laughed at was not harmless. Maybe the neighborhood your family warned you about was not dangerous for the reasons you were told. Maybe the people you learned to fear were never the problem.
+That can shake more than an opinion. It can shake your picture of your family, your country and even yourself. And I think that is where stubbornness, fear and loss can get tangled together. Changing my mind may mean admitting that I treated somebody unfairly or repeated something harmful. It may mean reconsidering how I voted, hired, rented, taught or judged. That can be uncomfortable without making change a weakness.
 
-That can shake more than an opinion. It can shake your picture of your family, your country and even yourself.
+No. I think refusing to look is the weaker choice. Ignorance is not the same thing as stupidity. We are all ignorant about something. It simply means there is something we do not know. None of us arrives in the world already understanding race, history, class, religion, gender, politics and every other complicated thing human beings have managed to build around themselves.
 
-And I think that is where stubbornness, fear and loss can get tangled together.
+We learn. And that is exactly why racism is not only a question of who openly hates whom. Research on racial socialization shows that young people learn beliefs about race from families, peers, media and the world around them. A review first released online in 2024 describes those influences directly. Children are not raised in a vacuum. They notice who lives where, who is shown as dangerous, who is shown as successful, which groups appear in the news and what adults say or do not say about race.
 
-If changing my mind means admitting that I was wrong, what else do I have to admit? Was I unfair to somebody? Did I repeat something that hurt people? Did I vote, hire, rent, teach, discipline or judge based on assumptions I never bothered to check? Does changing my mind make me weak?
-
-No. I think refusing to look is the weaker choice.
-
-Ignorance is not the same thing as stupidity. We are all ignorant about something. It simply means there is something we do not know. None of us arrives in the world already understanding race, history, class, religion, gender, politics and every other complicated thing human beings have managed to build around themselves.
-
-We learn.
-
-And that is exactly why racism is not only a question of who openly hates whom.
-
-Research on racial socialization shows that young people learn beliefs about race from families, peers, media and the world around them. A 2024 review of racial socialization research describes those influences directly. Children are not raised in a vacuum. They notice who lives where, who is shown as dangerous, who is shown as successful, which groups appear in the news and what adults say or do not say about race.
-
-One study of 646 White children between four and eight years old found something especially interesting. Children who saw more racial inequality around them were more likely to show anti-Black bias when they explained those inequalities as coming from something inherent in the people themselves. Children who understood that outside conditions could produce inequality showed more egalitarian attitudes.
+One observational study of 646 White children between four and eight years old found an association worth examining. It did not establish that one explanation alone caused bias. Children who saw more racial inequality around them were more likely to show anti-Black bias when they explained those inequalities as coming from something inherent in the people themselves. Children who understood that outside conditions could produce inequality showed more egalitarian attitudes.
 
 In Regular Joe language: children see differences and try to explain them. If nobody helps them understand how history, opportunity and institutions can shape those differences, they can come up with a much uglier explanation on their own.
 
-That matters because adults do the same thing.
+That matters because adults do the same thing. We see a poor neighborhood and decide the people must be lazy. We see a higher arrest rate and decide the group must be more criminal. We hear somebody speak differently and decide they are less educated. We see somebody angry and decide they are dangerous. After enough repetition, an assumption can stop feeling like an assumption. It starts feeling like common sense.
 
-We see a poor neighborhood and decide the people must be lazy. We see a higher arrest rate and decide the group must be more criminal. We hear somebody speak differently and decide they are less educated. We see somebody angry and decide they are dangerous. After enough repetition, an assumption can stop feeling like an assumption. It starts feeling like common sense.
+That is the dangerous part. The hardest things to unlearn are often the things we do not remember learning. Nobody may have sat you down at the kitchen table and said, “Here is what you should believe about Black people.” It can happen through a thousand smaller lessons. A warning. A joke. A television character. A missing chapter in a history book. Who your parents trusted. Who they crossed the street to avoid. Which neighborhood they called “good.” Which person got described as “articulate” as though that were surprising.
 
-That is the dangerous part.
+Eventually those pieces can become a picture. Then somebody comes along years later and tells you the picture may be wrong. That can feel like loss. But losing an idea that was never true is not the same thing as losing yourself.
 
-The hardest things to unlearn are often the things we do not remember learning.
+That is where strength comes in. Strength is not defending everything you have ever believed just because you have believed it for a long time. Strength is being able to look at new information without treating it as an attack on your identity.
 
-Nobody may have sat you down at the kitchen table and said, “Here is what you should believe about Black people.” It can happen through a thousand smaller lessons. A warning. A joke. A television character. A missing chapter in a history book. Who your parents trusted. Who they crossed the street to avoid. Which neighborhood they called “good.” Which person got described as “articulate” as though that were surprising.
+And courage is the next step. Courage says: if I know better now, I have to do something with that knowledge. That might mean changing the way you speak. It might mean questioning a family story. It might mean reading the history you were never taught. It might mean admitting that something you once defended was wrong. It might mean noticing how you react to a Black person before you have enough information to judge them. It might mean listening without immediately preparing your defense.
 
-Eventually those pieces can become a picture.
+None of that requires hating yourself. That is another place where I think we have made this conversation harder than it needs to be. If the only choices we offer people are “you are a good person who has never absorbed a racist idea” or “you are a racist and therefore a terrible person,” a lot of people are going to spend their energy proving they belong in the first category.
 
-Then somebody comes along years later and tells you the picture may be wrong.
+That does not teach anybody much. A better question might be: **What did I learn, where did I learn it, and does the evidence still support it?**
 
-That can feel like loss.
+The science is not telling us that prejudice disappears because somebody attends one workshop or reads one article. A major review of prejudice-reduction research found that many quick, light-touch interventions have uncertain long-term effects. Later reviews identify evidence for meaningful contact and, in some organizational settings, changes to procedures and exposure to other people’s experiences. These results depend on the intervention and setting; they are not a guarantee that any training works.
 
-But losing an idea that was never true is not the same thing as losing yourself.
+That is useful because it keeps us from turning “unlearning” into another feel-good slogan. You do not undo generations of racial thinking with one diversity seminar. And racism is not only inside people's heads. Rules, procedures and institutions matter too. A person can sincerely believe they are fair while participating in a system that produces unequal treatment. So this is not simply about fixing attitudes and declaring victory.
 
-That is where strength comes in.
+It is about being willing to examine both the belief and the machinery around it. Stubbornness, fear and loss can keep us defending what feels familiar. Ignorance can explain what we did not know. Strength and courage matter when we know enough to reconsider it and change how we act.
 
-Strength is not defending everything you have ever believed just because you have believed it for a long time. Strength is being able to look at new information without treating it as an attack on your identity.
-
-And courage is the next step.
-
-Courage says: if I know better now, I have to do something with that knowledge.
-
-That might mean changing the way you speak. It might mean questioning a family story. It might mean reading the history you were never taught. It might mean admitting that something you once defended was wrong. It might mean noticing how you react to a Black person before you have enough information to judge them. It might mean listening without immediately preparing your defense.
-
-None of that requires hating yourself.
-
-That is another place where I think we have made this conversation harder than it needs to be. If the only choices we offer people are “you are a good person who has never absorbed a racist idea” or “you are a racist and therefore a terrible person,” a lot of people are going to spend their energy proving they belong in the first category.
-
-That does not teach anybody much.
-
-A better question might be: **What did I learn, where did I learn it, and does the evidence still support it?**
-
-The science is not telling us that prejudice disappears because somebody attends one workshop or reads one article. A major review of prejudice-reduction research found that many quick, light-touch interventions have uncertain long-term effects. More recent reviews have found stronger evidence for things like meaningful contact, exposure and structural changes in the way organizations make decisions.
-
-That is useful because it keeps us from turning “unlearning” into another feel-good slogan.
-
-You do not undo generations of racial thinking with one diversity seminar.
-
-And racism is not only inside people's heads. Rules, procedures and institutions matter too. A person can sincerely believe they are fair while participating in a system that produces unequal treatment. So this is not simply about fixing attitudes and declaring victory.
-
-It is about being willing to examine both the belief and the machinery around it.
-
-That is why I keep coming back to those six words: stubbornness, fear, loss, ignorance, strength and courage.
-
-Stubbornness can say, “This is what I have always believed.”
-
-Fear can say, “What happens to me if I let it go?”
-
-Loss can say, “If this was wrong, what else was wrong?”
-
-Ignorance can say, “I did not know.”
-
-Strength can say, “Now I do.”
-
-And courage can say, “Then I have to change.”
-
-Not because somebody shamed you into it. Not because you are responsible for everything people who look like you ever did. Not because you need to spend the rest of your life apologizing.
-
-Because truth should matter more than comfort.
+Not because somebody shamed you into it. Not because you are responsible for everything people who look like you ever did. Not because you need to spend the rest of your life apologizing. Because truth should matter more than comfort.
 
 **Who is missing?** Sometimes it is the person who was harmed by an assumption nobody thought was worth examining. Sometimes it is the child learning what race means from adults who insist race is never discussed in their home while teaching it in a hundred other ways. And sometimes the missing person is the adult who might actually change if we gave them room to say, without humiliation, “I learned that wrong.”
 
-There has to be room for that sentence.
+There has to be room for that sentence. Otherwise, what exactly are we asking people to do? Learning to unlearn does not mean erasing where you came from. It means deciding that inheritance alone is not enough reason to keep carrying something.
 
-Otherwise, what exactly are we asking people to do?
+We inherit property. We inherit traditions. We inherit recipes, religions, stories, fears and explanations. Some of them are beautiful. Some of them kept people alive. Some of them are simply wrong. Growing up means learning the difference.
 
-Learning to unlearn does not mean erasing where you came from. It means deciding that inheritance alone is not enough reason to keep carrying something.
+And maybe racial progress depends partly on whether enough of us are strong enough to admit that something can feel familiar, normal and deeply rooted and still need to be left behind. That is not weakness. That is what courage looks like when nobody is handing out medals for it.
 
-We inherit property. We inherit traditions. We inherit recipes, religions, stories, fears and explanations.
-
-Some of them are beautiful.
-
-Some of them kept people alive.
-
-Some of them are simply wrong.
-
-Growing up means learning the difference.
-
-And maybe racial progress depends partly on whether enough of us are strong enough to admit that something can feel familiar, normal and deeply rooted and still need to be left behind.
-
-That is not weakness.
-
-That is what courage looks like when nobody is handing out medals for it.
+Choose one assumption you repeat about another group. Write down where it came from, check it against credible evidence and the experiences of people affected, and change one decision you control. If you hire, rent, teach or supervise, examine the rule as well as your reaction. A private realization matters more when it changes how somebody is treated.
 
 **Ally = Action. 🪑**
 
@@ -143,9 +73,7 @@ That is what courage looks like when nobody is handing out medals for it.
 
 ## Regular Joe Test
 
-This piece must remain understandable on first read without requiring the reader to know terms such as implicit bias, racial socialization, essentialism, intergroup contact theory or structural racism.
-
-Where research uses technical language, translate it immediately into ordinary language. The editorial should never sound as though the reader is being diagnosed, scolded or placed into a moral category.
+This piece must remain understandable on first read without requiring the reader to know terms such as implicit bias, racial socialization, essentialism, intergroup contact theory or structural racism. Where research uses technical language, translate it immediately into ordinary language. The editorial should never sound as though the reader is being diagnosed, scolded or placed into a moral category.
 
 **Core Joe question:**  
 What did I learn, where did I learn it, and does the evidence still support it?
@@ -169,9 +97,7 @@ What did I learn, where did I learn it, and does the evidence still support it?
 
 Not all racism is caused by ignorance, fear or misunderstanding. Some people knowingly defend racial hierarchy, material advantage or exclusion. Structural racism also cannot be reduced to individual attitudes. A person can change their beliefs while discriminatory rules or institutional practices remain.
 
-The editorial therefore treats “unlearning” as **one part** of racial change, not the entire remedy.
-
-It also avoids claiming that every stereotype comes directly from parents or that children passively copy adults. Research indicates that racial beliefs develop through multiple influences, including family, peers, media, observed inequality and broader social context.
+The editorial therefore treats “unlearning” as **one part** of racial change, not the entire remedy. It also avoids claiming that every stereotype comes directly from parents or that children passively copy adults. Research indicates that racial beliefs develop through multiple influences, including family, peers, media, observed inequality and broader social context.
 
 ---
 
@@ -179,14 +105,14 @@ It also avoids claiming that every stereotype comes directly from parents or tha
 
 **Research reviewed for this package:**
 
-1. **Racial Socialization in the United States (2024 review)**  
+1. **Racial Socialization in the United States (online 2024; volume 2025)**  
    Reviews how young people learn beliefs about race through families, peers, media and environmental cues, and how these processes can contribute to either racial inequality or its dismantling.
 
 2. **Developmental origins of anti-Black bias in White children in the United States (PNAS, 2022)**  
-   Study of 646 White children ages 4–8. Greater exposure to racial inequality was associated with more anti-Black bias among children who explained inequality through intrinsic differences; children recognizing external causes showed more egalitarian attitudes.
+   Study of 646 White children ages 4-8. Greater exposure to racial inequality was associated with more anti-Black bias among children who explained inequality through intrinsic differences; children recognizing external causes showed more egalitarian attitudes.
 
 3. **Prejudice Reduction: Progress and Challenges (Annual Review of Psychology, 2021)**  
-   Reviewed 418 experiments in 309 manuscripts from 2007–2019. Found that many interventions were light-touch and that long-term effects were often unclear; publication bias and weak designs limit some confident claims.
+   Reviewed 418 experiments in 309 manuscripts from 2007-2019. Found that many interventions were light-touch and that long-term effects were often unclear; publication bias and weak designs limit some confident claims.
 
 4. **A systematic review of experimental evidence on interventions against bias and discrimination in organizations (2024)**  
    Reviewed 116 experimental papers (159 studies). Found evidence that structural interventions and exposure interventions can reduce bias/discrimination affecting ethnic minorities in organizational settings.
@@ -200,20 +126,20 @@ It also avoids claiming that every stereotype comes directly from parents or tha
 
 ## Sources / Receipts
 
-- PubMed — **Racial Socialization in the United States**  
-  https://pubmed.ncbi.nlm.nih.gov/39476411/
+- PubMed, **Racial Socialization in the United States**  
+  https://www.annualreviews.org/content/journals/10.1146/annurev-psych-050724-034006
 
-- PubMed / PNAS — **Developmental origins of anti-Black bias in White children in the United States**  
+- PubMed / PNAS, **Developmental origins of anti-Black bias in White children in the United States**  
   https://pubmed.ncbi.nlm.nih.gov/36378643/
 
-- Annual Review of Psychology — **Prejudice Reduction: Progress and Challenges**  
+- Annual Review of Psychology, **Prejudice Reduction: Progress and Challenges**  
   https://www.annualreviews.org/content/journals/10.1146/annurev-psych-071620-030619
 
-- Human Resource Management Review — **A systematic review of experimental evidence on interventions against bias and discrimination in organizations**  
-  https://www.sciencedirect.com/science/article/pii/S1053482224000196
+- Human Resource Management Review, **A systematic review of experimental evidence on interventions against bias and discrimination in organizations**  
+  https://portal.fis.tum.de/en/publications/a-systematic-review-of-experimental-evidence-on-interventions-aga/
 
-- Evaluation and Program Planning — **Following the science to understand how to reduce prejudice and its harmful consequences**  
-  https://www.sciencedirect.com/science/article/pii/S0149718925000230
+- Evaluation and Program Planning, **Following the science to understand how to reduce prejudice and its harmful consequences**  
+  https://doi.org/10.1016/j.evalprogplan.2025.102556
 
 ---
 
@@ -223,10 +149,10 @@ It also avoids claiming that every stereotype comes directly from parents or tha
 
 Reviewed against:
 
-- **When “Colorblindness” Protects Inequality** — legal and constitutional focus on race-conscious remedies and formal neutrality.
-- **Black History Did Not Begin With Slavery** — historical representation and restoring Black life beyond oppression.
-- **Who Writes History?** — control of school/library memory and book removals.
-- **You Can Talk About Racism and Still Be Happy** — public memory, inherited guilt and remembering historical racism without personal accusation.
+- **When “Colorblindness” Protects Inequality**, legal and constitutional focus on race-conscious remedies and formal neutrality.
+- **Black History Did Not Begin With Slavery**, historical representation and restoring Black life beyond oppression.
+- **Who Writes History?**, control of school/library memory and book removals.
+- **You Can Talk About Racism and Still Be Happy**, public memory, inherited guilt and remembering historical racism without personal accusation.
 
 **Distinct thesis:** This editorial asks how racial ideas are learned, why people resist giving them up, and whether strength and courage can mean admitting that a familiar belief no longer survives the evidence.
 
@@ -385,9 +311,15 @@ A person peeling away an old layer of words from a wall, representing the proces
 - [x] Website metadata
 - [x] Image direction and alt text
 - [x] Duplication check
-- [ ] Jansen review/approval
-- [ ] Queue only after explicit approval
+- [x] Jansen approval under the standing two-review instruction
+- [x] Added to the consolidated queue after two reviews
 - [ ] Recheck research links immediately before publication
 - [ ] Create final HTML and publication assets after approval
 
-**Publication state:** Draft package complete. Not queued.
+**Publication state:** Complete, approved and queued. Refresh sources and verify live duplication immediately before release.
+
+## Two-review release record: October 7, 2026
+
+Pass 1: checked the controlling primary evidence, numbers, dates and claim attribution. Pass 2: checked readable paragraphs, plain-language explanations, counterargument, inference limits, who is missing, practical action, metadata, source list and required ending after corrections. Approved under Jansen’s standing instruction.
+
+Repository filenames, archive and current published ledger show no matching article. Independent live-site access was unavailable in this review; confirm the live archive and deployment source immediately before release. HTML, image selection and navigation integration remain publication work, not missing editorial content.

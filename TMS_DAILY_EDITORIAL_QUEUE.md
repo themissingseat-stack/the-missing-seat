@@ -40,6 +40,15 @@ Every TMS editorial must:
 
 ## Published / do not queue again
 
+### 2026-10-07 — She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.
+- Status: **PUBLISHED / VERIFIED COMPLETE**
+- URL: https://themissingseat.org/she-was-qualified-to-repair-the-pallets-the-company-allegedly-only-hired-men.html
+- Package: `editorial-packages/TMS_SHE_WAS_QUALIFIED_TO_REPAIR_THE_PALLETS_PUBLICATION_PACKAGE.md`
+- Two-pass verification completed October 7, 2026.
+- Closest live comparator: **The HR Manager Said No to Discrimination. Then She Allegedly Lost Her Job.** Material distinction: that story concerns retaliation against HR for opposing alleged discrimination; this story concerns direct sex barriers in hiring and occupational stereotypes.
+- Article, archive, Justice & Law topic, RSS and homepage feature updated.
+
+
 ### 2026-10-06
 - **You Can Talk About Racism and Still Be Happy**
   - Status: **PUBLISHED / VERIFIED COMPLETE**

@@ -133,9 +133,9 @@
   ],
   "queue": [],
   "counts": {
-    "full_finished_unpublished": 4,
+    "full_finished_unpublished": 5,
     "currently_queued": 0,
-    "publication_ready": 4,
+    "publication_ready": 5,
     "retired_replaced_duplicates": 4,
     "requiring_live_site_repository_reconciliation": 0,
     "requiring_status_verification": 1,
@@ -385,6 +385,24 @@
         "create HTML and image treatment",
         "refresh 2025-2026 report and complaint-page status before publication"
       ]
+    },
+    {
+      "title": "She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.",
+      "slug": "she-was-qualified-to-repair-the-pallets",
+      "completion_status": "full_finished_publication_ready",
+      "publication_status": "unpublished",
+      "duplication_status": "materially distinct; examines an EEOC finding and pre-litigation settlement concerning alleged sex-based exclusion from pallet-repair hiring across five locations, not retaliation against an HR manager or broader workplace discrimination",
+      "related_live_comparators": [
+        "the-hr-manager-said-no-to-discrimination-then-she-allegedly-lost-her-job.html"
+      ],
+      "queue_position": null,
+      "source": "editorial-packages/TMS_SHE_WAS_QUALIFIED_TO_REPAIR_THE_PALLETS_PUBLICATION_PACKAGE_2026-10-07.md",
+      "remaining_work": [
+        "Jansen approval",
+        "final live-site title and slug check",
+        "create article HTML and final image treatment",
+        "recheck claims deadline and settlement administrator information immediately before publication"
+      ]
     }
   ],
   "status_verification_ledger": [
@@ -471,5 +489,12 @@
       "source": "https://www.bmas.de/DE/Soziales/Teilhabe-und-Inklusion/Rehabilitation-und-Teilhabe/Behindertengleichstellungsgesetz/reform-des-behindertengleichstellungsgesetzes.html",
       "status": "BMAS description of the federal cabinet draft dated July 3, 2026. The reform is proposed law, not yet a final enacted rule. It creates individual enforceable accommodation claims, but excludes damages against private companies and allows only declaratory actions for some accessibility-rule violations."
     }
-  ]
+  ],
+  "daily_editorial_completion_2026_10_07": {
+    "title": "She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.",
+    "status": "full_finished_publication_ready_unpublished",
+    "source": "editorial-packages/TMS_SHE_WAS_QUALIFIED_TO_REPAIR_THE_PALLETS_PUBLICATION_PACKAGE_2026-10-07.md",
+    "publication_commit": "2012e9e6ce3c279df24b6f75582a677be5daaada",
+    "notes": "New reserve editorial completed after repository, live-archive and ledger duplication checks. Not inserted into the queue or published without Jansen approval. Settlement posture and EEOC investigative findings are clearly distinguished from a court judgment."
+  }
 }

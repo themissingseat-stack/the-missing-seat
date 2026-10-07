@@ -2,114 +2,60 @@
 
 ## Before You Cut Care, Did You Stop Paying More for the Same Care?
 
-**Status:** REVIEW READY — DO NOT PUBLISH UNTIL JANSEN APPROVES  
+**Status:** APPROVED / QUEUED / FULL, FINISHED  
 **Seat Affected:** Health • Money • Public Accountability  
 **Seat Status:** A known savings route remains only partially used  
 **Location:** United States  
 **Theme:** Medicare • Medicaid • Health Spending • Accountability • Government Efficiency
 
 ### Dek
-Congress had a public estimate showing Medicare could save about **$156.9 billion over 10 years** by paying the same rate for selected outpatient services when they can safely be provided in either a hospital outpatient department or a physician office. The 2025 reconciliation law instead made major Medicaid eligibility, enrollment, and financing changes. Those are different programs and different policy choices. But the contrast raises a simple accountability question: **before reducing coverage or enrollment, did Washington exhaust the provider-payment savings already sitting on the table?**
+Congress had a public estimate showing Medicare could save about **$156.9 billion over 10 years** by paying the same rate for selected outpatient services when they can safely be provided in either a hospital outpatient department or a physician office. The 2025 reconciliation law made major Medicaid eligibility, enrollment, and financing changes. Those are different programs and different policy choices. But the contrast raises a simple accountability question: **before reducing coverage or enrollment, did Washington exhaust the provider-payment savings already sitting on the table?**
 
 ---
 
 # EDITORIAL
 
-Here is a government spending problem that should be easy to explain.
+Here is a government spending problem that should be easy to explain. If a Medicare patient gets a routine outpatient service in a physician's office, Medicare may pay one amount. If the same or a very similar service is delivered in a hospital-owned outpatient department, Medicare can pay more.
 
-If a Medicare patient gets a routine outpatient service in a physician's office, Medicare may pay one amount.
-
-If the same or a very similar service is delivered in a hospital-owned outpatient department, Medicare can pay more.
-
-Not because the patient necessarily got better care.
-
-Not because the procedure necessarily changed.
-
-Sometimes the biggest difference is where the bill came from.
-
-That matters because Medicare pays more, and the patient can pay more too.
+Not because the patient necessarily got better care. Not because the procedure necessarily changed. Sometimes the biggest difference is where the bill came from. That matters because Medicare pays more, and the patient can pay more too.
 
 The Congressional Budget Office put a number on the problem before Congress passed the big 2025 reconciliation law. In December 2024, CBO estimated that broader "site-neutral" payment rules for selected outpatient services could reduce Medicare spending by about **$156.9 billion over 10 years**.
 
 "Site-neutral" is government language for a simple idea: if a service can safely and appropriately be delivered in different outpatient settings, Medicare should not automatically pay much more just because a hospital owns the building.
 
-GAO has been pushing Congress in this direction for years. Its recommendation goes back to 2015. As of February 2026, GAO still listed it as **Open — Partially Addressed**.
+GAO has been pushing Congress in this direction for years. Its recommendation goes back to 2015. As of February 2026, GAO still listed it as **Open / Partially Addressed**. So this was not a secret. It was not discovered after the cuts.
 
-So this was not a secret.
+The policy option and the savings estimate were already public before the 2025 reconciliation law was enacted. That December 2024 estimate predates later payment changes. It is not a new calculation of additional savings still available today.
 
-It was not discovered after the cuts.
+## The separate Medicaid decision
 
-The policy option and the savings estimate were already public before the 2025 reconciliation law was enacted.
+The 2025 reconciliation law made major changes to Medicaid. According to the Congressional Budget Office, the Medicaid provisions were estimated to reduce the federal deficit by **$886.8 billion over 2025 through 2034**.
 
-## What Congress did instead
+CBO also estimated that those Medicaid changes would increase the number of people without health insurance by **7.5 million in 2034**. The law changed eligibility and enrollment rules, imposed community-engagement requirements on some adults, changed provider-tax rules, and reduced some state-directed payment limits.
 
-The 2025 reconciliation law made major changes to Medicaid.
+That is a projected federal budget effect, not money already saved. It also means some of the savings come from fewer people being enrolled or covered. The $156.9 billion Medicare site-neutral option and the $886.8 billion Medicaid estimate are **not the same pot of money**. They are different programs, different policies, and different ten-year estimates. One cannot simply be swapped dollar-for-dollar for the other.
 
-According to the Congressional Budget Office, the Medicaid provisions were estimated to reduce the federal deficit by **$886.8 billion over 2025 through 2034**.
-
-CBO also estimated that those Medicaid changes would increase the number of people without health insurance by **7.5 million in 2034**.
-
-The law changed eligibility and enrollment rules, imposed community-engagement requirements on some adults, changed provider-tax rules, and reduced some state-directed payment limits.
-
-That is real federal savings.
-
-It also means some of the savings come from fewer people being enrolled or covered.
-
-Now stop there.
-
-The $156.9 billion Medicare site-neutral option and the $886.8 billion Medicaid estimate are **not the same pot of money**. They are different programs, different policies, and different ten-year estimates. One cannot simply be swapped dollar-for-dollar for the other.
-
-But that does not make the comparison irrelevant.
-
-It makes the question more precise:
-
-**Before government saves money by making it harder for some people to stay insured, how much effort should it make to stop paying providers more than necessary for care that can safely be delivered at a lower rate?**
+But that does not make the comparison irrelevant. It makes the question more precise: **Before government saves money by making it harder for some people to stay insured, how much effort should it make to stop paying providers more than necessary for care that can safely be delivered at a lower rate?**
 
 That question deserves an answer.
 
-## The government has acted — just not all the way
+## The government has acted in stages
 
-This is not a story where Washington has done absolutely nothing.
+This is not a story where Washington has done absolutely nothing. Congress partially addressed the issue in 2015 for certain newer off-campus hospital departments. CMS later expanded site-neutral payments to some clinic visits.
 
-Congress partially addressed the issue in 2015 for certain newer off-campus hospital departments.
-
-CMS later expanded site-neutral payments to some clinic visits.
-
-For 2026, CMS expanded the policy to certain drug-administration services.
-
-And in July 2026, CMS proposed another step for 2027: paying physician-office-equivalent rates for certain imaging services performed in some off-campus hospital outpatient departments.
+For 2026, CMS expanded the policy to certain drug-administration services. And in July 2026, CMS proposed another step for 2027: paying physician-office-equivalent rates for certain imaging services performed in some off-campus hospital outpatient departments.
 
 CMS estimates that proposal would reduce Medicare Part B expenditures by about **$260 million in the first year**, including about **$190 million in Medicare savings and $70 million in lower beneficiary premiums**. CMS separately estimates beneficiary cost-sharing would fall by about **$70 million**.
 
-That is meaningful.
-
-But compare it with the broader CBO option: **$156.9 billion over 10 years**.
-
-A few hundred million dollars is progress.
-
-It is not the full receipt.
+That is meaningful, but a first-year estimate for one proposed reform cannot be directly compared with a ten-year estimate for a broader option. The useful question is which services remain paid differently and whether those differences protect access or merely increase the bill.
 
 ## Why does Medicare pay more in the first place?
 
-Hospitals have an argument too.
+Hospitals have an argument too. Hospital outpatient departments can carry higher overhead, stricter regulatory obligations, emergency capacity, and more complex patients than independent physician offices. Hospital groups warn that broad site-neutral cuts could weaken hospitals, especially safety-net and rural facilities.
 
-Hospital outpatient departments can carry higher overhead, stricter regulatory obligations, emergency capacity, and more complex patients than independent physician offices.
+That concern should not be brushed aside. The Medicare Payment Advisory Commission takes a more targeted approach. It supports aligning payment rates for selected services when they are safe and appropriate to provide in multiple settings **and when doing so does not threaten access to care**.
 
-Hospital groups warn that broad site-neutral cuts could weaken hospitals, especially safety-net and rural facilities.
-
-That concern should not be brushed aside.
-
-The Medicare Payment Advisory Commission takes a more targeted approach. It supports aligning payment rates for selected services when they are safe and appropriate to provide in multiple settings **and when doing so does not threaten access to care**.
-
-MedPAC has also recommended separate support for safety-net hospitals.
-
-That matters because this does not have to be a choice between:
-
-**overpay every hospital-owned outpatient department**
-
-or
-
-**cut vulnerable hospitals until they close.**
+MedPAC has also recommended separate support for safety-net hospitals. That matters because this does not have to be a choice between: **overpay every hospital-owned outpatient department** or **cut vulnerable hospitals until they close.**
 
 A serious policy can distinguish between routine services that do not need hospital-level payment and hospitals that actually need additional support because they serve difficult populations or maintain expensive standby capacity.
 
@@ -117,91 +63,42 @@ That is what policy is supposed to do.
 
 ## Who benefits from the current system?
 
-Hospitals and health systems can receive higher Medicare payments when services are billed through hospital outpatient departments.
+Hospitals and health systems can receive higher Medicare payments when services are billed through hospital outpatient departments. That payment difference can also create an incentive for hospitals to buy physician practices and convert them into hospital-owned departments.
 
-That payment difference can also create an incentive for hospitals to buy physician practices and convert them into hospital-owned departments.
+CBO and MedPAC have both discussed that consolidation incentive. The beneficiary can then see the same doctor, in the same community, for a similar service, but the payment structure changes because the ownership changed.
 
-CBO and MedPAC have both discussed that consolidation incentive.
-
-The beneficiary can then see the same doctor, in the same community, for a similar service — but the payment structure changes because the ownership changed.
-
-Medicare pays more.
-
-And because Medicare beneficiaries often owe cost sharing tied to the allowed payment, they can pay more too.
-
-So the people paying the extra bill are not imaginary.
-
-They are taxpayers.
-
-They are Medicare beneficiaries.
+Medicare pays more. And because Medicare beneficiaries often owe cost sharing tied to the allowed payment, they can pay more too. So the people paying the extra bill are not imaginary. They are taxpayers. They are Medicare beneficiaries.
 
 And they are the Medicare program itself.
 
 ## Who pays if the reform is too broad?
 
-Hospitals would lose revenue.
+Hospitals would lose revenue. That is the point of reducing an excessive payment, but it does not mean every lost dollar is harmless. Some hospitals operate on thin margins. Rural and safety-net providers can have very different financial realities from large hospital systems acquiring profitable outpatient practices.
 
-That is the point of reducing an excessive payment, but it does not mean every lost dollar is harmless.
+A careless national cut could create access problems. That is why the strongest version of site-neutral reform is not "slash hospital payments." It is: **pay the same for selected services when the service is genuinely comparable, and separately protect hospitals that need support because of the populations and infrastructure they actually carry.**
 
-Some hospitals operate on thin margins. Rural and safety-net providers can have very different financial realities from large hospital systems acquiring profitable outpatient practices.
-
-A careless national cut could create access problems.
-
-That is why the strongest version of site-neutral reform is not "slash hospital payments."
-
-It is:
-
-**pay the same for selected services when the service is genuinely comparable, and separately protect hospitals that need support because of the populations and infrastructure they actually carry.**
-
-That is a much harder sentence for lobbyists to fight.
-
-And it is a much easier sentence for ordinary people to understand.
+That is a policy ordinary people can assess: reduce unjustified payment differences while protecting access.
 
 ## The missing receipt
 
-The federal government regularly tells Americans that programs have to be cut because the money has to come from somewhere.
+The federal government regularly tells Americans that programs have to be cut because the money has to come from somewhere. Fair enough. Money does have to come from somewhere. But that rule should apply before the government reaches the person receiving the benefit too.
 
-Fair enough.
+GAO estimates that all of its open recommendations across government could produce between **$132 billion and $251 billion in future measurable financial benefits**. One of the largest individual examples is this Medicare payment issue.
 
-Money does have to come from somewhere.
+Congress has known about it for years. CBO had a $156.9 billion ten-year estimate before the 2025 reconciliation law. The recommendation remains only partially addressed. CMS is now taking smaller steps, and those steps are producing savings.
 
-But that rule should apply before the government reaches the person receiving the benefit too.
+So the question is not whether site-neutral payment reform is possible. It is already happening. The question is why the larger opportunity is still sitting there while Washington has already made coverage and eligibility changes somewhere else.
 
-GAO estimates that all of its open recommendations across government could produce between **$132 billion and $251 billion in future measurable financial benefits**.
+That is the receipt I want to see. Not a slogan about efficiency. Not a speech about waste. Show us the order in which the options were considered. Show us which savings were rejected. Show us why. Show us who would have lost money.
 
-One of the largest individual examples is this Medicare payment issue.
+And then show us why reducing somebody's health coverage was the better place to find the savings. That is what accountability looks like.
 
-Congress has known about it for years.
 
-CBO had a $156.9 billion ten-year estimate before the 2025 reconciliation law.
+The missing seats are patients whose bills rise with a change in ownership and people who may lose coverage under separate eligibility rules. Congress holds the authority to broaden payment reform; CMS can act within its statutory powers. Patients should not have to understand corporate ownership to know what routine care will cost.
 
-The recommendation remains only partially addressed.
+Ask your representative for a written explanation of which provider-payment savings they considered, why they accepted or rejected them, and how any reform would protect access at rural and safety-net hospitals. When booking routine outpatient care, ask whether you will receive a separate facility fee and request an estimate before choosing a site.
 
-CMS is now taking smaller steps, and those steps are producing savings.
-
-So the question is not whether site-neutral payment reform is possible.
-
-It is already happening.
-
-The question is why the larger opportunity is still sitting there while Washington has already made coverage and eligibility changes somewhere else.
-
-That is the receipt I want to see.
-
-Not a slogan about efficiency.
-
-Not a speech about waste.
-
-Show us the order in which the options were considered.
-
-Show us which savings were rejected.
-
-Show us why.
-
-Show us who would have lost money.
-
-And then show us why reducing somebody's health coverage was the better place to find the savings.
-
-That is what accountability looks like.
+Ally = Action. 🪑
 
 ---
 
@@ -237,19 +134,19 @@ That is what accountability looks like.
 
 # RECEIPTS & RECIPES
 
-## Receipt 1 — The savings estimate existed before the 2025 law
-CBO published its site-neutral Medicare option in December 2024. Its broadest alternative estimated **$156.9 billion in lower Medicare outlays over 2025–2034**, with the policy beginning in 2026.
+## Receipt 1, The savings estimate existed before the 2025 law
+CBO published its site-neutral Medicare option in December 2024. Its broadest alternative estimated **$156.9 billion in lower Medicare outlays over 2025-2034**, with the policy beginning in 2026.
 
-## Receipt 2 — GAO still says the problem is not fully fixed
-GAO's original recommendation dates to 2015. As of February 2026, GAO classified it as **Open — Partially Addressed**.
+## Receipt 2, GAO still says the problem is not fully fixed
+GAO's original recommendation dates to 2015. As of February 2026, GAO classified it as **Open, Partially Addressed**.
 
-## Receipt 3 — The Medicaid law saved money partly through enrollment and eligibility changes
-CBO estimated the Medicaid chapter of Public Law 119-21 would reduce the deficit by **$886.8 billion over 2025–2034** and increase the number of uninsured people by **7.5 million in 2034**.
+## Receipt 3, The Medicaid law saved money partly through enrollment and eligibility changes
+CBO estimated the Medicaid chapter of Public Law 119-21 would reduce the deficit by **$886.8 billion over 2025-2034** and increase the number of uninsured people by **7.5 million in 2034**.
 
-## Receipt 4 — CMS is moving toward site-neutral payments
+## Receipt 4, CMS is moving toward site-neutral payments
 CMS's proposed 2027 outpatient rule would extend site-neutral treatment to certain imaging services at excepted off-campus hospital departments. CMS estimates roughly **$260 million in lower Part B expenditures in the first year**, plus lower beneficiary cost sharing.
 
-## Receipt 5 — Experts do not recommend treating every hospital the same
+## Receipt 5, Experts do not recommend treating every hospital the same
 MedPAC supports site-neutral payment for selected services when safe and appropriate and when access would not be endangered. MedPAC has separately recommended stronger safety-net payments.
 
 ---
@@ -302,9 +199,9 @@ Medicare can pay more for the same or a very similar outpatient service when it 
 
 CBO estimated **before the 2025 reconciliation law was passed** that broader site-neutral payment reform could save Medicare about **$156.9 billion over 10 years**.
 
-GAO has been pushing this issue since 2015. As of February 2026, the recommendation was still listed as **Open — Partially Addressed**.
+GAO has been pushing this issue since 2015. As of February 2026, the recommendation was still listed as **Open, Partially Addressed**.
 
-Meanwhile, the 2025 reconciliation law made major Medicaid eligibility, enrollment, and financing changes. CBO estimated the Medicaid provisions would reduce the deficit by **$886.8 billion over 2025–2034** — and increase the number of uninsured people by **7.5 million in 2034**.
+Meanwhile, the 2025 reconciliation law made major Medicaid eligibility, enrollment, and financing changes. CBO estimated the Medicaid provisions would reduce the deficit by **$886.8 billion over 2025-2034**, and increase the number of uninsured people by **7.5 million in 2034**.
 
 No, those numbers are not interchangeable. Medicare and Medicaid are different programs.
 
@@ -344,7 +241,7 @@ That estimate was public **before** the 2025 reconciliation law.
 
 GAO has pushed this issue since 2015. As of February 2026, the recommendation was still only **partially addressed**.
 
-The 2025 law instead made major Medicaid eligibility, enrollment, and financing changes. CBO estimated those Medicaid provisions would reduce the deficit by **$886.8 billion** over 2025–2034 while increasing the number of uninsured people by **7.5 million in 2034**.
+The 2025 law instead made major Medicaid eligibility, enrollment, and financing changes. CBO estimated those Medicaid provisions would reduce the deficit by **$886.8 billion** over 2025-2034 while increasing the number of uninsured people by **7.5 million in 2034**.
 
 Those are different programs. The money is not interchangeable.
 
@@ -388,8 +285,8 @@ CBO: up to $156.9B in Medicare savings from broader site-neutral outpatient paym
 
 **Visual concept:**  
 A clean split receipt:
-- LEFT: "Physician Office — Routine Outpatient Service"
-- RIGHT: "Hospital-Owned Outpatient Department — Similar Service"
+- LEFT: "Physician Office, Routine Outpatient Service"
+- RIGHT: "Hospital-Owned Outpatient Department, Similar Service"
 - The right-hand receipt is visibly higher.
 - Bottom line: "Same patient. Similar care. Different payment."
 - TMS chair mark in lower corner.
@@ -416,4 +313,24 @@ Context / counterargument:
 
 ---
 
-**Publication control:** Await Jansen approval. After approval: final source-link refresh, duplicate check, article HTML, archive, topic page, RSS, homepage feature if appropriate, mobile/layout QA, then record publication date and live URL in the daily queue.
+**Publication control:** Approved under Jansen’s two-review instruction and queued. Before release: final source-link refresh, duplicate check, article HTML, archive, topic page, RSS, homepage feature if appropriate, mobile/layout QA, then record publication date and live URL in the daily queue.
+
+## Direct source links refreshed October 7, 2026
+
+- CBO December 2024 option: https://www.cbo.gov/budget-options/60908
+- CBO October 28, 2025 Medicaid estimate: https://www.cbo.gov/publication/61837
+- GAO recommendation and February 2026 status: https://www.gao.gov/products/gao-16-189
+- GAO potential financial benefits, May 12, 2026: https://www.gao.gov/products/gao-26-108932
+- CMS July 2, 2026 proposed rule, not final policy: https://www.cms.gov/newsroom/fact-sheets/calendar-year-2027-hospital-outpatient-prospective-payment-system-opps-ambulatory-surgical-center
+- MedPAC March 2026 report: https://www.medpac.gov/wp-content/uploads/2026/03/Mar26_MedPAC_Report_To_Congress_SEC.pdf
+
+The December 2024 estimate predates later payment changes and is not a fresh estimate of additional savings still available in October 2026. No documented congressional decision to exchange this specific Medicare option for Medicaid changes is asserted. The comparison is the editorial’s accountability argument.
+
+
+## Two-review release record: October 7, 2026
+
+Pass 1: checked the controlling primary evidence, numbers, dates and claim attribution. Pass 2: checked readable paragraphs, plain-language explanations, counterargument, inference limits, who is missing, practical action, metadata, source list and required ending after corrections. Approved under Jansen’s standing instruction.
+
+Repository filenames, archive and current published ledger show no matching article. Independent live-site access was unavailable in this review; confirm the live archive and deployment source immediately before release. HTML, image selection and navigation integration remain publication work, not missing editorial content.
+
+- MedPAC’s selected-service payment-alignment recommendation: https://www.medpac.gov/recommendation/ambulatory-surgical-center-services/

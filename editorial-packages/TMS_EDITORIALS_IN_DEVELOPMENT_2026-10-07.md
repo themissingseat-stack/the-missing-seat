@@ -4,6 +4,8 @@ Status: IN PROGRESS. These are opening drafts and reporting plans, not full fini
 
 ## 1. He Asked to Break His Fast. He Allegedly Lost His Job.
 
+**COMPLETED October 8, 2026.** This opening draft is superseded by `editorial-packages/TMS_HE_ASKED_TO_BREAK_HIS_FAST_PUBLICATION_PACKAGE_2026-10-08.md`. Full package passed two reviews and is approved at queue position 7. Count the full package once; do not count this historical opening draft.
+
 Seat affected: Muslim workers and anyone needing a religious accommodation at work.
 Location: New York City.
 Theme: Religious freedom, scheduling power and retaliation.

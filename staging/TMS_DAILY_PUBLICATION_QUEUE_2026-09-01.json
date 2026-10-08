@@ -253,12 +253,33 @@
         "confirm deployment source",
         "HTML/image and navigation integration"
       ]
+    },
+    {
+      "position": 7,
+      "title": "He Asked to Break His Fast. He Allegedly Lost His Job.",
+      "slug": "he-asked-to-break-his-fast-he-allegedly-lost-his-job",
+      "status": "approved_queued_full_finished",
+      "completion_status": "full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-08 source/claim/posture and Groff chronology audit",
+      "review_2": "2026-10-08 corrected format/copy/fairness/action/metadata audit",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_HE_ASKED_TO_BREAK_HIS_FAST_PUBLICATION_PACKAGE_2026-10-08.md",
+      "scheduled_date": null,
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The HR Manager Said No to Discrimination. Then She Allegedly Lost Her Job.",
+          "distinction": "Own religious scheduling accommodation and usable review process rather than HR opposition to hiring discrimination."
+        }
+      ],
+      "notes": "Supersedes October 7 opening draft. Full decree not independently obtained; no additional terms or liability findings asserted. Final live uniqueness/current case check, HTML/image/navigation and deployment verification remain."
     }
   ],
   "counts": {
-    "full_finished_unpublished": 6,
-    "currently_queued": 6,
-    "publication_ready": 6,
+    "full_finished_unpublished": 7,
+    "currently_queued": 7,
+    "publication_ready": 7,
     "retired_replaced_duplicates": 4,
     "requiring_live_site_repository_reconciliation": 0,
     "requiring_status_verification": 1,
@@ -555,6 +576,27 @@
       ],
       "completion_status": "full_finished",
       "duplication_status": "repository/archive comparison passed; independent live check pending"
+    },
+    {
+      "position": 7,
+      "title": "He Asked to Break His Fast. He Allegedly Lost His Job.",
+      "slug": "he-asked-to-break-his-fast-he-allegedly-lost-his-job",
+      "status": "approved_queued_full_finished",
+      "completion_status": "full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-08 source/claim/posture and Groff chronology audit",
+      "review_2": "2026-10-08 corrected format/copy/fairness/action/metadata audit",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_HE_ASKED_TO_BREAK_HIS_FAST_PUBLICATION_PACKAGE_2026-10-08.md",
+      "scheduled_date": null,
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The HR Manager Said No to Discrimination. Then She Allegedly Lost Her Job.",
+          "distinction": "Own religious scheduling accommodation and usable review process rather than HR opposition to hiring discrimination."
+        }
+      ],
+      "notes": "Supersedes October 7 opening draft. Full decree not independently obtained; no additional terms or liability findings asserted. Final live uniqueness/current case check, HTML/image/navigation and deployment verification remain."
     }
   ],
   "status_verification_ledger": [
@@ -684,5 +726,11 @@
     "Pallet and Cloud added to published record based on canonical queue and served archive; no new publication today.",
     "Second Germany package remains due October 9; completed weekly count remains one.",
     "Discovery briefs are not finished reserve editorials."
-  ]
+  ],
+  "daily_editorial_completion_2026_10_08": {
+    "title": "He Asked to Break His Fast. He Allegedly Lost His Job.",
+    "status": "approved_queued_full_finished",
+    "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_HE_ASKED_TO_BREAK_HIS_FAST_PUBLICATION_PACKAGE_2026-10-08.md",
+    "notes": "New complete package; not a revision of live website copy. First priority reserved titles already published. Appended to existing queue after two reviews."
+  }
 }

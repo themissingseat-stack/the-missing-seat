@@ -1,6 +1,6 @@
 # TMS Daily Editorial Queue
 
-**Reconciled:** 2026-10-07
+**Reconciled:** 2026-10-08
 
 Purpose: keep The Missing Seat publication order accurate, prevent duplicate publication, and maintain a default cadence of one genuinely new editorial per day. When a backlog exists, Jansen has authorized publishing two genuinely new editorials on the same day.
 
@@ -162,7 +162,7 @@ These repairs **do not count as new daily editorials**:
 
 ## Approved finished publication queue
 
-**Updated October 7, 2026: 6 full finished unpublished editorials, all approved and queued.** Approval follows Jansen’s instruction that complete TMS editorials passing two reviews are approved. The first two retain their relative order from the previous queue; newly admitted packages follow them.
+**Updated October 7, 2026: 7 full finished unpublished editorials, all approved and queued.** Approval follows Jansen’s instruction that complete TMS editorials passing two reviews are approved. The first two retain their relative order from the previous queue; newly admitted packages follow them.
 
 Two-review scope: primary evidence, numbers, dates and legal/factual posture; then corrected copy, readable paragraphs, plain English, counterargument, missing seat, practical action, metadata, social copy and ending. The Germany package now includes the ten cases in which the commissioner criticized police conduct and the statutory confidentiality limits. The Medicare package dates its savings estimate and distinguishes it from later changes and separate Medicaid projections.
 
@@ -209,6 +209,15 @@ Two-review scope: primary evidence, numbers, dates and legal/factual posture; th
 - Working slug: `before-you-cut-care-stop-paying-more-for-same-care`
 - Review 1 and review 2: **completed October 7, 2026**
 - Publication date: next eligible slot in this order, subject to release prerequisites above.
+
+### 7. He Asked to Break His Fast. He Allegedly Lost His Job.
+- Status: **APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED**
+- Package: [Complete editorial and publication materials](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_HE_ASKED_TO_BREAK_HIS_FAST_PUBLICATION_PACKAGE_2026-10-08.md)
+- Working slug: `he-asked-to-break-his-fast-he-allegedly-lost-his-job`
+- Review 1 and review 2: **completed October 8, 2026**
+- Material distinction from the HR-retaliation editorial: employee's own religious scheduling request and current accommodation standard, rather than HR opposition to alleged hiring discrimination.
+- Publication date: next eligible slot after the existing six, subject to the established release checks.
+- Sources identify a settlement and allegations, not adjudicated liability. Full decree was not independently obtained; no additional terms asserted.
 
 ## Development order: not finished publication inventory
 

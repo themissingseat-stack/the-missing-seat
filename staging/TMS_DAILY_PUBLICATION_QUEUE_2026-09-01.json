@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-10-07",
+  "last_reconciled": "2026-10-08",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -129,6 +129,20 @@
       "publication_commit_date": "2026-10-06",
       "source": "GitHub main commit ce246633; live direct URL and served archive verified October 7, 2026.",
       "notes": "The live page, served editorial archive, GitHub homepage, Race & Equal Humanity topic page and feed entry were reconciled. This was not an item in the active staged queue."
+    },
+    {
+      "title": "She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.",
+      "slug": "she-was-qualified-to-repair-the-pallets-the-company-allegedly-only-hired-men.html",
+      "published_verified": "2026-10-08",
+      "publication_commit_date": "2026-10-07",
+      "notes": "Canonical main queue marks published; title and article link independently observed in served archive October 8. Pallet archive card appears twice."
+    },
+    {
+      "title": "The Cloud Has an Address. Somebody Else Is Paying the Bill.",
+      "slug": "the-cloud-has-an-address-somebody-else-is-paying-the-bill.html",
+      "published_verified": "2026-10-08",
+      "publication_commit_date": "2026-10-07",
+      "notes": "Canonical main queue marks published; title and article link independently observed in served archive October 8. Pallet archive card appears twice."
     }
   ],
   "queue": [
@@ -248,10 +262,10 @@
     "retired_replaced_duplicates": 4,
     "requiring_live_site_repository_reconciliation": 0,
     "requiring_status_verification": 1,
-    "verified_published_from_queue": 16,
+    "verified_published_from_queue": 18,
     "reserved_queue_slots_pending_body_verification": 0,
     "historically_reported_finished_pending_body_verification": 0,
-    "live_site_access_verification_pending": 1
+    "live_site_access_verification_pending": 0
   },
   "pending_priority_requests": [
     {
@@ -270,16 +284,14 @@
     }
   ],
   "website_quality_status": {
-    "as_of": "2026-10-07",
-    "status": "live_archive_and_repository_reconciled",
-    "finding": "The October 6 editorial “You Can Talk About Racism and Still Be Happy” is verified live and visible in the served archive. The approved publication queue is empty, so no editorial was published on October 7.",
+    "as_of": "2026-10-08",
+    "status": "release_held",
+    "finding": "Live archive accessible. Pallet hiring appears twice; Cloud is visible. Six approved finished stories remain queued. No publication attempted: exact FCC implementation date link inaccessible and current deployment configuration not independently recovered.",
     "priority_order": [
-      "Obtain Jansen approval before placing any finished reserve editorial in the publication queue",
-      "Deliver the second Germany publication package for the week by October 9",
-      "Locate and verify the complete Cloud editorial package",
-      "Complete the Medicaid/SNAP work-requirement package",
-      "Complete the broader Trump Receipt accounting",
-      "Keep the 16 approved website replacements separate from new publication inventory"
+      "Verify FCC effective date and current deployment source before releasing first queued story",
+      "Remove duplicate pallet archive card without recreating article",
+      "Deliver second Germany full package by October 9",
+      "Preserve existing website reconciliation backlog and replacement work"
     ]
   },
   "story_briefs_2026_09_28": [
@@ -547,9 +559,9 @@
   ],
   "status_verification_ledger": [
     {
-      "title": "Live deployment and archive pre-release verification",
-      "reason": "Independent live archive could not be accessed on October 7; repository and current canonical published ledger used for review. Do not infer deployment status from main.",
-      "required_action": "Confirm deployment source and compare live site before release."
+      "title": "First queued editorial release verification",
+      "reason": "FCC DA-26-78A1 PDF returned 403; June 12, 2028 date not independently reconfirmed. Main-to-live content correspondence observed, but current hosting configuration not recovered.",
+      "required_action": "Verify date via working primary document and deployment source before public-file changes."
     }
   ],
   "story_briefs_2026_10_05": [
@@ -644,5 +656,33 @@
     "Job-support full body recovered, reviewed and persisted on main.",
     "Six complete packages approved under Jansen's standing two-review instruction; unfinished briefs excluded.",
     "Four retired/replaced duplicates retained; existing website revisions remain replacement work."
+  ],
+  "story_briefs_2026_10_08": [
+    {
+      "title": "You Applied for a Mortgage. Your Information Became a Sales Lead.",
+      "seat_affected": "Homebuyers and borrowers concerned about privacy",
+      "source": "https://www.gao.gov/products/gao-27-108874",
+      "status": "GAO October 6 report: March 2026 restrictions limit residential mortgage trigger leads. Effects not yet established; preserve comparison-shopping options."
+    },
+    {
+      "title": "Rural Health Got the Money. Patients Still Need the Receipt.",
+      "seat_affected": "Rural patients and communities with limited care access",
+      "source": "https://www.gao.gov/products/gao-27-108853",
+      "crosscheck": "https://www.medicaid.gov/resources-for-states/rural-health",
+      "status": "GAO October 6 report: first-year awards total $10 billion across 50 states; monitoring plans generally consistent with selected federal requirements. Awards are not proof of improved outcomes."
+    },
+    {
+      "title": "The Settlement Was Signed. The Women Still Had to Wait for Payment.",
+      "seat_affected": "Women reporting workplace sexual harassment",
+      "source": "https://www.eeoc.gov/newsroom/court-orders-jaco-enterprises-pay-85000-forced-compliance-eeoc-sexual-harassment",
+      "crosscheck": "https://www.eeoc.gov/newsroom/eeoc-sues-jaco-enterprises-force-compliance-conciliation-agreement",
+      "status": "October 7 EEOC release: agreed consent judgment requires remaining $85,000 plus statutory interest after $10,000 paid. Underlying harassment allegations were not adjudicated findings."
+    }
+  ],
+  "reconciliation_notes_2026_10_08": [
+    "Preserved six approved finished queue entries and four retired duplicates.",
+    "Pallet and Cloud added to published record based on canonical queue and served archive; no new publication today.",
+    "Second Germany package remains due October 9; completed weekly count remains one.",
+    "Discovery briefs are not finished reserve editorials."
   ]
 }

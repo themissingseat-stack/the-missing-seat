@@ -80,7 +80,7 @@ https://www.bundesnetzagentur.de/DE/Vportal/Energie/BeschwerdeSchlichtung/start.
 
 ## Verification notice
 
-All controlling legal and regulator pages checked October 9, 2026. This package describes current rules, not an unpassed proposal. Distinguishes general household disconnection protections from the additional basic-supply agreement entitlement. No invented affected-person account, supplier misconduct claim, provider profitability claim, national effectiveness estimate or automatic entitlement to public financial support.
+Current § 41g and both regulator pages checked October 9, 2026. Direct retrieval of § 41f timed out twice; general disconnection safeguards were verified through the regulator's current explanation, not a successful direct statute read. This package describes current rules, not an unpassed proposal. Distinguishes general household disconnection protections from the additional basic-supply agreement entitlement. No invented affected-person account, supplier misconduct claim, provider profitability claim, national effectiveness estimate or automatic entitlement to public financial support.
 
 Household consequences and questions about usability are editorial analysis. The package does not quantify access barriers or claim that the statutory process guarantees an affordable outcome. The newly located Destatis September 14 release was inaccessible in full, so its national arrears figures and subgroup comparisons are deliberately omitted. The BGG accessibility proposal remains separate unfinished work; its October legislative status has not been verified.
 

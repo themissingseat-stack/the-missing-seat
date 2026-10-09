@@ -162,7 +162,7 @@ These repairs **do not count as new daily editorials**:
 
 ## Approved finished publication queue
 
-**Updated October 9, 2026: 8 full finished unpublished editorials, all approved and queued.** Approval follows Jansen’s instruction that complete TMS editorials passing two reviews are approved. The first two retain their relative order from the previous queue; newly admitted packages follow them.
+**Updated October 9, 2026: 9 full finished unpublished editorials, all approved and queued.** Approval follows Jansen’s instruction that complete TMS editorials passing two reviews are approved. The first two retain their relative order from the previous queue; newly admitted packages follow them.
 
 Two-review scope: primary evidence, numbers, dates and legal/factual posture; then corrected copy, readable paragraphs, plain English, counterargument, missing seat, practical action, metadata, social copy and ending. The Germany package now includes the ten cases in which the commissioner criticized police conduct and the statutory confidentiality limits. The Medicare package dates its savings estimate and distinguishes it from later changes and separate Medicaid projections.
 
@@ -228,6 +228,16 @@ Two-review scope: primary evidence, numbers, dates and legal/factual posture; th
 - Distinct focus: electricity/gas shutoff prevention and usable repayment, rather than police oversight, U.S. housing accommodation or German overcrowding.
 - Release work: final current-law/live uniqueness checks, HTML/image/navigation and deployment confirmation. § 41g verified directly; § 41f retrieval timed out, regulator safeguards verified.
 - First queued editorial remains held: FCC source access and current deployment confirmation unresolved October 9. No public files changed.
+
+### 9. The Disability Hiring Duty Stayed. The Audits Stopped.
+- Status: **APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED**
+- Package: [Complete editorial and publication materials](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_DISABILITY_HIRING_DUTY_AUDITS_STOPPED_PUBLICATION_PACKAGE_2026-10-09.md)
+- Working slug: `the-disability-hiring-duty-stayed-the-audits-stopped`
+- Review 1 and review 2: **completed October 9, 2026**
+- Material distinction: federal-contractor disability-employment oversight under Section 503, rather than disaster access, housing access, or vocational-rehabilitation handoffs.
+- Legal currency: reflects the August 21, 2026 final rule removing the former 7% utilization goal and related provisions while preserving current nondiscrimination and affirmative-action duties.
+- Release work: refresh GAO recommendation status and current regulations, verify live title/slug uniqueness, create HTML/image/navigation, and confirm the active deployment source.
+
 
 ## Development order: not finished publication inventory
 

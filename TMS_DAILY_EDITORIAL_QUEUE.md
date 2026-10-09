@@ -1,6 +1,6 @@
 # TMS Daily Editorial Queue
 
-**Reconciled:** 2026-10-08
+**Reconciled:** 2026-10-09
 
 Purpose: keep The Missing Seat publication order accurate, prevent duplicate publication, and maintain a default cadence of one genuinely new editorial per day. When a backlog exists, Jansen has authorized publishing two genuinely new editorials on the same day.
 
@@ -162,7 +162,7 @@ These repairs **do not count as new daily editorials**:
 
 ## Approved finished publication queue
 
-**Updated October 7, 2026: 7 full finished unpublished editorials, all approved and queued.** Approval follows Jansen’s instruction that complete TMS editorials passing two reviews are approved. The first two retain their relative order from the previous queue; newly admitted packages follow them.
+**Updated October 9, 2026: 8 full finished unpublished editorials, all approved and queued.** Approval follows Jansen’s instruction that complete TMS editorials passing two reviews are approved. The first two retain their relative order from the previous queue; newly admitted packages follow them.
 
 Two-review scope: primary evidence, numbers, dates and legal/factual posture; then corrected copy, readable paragraphs, plain English, counterargument, missing seat, practical action, metadata, social copy and ending. The Germany package now includes the ten cases in which the commissioner criticized police conduct and the statutory confidentiality limits. The Medicare package dates its savings estimate and distinguishes it from later changes and separate Medicaid projections.
 
@@ -218,6 +218,16 @@ Two-review scope: primary evidence, numbers, dates and legal/factual posture; th
 - Material distinction from the HR-retaliation editorial: employee's own religious scheduling request and current accommodation standard, rather than HR opposition to alleged hiring discrimination.
 - Publication date: next eligible slot after the existing six, subject to the established release checks.
 - Sources identify a settlement and allegations, not adjudicated liability. Full decree was not independently obtained; no additional terms asserted.
+
+### 8. Germany Has a Way to Keep the Power On. Can People Use It?
+- Status: **APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED**
+- Package: [Complete editorial and publication materials](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GERMANY_KEEP_THE_POWER_ON_PUBLICATION_PACKAGE_2026-10-09.md)
+- Working slug: `germany-has-a-way-to-keep-the-power-on-can-people-use-it`
+- Both reviews completed October 9, 2026 under standing approval.
+- Second Germany complete package for week October 5–11; first package remains police complaints.
+- Distinct focus: electricity/gas shutoff prevention and usable repayment, rather than police oversight, U.S. housing accommodation or German overcrowding.
+- Release work: final current-law/live uniqueness checks, HTML/image/navigation and deployment confirmation. § 41g verified directly; § 41f retrieval timed out, regulator safeguards verified.
+- First queued editorial remains held: FCC source access and current deployment confirmation unresolved October 9. No public files changed.
 
 ## Development order: not finished publication inventory
 

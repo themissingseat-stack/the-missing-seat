@@ -301,12 +301,43 @@
       "review_1": "2026-10-09 primary current-law/regulator scope audit",
       "review_2": "2026-10-09 corrected copy, format, fairness, action and socials",
       "notes": "§41g directly read; §41f timed out and general safeguards checked via regulator. No inaccessible Destatis statistics used. HTML/image/navigation, final current-law/live uniqueness and deployment checks remain."
+    },
+    {
+      "position": 9,
+      "title": "The Disability Hiring Duty Stayed. The Audits Stopped.",
+      "slug": "the-disability-hiring-duty-stayed-the-audits-stopped",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "scheduled_date": null,
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_DISABILITY_HIRING_DUTY_AUDITS_STOPPED_PUBLICATION_PACKAGE_2026-10-09.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Disaster Plan Included Everyone. The Training for Disability Access Disappeared.",
+          "distinction": "Disaster-response access and training, not federal-contractor hiring and Section 503 audit suspension."
+        },
+        {
+          "title": "The Apartment Was Available. Access Still Wasn't.",
+          "distinction": "Housing accommodation, not employment oversight."
+        }
+      ],
+      "related_unpublished_comparators": [
+        {
+          "title": "Two Agencies Fund the Support. The Worker Still Gets Left Waiting.",
+          "distinction": "Vocational-rehabilitation funding handoffs, not contractor compliance audits."
+        }
+      ],
+      "review_1": "2026-10-09 primary GAO/current-law/final-rule claim audit",
+      "review_2": "2026-10-09 corrected copy, legal currency, fairness, action, metadata and social audit",
+      "notes": "Reflects August 21, 2026 rule changes; former 7% goal is not described as current. 532 is audits with findings, not individuals or necessarily unique contractors. Final recommendation/rule status, live uniqueness, HTML/image/navigation and deployment checks remain."
     }
   ],
   "counts": {
-    "full_finished_unpublished": 8,
-    "currently_queued": 8,
-    "publication_ready": 8,
+    "full_finished_unpublished": 9,
+    "currently_queued": 9,
+    "publication_ready": 9,
     "retired_replaced_duplicates": 4,
     "requiring_live_site_repository_reconciliation": 0,
     "requiring_status_verification": 1,
@@ -817,6 +848,13 @@
     "Eight finished unpublished packages, all queued; four retired unchanged.",
     "Germany weekly minimum reached: two distinct full packages, not two live publications.",
     "Live archive inspected October9; matches repository list with duplicate pallet card.",
-    "First queued release still held; FCC PDF403 and current deployment configuration not recovered. No public files altered."
-  ]
+    "First queued release still held; FCC PDF403 and current deployment configuration not recovered. No public files altered.",
+    "Daily editorial added: disability contractor audit package at queue position 9; finished unpublished and queued counts increased to nine."
+  ],
+  "daily_editorial_completion_2026_10_09": {
+    "title": "The Disability Hiring Duty Stayed. The Audits Stopped.",
+    "status": "approved_queued_full_finished",
+    "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_DISABILITY_HIRING_DUTY_AUDITS_STOPPED_PUBLICATION_PACKAGE_2026-10-09.md",
+    "notes": "Genuinely new full package, distinct from live disability disaster and housing stories and from queued vocational-rehabilitation handoff story. Passed two reviews and appended to the standing approved queue."
+  }
 }

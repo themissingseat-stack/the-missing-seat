@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-10-08",
+  "last_reconciled": "2026-10-09",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -274,12 +274,39 @@
         }
       ],
       "notes": "Supersedes October 7 opening draft. Full decree not independently obtained; no additional terms or liability findings asserted. Final live uniqueness/current case check, HTML/image/navigation and deployment verification remain."
+    },
+    {
+      "position": 8,
+      "title": "Germany Has a Way to Keep the Power On. Can People Use It?",
+      "slug": "germany-has-a-way-to-keep-the-power-on-can-people-use-it",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Standing two-review instruction",
+      "scheduled_date": null,
+      "source": "editorial-packages/TMS_GERMANY_KEEP_THE_POWER_ON_PUBLICATION_PACKAGE_2026-10-09.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Apartment Was Available. Access Still Wasn't.",
+          "distinction": "German energy-debt and disconnection protection, not U.S. disability housing accommodation."
+        }
+      ],
+      "related_unpublished_comparators": [
+        {
+          "title": "Germany Created a Seat for Police Complaints. Who Can Actually Use It?",
+          "distinction": "Supplier debt remedies and basic supply, not police oversight."
+        }
+      ],
+      "review_1": "2026-10-09 primary current-law/regulator scope audit",
+      "review_2": "2026-10-09 corrected copy, format, fairness, action and socials",
+      "notes": "§41g directly read; §41f timed out and general safeguards checked via regulator. No inaccessible Destatis statistics used. HTML/image/navigation, final current-law/live uniqueness and deployment checks remain."
     }
   ],
   "counts": {
-    "full_finished_unpublished": 7,
-    "currently_queued": 7,
-    "publication_ready": 7,
+    "full_finished_unpublished": 8,
+    "currently_queued": 8,
+    "publication_ready": 8,
     "retired_replaced_duplicates": 4,
     "requiring_live_site_repository_reconciliation": 0,
     "requiring_status_verification": 1,
@@ -597,6 +624,33 @@
         }
       ],
       "notes": "Supersedes October 7 opening draft. Full decree not independently obtained; no additional terms or liability findings asserted. Final live uniqueness/current case check, HTML/image/navigation and deployment verification remain."
+    },
+    {
+      "position": 8,
+      "title": "Germany Has a Way to Keep the Power On. Can People Use It?",
+      "slug": "germany-has-a-way-to-keep-the-power-on-can-people-use-it",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Standing two-review instruction",
+      "scheduled_date": null,
+      "source": "editorial-packages/TMS_GERMANY_KEEP_THE_POWER_ON_PUBLICATION_PACKAGE_2026-10-09.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Apartment Was Available. Access Still Wasn't.",
+          "distinction": "German energy-debt and disconnection protection, not U.S. disability housing accommodation."
+        }
+      ],
+      "related_unpublished_comparators": [
+        {
+          "title": "Germany Created a Seat for Police Complaints. Who Can Actually Use It?",
+          "distinction": "Supplier debt remedies and basic supply, not police oversight."
+        }
+      ],
+      "review_1": "2026-10-09 primary current-law/regulator scope audit",
+      "review_2": "2026-10-09 corrected copy, format, fairness, action and socials",
+      "notes": "§41g directly read; §41f timed out and general safeguards checked via regulator. No inaccessible Destatis statistics used. HTML/image/navigation, final current-law/live uniqueness and deployment checks remain."
     }
   ],
   "status_verification_ledger": [
@@ -629,8 +683,8 @@
   "germany_weekly_delivery": {
     "week": "2026-10-05/2026-10-11",
     "target_packages": 2,
-    "completed_packages": 1,
-    "remaining_packages": 1,
+    "completed_packages": 2,
+    "remaining_packages": 0,
     "target_days": [
       "2026-10-06",
       "2026-10-09"
@@ -641,6 +695,12 @@
         "title": "Germany Created a Seat for Police Complaints. Who Can Actually Use It?",
         "source": "editorial-packages/TMS_GERMANY_POLICE_COMPLAINTS_PUBLICATION_PACKAGE_2026-10-06.md",
         "status": "full_finished_publication_ready_unpublished"
+      },
+      {
+        "date": "2026-10-09",
+        "title": "Germany Has a Way to Keep the Power On. Can People Use It?",
+        "source": "editorial-packages/TMS_GERMANY_KEEP_THE_POWER_ON_PUBLICATION_PACKAGE_2026-10-09.md",
+        "status": "full_finished_approved_queued_unpublished"
       }
     ]
   },
@@ -732,5 +792,31 @@
     "status": "approved_queued_full_finished",
     "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_HE_ASKED_TO_BREAK_HIS_FAST_PUBLICATION_PACKAGE_2026-10-08.md",
     "notes": "New complete package; not a revision of live website copy. First priority reserved titles already published. Appended to existing queue after two reviews."
-  }
+  },
+  "story_briefs_2026_10_09": [
+    {
+      "title": "The Project Needed No Environmental Repair. Where Is the Explanation?",
+      "seat_affected": "Communities near federal water projects and people relying on local ecosystems",
+      "source": "https://www.gao.gov/products/gao-27-108551",
+      "status": "October 8 finding; 52 of 74 projects reviewed lacked mitigation plans, and explanations generally unclear. Army disputes recommendation; no proof each project caused unmitigated harm."
+    },
+    {
+      "title": "The Grants Promised Opportunity. Who Checked the Results?",
+      "seat_affected": "Distressed and underserved regional communities",
+      "source": "https://www.gao.gov/products/gao-27-108496",
+      "status": "October 7 report: over $12 billion awarded FY2016–2024; improved regional indicators cannot be causally attributed to grants. Verification gap is not proof grants failed."
+    },
+    {
+      "title": "The Disability Hiring Duty Stayed. The Audits Stopped.",
+      "seat_affected": "Disabled employees and job applicants at federal contractors",
+      "source": "https://www.gao.gov/products/gao-26-107937",
+      "status": "Published September29/public October6; Section503 audits suspended since2025, 532 FY2017–2025 audits found violations. Count is audits, not individuals or unique employers."
+    }
+  ],
+  "reconciliation_notes_2026_10_09": [
+    "Eight finished unpublished packages, all queued; four retired unchanged.",
+    "Germany weekly minimum reached: two distinct full packages, not two live publications.",
+    "Live archive inspected October9; matches repository list with duplicate pallet card.",
+    "First queued release still held; FCC PDF403 and current deployment configuration not recovered. No public files altered."
+  ]
 }

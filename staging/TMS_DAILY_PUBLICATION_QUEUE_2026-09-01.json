@@ -23,7 +23,7 @@
   },
   "deployment": {
     "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "GitHub main is the confirmed deployment source. The October 6 editorial “You Can Talk About Racism and Still Be Happy” was verified on October 7 at its live direct URL and in the served editorial archive; GitHub main also contains its homepage feature, topic card and feed entry."
+    "status": "GitHub main was confirmed against the served editorial archive on October 10, 2026 before publication of “The Warning Arrived. The Language Did Not.”"
   },
   "published_record": [
     {
@@ -143,29 +143,18 @@
       "published_verified": "2026-10-08",
       "publication_commit_date": "2026-10-07",
       "notes": "Canonical main queue marks published; title and article link independently observed in served archive October 8. Pallet archive card appears twice."
+    },
+    {
+      "title": "The Warning Arrived. The Language Did Not.",
+      "slug": "the-warning-arrived-the-language-did-not.html",
+      "published_verified": "2026-10-10",
+      "source": "editorial-packages/TMS_THE_WARNING_ARRIVED_THE_LANGUAGE_DID_NOT_2026-10-05.md; GitHub main publication commit 7bb4b143d0ccf84c937156aa48bb7b7753f958cf",
+      "notes": "GAO recommendation remained open. FCC multilingual template scope and June 12, 2028 compliance date verified in the January 20, 2026 Federal Register notice. Live archive matched GitHub main before publication."
     }
   ],
   "queue": [
     {
       "position": 1,
-      "title": "The Warning Arrived. The Language Did Not.",
-      "slug": "the-warning-arrived-the-language-did-not",
-      "status": "approved_queued_full_finished",
-      "approval": "Jansen standing two-review instruction",
-      "review_1": "2026-10-07 primary evidence, numbers, dates and claim posture",
-      "review_2": "2026-10-07 corrected copy, format, fairness, CTA and metadata",
-      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_THE_WARNING_ARRIVED_THE_LANGUAGE_DID_NOT_2026-10-05.md",
-      "scheduled_date": null,
-      "publication_status": "unpublished",
-      "release_checks": [
-        "refresh primary sources",
-        "independent live title/slug and material-duplication verification",
-        "confirm deployment source",
-        "HTML/image and navigation integration"
-      ]
-    },
-    {
-      "position": 2,
       "title": "Learning to Unlearn",
       "slug": "learning-to-unlearn",
       "status": "approved_queued_full_finished",
@@ -183,7 +172,7 @@
       ]
     },
     {
-      "position": 3,
+      "position": 2,
       "title": "Two Agencies Fund the Support. The Worker Still Gets Left Waiting.",
       "slug": "two-agencies-fund-the-support-the-worker-still-gets-left-waiting",
       "status": "approved_queued_full_finished",
@@ -201,7 +190,7 @@
       ]
     },
     {
-      "position": 4,
+      "position": 3,
       "title": "They Served the Country. The Food Benefit Still Missed Them.",
       "slug": "they-served-the-country-the-food-benefit-still-missed-them",
       "status": "approved_queued_full_finished",
@@ -219,7 +208,7 @@
       ]
     },
     {
-      "position": 5,
+      "position": 4,
       "title": "Germany Created a Seat for Police Complaints. Who Can Actually Use It?",
       "slug": "germany-created-a-seat-for-police-complaints-who-can-actually-use-it",
       "status": "approved_queued_full_finished",
@@ -237,7 +226,7 @@
       ]
     },
     {
-      "position": 6,
+      "position": 5,
       "title": "Before You Cut Care, Did You Stop Paying More for the Same Care?",
       "slug": "before-you-cut-care-stop-paying-more-for-same-care",
       "status": "approved_queued_full_finished",
@@ -255,7 +244,7 @@
       ]
     },
     {
-      "position": 7,
+      "position": 6,
       "title": "He Asked to Break His Fast. He Allegedly Lost His Job.",
       "slug": "he-asked-to-break-his-fast-he-allegedly-lost-his-job",
       "status": "approved_queued_full_finished",
@@ -276,7 +265,7 @@
       "notes": "Supersedes October 7 opening draft. Full decree not independently obtained; no additional terms or liability findings asserted. Final live uniqueness/current case check, HTML/image/navigation and deployment verification remain."
     },
     {
-      "position": 8,
+      "position": 7,
       "title": "Germany Has a Way to Keep the Power On. Can People Use It?",
       "slug": "germany-has-a-way-to-keep-the-power-on-can-people-use-it",
       "completion_status": "full_finished",
@@ -303,7 +292,7 @@
       "notes": "§41g directly read; §41f timed out and general safeguards checked via regulator. No inaccessible Destatis statistics used. HTML/image/navigation, final current-law/live uniqueness and deployment checks remain."
     },
     {
-      "position": 9,
+      "position": 8,
       "title": "The Disability Hiring Duty Stayed. The Audits Stopped.",
       "slug": "the-disability-hiring-duty-stayed-the-audits-stopped",
       "completion_status": "full_finished",
@@ -334,7 +323,7 @@
       "notes": "Reflects August 21, 2026 rule changes; former 7% goal is not described as current. 532 is audits with findings, not individuals or necessarily unique contractors. Final recommendation/rule status, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 10,
+      "position": 9,
       "title": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.",
       "slug": "the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power",
       "completion_status": "full_finished",
@@ -356,13 +345,13 @@
     }
   ],
   "counts": {
-    "full_finished_unpublished": 10,
-    "currently_queued": 10,
-    "publication_ready": 10,
+    "full_finished_unpublished": 9,
+    "currently_queued": 9,
+    "publication_ready": 9,
     "retired_replaced_duplicates": 4,
     "requiring_live_site_repository_reconciliation": 0,
-    "requiring_status_verification": 1,
-    "verified_published_from_queue": 18,
+    "requiring_status_verification": 0,
+    "verified_published_from_queue": 19,
     "reserved_queue_slots_pending_body_verification": 0,
     "historically_reported_finished_pending_body_verification": 0,
     "live_site_access_verification_pending": 0
@@ -536,26 +525,6 @@
     }
   ],
   "unpublished_ledger": [
-    {
-      "position": 1,
-      "title": "The Warning Arrived. The Language Did Not.",
-      "slug": "the-warning-arrived-the-language-did-not",
-      "status": "approved_queued_full_finished",
-      "approval": "Jansen standing two-review instruction",
-      "review_1": "2026-10-07 primary evidence, numbers, dates and claim posture",
-      "review_2": "2026-10-07 corrected copy, format, fairness, CTA and metadata",
-      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_THE_WARNING_ARRIVED_THE_LANGUAGE_DID_NOT_2026-10-05.md",
-      "scheduled_date": null,
-      "publication_status": "unpublished",
-      "release_checks": [
-        "refresh primary sources",
-        "independent live title/slug and material-duplication verification",
-        "confirm deployment source",
-        "HTML/image and navigation integration"
-      ],
-      "completion_status": "full_finished",
-      "duplication_status": "repository/archive comparison passed; independent live check pending"
-    },
     {
       "position": 2,
       "title": "Learning to Unlearn",
@@ -884,9 +853,46 @@
     "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GAP_NOT_JUST_PAY_TIME_CARE_POWER_PUBLICATION_PACKAGE_2026-10-10.md",
     "notes": "Genuinely new workforce gender-gap editorial requested by Jansen. Distinct from the published pallet-hiring settlement story. Passed two reviews and entered the standing queue at position 10."
   },
-  "reconciliation_notes_2026_10_10": [
-    "Ten finished unpublished packages, all approved and queued; four retired duplicates unchanged.",
-    "New October 10 package examines gender, work, care, leadership and race using BLS and Census evidence.",
-    "No public release performed by this completion run; release prerequisites remain in the canonical queue."
+  "reconciliation_notes_2026_10_10": {
+    "0": "Ten finished unpublished packages, all approved and queued; four retired duplicates unchanged.",
+    "1": "New October 10 package examines gender, work, care, leadership and race using BLS and Census evidence.",
+    "2": "No public release performed by this completion run; release prerequisites remain in the canonical queue.",
+    "publication": "Published the former queue position 1 and moved it to the published record; remaining queue renumbered to 1–9.",
+    "blockers_cleared": [
+      "FCC multilingual WEA compliance date and scope verified in Federal Register",
+      "GAO recommendation confirmed open",
+      "live archive matched GitHub main",
+      "live title and slug were absent before release"
+    ],
+    "germany_weekly_delivery": "2 of 2 complete packages delivered for the week of October 5–11; no additional Germany package required today."
+  },
+  "story_briefs_2026_10_10": [
+    {
+      "title": "The Copper Is Strategic. The Sacred Site Is Not Disposable.",
+      "seat_affected": "Apache religious freedom, Indigenous land and meaningful consultation",
+      "status": "verified angle; litigation posture must be updated before drafting",
+      "sources": [
+        "https://www.justice.gov/opa/pr/ninth-circuit-leaves-resolution-copper-ruling-place"
+      ],
+      "notes": "DOJ says the Ninth Circuit rejected rehearing petitions and left the March 13 decision allowing the congressionally mandated land exchange in place. A full piece must add the Apache plaintiffs’ primary filings and distinguish the government’s economic and national-security claims from the tribes’ religious-freedom claims."
+    },
+    {
+      "title": "The Repair Grant Closed. The Roof Still Leaks.",
+      "seat_affected": "Low-income rural households, Tribal communities, disabled residents and disaster survivors",
+      "status": "verified brief; not a finished editorial",
+      "sources": [
+        "https://www.rd.usda.gov/programs-services/single-family-housing-programs/housing-preservation-grants"
+      ],
+      "notes": "USDA lists $8.3 million nationally for FY2026, including $2.09 million tied to 2022 disaster areas; individuals cannot apply directly. Investigate demand, awards and unmet repairs before making adequacy claims."
+    },
+    {
+      "title": "The Settlement Paid Billions. Who Is Still Waiting?",
+      "seat_affected": "Retired football players living with cognitive and neurological disability and their families",
+      "status": "verified brief; not a finished editorial",
+      "sources": [
+        "https://www.nflconcussionsettlement.com/"
+      ],
+      "notes": "The official settlement dashboard reported 20,564 registrants, 4,638 claim packages, 2,217 payable awards and $1.731 billion in payable awards as of October 5, 2026. A full story should examine claim denials, appeal times and demographic outcomes before drawing conclusions."
+    }
   ]
 }

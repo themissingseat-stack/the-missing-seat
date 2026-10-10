@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-10-09",
+  "last_reconciled": "2026-10-10",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -332,12 +332,33 @@
       "review_1": "2026-10-09 primary GAO/current-law/final-rule claim audit",
       "review_2": "2026-10-09 corrected copy, legal currency, fairness, action, metadata and social audit",
       "notes": "Reflects August 21, 2026 rule changes; former 7% goal is not described as current. 532 is audits with findings, not individuals or necessarily unique contractors. Final recommendation/rule status, live uniqueness, HTML/image/navigation and deployment checks remain."
+    },
+    {
+      "position": 10,
+      "title": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.",
+      "slug": "the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "scheduled_date": null,
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GAP_NOT_JUST_PAY_TIME_CARE_POWER_PUBLICATION_PACKAGE_2026-10-10.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.",
+          "distinction": "National structural analysis of earnings, leadership, unpaid work, care and race rather than a specific EEOC hiring settlement."
+        }
+      ],
+      "review_1": "2026-10-10 BLS/Census evidence, definitions, source limitations and race/sex comparison audit",
+      "review_2": "2026-10-10 corrected copy, Regular Joe clarity, counterargument, action, metadata and social audit",
+      "notes": "BLS earnings figures are descriptive medians, not equal-work proof. 2025 occupation figures exclude October; Census childcare result is a working paper. Final table refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     }
   ],
   "counts": {
-    "full_finished_unpublished": 9,
-    "currently_queued": 9,
-    "publication_ready": 9,
+    "full_finished_unpublished": 10,
+    "currently_queued": 10,
+    "publication_ready": 10,
     "retired_replaced_duplicates": 4,
     "requiring_live_site_repository_reconciliation": 0,
     "requiring_status_verification": 1,
@@ -856,5 +877,16 @@
     "status": "approved_queued_full_finished",
     "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_DISABILITY_HIRING_DUTY_AUDITS_STOPPED_PUBLICATION_PACKAGE_2026-10-09.md",
     "notes": "Genuinely new full package, distinct from live disability disaster and housing stories and from queued vocational-rehabilitation handoff story. Passed two reviews and appended to the standing approved queue."
-  }
+  },
+  "daily_editorial_completion_2026_10_10": {
+    "title": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.",
+    "status": "approved_queued_full_finished",
+    "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GAP_NOT_JUST_PAY_TIME_CARE_POWER_PUBLICATION_PACKAGE_2026-10-10.md",
+    "notes": "Genuinely new workforce gender-gap editorial requested by Jansen. Distinct from the published pallet-hiring settlement story. Passed two reviews and entered the standing queue at position 10."
+  },
+  "reconciliation_notes_2026_10_10": [
+    "Ten finished unpublished packages, all approved and queued; four retired duplicates unchanged.",
+    "New October 10 package examines gender, work, care, leadership and race using BLS and Census evidence.",
+    "No public release performed by this completion run; release prerequisites remain in the canonical queue."
+  ]
 }

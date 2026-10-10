@@ -2,7 +2,7 @@
 
 ## Publication Metadata
 
-- **Status:** APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED
+- **Status:** PUBLISHED / VERIFIED COMPLETE
 - **Completion date:** October 5, 2026
 - **Working slug:** `the-warning-arrived-the-language-did-not`
 - **Suggested filename:** `the-warning-arrived-the-language-did-not.html`
@@ -50,7 +50,7 @@ The federal government has taken steps forward. The Federal Communications Commi
 
 The National Weather Service has also been testing artificial intelligence to translate forecasts, watches and warnings into Spanish, Simplified Chinese, Vietnamese, French and Samoan. As of December 2025, roughly one-quarter of Weather Service forecast offices and the National Hurricane Center were participating.
 
-That project could save time and widen access. It is also incomplete. GAO found that the Weather Service had not documented measurable performance goals, the resources required for each goal or the barriers that could prevent success. It had not updated its plan for the longer term. The agency agreed with GAO's recommendation to create a stronger implementation plan, but the recommendation remained open when this package was completed on October 7, 2026.
+That project could save time and widen access. It is also incomplete. GAO found that the Weather Service had not documented measurable performance goals, the resources required for each goal or the barriers that could prevent success. It had not updated its plan for the longer term. The agency agreed with GAO's recommendation to create a stronger implementation plan, but the recommendation remained open when checked on October 10, 2026.
 
 That is the central problem. Government is using a promising tool for a life-safety function without yet showing the public a complete plan for where it must work, how accuracy will be measured, who will review errors, what it will cost and when people across the country can rely on it.
 
@@ -113,7 +113,7 @@ Ally = Action. 🪑
 
 1. U.S. Government Accountability Office, **Weather Safety: Agencies Face Challenges Related to Multilingual Weather Alerts, and AI Project Needs Better Planning**, GAO-26-107680, published January 26, 2026: https://www.gao.gov/products/gao-26-107680
 2. Full GAO report, 22 pages, linked from the report page: https://www.gao.gov/assets/gao-26-107680.pdf
-3. Federal Communications Commission, multilingual Wireless Emergency Alert rulemaking and implementation materials: https://docs.fcc.gov/public/attachments/DA-26-78A1.pdf
+3. Federal Communications Commission, multilingual Wireless Emergency Alert rulemaking and implementation materials: https://www.federalregister.gov/documents/2026/01/20/2026-00960/wireless-emergency-alerts-and-the-emergency-alert-system
 4. National Weather Service, alerts and warning information: https://www.weather.gov/safety/
 5. Ready.gov, emergency alerts and preparedness guidance: https://www.ready.gov/alerts
 
@@ -123,7 +123,7 @@ Ally = Action. 🪑
 
 **Verified program status:** NWS was using AI to translate selected weather products into five languages at participating offices. The project was not nationwide as of December 2025.
 
-**Open recommendation:** GAO's recommendation that NWS develop an updated implementation plan remained open on October 5, 2026. NOAA agreed with the recommendation.
+**Open recommendation:** GAO's recommendation that NWS develop an updated implementation plan remained open on October 10, 2026. NOAA agreed with the recommendation.
 
 **Future policy:** FCC support for template alerts in English and 14 additional languages is scheduled to take effect in 2028. This package does not claim that all alert types or all locally specific instructions will automatically be available in those languages.
 
@@ -187,9 +187,9 @@ A warning is not truly public if millions of people cannot understand it. GAO fo
 - [x] Facebook, Instagram and short social copy
 - [x] No long dashes
 - [x] Required closing
-- [ ] Final live-site slug and title uniqueness check immediately before publication
-- [ ] Create article HTML and image treatment after approval
-- [ ] Recheck GAO recommendation status immediately before publication
+- [x] Final live-site slug and title uniqueness check immediately before publication
+- [x] Create article HTML and site integration
+- [x] Recheck GAO recommendation status immediately before publication
 
 
 ## Two-review release record: October 7, 2026

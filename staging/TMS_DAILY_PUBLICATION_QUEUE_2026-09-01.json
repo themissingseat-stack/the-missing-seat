@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-10-10",
+  "last_reconciled": "2026-10-11",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -150,29 +150,18 @@
       "published_verified": "2026-10-10",
       "source": "editorial-packages/TMS_THE_WARNING_ARRIVED_THE_LANGUAGE_DID_NOT_2026-10-05.md; GitHub main publication commit 7bb4b143d0ccf84c937156aa48bb7b7753f958cf",
       "notes": "GAO recommendation remained open. FCC multilingual template scope and June 12, 2028 compliance date verified in the January 20, 2026 Federal Register notice. Live archive matched GitHub main before publication."
+    },
+    {
+      "title": "Learning to Unlearn",
+      "slug": "learning-to-unlearn.html",
+      "published_verified": "2026-10-11",
+      "source": "editorial-packages/TMS_LEARNING_TO_UNLEARN_REGULAR_JOE_EDITORIAL_PACKAGE.md; GitHub main commit e6d7caa68aacf16781859450bdb510efb1074bef",
+      "notes": "Five research links refreshed; live uniqueness and deployment source checked before release."
     }
   ],
   "queue": [
     {
       "position": 1,
-      "title": "Learning to Unlearn",
-      "slug": "learning-to-unlearn",
-      "status": "approved_queued_full_finished",
-      "approval": "Jansen standing two-review instruction",
-      "review_1": "2026-10-07 primary evidence, numbers, dates and claim posture",
-      "review_2": "2026-10-07 corrected copy, format, fairness, CTA and metadata",
-      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_LEARNING_TO_UNLEARN_REGULAR_JOE_EDITORIAL_PACKAGE.md",
-      "scheduled_date": null,
-      "publication_status": "unpublished",
-      "release_checks": [
-        "refresh primary sources",
-        "independent live title/slug and material-duplication verification",
-        "confirm deployment source",
-        "HTML/image and navigation integration"
-      ]
-    },
-    {
-      "position": 2,
       "title": "Two Agencies Fund the Support. The Worker Still Gets Left Waiting.",
       "slug": "two-agencies-fund-the-support-the-worker-still-gets-left-waiting",
       "status": "approved_queued_full_finished",
@@ -190,7 +179,7 @@
       ]
     },
     {
-      "position": 3,
+      "position": 2,
       "title": "They Served the Country. The Food Benefit Still Missed Them.",
       "slug": "they-served-the-country-the-food-benefit-still-missed-them",
       "status": "approved_queued_full_finished",
@@ -208,7 +197,7 @@
       ]
     },
     {
-      "position": 4,
+      "position": 3,
       "title": "Germany Created a Seat for Police Complaints. Who Can Actually Use It?",
       "slug": "germany-created-a-seat-for-police-complaints-who-can-actually-use-it",
       "status": "approved_queued_full_finished",
@@ -226,7 +215,7 @@
       ]
     },
     {
-      "position": 5,
+      "position": 4,
       "title": "Before You Cut Care, Did You Stop Paying More for the Same Care?",
       "slug": "before-you-cut-care-stop-paying-more-for-same-care",
       "status": "approved_queued_full_finished",
@@ -244,7 +233,7 @@
       ]
     },
     {
-      "position": 6,
+      "position": 5,
       "title": "He Asked to Break His Fast. He Allegedly Lost His Job.",
       "slug": "he-asked-to-break-his-fast-he-allegedly-lost-his-job",
       "status": "approved_queued_full_finished",
@@ -265,7 +254,7 @@
       "notes": "Supersedes October 7 opening draft. Full decree not independently obtained; no additional terms or liability findings asserted. Final live uniqueness/current case check, HTML/image/navigation and deployment verification remain."
     },
     {
-      "position": 7,
+      "position": 6,
       "title": "Germany Has a Way to Keep the Power On. Can People Use It?",
       "slug": "germany-has-a-way-to-keep-the-power-on-can-people-use-it",
       "completion_status": "full_finished",
@@ -292,7 +281,7 @@
       "notes": "§41g directly read; §41f timed out and general safeguards checked via regulator. No inaccessible Destatis statistics used. HTML/image/navigation, final current-law/live uniqueness and deployment checks remain."
     },
     {
-      "position": 8,
+      "position": 7,
       "title": "The Disability Hiring Duty Stayed. The Audits Stopped.",
       "slug": "the-disability-hiring-duty-stayed-the-audits-stopped",
       "completion_status": "full_finished",
@@ -323,7 +312,7 @@
       "notes": "Reflects August 21, 2026 rule changes; former 7% goal is not described as current. 532 is audits with findings, not individuals or necessarily unique contractors. Final recommendation/rule status, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 9,
+      "position": 8,
       "title": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.",
       "slug": "the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power",
       "completion_status": "full_finished",
@@ -345,13 +334,13 @@
     }
   ],
   "counts": {
-    "full_finished_unpublished": 9,
-    "currently_queued": 9,
-    "publication_ready": 9,
+    "full_finished_unpublished": 8,
+    "currently_queued": 8,
+    "publication_ready": 8,
     "retired_replaced_duplicates": 4,
     "requiring_live_site_repository_reconciliation": 0,
     "requiring_status_verification": 0,
-    "verified_published_from_queue": 19,
+    "verified_published_from_queue": 20,
     "reserved_queue_slots_pending_body_verification": 0,
     "historically_reported_finished_pending_body_verification": 0,
     "live_site_access_verification_pending": 0
@@ -525,26 +514,6 @@
     }
   ],
   "unpublished_ledger": [
-    {
-      "position": 2,
-      "title": "Learning to Unlearn",
-      "slug": "learning-to-unlearn",
-      "status": "approved_queued_full_finished",
-      "approval": "Jansen standing two-review instruction",
-      "review_1": "2026-10-07 primary evidence, numbers, dates and claim posture",
-      "review_2": "2026-10-07 corrected copy, format, fairness, CTA and metadata",
-      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_LEARNING_TO_UNLEARN_REGULAR_JOE_EDITORIAL_PACKAGE.md",
-      "scheduled_date": null,
-      "publication_status": "unpublished",
-      "release_checks": [
-        "refresh primary sources",
-        "independent live title/slug and material-duplication verification",
-        "confirm deployment source",
-        "HTML/image and navigation integration"
-      ],
-      "completion_status": "full_finished",
-      "duplication_status": "repository/archive comparison passed; independent live check pending"
-    },
     {
       "position": 3,
       "title": "Two Agencies Fund the Support. The Worker Still Gets Left Waiting.",
@@ -894,5 +863,45 @@
       ],
       "notes": "The official settlement dashboard reported 20,564 registrants, 4,638 claim packages, 2,217 payable awards and $1.731 billion in payable awards as of October 5, 2026. A full story should examine claim denials, appeal times and demographic outcomes before drawing conclusions."
     }
-  ]
+  ],
+  "story_briefs_2026_10_11": [
+    {
+      "title": "Support Before the Label",
+      "seat_affected": "Children, young people and adults waiting for mental-health, ADHD or autism support",
+      "status": "verified policy-development angle; implementation remains prospective",
+      "sources": [
+        "https://www.gov.uk/government/collections/independent-review-into-mental-health-conditions-adhd-and-autism",
+        "https://www.gov.uk/government/news/government-pledges-earlier-support-to-tackle-mental-health-crises"
+      ],
+      "notes": "The independent final report and government response were published October 9. Government promises needs-led support before diagnosis and stronger regulation of assessments; the forthcoming strategy and delivery remain to be tested."
+    },
+    {
+      "title": "The New Door Opens. Which Children Get Moved Through It?",
+      "seat_affected": "Australian children under nine with developmental delay or autism and their families",
+      "status": "verified transition angle; outcome evidence not yet available",
+      "sources": [
+        "https://www.health.gov.au/ministers/the-hon-mark-butler-mp/media/advice-on-national-model-for-thriving-kids?language=en"
+      ],
+      "notes": "Thriving Kids rollout began October 1, 2026, with full implementation planned by January 2028. Government says $4 billion is committed and high-support children remain NDIS-eligible; monitor access, reassessment and service continuity rather than assuming success or harm."
+    },
+    {
+      "title": "The College Took the Money. The Outcome Data Is Late.",
+      "seat_affected": "Students choosing career programs and taxpayers financing federal aid",
+      "status": "verified accountability angle; delinquency is not proof of poor student outcomes",
+      "sources": [
+        "https://fsapartners.ed.gov/knowledge-center/library/electronic-announcements/2026-08-11/guidance-fvt/ge-data-reporting-stats-early-implementation-and-next-steps-publication-updated-oct-8-2026"
+      ],
+      "notes": "Education reported more than 1,000 institutions delinquent for 2026 reporting and nearly 1,400 still delinquent for 2024–2025, with a final January 15, 2027 extension. Investigate why data are missing and whether enforcement follows."
+    }
+  ],
+  "reconciliation_notes_2026_10_11": {
+    "publication": "Learning to Unlearn published; remaining approved queue renumbered to 1–8.",
+    "counts": {
+      "eligible": 8,
+      "queued": 8,
+      "retired": 4,
+      "status_verification": 0
+    },
+    "germany_weekly_delivery": "2 of 2 completed for October 5–11."
+  }
 }

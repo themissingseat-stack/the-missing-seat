@@ -40,6 +40,15 @@ Every TMS editorial must:
 
 ## Published / do not queue again
 
+### 2026-10-11
+- **Learning to Unlearn**
+  - Status: **PUBLISHED / VERIFIED COMPLETE**
+  - URL: https://themissingseat.org/learning-to-unlearn.html
+  - Package: `editorial-packages/TMS_LEARNING_TO_UNLEARN_REGULAR_JOE_EDITORIAL_PACKAGE.md`
+  - Verification: all five research links refreshed; live title and slug absent before release; deployment source confirmed from the served October 10 archive.
+
+
+
 ### 2026-10-07 — She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.
 - Status: **PUBLISHED / VERIFIED COMPLETE**
 - URL: https://themissingseat.org/she-was-qualified-to-repair-the-pallets-the-company-allegedly-only-hired-men.html
@@ -162,49 +171,43 @@ These repairs **do not count as new daily editorials**:
 
 ## Approved finished publication queue
 
-**Updated October 10, 2026: 9 full finished unpublished editorials, all approved and queued.** Approval follows Jansen’s instruction that complete TMS editorials passing two reviews are approved. The first two retain their relative order from the previous queue; newly admitted packages follow them.
+**Updated October 11, 2026: 8 full finished unpublished editorials, all approved and queued.** Approval follows Jansen’s instruction that complete TMS editorials passing two reviews are approved. The first two retain their relative order from the previous queue; newly admitted packages follow them.
 
 Two-review scope: primary evidence, numbers, dates and legal/factual posture; then corrected copy, readable paragraphs, plain English, counterargument, missing seat, practical action, metadata, social copy and ending. The Germany package now includes the ten cases in which the commissioner criticized police conduct and the statutory confidentiality limits. The Medicare package dates its savings estimate and distinguishes it from later changes and separate Medicaid projections.
 
 **Release prerequisites:** GitHub `main` was confirmed against the served archive on October 10. Continue the standard title/slug, source-currency, HTML/image, navigation and post-deployment checks for each remaining release.
 
 
-### 1. Learning to Unlearn
-- Status: **APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED**
-- Package: [Complete editorial and publication materials](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_LEARNING_TO_UNLEARN_REGULAR_JOE_EDITORIAL_PACKAGE.md)
-- Working slug: `learning-to-unlearn`
-- Review 1 and review 2: **completed October 7, 2026**
-- Publication date: next eligible slot in this order, subject to release prerequisites above.
 
-### 2. Two Agencies Fund the Support. The Worker Still Gets Left Waiting.
+### 1. Two Agencies Fund the Support. The Worker Still Gets Left Waiting.
 - Status: **APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED**
 - Package: [Complete editorial and publication materials](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_JOB_SUPPORT_HANDOFF_2026-10-04.md)
 - Working slug: `two-agencies-fund-the-support-the-worker-still-gets-left-waiting`
 - Review 1 and review 2: **completed October 7, 2026**
 - Publication date: next eligible slot in this order, subject to release prerequisites above.
 
-### 3. They Served the Country. The Food Benefit Still Missed Them.
+### 2. They Served the Country. The Food Benefit Still Missed Them.
 - Status: **APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED**
 - Package: [Complete editorial and publication materials](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_VETERANS_FOOD_INSECURITY_SNAP_PUBLICATION_PACKAGE_2026-10-06.md)
 - Working slug: `they-served-the-country-the-food-benefit-still-missed-them`
 - Review 1 and review 2: **completed October 7, 2026**
 - Publication date: next eligible slot in this order, subject to release prerequisites above.
 
-### 4. Germany Created a Seat for Police Complaints. Who Can Actually Use It?
+### 3. Germany Created a Seat for Police Complaints. Who Can Actually Use It?
 - Status: **APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED**
 - Package: [Complete editorial and publication materials](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GERMANY_POLICE_COMPLAINTS_PUBLICATION_PACKAGE_2026-10-06.md)
 - Working slug: `germany-created-a-seat-for-police-complaints-who-can-actually-use-it`
 - Review 1 and review 2: **completed October 7, 2026**
 - Publication date: next eligible slot in this order, subject to release prerequisites above.
 
-### 5. Before You Cut Care, Did You Stop Paying More for the Same Care?
+### 4. Before You Cut Care, Did You Stop Paying More for the Same Care?
 - Status: **APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED**
 - Package: [Complete editorial and publication materials](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_BEFORE_YOU_CUT_CARE_SITE_NEUTRAL_MEDICARE_PUBLICATION_PACKAGE.md)
 - Working slug: `before-you-cut-care-stop-paying-more-for-same-care`
 - Review 1 and review 2: **completed October 7, 2026**
 - Publication date: next eligible slot in this order, subject to release prerequisites above.
 
-### 6. He Asked to Break His Fast. He Allegedly Lost His Job.
+### 5. He Asked to Break His Fast. He Allegedly Lost His Job.
 - Status: **APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED**
 - Package: [Complete editorial and publication materials](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_HE_ASKED_TO_BREAK_HIS_FAST_PUBLICATION_PACKAGE_2026-10-08.md)
 - Working slug: `he-asked-to-break-his-fast-he-allegedly-lost-his-job`
@@ -213,7 +216,7 @@ Two-review scope: primary evidence, numbers, dates and legal/factual posture; th
 - Publication date: next eligible slot after the existing six, subject to the established release checks.
 - Sources identify a settlement and allegations, not adjudicated liability. Full decree was not independently obtained; no additional terms asserted.
 
-### 7. Germany Has a Way to Keep the Power On. Can People Use It?
+### 6. Germany Has a Way to Keep the Power On. Can People Use It?
 - Status: **APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED**
 - Package: [Complete editorial and publication materials](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GERMANY_KEEP_THE_POWER_ON_PUBLICATION_PACKAGE_2026-10-09.md)
 - Working slug: `germany-has-a-way-to-keep-the-power-on-can-people-use-it`
@@ -223,7 +226,7 @@ Two-review scope: primary evidence, numbers, dates and legal/factual posture; th
 - Release work: final current-law/live uniqueness checks, HTML/image/navigation and deployment confirmation. § 41g verified directly; § 41f retrieval timed out, regulator safeguards verified.
 - The former first queued editorial was published October 10 after the FCC compliance date, GAO recommendation status, live uniqueness and deployment source were verified.
 
-### 8. The Disability Hiring Duty Stayed. The Audits Stopped.
+### 7. The Disability Hiring Duty Stayed. The Audits Stopped.
 - Status: **APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED**
 - Package: [Complete editorial and publication materials](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_DISABILITY_HIRING_DUTY_AUDITS_STOPPED_PUBLICATION_PACKAGE_2026-10-09.md)
 - Working slug: `the-disability-hiring-duty-stayed-the-audits-stopped`
@@ -233,7 +236,7 @@ Two-review scope: primary evidence, numbers, dates and legal/factual posture; th
 - Release work: refresh GAO recommendation status and current regulations, verify live title/slug uniqueness, create HTML/image/navigation, and confirm the active deployment source.
 
 
-### 9. The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.
+### 8. The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.
 - Status: **APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED**
 - Package: [Complete editorial and publication materials](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GAP_NOT_JUST_PAY_TIME_CARE_POWER_PUBLICATION_PACKAGE_2026-10-10.md)
 - Working slug: `the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power`
@@ -260,32 +263,32 @@ These previously approved subjects retain their development priority. They are n
 - Action: complete full TMS editorial, Regular Joe review, duplication check, verification, and publication package.
 
 
-### 2. Fair-Housing Backlog
+### 1. Fair-Housing Backlog
 - Status: **APPROVED / QUEUED / VERIFIED BRIEF ONLY**
 - Action: complete full TMS editorial, Regular Joe review, duplication check, verification, and publication package.
 
 
-### 3. Arkansas Rural Maternal Health
+### 2. Arkansas Rural Maternal Health
 - Status: **APPROVED / QUEUED / RESEARCH BRIEF ONLY**
 - Action: complete research and full TMS publication package.
 
 
-### 4. Tribal Homelessness Evidence
+### 3. Tribal Homelessness Evidence
 - Status: **APPROVED / QUEUED / RESEARCH BRIEF ONLY**
 - Action: complete research and full TMS publication package.
 
 
-### 7. Disability Access at Job Centers
+### 6. Disability Access at Job Centers
 - Status: **APPROVED / QUEUED / IN PROGRESS**
 - Action: complete research and full TMS publication package.
 
 
-### 8. Student-Loan Servicer Communication
+### 7. Student-Loan Servicer Communication
 - Status: **APPROVED / QUEUED / IN PROGRESS**
 - Action: complete research and full TMS publication package.
 
 
-### 9. Medicaid/SNAP Work Requirements
+### 8. Medicaid/SNAP Work Requirements
 - Status: **APPROVED / QUEUED / BLOCKED**
 - Blocker: unresolved evidence gaps.
 - Action: resolve evidence gaps before publication.

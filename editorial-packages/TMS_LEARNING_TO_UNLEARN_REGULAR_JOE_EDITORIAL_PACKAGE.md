@@ -2,7 +2,7 @@
 
 ## Learning to Unlearn
 
-**Status:** APPROVED / QUEUED / FULL, FINISHED  
+**Status:** PUBLISHED / VERIFIED COMPLETE  
 **Website topic:** Race & Equal Humanity  
 **Working slug:** `learning-to-unlearn`  
 **Website title:** Learning to Unlearn  
@@ -313,10 +313,10 @@ A person peeling away an old layer of words from a wall, representing the proces
 - [x] Duplication check
 - [x] Jansen approval under the standing two-review instruction
 - [x] Added to the consolidated queue after two reviews
-- [ ] Recheck research links immediately before publication
-- [ ] Create final HTML and publication assets after approval
+- [x] Recheck research links immediately before publication
+- [x] Create final HTML and publication integration
 
-**Publication state:** Complete, approved and queued. Refresh sources and verify live duplication immediately before release.
+**Publication state:** Published October 11, 2026. Live uniqueness, sources and deployment integration verified.
 
 ## Two-review release record: October 7, 2026
 

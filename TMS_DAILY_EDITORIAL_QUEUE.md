@@ -171,7 +171,7 @@ These repairs **do not count as new daily editorials**:
 
 ## Approved finished publication queue
 
-**Updated October 11, 2026: 8 full finished unpublished editorials, all approved and queued.** Approval follows Jansen’s instruction that complete TMS editorials passing two reviews are approved. The first two retain their relative order from the previous queue; newly admitted packages follow them.
+**Updated October 11, 2026: 9 full finished unpublished editorials, all approved and queued.** Approval follows Jansen’s instruction that complete TMS editorials passing two reviews are approved. The first two retain their relative order from the previous queue; newly admitted packages follow them.
 
 Two-review scope: primary evidence, numbers, dates and legal/factual posture; then corrected copy, readable paragraphs, plain English, counterargument, missing seat, practical action, metadata, social copy and ending. The Germany package now includes the ten cases in which the commissioner criticized police conduct and the statutory confidentiality limits. The Medicare package dates its savings estimate and distinguishes it from later changes and separate Medicaid projections.
 
@@ -244,6 +244,17 @@ Two-review scope: primary evidence, numbers, dates and legal/factual posture; th
 - Material distinction from the pallet-hiring story: national workforce structure across earnings, leadership, unpaid work, childcare, and intersecting racial disparities, rather than an EEOC hiring investigation and settlement.
 - Evidence caution: BLS earnings figures are descriptive medians, not controlled equal-pay comparisons; 2025 occupation figures exclude October; childcare evidence is a Census working paper.
 - Release work: refresh source tables, verify live title/slug uniqueness, create HTML/image/navigation, and confirm the active deployment source.
+
+
+
+### 9. The College Took the Money. The Outcome Data Is Late.
+- Status: **APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED**
+- Package: [Complete editorial and publication materials](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_COLLEGE_TOOK_THE_MONEY_OUTCOME_DATA_LATE_PUBLICATION_PACKAGE_2026-10-11.md)
+- Working slug: `the-college-took-the-money-the-outcome-data-is-late`
+- Review 1 and review 2: **completed October 11, 2026**
+- Material distinction: late federal program-level cost, student and outcome reporting before enrollment, rather than unsafe K–12 facilities or student-loan servicing after borrowing.
+- Evidence caution: reporting delinquency is not proof of poor program outcomes, fraud or inaccurate submitted records. Possible sanctions remain prospective.
+- Release work: refresh January 15 deadline status and any enforcement, verify live title/slug uniqueness, create HTML/image/navigation, and confirm the active deployment source.
 
 
 ## Development order: not finished publication inventory

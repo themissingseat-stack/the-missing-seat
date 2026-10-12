@@ -5,7 +5,7 @@
 - Publication: The Missing Seat
 - Byline: Jansen
 - Prepared and fact-checked: October 4, 2026
-- Status: APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED. Two reviews completed October 7, 2026.
+- Status: PUBLISHED / VERIFIED COMPLETE on October 12, 2026. Two reviews completed October 7, 2026; final source, uniqueness, deployment and live-surface checks completed at release.
 - Editorial number: assign from the current website register at publication; no number invented.
 - Suggested slug: two-agencies-fund-the-support-the-worker-still-gets-left-waiting
 - Topic: Democracy & Government
@@ -93,6 +93,13 @@ Read when published at themissingseat.org. Link in bio only after the article is
 Ally = Action. 🪑
 
 #TheMissingSeat #DisabilityEmployment #PublicAccountability #AccessToWork
+
+## Publication record
+
+- Published: October 12, 2026
+- Live URL: https://themissingseat.org/two-agencies-fund-the-support-the-worker-still-gets-left-waiting.html
+- Website surfaces updated: article, homepage feature, Editorial Archive, Democracy & Government topic page and RSS.
+- Final verification: GAO report refreshed October 12; archive title and slug unique before release; GitHub main matched the live archive; public URL and navigation verified after deployment.
 
 ## Posting notes
 

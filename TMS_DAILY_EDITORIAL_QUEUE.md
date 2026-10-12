@@ -171,7 +171,7 @@ These repairs **do not count as new daily editorials**:
 
 ## Approved finished publication queue
 
-**Updated October 11, 2026: 9 full finished unpublished editorials, all approved and queued.** Approval follows Jansen’s instruction that complete TMS editorials passing two reviews are approved. The first two retain their relative order from the previous queue; newly admitted packages follow them.
+**Updated October 12, 2026: 10 full finished unpublished editorials, all approved and queued.** Approval follows Jansen’s instruction that complete TMS editorials passing two reviews are approved. The first two retain their relative order from the previous queue; newly admitted packages follow them.
 
 Two-review scope: primary evidence, numbers, dates and legal/factual posture; then corrected copy, readable paragraphs, plain English, counterargument, missing seat, practical action, metadata, social copy and ending. The Germany package now includes the ten cases in which the commissioner criticized police conduct and the statutory confidentiality limits. The Medicare package dates its savings estimate and distinguishes it from later changes and separate Medicaid projections.
 
@@ -257,6 +257,16 @@ Two-review scope: primary evidence, numbers, dates and legal/factual posture; th
 - Release work: refresh January 15 deadline status and any enforcement, verify live title/slug uniqueness, create HTML/image/navigation, and confirm the active deployment source.
 
 
+
+### 10. The Complaint Had a 100-Day Clock. The Housing Problem Did Not Wait.
+- Status: **APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED**
+- Package: [Complete editorial and publication materials](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_FAIR_HOUSING_100_DAY_CLOCK_PUBLICATION_PACKAGE_2026-10-12.md)
+- Working slug: `the-complaint-had-a-100-day-clock-the-housing-problem-did-not-wait`
+- Review 1 and review 2: **completed October 12, 2026**
+- Material distinction: federal complaint-investigation timeliness and remedy loss, rather than disability access to a specific apartment or allegedly unequal lease enforcement.
+- Evidence caution: the 70.2% late-investigation figure covers 2020–2022; HUD's June 2026 claim of a 27% backlog reduction lacks published baseline and remaining counts. Political causal claims are attributed, not adopted.
+- Release work: refresh backlog totals and OIG recommendation status, verify live title/slug uniqueness, create HTML/image/navigation, and confirm the active deployment source.
+
 ## Development order: not finished publication inventory
 
 These previously approved subjects retain their development priority. They are not complete articles and are excluded from the finished queue count. The sentencing story and other unfinished leads require evidence and full copy; Medicaid/SNAP remains blocked. Finishing a lead requires the same two reviews before admission to the finished queue.
@@ -273,10 +283,6 @@ These previously approved subjects retain their development priority. They are n
 - Status: **APPROVED / QUEUED / VERIFIED BRIEF ONLY**
 - Action: complete full TMS editorial, Regular Joe review, duplication check, verification, and publication package.
 
-
-### 1. Fair-Housing Backlog
-- Status: **APPROVED / QUEUED / VERIFIED BRIEF ONLY**
-- Action: complete full TMS editorial, Regular Joe review, duplication check, verification, and publication package.
 
 
 ### 2. Arkansas Rural Maternal Health

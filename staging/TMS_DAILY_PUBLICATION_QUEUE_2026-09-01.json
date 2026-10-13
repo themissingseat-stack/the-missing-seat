@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-10-12",
+  "last_reconciled": "2026-10-13",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -366,13 +366,34 @@
       "review_1": "2026-10-12 primary evidence, dates and claim posture",
       "review_2": "2026-10-12 copy, fairness, action, metadata and social review",
       "notes": "70.2% late-investigation figure covers 2020–2022. HUD's June 2026 27% backlog-reduction claim lacks published baseline and remaining counts. Refresh backlog/OIG status and complete uniqueness, HTML/image/navigation/deployment checks."
+    },
+    {
+      "position": 10,
+      "title": "Germany Promised a Full School Day. Families Need the Hours to Match.",
+      "slug": "germany-promised-a-full-school-day-families-need-the-hours-to-match",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "scheduled_date": null,
+      "source": "editorial-packages/TMS_GERMANY_FULL_SCHOOL_DAY_PUBLICATION_PACKAGE_2026-10-13.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "It Takes a Village. Where Did It Go?",
+          "distinction": "Defined German statutory cohort, hours and holiday limits with a local accountability route, rather than general community support."
+        }
+      ],
+      "review_1": "2026-10-13 current statute and scope audit",
+      "review_2": "2026-10-13 copy, fairness, action, metadata and socials",
+      "notes": "Current §24 directly verified. No national implementation outcome claimed. Final law/live uniqueness, HTML/image/navigation/deployment remain."
     }
   ],
   "counts": {
-    "full_finished_unpublished_eligible": 9,
-    "full_finished_currently_queued": 9,
+    "full_finished_unpublished_eligible": 10,
+    "full_finished_currently_queued": 10,
     "full_finished_retired_or_replaced": 4,
-    "status_verification_required": 1
+    "status_verification_required": 0
   },
   "pending_priority_requests": [
     {
@@ -742,15 +763,30 @@
       "review_1": "2026-10-12 primary evidence, dates and claim posture",
       "review_2": "2026-10-12 copy, fairness, action, metadata and social review",
       "notes": "70.2% late-investigation figure covers 2020–2022. HUD's June 2026 27% backlog-reduction claim lacks published baseline and remaining counts. Refresh backlog/OIG status and complete uniqueness, HTML/image/navigation/deployment checks."
-    }
-  ],
-  "status_verification_ledger": [
+    },
     {
-      "title": "October 12 job-support release shell visibility",
-      "reason": "The direct article URL is live, but the served archive and homepage did not yet show the new card/feature during the post-release check even though GitHub main contains both updates.",
-      "required_action": "Recheck cache/deployment propagation before declaring archive and homepage visibility complete."
+      "position": 10,
+      "title": "Germany Promised a Full School Day. Families Need the Hours to Match.",
+      "slug": "germany-promised-a-full-school-day-families-need-the-hours-to-match",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "scheduled_date": null,
+      "source": "editorial-packages/TMS_GERMANY_FULL_SCHOOL_DAY_PUBLICATION_PACKAGE_2026-10-13.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "It Takes a Village. Where Did It Go?",
+          "distinction": "Defined German statutory cohort, hours and holiday limits with a local accountability route, rather than general community support."
+        }
+      ],
+      "review_1": "2026-10-13 current statute and scope audit",
+      "review_2": "2026-10-13 copy, fairness, action, metadata and socials",
+      "notes": "Current §24 directly verified. No national implementation outcome claimed. Final law/live uniqueness, HTML/image/navigation/deployment remain."
     }
   ],
+  "status_verification_ledger": [],
   "story_briefs_2026_10_05": [
     {
       "title": "More Than a Million Veterans Face Food Insecurity. The SNAP Hand-Off Slowed Down.",
@@ -774,13 +810,20 @@
   "germany_weekly_delivery": {
     "week": "2026-10-12/2026-10-18",
     "target_packages": 2,
-    "completed_packages": 0,
-    "remaining_packages": 2,
+    "completed_packages": 1,
+    "remaining_packages": 1,
     "target_days": [
       "2026-10-13",
       "2026-10-16"
     ],
-    "delivered": [],
+    "delivered": [
+      {
+        "date": "2026-10-13",
+        "title": "Germany Promised a Full School Day. Families Need the Hours to Match.",
+        "source": "editorial-packages/TMS_GERMANY_FULL_SCHOOL_DAY_PUBLICATION_PACKAGE_2026-10-13.md",
+        "status": "approved_queued_full_finished"
+      }
+    ],
     "notes": "Prior week October 5–11 completed 2 of 2. New weekly cycle opened; first package targeted Tuesday."
   },
   "story_briefs_2026_10_06": [
@@ -1028,5 +1071,31 @@
     "next_queue_item": "They Served the Country. The Food Benefit Still Missed Them.",
     "germany_weekly_delivery": "New week opened at 0 of 2; Tuesday and Friday targets retained.",
     "verification": "Direct article live; archive/homepage visibility pending."
-  }
+  },
+  "daily_editorial_completion_2026_10_13": {
+    "position": 10,
+    "title": "Germany Promised a Full School Day. Families Need the Hours to Match.",
+    "slug": "germany-promised-a-full-school-day-families-need-the-hours-to-match",
+    "completion_status": "full_finished",
+    "status": "approved_queued_full_finished",
+    "publication_status": "unpublished",
+    "approval": "Jansen standing two-review instruction",
+    "scheduled_date": null,
+    "source": "editorial-packages/TMS_GERMANY_FULL_SCHOOL_DAY_PUBLICATION_PACKAGE_2026-10-13.md",
+    "duplication_status": "materially_distinct",
+    "related_live_comparators": [
+      {
+        "title": "It Takes a Village. Where Did It Go?",
+        "distinction": "Defined German statutory cohort, hours and holiday limits with a local accountability route, rather than general community support."
+      }
+    ],
+    "review_1": "2026-10-13 current statute and scope audit",
+    "review_2": "2026-10-13 copy, fairness, action, metadata and socials",
+    "notes": "Current §24 directly verified. No national implementation outcome claimed. Final law/live uniqueness, HTML/image/navigation/deployment remain."
+  },
+  "reconciliation_notes_2026_10_13": [
+    "New school-age care package completed, twice reviewed and queued.",
+    "October 12 job-support archive card now independently observed live; archive propagation blocker cleared. Homepage not independently rechecked.",
+    "Two reserved priority titles remain published; 16 replacement revisions excluded."
+  ]
 }

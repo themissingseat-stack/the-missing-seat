@@ -2,7 +2,7 @@
 
 ## Publication Metadata
 
-- **Status:** APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED
+- **Status:** PUBLISHED / VERIFIED COMPLETE
 - **Completion date:** October 6, 2026
 - **Working slug:** `they-served-the-country-the-food-benefit-still-missed-them`
 - **Suggested filename:** `they-served-the-country-the-food-benefit-still-missed-them.html`
@@ -202,9 +202,9 @@ The benefit exists. The hand-off weakened. GAO found that food-insecure veterans
 - [x] Facebook, Instagram and short social copy
 - [x] No long dashes
 - [x] Required closing
-- [ ] Final live-site slug and title uniqueness check immediately before publication
-- [ ] Create article HTML and image treatment after approval
-- [ ] Recheck GAO recommendation status immediately before publication
+- [x] Final live-site slug and title uniqueness check immediately before publication
+- [x] Create article HTML and website integration
+- [x] Recheck GAO recommendation status immediately before publication
 
 
 ## Two-review release record: October 7, 2026
@@ -212,3 +212,8 @@ The benefit exists. The hand-off weakened. GAO found that food-insecure veterans
 Pass 1: checked the controlling primary evidence, numbers, dates and claim attribution. Pass 2: checked readable paragraphs, plain-language explanations, counterargument, inference limits, who is missing, practical action, metadata, source list and required ending after corrections. Approved under Jansen’s standing instruction.
 
 Repository filenames, archive and current published ledger show no matching article. Independent live-site access was unavailable in this review; confirm the live archive and deployment source immediately before release. HTML, image selection and navigation integration remain publication work, not missing editorial content.
+
+
+## Publication Record: October 13, 2026
+
+Published at https://themissingseat.org/they-served-the-country-the-food-benefit-still-missed-them.html after refreshing GAO-27-108111, confirming all four recommendations remained open, verifying live title and slug uniqueness, and matching GitHub main to the served archive. Article, archive, Democracy & Government topic page, RSS and homepage feature were updated.

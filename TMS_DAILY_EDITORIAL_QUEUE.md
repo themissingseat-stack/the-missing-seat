@@ -32,6 +32,7 @@
 | 2026-10-05 | The Absurdity of Being Black in America | Published; remove former queued copy |
 | 2026-10-05 | Found Hanging in America: Why Are Black People Still Being Found This Way? | Published follow-up HTML; archive/feed inclusion needs audit |
 | 2026-10-06 | You Can Talk About Racism and Still Be Happy | Published; remove former queued copy |
+| 2026-10-13 | The People in the Middle Keep Paying | Published; article, homepage feature and archive commits verified |
 
 Also published outside this daily ledger: **If a Program Was Built to Reach Black Americans, Say So.** (HTML exists). Older website stories remain published; the table is not the full historical archive.
 

@@ -393,7 +393,7 @@
     "full_finished_unpublished_eligible": 10,
     "full_finished_currently_queued": 10,
     "full_finished_retired_or_replaced": 4,
-    "status_verification_required": 0
+    "status_verification_required": 1
   },
   "pending_priority_requests": [
     {
@@ -786,7 +786,13 @@
       "notes": "Current §24 directly verified. No national implementation outcome claimed. Final law/live uniqueness, HTML/image/navigation/deployment remain."
     }
   ],
-  "status_verification_ledger": [],
+  "status_verification_ledger": [
+    {
+      "title": "October 12 job-support homepage visibility",
+      "reason": "Archive card now verified live October 13; homepage feature has not yet been independently rechecked.",
+      "required_action": "Verify homepage feature before closing the remaining shell reconciliation."
+    }
+  ],
   "story_briefs_2026_10_05": [
     {
       "title": "More Than a Million Veterans Face Food Insecurity. The SNAP Hand-Off Slowed Down.",

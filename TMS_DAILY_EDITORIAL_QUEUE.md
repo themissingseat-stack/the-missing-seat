@@ -1,6 +1,6 @@
 # TMS Daily Editorial Queue
 
-**Reconciled:** 2026-10-09
+**Reconciled:** 2026-10-13
 
 Purpose: keep The Missing Seat publication order accurate, prevent duplicate publication, and maintain a default cadence of one genuinely new editorial per day. When a backlog exists, Jansen has authorized publishing two genuinely new editorials on the same day.
 
@@ -179,7 +179,7 @@ These repairs **do not count as new daily editorials**:
 
 ## Approved finished publication queue
 
-**Updated October 12, 2026: 9 full finished unpublished editorials, all approved and queued.** Approval follows Jansen’s instruction that complete TMS editorials passing two reviews are approved. The first two retain their relative order from the previous queue; newly admitted packages follow them.
+**Updated October 13, 2026: 10 full finished unpublished editorials, all approved and queued.** Approval follows Jansen’s instruction that complete TMS editorials passing two reviews are approved. The first two retain their relative order from the previous queue; newly admitted packages follow them.
 
 Two-review scope: primary evidence, numbers, dates and legal/factual posture; then corrected copy, readable paragraphs, plain English, counterargument, missing seat, practical action, metadata, social copy and ending. The Germany package now includes the ten cases in which the commissioner criticized police conduct and the statutory confidentiality limits. The Medicare package dates its savings estimate and distinguishes it from later changes and separate Medicaid projections.
 
@@ -268,6 +268,15 @@ Two-review scope: primary evidence, numbers, dates and legal/factual posture; th
 - Material distinction: federal complaint-investigation timeliness and remedy loss, rather than disability access to a specific apartment or allegedly unequal lease enforcement.
 - Evidence caution: the 70.2% late-investigation figure covers 2020–2022; HUD's June 2026 claim of a 27% backlog reduction lacks published baseline and remaining counts. Political causal claims are attributed, not adopted.
 - Release work: refresh backlog totals and OIG recommendation status, verify live title/slug uniqueness, create HTML/image/navigation, and confirm the active deployment source.
+
+### 10. Germany Promised a Full School Day. Families Need the Hours to Match.
+- Status: **APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED**
+- Package: [Complete editorial and publication materials](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GERMANY_FULL_SCHOOL_DAY_PUBLICATION_PACKAGE_2026-10-13.md)
+- Working slug: `germany-promised-a-full-school-day-families-need-the-hours-to-match`
+- Review 1 and review 2: **completed October 13, 2026**
+- Material distinction: German school-age care cohort, hours and holiday provision; distinct from general village support, workforce gaps, police complaints and energy-debt remedies.
+- Release work: refresh current law/local scope, verify live uniqueness, create HTML/image/navigation and confirm deployment source.
+- First Germany package for October 12–18; delivered complete, not yet published.
 
 ## Development order: not finished publication inventory
 

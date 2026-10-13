@@ -42,11 +42,11 @@ Every TMS editorial must:
 
 ### 2026-10-13
 - **They Served the Country. The Food Benefit Still Missed Them.**
-  - Status: **PUBLISHED / VERIFIED COMPLETE**
+  - Status: **PUBLISHED / RECONCILIATION NEEDED**
   - URL: https://themissingseat.org/they-served-the-country-the-food-benefit-still-missed-them.html
   - Package: `editorial-packages/TMS_VETERANS_FOOD_INSECURITY_SNAP_PUBLICATION_PACKAGE_2026-10-06.md`
   - Verification: GAO-27-108111 refreshed October 13; all four recommendations remained open; historical 2015–2020 estimate kept distinct from present-day claims; live title and slug were absent before release.
-  - Website surfaces: article, Editorial Archive, Democracy & Government topic page, RSS and homepage feature updated.
+  - Website surfaces: direct article verified live; archive, Democracy & Government topic, RSS and homepage commits exist but had not propagated in the immediate live recheck. Do not republish; recheck shell propagation.
 
 ### 2026-10-12
 - **Two Agencies Fund the Support. The Worker Still Gets Left Waiting.**

@@ -2,7 +2,7 @@
 
 ## Publication Metadata
 
-- **Status:** PUBLISHED / VERIFIED COMPLETE
+- **Status:** PUBLISHED / RECONCILIATION NEEDED
 - **Completion date:** October 6, 2026
 - **Working slug:** `they-served-the-country-the-food-benefit-still-missed-them`
 - **Suggested filename:** `they-served-the-country-the-food-benefit-still-missed-them.html`
@@ -58,7 +58,7 @@ That is not an accusation that anyone wanted veterans to go hungry. Staffing cha
 
 But an agreement that everyone says exists and no one has reviewed on schedule is not a dependable bridge. It is paperwork waiting for ownership. GAO made four recommendations. USDA should keep its SNAP eligibility website current on exceptions to the program's time limit. USDA should create and distribute veteran-specific outreach materials with the Veterans Health Administration. VA and USDA should each make sure a formal collaboration mechanism is in place, including reviewing and updating their agreement if necessary.
 
-Both departments agreed. As of October 7, 2026, all four recommendations remained open on GAO's public page. Agreement is a start. Groceries are the measure.
+Both departments agreed. As of October 13, 2026, all four recommendations remained open on GAO's public page. Agreement is a start. Groceries are the measure.
 
 ## Why an Ordinary Person Should Care
 
@@ -136,7 +136,7 @@ Ally = Action. 🪑
 
 **State variation:** SNAP is administered by states under federal rules, and receipt among veteran households varies by state. Veteran status alone does not establish eligibility.
 
-**Agency response:** USDA and VA concurred with GAO's recommendations. Concurrence is documented; completion is not. All four recommendations were listed as open on October 6, 2026.
+**Agency response:** USDA and VA concurred with GAO's recommendations. Concurrence is documented; completion is not. All four recommendations were listed as open on October 13, 2026.
 
 **Reported perceptions:** Statements about veterans' misconceptions are based on stakeholder interviews summarized by GAO. They are not attributed to every veteran.
 
@@ -216,4 +216,4 @@ Repository filenames, archive and current published ledger show no matching arti
 
 ## Publication Record: October 13, 2026
 
-Published at https://themissingseat.org/they-served-the-country-the-food-benefit-still-missed-them.html after refreshing GAO-27-108111, confirming all four recommendations remained open, verifying live title and slug uniqueness, and matching GitHub main to the served archive. Article, archive, Democracy & Government topic page, RSS and homepage feature were updated.
+Published at https://themissingseat.org/they-served-the-country-the-food-benefit-still-missed-them.html after refreshing GAO-27-108111, confirming all four recommendations remained open, verifying live title and slug uniqueness, and matching GitHub main to the served archive. Article is live. Archive, Democracy & Government topic, RSS and homepage commits exist but had not propagated after the immediate recheck; do not republish.

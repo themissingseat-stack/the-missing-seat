@@ -23,7 +23,7 @@
   },
   "deployment": {
     "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "GitHub main matched the served archive before the October 13 release. Veterans article and all normal publication surfaces were committed; live propagation verification follows."
+    "status": "Direct veterans article verified live October 13. Archive and homepage had not yet refreshed after the immediate recheck; commits also exist for topic and RSS. Treat this as shell propagation, not a publication failure."
   },
   "published_record": [
     {
@@ -380,7 +380,7 @@
     "full_finished_unpublished_eligible": 9,
     "full_finished_currently_queued": 9,
     "full_finished_retired_or_replaced": 4,
-    "status_verification_required": 1
+    "status_verification_required": 2
   },
   "pending_priority_requests": [
     {
@@ -760,6 +760,11 @@
       "title": "October 12 job-support homepage visibility",
       "reason": "Archive card now verified live October 13; homepage feature has not yet been independently rechecked.",
       "required_action": "Verify homepage feature before closing the remaining shell reconciliation."
+    },
+    {
+      "title": "October 13 veterans SNAP shell propagation",
+      "reason": "Direct article URL verified live; archive and homepage had not refreshed after the immediate deployment recheck.",
+      "required_action": "Recheck archive, homepage, Democracy & Government topic and RSS propagation; do not republish."
     }
   ],
   "story_briefs_2026_10_05": [
@@ -1072,7 +1077,8 @@
     "New school-age care package completed, twice reviewed and queued.",
     "October 12 job-support archive card now independently observed live; archive propagation blocker cleared. Homepage not independently rechecked.",
     "Two reserved priority titles remain published; 16 replacement revisions excluded.",
-    "Veterans SNAP editorial published and removed from both current unpublished ledgers; remaining queue renumbered to 9 items."
+    "Veterans SNAP editorial published and removed from both current unpublished ledgers; remaining queue renumbered to 9 items.",
+    "Direct veterans article verified live; archive/homepage shell propagation remained pending, raising status-verification count to 2."
   ],
   "story_briefs_2026_10_13": [
     {

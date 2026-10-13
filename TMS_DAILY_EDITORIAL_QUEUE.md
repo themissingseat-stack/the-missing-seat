@@ -4,12 +4,12 @@
 
 ## Permanent publication standards
 
-- Publish one genuinely new, approved editorial per daily run; a material follow-up can qualify when it adds new events, evidence, or a distinct accountability question.
+- Publish one genuinely new editorial per daily run once the full editorial is complete, the Regular Joe version has been completed, and two review passes have succeeded. No separate user approval is required before queueing. A material follow-up can qualify when it adds new events, evidence, or a distinct accountability question.
 - Every editorial must pass the **Regular Joe Test**: ordinary readers understand the issue on first reading. Use natural, developed paragraphs, restrained subheads, no stacked one-liners, no AI-style dramatic pacing, no redundant questions, and no unexplained jargon.
 - Use the editorial progression **Hook → Human → Story → Surprise → Receipt → Consequence → Today → Possibility → Action**, naturally rather than as mechanical headings.
 - Clearly distinguish verified facts, allegations, inferences, opinions, counterevidence and unresolved questions. Identify who is missing, who benefited, who paid, what can be done, and provide usable sources (Receipts) and realistic actions (Recipes).
 - Before each release: verify fresh facts and sources, compare against published coverage for duplication, publish the article, update archive and topic pages, RSS and homepage as appropriate, then check navigation and mobile layout.
-- User instruction to queue a finished editorial counts as approval. Research leads and unfinished briefs are **not** automatically publication-ready. Do not bypass an evidence blocker without notifying the user.
+- **Current automatic-queue rule:** Full editorial → complete Regular Joe version → Review 1 (facts, sources, legal posture, dates, numbers, attribution, counterevidence) → Review 2 (Regular Joe clarity, format, duplication, who benefited/who paid, realistic action, social/package completeness) → queue automatically. No separate approval request is required. Research leads and unfinished briefs are **not** publication-ready. Evidence, legal, duplication, or factual blockers still stop queueing or publication until resolved.
 
 ## Published — do not requeue
 
@@ -54,10 +54,11 @@ Also published outside this daily ledger: **If a Program Was Built to Reach Blac
 
 - **Veterans food insecurity / SNAP outreach** — `editorial-packages/TMS_VETERANS_FOOD_INSECURITY_SNAP_PUBLICATION_PACKAGE_2026-10-06.md`. Verify distinctness from published veterans VA-care editorial.
 - **Germany federal police complaints** — `editorial-packages/TMS_GERMANY_POLICE_COMPLAINTS_PUBLICATION_PACKAGE_2026-10-06.md`.
+- **Before You Cut Care, Did You Stop Paying More for the Same Care?** — `editorial-packages/TMS_BEFORE_YOU_CUT_CARE_SITE_NEUTRAL_MEDICARE_PUBLICATION_PACKAGE.md`. Legacy approval hold cleared under the current automatic-queue rule; the package records two completed review passes. Final pre-release source refresh, duplicate check and deployment work still apply.
 
-## Review required — do not publish without approval
+## Legacy approval holds
 
-- **Before You Cut Care, Did You Stop Paying More for the Same Care?** — `editorial-packages/TMS_BEFORE_YOU_CUT_CARE_SITE_NEUTRAL_MEDICARE_PUBLICATION_PACKAGE.md`. Review-ready, approval pending.
+- **None.** The former separate approval gate has been retired. Finished packages queue automatically after the Regular Joe version and both required review passes are complete. Genuine evidence or verification blockers remain blockers.
 
 ## Research leads — not in publication queue
 

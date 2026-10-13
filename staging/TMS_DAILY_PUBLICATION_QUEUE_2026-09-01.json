@@ -23,7 +23,7 @@
   },
   "deployment": {
     "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "GitHub main matched the served archive before the October 12 release. The new direct article URL is live; the served archive and homepage had not yet refreshed during the same post-release check."
+    "status": "GitHub main matched the served archive before the October 13 release. Veterans article and all normal publication surfaces were committed; live propagation verification follows."
   },
   "published_record": [
     {
@@ -164,29 +164,16 @@
       "published_verified": "2026-10-12",
       "source": "editorial-packages/TMS_JOB_SUPPORT_HANDOFF_2026-10-04.md; GitHub main publication commit 2682dcab623bf8259641625ef54eaebe1237a4d4",
       "notes": "Direct live article URL verified October 12, 2026. Archive/homepage cache visibility remained pending in the same check."
+    },
+    {
+      "title": "They Served the Country. The Food Benefit Still Missed Them.",
+      "slug": "they-served-the-country-the-food-benefit-still-missed-them.html",
+      "published_verified": "2026-10-13"
     }
   ],
   "queue": [
     {
       "position": 1,
-      "title": "They Served the Country. The Food Benefit Still Missed Them.",
-      "slug": "they-served-the-country-the-food-benefit-still-missed-them",
-      "status": "approved_queued_full_finished",
-      "approval": "Jansen standing two-review instruction",
-      "review_1": "2026-10-07 primary evidence, numbers, dates and claim posture",
-      "review_2": "2026-10-07 corrected copy, format, fairness, CTA and metadata",
-      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_VETERANS_FOOD_INSECURITY_SNAP_PUBLICATION_PACKAGE_2026-10-06.md",
-      "scheduled_date": null,
-      "publication_status": "unpublished",
-      "release_checks": [
-        "refresh primary sources",
-        "independent live title/slug and material-duplication verification",
-        "confirm deployment source",
-        "HTML/image and navigation integration"
-      ]
-    },
-    {
-      "position": 2,
       "title": "Germany Created a Seat for Police Complaints. Who Can Actually Use It?",
       "slug": "germany-created-a-seat-for-police-complaints-who-can-actually-use-it",
       "status": "approved_queued_full_finished",
@@ -204,7 +191,7 @@
       ]
     },
     {
-      "position": 3,
+      "position": 2,
       "title": "Before You Cut Care, Did You Stop Paying More for the Same Care?",
       "slug": "before-you-cut-care-stop-paying-more-for-same-care",
       "status": "approved_queued_full_finished",
@@ -222,7 +209,7 @@
       ]
     },
     {
-      "position": 4,
+      "position": 3,
       "title": "He Asked to Break His Fast. He Allegedly Lost His Job.",
       "slug": "he-asked-to-break-his-fast-he-allegedly-lost-his-job",
       "status": "approved_queued_full_finished",
@@ -243,7 +230,7 @@
       "notes": "Supersedes October 7 opening draft. Full decree not independently obtained; no additional terms or liability findings asserted. Final live uniqueness/current case check, HTML/image/navigation and deployment verification remain."
     },
     {
-      "position": 5,
+      "position": 4,
       "title": "Germany Has a Way to Keep the Power On. Can People Use It?",
       "slug": "germany-has-a-way-to-keep-the-power-on-can-people-use-it",
       "completion_status": "full_finished",
@@ -270,7 +257,7 @@
       "notes": "§41g directly read; §41f timed out and general safeguards checked via regulator. No inaccessible Destatis statistics used. HTML/image/navigation, final current-law/live uniqueness and deployment checks remain."
     },
     {
-      "position": 6,
+      "position": 5,
       "title": "The Disability Hiring Duty Stayed. The Audits Stopped.",
       "slug": "the-disability-hiring-duty-stayed-the-audits-stopped",
       "completion_status": "full_finished",
@@ -301,7 +288,7 @@
       "notes": "Reflects August 21, 2026 rule changes; former 7% goal is not described as current. 532 is audits with findings, not individuals or necessarily unique contractors. Final recommendation/rule status, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 7,
+      "position": 6,
       "title": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.",
       "slug": "the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power",
       "completion_status": "full_finished",
@@ -322,7 +309,7 @@
       "notes": "BLS earnings figures are descriptive medians, not equal-work proof. 2025 occupation figures exclude October; Census childcare result is a working paper. Final table refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 8,
+      "position": 7,
       "title": "The College Took the Money. The Outcome Data Is Late.",
       "slug": "the-college-took-the-money-the-outcome-data-is-late",
       "completion_status": "full_finished",
@@ -343,7 +330,7 @@
       "notes": "Reporting delinquency is not proof of poor outcomes, fraud or inaccurate submitted records. Refresh January 15 deadline/enforcement, verify uniqueness, and complete HTML/image/navigation/deployment checks."
     },
     {
-      "position": 9,
+      "position": 8,
       "title": "The Complaint Had a 100-Day Clock. The Housing Problem Did Not Wait.",
       "slug": "the-complaint-had-a-100-day-clock-the-housing-problem-did-not-wait",
       "completion_status": "full_finished",
@@ -368,7 +355,7 @@
       "notes": "70.2% late-investigation figure covers 2020–2022. HUD's June 2026 27% backlog-reduction claim lacks published baseline and remaining counts. Refresh backlog/OIG status and complete uniqueness, HTML/image/navigation/deployment checks."
     },
     {
-      "position": 10,
+      "position": 9,
       "title": "Germany Promised a Full School Day. Families Need the Hours to Match.",
       "slug": "germany-promised-a-full-school-day-families-need-the-hours-to-match",
       "completion_status": "full_finished",
@@ -390,8 +377,8 @@
     }
   ],
   "counts": {
-    "full_finished_unpublished_eligible": 10,
-    "full_finished_currently_queued": 10,
+    "full_finished_unpublished_eligible": 9,
+    "full_finished_currently_queued": 9,
     "full_finished_retired_or_replaced": 4,
     "status_verification_required": 1
   },
@@ -566,24 +553,6 @@
   "unpublished_ledger": [
     {
       "position": 1,
-      "title": "They Served the Country. The Food Benefit Still Missed Them.",
-      "slug": "they-served-the-country-the-food-benefit-still-missed-them",
-      "status": "approved_queued_full_finished",
-      "approval": "Jansen standing two-review instruction",
-      "review_1": "2026-10-07 primary evidence, numbers, dates and claim posture",
-      "review_2": "2026-10-07 corrected copy, format, fairness, CTA and metadata",
-      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_VETERANS_FOOD_INSECURITY_SNAP_PUBLICATION_PACKAGE_2026-10-06.md",
-      "scheduled_date": null,
-      "publication_status": "unpublished",
-      "release_checks": [
-        "refresh primary sources",
-        "independent live title/slug and material-duplication verification",
-        "confirm deployment source",
-        "HTML/image and navigation integration"
-      ]
-    },
-    {
-      "position": 2,
       "title": "Germany Created a Seat for Police Complaints. Who Can Actually Use It?",
       "slug": "germany-created-a-seat-for-police-complaints-who-can-actually-use-it",
       "status": "approved_queued_full_finished",
@@ -601,7 +570,7 @@
       ]
     },
     {
-      "position": 3,
+      "position": 2,
       "title": "Before You Cut Care, Did You Stop Paying More for the Same Care?",
       "slug": "before-you-cut-care-stop-paying-more-for-same-care",
       "status": "approved_queued_full_finished",
@@ -619,7 +588,7 @@
       ]
     },
     {
-      "position": 4,
+      "position": 3,
       "title": "He Asked to Break His Fast. He Allegedly Lost His Job.",
       "slug": "he-asked-to-break-his-fast-he-allegedly-lost-his-job",
       "status": "approved_queued_full_finished",
@@ -640,7 +609,7 @@
       "notes": "Supersedes October 7 opening draft. Full decree not independently obtained; no additional terms or liability findings asserted. Final live uniqueness/current case check, HTML/image/navigation and deployment verification remain."
     },
     {
-      "position": 5,
+      "position": 4,
       "title": "Germany Has a Way to Keep the Power On. Can People Use It?",
       "slug": "germany-has-a-way-to-keep-the-power-on-can-people-use-it",
       "completion_status": "full_finished",
@@ -667,7 +636,7 @@
       "notes": "§41g directly read; §41f timed out and general safeguards checked via regulator. No inaccessible Destatis statistics used. HTML/image/navigation, final current-law/live uniqueness and deployment checks remain."
     },
     {
-      "position": 6,
+      "position": 5,
       "title": "The Disability Hiring Duty Stayed. The Audits Stopped.",
       "slug": "the-disability-hiring-duty-stayed-the-audits-stopped",
       "completion_status": "full_finished",
@@ -698,7 +667,7 @@
       "notes": "Reflects August 21, 2026 rule changes; former 7% goal is not described as current. 532 is audits with findings, not individuals or necessarily unique contractors. Final recommendation/rule status, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 7,
+      "position": 6,
       "title": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.",
       "slug": "the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power",
       "completion_status": "full_finished",
@@ -719,7 +688,7 @@
       "notes": "BLS earnings figures are descriptive medians, not equal-work proof. 2025 occupation figures exclude October; Census childcare result is a working paper. Final table refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 8,
+      "position": 7,
       "title": "The College Took the Money. The Outcome Data Is Late.",
       "slug": "the-college-took-the-money-the-outcome-data-is-late",
       "completion_status": "full_finished",
@@ -740,7 +709,7 @@
       "notes": "Reporting delinquency is not proof of poor outcomes, fraud or inaccurate submitted records. Refresh January 15 deadline/enforcement, verify uniqueness, and complete HTML/image/navigation/deployment checks."
     },
     {
-      "position": 9,
+      "position": 8,
       "title": "The Complaint Had a 100-Day Clock. The Housing Problem Did Not Wait.",
       "slug": "the-complaint-had-a-100-day-clock-the-housing-problem-did-not-wait",
       "completion_status": "full_finished",
@@ -765,7 +734,7 @@
       "notes": "70.2% late-investigation figure covers 2020–2022. HUD's June 2026 27% backlog-reduction claim lacks published baseline and remaining counts. Refresh backlog/OIG status and complete uniqueness, HTML/image/navigation/deployment checks."
     },
     {
-      "position": 10,
+      "position": 9,
       "title": "Germany Promised a Full School Day. Families Need the Hours to Match.",
       "slug": "germany-promised-a-full-school-day-families-need-the-hours-to-match",
       "completion_status": "full_finished",
@@ -1102,6 +1071,27 @@
   "reconciliation_notes_2026_10_13": [
     "New school-age care package completed, twice reviewed and queued.",
     "October 12 job-support archive card now independently observed live; archive propagation blocker cleared. Homepage not independently rechecked.",
-    "Two reserved priority titles remain published; 16 replacement revisions excluded."
+    "Two reserved priority titles remain published; 16 replacement revisions excluded.",
+    "Veterans SNAP editorial published and removed from both current unpublished ledgers; remaining queue renumbered to 9 items."
+  ],
+  "story_briefs_2026_10_13": [
+    {
+      "title": "Temporary Protection Is Carrying 4.43 Million Lives. What Comes After Temporary?",
+      "seat_affected": "People displaced from Ukraine, especially women and children, and the communities hosting them",
+      "source": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261012-1",
+      "status": "Eurostat reported on October 12 that 4.43 million non-EU citizens fleeing Ukraine held temporary protection on August 31; 43.6% were adult women and 29.1% minors. Status is extended to March 4, 2027. Different deregistration practices limit month-to-month comparisons."
+    },
+    {
+      "title": "Disability Made Poverty Risk Worse in Every EU Country",
+      "seat_affected": "People with disabilities facing higher poverty, exclusion and housing costs",
+      "source": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260917-1",
+      "status": "Eurostat's 2026 living-conditions edition reported that people with disabilities faced a higher risk of poverty or social exclusion in every EU country. The claim is descriptive; it does not by itself identify causation or a single remedy."
+    },
+    {
+      "title": "The Prison Door Opened. The Address Was Still Missing.",
+      "seat_affected": "People leaving custody without stable housing and the communities receiving them",
+      "source": "https://www.gov.uk/government/statistics/offender-accommodation-outcomes-update-to-march-2026",
+      "status": "England and Wales added probation-unit data on October 1 for releases from April 2025 through March 2026, distinguishing housed, no fixed abode and unknown outcomes. A time-series break means the new figures should not be compared mechanically with pre-May 2024 data."
+    }
   ]
 }

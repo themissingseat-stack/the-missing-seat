@@ -363,11 +363,36 @@
       "review_1": "2026-10-13 current statute and scope audit",
       "review_2": "2026-10-13 copy, fairness, action, metadata and socials",
       "notes": "Current §24 directly verified. No national implementation outcome claimed. Final law/live uniqueness, HTML/image/navigation/deployment remain."
+    },
+    {
+      "position": 9,
+      "title": "The Workers Were Teenagers. The Complaint System Was Built for Adults.",
+      "slug": "the-workers-were-teenagers-the-complaint-system-was-built-for-adults",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing instruction: full TMS format plus two completed reviews queues automatically",
+      "scheduled_date": null,
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_THE_WORKERS_WERE_TEENAGERS_PUBLICATION_PACKAGE_2026-10-14.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.",
+          "distinction": "Teenage restaurant-worker safeguarding and complaint-channel design after a harassment settlement, not sex discrimination in hiring."
+        },
+        {
+          "title": "The HR Manager Said No to Discrimination. Then She Allegedly Lost Her Job.",
+          "distinction": "Young workers reporting harassment against workplace power, not an HR professional's alleged retaliation for opposing discriminatory hiring."
+        }
+      ],
+      "review_1": "2026-10-14 EEOC release, 2022 complaint announcement, legal posture, numbers, dates and filing guidance audit",
+      "review_2": "2026-10-14 Regular Joe clarity, TMS format, fairness, counterargument, action, metadata and social audit",
+      "notes": "Settlement is not a court judgment or admission. The EEOC's at-least-100 statement is attributed to the agency. Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     }
   ],
   "counts": {
-    "full_finished_unpublished_eligible": 8,
-    "full_finished_currently_queued": 8,
+    "full_finished_unpublished_eligible": 9,
+    "full_finished_currently_queued": 9,
     "full_finished_retired_or_replaced": 4,
     "status_verification_required": 2
   },
@@ -732,6 +757,32 @@
       "review_2": "2026-10-13 copy, fairness, action, metadata and socials",
       "notes": "Current §24 directly verified. No national implementation outcome claimed. Final law/live uniqueness, HTML/image/navigation/deployment remain.",
       "queue_position": 8
+    },
+    {
+      "position": 9,
+      "title": "The Workers Were Teenagers. The Complaint System Was Built for Adults.",
+      "slug": "the-workers-were-teenagers-the-complaint-system-was-built-for-adults",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing instruction: full TMS format plus two completed reviews queues automatically",
+      "scheduled_date": null,
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_THE_WORKERS_WERE_TEENAGERS_PUBLICATION_PACKAGE_2026-10-14.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.",
+          "distinction": "Teenage restaurant-worker safeguarding and complaint-channel design after a harassment settlement, not sex discrimination in hiring."
+        },
+        {
+          "title": "The HR Manager Said No to Discrimination. Then She Allegedly Lost Her Job.",
+          "distinction": "Young workers reporting harassment against workplace power, not an HR professional's alleged retaliation for opposing discriminatory hiring."
+        }
+      ],
+      "review_1": "2026-10-14 EEOC release, 2022 complaint announcement, legal posture, numbers, dates and filing guidance audit",
+      "review_2": "2026-10-14 Regular Joe clarity, TMS format, fairness, counterargument, action, metadata and social audit",
+      "notes": "Settlement is not a court judgment or admission. The EEOC's at-least-100 statement is attributed to the agency. Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain.",
+      "queue_position": 9
     }
   ],
   "status_verification_ledger": [
@@ -1119,6 +1170,32 @@
     "next_queue_item": "Before You Cut Care, Did You Stop Paying More for the Same Care?",
     "germany_weekly_delivery": "1 of 2 completed for October 12–18; the completed school-day package remains this week's first delivery. The next Germany package remains targeted for Friday.",
     "verification": "Direct Germany article verified live; its four shell surfaces remain pending. Veterans shell propagation cleared. Job-support homepage visibility remains open.",
-    "canonical_ledger": "Canonical Markdown queue was found stale and is being rebuilt from this staged inventory and verified publication records."
+    "canonical_ledger": "Canonical Markdown queue was found stale and is being rebuilt from this staged inventory and verified publication records.",
+    "new_completion": "The Workers Were Teenagers. The Complaint System Was Built for Adults. completed, passed two reviews, approved and added at queue position 9."
+  },
+  "daily_editorial_completion_2026_10_14": {
+    "position": 9,
+    "title": "The Workers Were Teenagers. The Complaint System Was Built for Adults.",
+    "slug": "the-workers-were-teenagers-the-complaint-system-was-built-for-adults",
+    "completion_status": "full_finished",
+    "status": "approved_queued_full_finished",
+    "publication_status": "unpublished",
+    "approval": "Jansen standing instruction: full TMS format plus two completed reviews queues automatically",
+    "scheduled_date": null,
+    "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_THE_WORKERS_WERE_TEENAGERS_PUBLICATION_PACKAGE_2026-10-14.md",
+    "duplication_status": "materially_distinct",
+    "related_live_comparators": [
+      {
+        "title": "She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.",
+        "distinction": "Teenage restaurant-worker safeguarding and complaint-channel design after a harassment settlement, not sex discrimination in hiring."
+      },
+      {
+        "title": "The HR Manager Said No to Discrimination. Then She Allegedly Lost Her Job.",
+        "distinction": "Young workers reporting harassment against workplace power, not an HR professional's alleged retaliation for opposing discriminatory hiring."
+      }
+    ],
+    "review_1": "2026-10-14 EEOC release, 2022 complaint announcement, legal posture, numbers, dates and filing guidance audit",
+    "review_2": "2026-10-14 Regular Joe clarity, TMS format, fairness, counterargument, action, metadata and social audit",
+    "notes": "Settlement is not a court judgment or admission. The EEOC's at-least-100 statement is attributed to the agency. Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
   }
 }

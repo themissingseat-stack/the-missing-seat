@@ -72,7 +72,7 @@ The table records this workflow’s reconciled publication history, not every hi
 ## Status verification ledger
 
 - **October 12 job-support homepage visibility:** Archive card now verified live October 13; homepage feature has not yet been independently rechecked. Verify homepage feature before closing the remaining shell reconciliation.
-- **October 14 Germany police-complaints live propagation:** GitHub main contains the article plus homepage, archive, topic and RSS changes, but the immediate public direct-URL check was blocked/unavailable and the served homepage still showed the prior feature. Recheck the direct article, archive, homepage, Democracy & Government topic page and RSS. Do not republish.
+- **October 14 Germany police-complaints shell propagation:** Direct public article URL returned HTTP 200 and the title matched. Homepage, archive, Democracy & Government topic page and RSS still served prior content during the immediate check. Recheck those four surfaces; do not republish.n contains the article plus homepage, archive, topic and RSS changes, but the immediate public direct-URL check was blocked/unavailable and the served homepage still showed the prior feature. Recheck the direct article, archive, homepage, Democracy & Government topic page and RSS. Do not republish.
 
 ## Germany weekly package tracking
 
@@ -85,7 +85,7 @@ The table records this workflow’s reconciled publication history, not every hi
 
 ## Today’s reconciliation
 
-- Published **Germany Created a Seat for Police Complaints. Who Can Actually Use It?** to GitHub main and removed it from the unpublished ledger and active queue.
+- Published **Germany Created a Seat for Police Complaints. Who Can Actually Use It?** to GitHub main, verified its direct public URL, and removed it from the unpublished ledger and active queue.
 - Cleared the October 13 veterans shell-propagation discrepancy after the archive and homepage were observed live.
 - Kept the October 12 job-support homepage discrepancy open.
 - Added three verified research briefs to the staged ledger. They are not finished editorials and are not queued.

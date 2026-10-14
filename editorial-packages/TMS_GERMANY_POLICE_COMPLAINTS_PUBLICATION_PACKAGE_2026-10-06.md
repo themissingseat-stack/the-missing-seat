@@ -2,7 +2,7 @@
 
 ## Publication Metadata
 
-- **Status:** PUBLISHED / LIVE VERIFICATION PENDING
+- **Status:** PUBLISHED / DIRECT URL VERIFIED; SHELL PROPAGATION PENDING
 - **Germany weekly slot:** Tuesday, week of October 5-11, 2026, package 1 of 2
 - **Completion date:** October 6, 2026
 - **Working slug:** `germany-created-a-seat-for-police-complaints-who-can-actually-use-it`
@@ -231,3 +231,10 @@ Repository filenames, archive and current published ledger show no matching arti
 ## Publication Record: October 14, 2026
 
 Published at https://themissingseat.org/germany-created-a-seat-for-police-complaints-who-can-actually-use-it.html after refreshing the Bundestag activity report, current complaint instructions and live uniqueness. Article, archive, homepage, Democracy & Government topic and RSS were committed. Final live shell propagation must be verified; do not republish.
+
+
+## Direct public verification (2026-10-14)
+
+- The canonical article URL returned HTTP 200 and the page title matched.
+- Homepage, editorial archive, Democracy & Government topic page and RSS had not yet refreshed during the immediate check.
+- Do not republish. Recheck only the four shell surfaces after propagation.

@@ -23,7 +23,7 @@
   },
   "deployment": {
     "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "Germany police-complaints article and all normal site surfaces committed October 14. Immediate public propagation verification remains pending. Veterans archive/homepage propagation is now verified; the older job-support homepage and today's Germany release remain in status verification."
+    "status": "Germany police-complaints article is verified live at its direct URL. Homepage, archive, Democracy & Government topic page and RSS remain in propagation verification. Veterans shell propagation is verified; the older job-support homepage item remains open."
   },
   "published_record": [
     {
@@ -175,7 +175,7 @@
       "slug": "germany-created-a-seat-for-police-complaints-who-can-actually-use-it.html",
       "published_verified": "2026-10-14",
       "source": "editorial-packages/TMS_GERMANY_POLICE_COMPLAINTS_PUBLICATION_PACKAGE_2026-10-06.md; GitHub main article commit 5142770b9dd20ef58fac4fa3c4e094d19a075103",
-      "notes": "Article and normal site surfaces committed. Direct public URL was not yet accessible during the immediate post-deployment check, so live propagation remains in status verification; do not republish."
+      "notes": "Direct public article URL returned HTTP 200 and title matched on October 14. Homepage, archive, Democracy & Government topic page and RSS had not yet refreshed; shell propagation remains in status verification. Do not republish."
     }
   ],
   "queue": [
@@ -742,8 +742,8 @@
     },
     {
       "title": "October 14 Germany police-complaints live propagation",
-      "reason": "GitHub main contains the article plus homepage, archive, topic and RSS changes, but the immediate public direct-URL check was blocked/unavailable and the served homepage still showed the prior feature.",
-      "required_action": "Recheck the direct article, archive, homepage, Democracy & Government topic page and RSS. Do not republish."
+      "reason": "Direct public article URL returned HTTP 200 and the title matched. Homepage, archive, Democracy & Government topic page and RSS were still serving the prior content during the immediate check.",
+      "required_action": "Recheck the four shell surfaces after propagation; do not republish."
     }
   ],
   "story_briefs_2026_10_05": [
@@ -1118,7 +1118,7 @@
     },
     "next_queue_item": "Before You Cut Care, Did You Stop Paying More for the Same Care?",
     "germany_weekly_delivery": "1 of 2 completed for October 12–18; the completed school-day package remains this week's first delivery. The next Germany package remains targeted for Friday.",
-    "verification": "Veterans shell propagation cleared. Job-support homepage visibility and today's Germany live propagation remain open.",
+    "verification": "Direct Germany article verified live; its four shell surfaces remain pending. Veterans shell propagation cleared. Job-support homepage visibility remains open.",
     "canonical_ledger": "Canonical Markdown queue was found stale and is being rebuilt from this staged inventory and verified publication records."
   }
 }

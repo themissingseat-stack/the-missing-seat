@@ -2,7 +2,7 @@
 
 ## Publication Metadata
 
-- **Status:** APPROVED / QUEUED / FULL, FINISHED, UNPUBLISHED
+- **Status:** PUBLISHED / LIVE VERIFICATION PENDING
 - **Germany weekly slot:** Tuesday, week of October 5-11, 2026, package 1 of 2
 - **Completion date:** October 6, 2026
 - **Working slug:** `germany-created-a-seat-for-police-complaints-who-can-actually-use-it`
@@ -215,10 +215,10 @@ Ally = Action. 🪑
 - [x] Image concept and alt text
 - [x] No long dashes
 - [x] Required closing
-- [ ] Jansen approval
-- [ ] Final live-site title, slug and archive check
-- [ ] Create article HTML and final image treatment
-- [ ] Recheck the commissioner's report status and complaint page immediately before publication
+- [x] Approved under standing two-review instruction
+- [x] Final live-site title, slug and archive check
+- [x] Create article HTML and website integration
+- [x] Recheck the commissioner's report status and complaint page immediately before publication
 
 
 ## Two-review release record: October 7, 2026
@@ -226,3 +226,8 @@ Ally = Action. 🪑
 Pass 1: checked the controlling primary evidence, numbers, dates and claim attribution. Pass 2: checked readable paragraphs, plain-language explanations, counterargument, inference limits, who is missing, practical action, metadata, source list and required ending after corrections. Approved under Jansen’s standing instruction.
 
 Repository filenames, archive and current published ledger show no matching article. Independent live-site access was unavailable in this review; confirm the live archive and deployment source immediately before release. HTML, image selection and navigation integration remain publication work, not missing editorial content.
+
+
+## Publication Record: October 14, 2026
+
+Published at https://themissingseat.org/germany-created-a-seat-for-police-complaints-who-can-actually-use-it.html after refreshing the Bundestag activity report, current complaint instructions and live uniqueness. Article, archive, homepage, Democracy & Government topic and RSS were committed. Final live shell propagation must be verified; do not republish.

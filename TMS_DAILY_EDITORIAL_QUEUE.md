@@ -14,8 +14,8 @@
 
 | Ledger category | Count |
 |---|---:|
-| Full finished unpublished, eligible | 8 |
-| Full finished currently queued | 8 |
+| Full finished unpublished, eligible | 9 |
+| Full finished currently queued | 9 |
 | Retired/replaced finished editorials | 4 |
 | Requiring live/repository status verification | 2 |
 

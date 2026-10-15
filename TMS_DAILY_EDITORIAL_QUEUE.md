@@ -17,7 +17,7 @@
 | Full finished unpublished, eligible | 8 |
 | Full finished currently queued | 8 |
 | Retired/replaced finished editorials | 4 |
-| Requiring live/repository status verification | 2 |
+| Requiring live/repository status verification | 1 |
 
 ## Approved finished queue
 
@@ -36,7 +36,7 @@
 
 | Date verified | Title | Slug / source note |
 |---|---|---|
-| 2026-10-15 | Before You Cut Care, Did You Stop Paying More for the Same Care? | `before-you-cut-care-stop-paying-more-for-same-care.html` — public propagation pending |
+| 2026-10-15 | Before You Cut Care, Did You Stop Paying More for the Same Care? | `before-you-cut-care-stop-paying-more-for-same-care.html` |
 | 2026-09-05 | How Far Have We Come? Show Me the Receipt. | `how-far-have-we-come-show-me-the-receipt.html` |
 | 2026-09-05 | The Navy Spent $3.4 Billion Keeping Submarines and Crews Waiting | `the-navy-spent-3-4-billion-keeping-submarines-and-crews-waiting.html` |
 | 2026-09-05 | The Apartment Was Available. Access Still Wasn't. | `the-apartment-was-available-access-still-wasnt.html` |
@@ -73,7 +73,6 @@ The table records this workflow’s reconciled publication history, not every hi
 ## Status verification ledger
 
 - **October 12 job-support homepage visibility:** Archive card now verified live October 13; homepage feature has not yet been independently rechecked. Verify homepage feature before closing the remaining shell reconciliation.
-- **October 15 site-neutral Medicare live propagation:** GitHub main contains the article plus homepage, archive and RSS updates. The direct public article returned HTTP 404 and the public shells still served their previous versions during the immediate check. Recheck the direct article, homepage, archive and RSS after propagation; do not republish.
 
 ## Germany weekly package tracking
 
@@ -87,7 +86,7 @@ The table records this workflow’s reconciled publication history, not every hi
 ## Today’s reconciliation
 
 - Published **Before You Cut Care, Did You Stop Paying More for the Same Care?** to GitHub main and removed it from the unpublished ledger and active queue.
-- The direct public URL and updated homepage, archive and RSS were still awaiting propagation during the immediate check. Do not republish.
+- Verified the October 15 article, homepage, archive and RSS live with HTTP 200 responses and visible title matches.
 - Verified the Germany police-complaints article across the direct URL, homepage, archive, Democracy & Government topic page and RSS, closing that discrepancy.
 - Kept the October 12 job-support homepage discrepancy open.
 - Added three verified research briefs to the staged ledger. They are not finished editorials and are not queued.

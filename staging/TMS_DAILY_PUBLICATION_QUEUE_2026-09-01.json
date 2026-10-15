@@ -23,17 +23,17 @@
   },
   "deployment": {
     "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "Germany police-complaints article and all required shell surfaces are verified live. The older job-support homepage item remains open. The October 15 site-neutral Medicare article and shell updates are committed to GitHub main and awaiting public propagation verification."
+    "status": "October 15 site-neutral Medicare article, homepage, archive and RSS are verified live. Germany police-complaints propagation is also resolved. Only the older October 12 job-support homepage visibility item remains open."
   },
   "published_record": [
     {
       "title": "Before You Cut Care, Did You Stop Paying More for the Same Care?",
       "slug": "before-you-cut-care-stop-paying-more-for-same-care.html",
       "published_verified": "2026-10-15",
-      "publication_status": "published_to_github_main_public_propagation_pending",
+      "publication_status": "published_live_verified",
       "source": "editorial-packages/TMS_BEFORE_YOU_CUT_CARE_SITE_NEUTRAL_MEDICARE_PUBLICATION_PACKAGE.md",
       "article_commit": "7404af02eb86a7e3d35791ec44363f7c38ea2064",
-      "notes": "Direct URL returned HTTP 404 and homepage, archive and RSS still served prior content during the immediate check. Do not republish; recheck propagation."
+      "notes": "Direct article, homepage, archive and RSS returned HTTP 200 and displayed the title on October 15, 2026."
     },
     {
       "title": "How Far Have We Come? Show Me the Receipt.",
@@ -385,7 +385,7 @@
     "full_finished_unpublished_eligible": 8,
     "full_finished_currently_queued": 8,
     "full_finished_retired_or_replaced": 4,
-    "status_verification_required": 2
+    "status_verification_required": 1
   },
   "pending_priority_requests": [
     {
@@ -762,11 +762,6 @@
       "title": "October 12 job-support homepage visibility",
       "reason": "Archive card now verified live October 13; homepage feature has not yet been independently rechecked.",
       "required_action": "Verify homepage feature before closing the remaining shell reconciliation."
-    },
-    {
-      "title": "October 15 site-neutral Medicare live propagation",
-      "reason": "GitHub main contains the article plus homepage, archive and RSS updates. The direct public article returned HTTP 404 and the public shells still served their previous versions during the immediate check.",
-      "required_action": "Recheck the direct article, homepage, archive and RSS after propagation; do not republish."
     }
   ],
   "story_briefs_2026_10_05": [
@@ -1201,18 +1196,19 @@
   ],
   "reconciliation_notes_2026_10_15": {
     "publication": "Before You Cut Care, Did You Stop Paying More for the Same Care?",
-    "publication_state": "Published to GitHub main; public propagation pending",
+    "publication_state": "Published and verified live on the direct article, homepage, archive and RSS",
     "next_queue_item": "He Asked to Break His Fast. He Allegedly Lost His Job.",
     "title_changes": [
       "Removed the published Medicare editorial from the unpublished ledger and queue.",
       "Closed the Germany police-complaints shell-propagation discrepancy.",
-      "Added the October 15 Medicare propagation check."
+      "Added the October 15 Medicare propagation check.",
+      "Closed the October 15 Medicare propagation check after all required public surfaces returned HTTP 200 and displayed the title."
     ],
     "counts": {
       "full_finished_unpublished_eligible": 8,
       "full_finished_currently_queued": 8,
       "full_finished_retired_or_replaced": 4,
-      "status_verification_required": 2
+      "status_verification_required": 1
     },
     "germany_weekly_status": "1 of 2 packages complete for 2026-10-12/2026-10-18; Friday package remains due."
   }

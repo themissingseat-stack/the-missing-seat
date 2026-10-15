@@ -2,7 +2,7 @@
 
 ## Before You Cut Care, Did You Stop Paying More for the Same Care?
 
-**Status:** APPROVED / QUEUED / FULL, FINISHED  
+**Status:** PUBLISHED TO GITHUB MAIN / PUBLIC PROPAGATION PENDING  
 **Seat Affected:** Health • Money • Public Accountability  
 **Seat Status:** A known savings route remains only partially used  
 **Location:** United States  
@@ -334,3 +334,16 @@ Pass 1: checked the controlling primary evidence, numbers, dates and claim attri
 Repository filenames, archive and current published ledger show no matching article. Independent live-site access was unavailable in this review; confirm the live archive and deployment source immediately before release. HTML, image selection and navigation integration remain publication work, not missing editorial content.
 
 - MedPAC’s selected-service payment-alignment recommendation: https://www.medpac.gov/recommendation/ambulatory-surgical-center-services/
+
+
+---
+
+## Publication record: October 15, 2026
+
+- **Article:** `before-you-cut-care-stop-paying-more-for-same-care.html`
+- **Article commit:** `7404af02eb86a7e3d35791ec44363f7c38ea2064`
+- **Archive commit:** `a32ff81312666c4d49025d36e778f8055f609327`
+- **Homepage commit:** `303c6a239966021531952920dda49d0484435720`
+- **RSS commit:** `36ce6b6c63acebc5e5efcc56a85c41b156596152`
+- **Immediate verification:** GitHub `main` contains the article and shell updates. The direct public URL returned HTTP 404 and the homepage, archive and RSS were still serving the prior version during the immediate propagation check.
+- **Instruction:** Do not republish. Recheck the direct article, homepage, archive and RSS after deployment propagation.

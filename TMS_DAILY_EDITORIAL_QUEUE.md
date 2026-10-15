@@ -14,8 +14,8 @@
 
 | Ledger category | Count |
 |---|---:|
-| Full finished unpublished, eligible | 8 |
-| Full finished currently queued | 8 |
+| Full finished unpublished, eligible | 9 |
+| Full finished currently queued | 9 |
 | Retired/replaced finished editorials | 4 |
 | Requiring live/repository status verification | 1 |
 
@@ -31,6 +31,8 @@
 | 6 | The Complaint Had a 100-Day Clock. The Housing Problem Did Not Wait. | `the-complaint-had-a-100-day-clock-the-housing-problem-did-not-wait` | approved_queued_full_finished | [object Object],[object Object] | https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_FAIR_HOUSING_100_DAY_CLOCK_PUBLICATION_PACKAGE_2026-10-12.md 70.2% late-investigation figure covers 2020–2022. HUD's June 2026 27% backlog-reduction claim lacks published baseline and remaining counts. Refresh backlog/OIG status and complete uniqueness, HTML/image/navigation/deployment checks. |
 | 7 | Germany Promised a Full School Day. Families Need the Hours to Match. | `germany-promised-a-full-school-day-families-need-the-hours-to-match` | approved_queued_full_finished | [object Object] | editorial-packages/TMS_GERMANY_FULL_SCHOOL_DAY_PUBLICATION_PACKAGE_2026-10-13.md Current §24 directly verified. No national implementation outcome claimed. Final law/live uniqueness, HTML/image/navigation/deployment remain. |
 | 8 | The Workers Were Teenagers. The Complaint System Was Built for Adults. | `the-workers-were-teenagers-the-complaint-system-was-built-for-adults` | approved_queued_full_finished | [object Object],[object Object] | https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_THE_WORKERS_WERE_TEENAGERS_PUBLICATION_PACKAGE_2026-10-14.md Settlement is not a court judgment or admission. The EEOC's at-least-100 statement is attributed to the agency. Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain. |
+
+| 9 | The Military Wants AI Faster. Who Owns the Safety Check? | `the-military-wants-ai-faster-who-owns-the-safety-check` | approved_queued_full_finished | When AI Accuses You, Who Checks the Machine?: Military AI governance, staffing and congressional oversight rather than human review of an individual AI accusation. | https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_MILITARY_AI_SAFETY_CHECK_PUBLICATION_PACKAGE_2026-10-15.md. GAO survey covered 10 selected components and 10 selected use cases. Three-of-ten staffing figure was current as of February 2026. Refresh staffing, recommendation status and live uniqueness before publication. refresh GAO recommendation and staffing status; independent live title/slug check; confirm deployment source; HTML/image and navigation integration |
 
 ## Published record — do not requeue
 
@@ -90,4 +92,5 @@ The table records this workflow’s reconciled publication history, not every hi
 - Verified the Germany police-complaints article across the direct URL, homepage, archive, Democracy & Government topic page and RSS, closing that discrepancy.
 - Kept the October 12 job-support homepage discrepancy open.
 - Added three verified research briefs to the staged ledger. They are not finished editorials and are not queued.
-- Next approved queue item: **He Asked to Break His Fast. He Allegedly Lost His Job.**.
+- Added **The Military Wants AI Faster. Who Owns the Safety Check?** as a new twice-reviewed, approved reserve editorial at queue position 9.
+- Next approved queue item remains **He Asked to Break His Fast. He Allegedly Lost His Job.**.

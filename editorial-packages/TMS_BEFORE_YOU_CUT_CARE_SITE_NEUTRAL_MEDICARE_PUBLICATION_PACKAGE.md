@@ -2,7 +2,7 @@
 
 ## Before You Cut Care, Did You Stop Paying More for the Same Care?
 
-**Status:** PUBLISHED TO GITHUB MAIN / PUBLIC PROPAGATION PENDING  
+**Status:** PUBLISHED / LIVE VERIFIED  
 **Seat Affected:** Health • Money • Public Accountability  
 **Seat Status:** A known savings route remains only partially used  
 **Location:** United States  
@@ -345,5 +345,4 @@ Repository filenames, archive and current published ledger show no matching arti
 - **Archive commit:** `a32ff81312666c4d49025d36e778f8055f609327`
 - **Homepage commit:** `303c6a239966021531952920dda49d0484435720`
 - **RSS commit:** `36ce6b6c63acebc5e5efcc56a85c41b156596152`
-- **Immediate verification:** GitHub `main` contains the article and shell updates. The direct public URL returned HTTP 404 and the homepage, archive and RSS were still serving the prior version during the immediate propagation check.
-- **Instruction:** Do not republish. Recheck the direct article, homepage, archive and RSS after deployment propagation.
+- **Live verification:** On October 15, 2026, the direct article, homepage, archive and RSS each returned HTTP 200 and displayed the title. Publication is complete.

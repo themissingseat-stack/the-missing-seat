@@ -1,4 +1,4 @@
-# TMS Daily Editorial Queue — Reconciled 2026-10-15
+# TMS Daily Editorial Queue — Reconciled 2026-10-16
 
 **Source of truth:** verified live pages and published HTML/commits take precedence over stale queue labels. The staged JSON on branch `tms-daily-queue-2026-09-01` is the machine-readable companion to this ledger.
 
@@ -14,8 +14,8 @@
 
 | Ledger category | Count |
 |---|---:|
-| Full finished unpublished, eligible | 9 |
-| Full finished currently queued | 9 |
+| Full finished unpublished, eligible | 10 |
+| Full finished currently queued | 10 |
 | Retired/replaced finished editorials | 4 |
 | Requiring live/repository status verification | 1 |
 
@@ -33,6 +33,8 @@
 | 8 | The Workers Were Teenagers. The Complaint System Was Built for Adults. | `the-workers-were-teenagers-the-complaint-system-was-built-for-adults` | approved_queued_full_finished | [object Object],[object Object] | https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_THE_WORKERS_WERE_TEENAGERS_PUBLICATION_PACKAGE_2026-10-14.md Settlement is not a court judgment or admission. The EEOC's at-least-100 statement is attributed to the agency. Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain. |
 
 | 9 | The Military Wants AI Faster. Who Owns the Safety Check? | `the-military-wants-ai-faster-who-owns-the-safety-check` | approved_queued_full_finished | When AI Accuses You, Who Checks the Machine?: Military AI governance, staffing and congressional oversight rather than human review of an individual AI accusation. | https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_MILITARY_AI_SAFETY_CHECK_PUBLICATION_PACKAGE_2026-10-15.md. GAO survey covered 10 selected components and 10 selected use cases. Three-of-ten staffing figure was current as of February 2026. Refresh staffing, recommendation status and live uniqueness before publication. refresh GAO recommendation and staffing status; independent live title/slug check; confirm deployment source; HTML/image and navigation integration |
+
+| 10 | Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours. | `germany-raised-the-minimum-wage-the-paycheck-still-needs-the-hours` | approved_queued_full_finished | Germany Has a Way to Keep the Power On. Can People Use It?: Wages, recorded working time and labor enforcement rather than household energy debt and electricity disconnection. | https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GERMANY_MINIMUM_WAGE_HOURS_PUBLICATION_PACKAGE_2026-10-16.md. Destatis figures are upper-limit estimates based on April 2025 data, not proof of individual raises or violations. Refresh rate, enforcement guidance and estimates before publication. refresh BMAS rate and enforcement guidance; independent live title/slug check; confirm deployment source; HTML/image and navigation integration |
 
 ## Published record — do not requeue
 
@@ -80,10 +82,10 @@ The table records this workflow’s reconciled publication history, not every hi
 
 - Week: 2026-10-12/2026-10-18
 - Target: 2
-- Completed: 1
-- Remaining: 1
-- Delivered: Germany Promised a Full School Day. Families Need the Hours to Match. (2026-10-13)
-- Note: Prior week October 5–11 completed 2 of 2. New weekly cycle opened; first package targeted Tuesday.
+- Completed: 2
+- Remaining: 0
+- Delivered: Germany Promised a Full School Day. Families Need the Hours to Match. (2026-10-13); Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours. (2026-10-16)
+- Note: Weekly target completed with distinct education/family-care and worker/economic-fairness packages.
 
 ## Today’s reconciliation
 
@@ -94,3 +96,10 @@ The table records this workflow’s reconciled publication history, not every hi
 - Added three verified research briefs to the staged ledger. They are not finished editorials and are not queued.
 - Added **The Military Wants AI Faster. Who Owns the Safety Check?** as a new twice-reviewed, approved reserve editorial at queue position 9.
 - Next approved queue item remains **He Asked to Break His Fast. He Allegedly Lost His Job.**.
+
+
+## October 16 editorial completion
+
+- Completed, reviewed twice and queued **Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.** at position 10.
+- Germany weekly package target is complete: 2 of 2.
+- The package is unpublished and remains subject to final current-source, live-uniqueness, HTML/image and deployment checks at release.

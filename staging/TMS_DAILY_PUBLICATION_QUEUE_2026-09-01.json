@@ -23,9 +23,18 @@
   },
   "deployment": {
     "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "October 15 site-neutral Medicare article, homepage, archive and RSS are verified live. Germany police-complaints propagation is also resolved. Only the older October 12 job-support homepage visibility item remains open."
+    "status": "October 16 religious-accommodation article and shell updates are committed to GitHub main and awaiting public propagation. The older October 12 job-support homepage visibility item also remains open."
   },
   "published_record": [
+    {
+      "title": "He Asked to Break His Fast. He Allegedly Lost His Job.",
+      "slug": "he-asked-to-break-his-fast-he-allegedly-lost-his-job.html",
+      "published_verified": "2026-10-16",
+      "publication_status": "published_to_github_main_public_propagation_pending",
+      "source": "editorial-packages/TMS_HE_ASKED_TO_BREAK_HIS_FAST_PUBLICATION_PACKAGE_2026-10-08.md",
+      "article_commit": "65133aa24eb2213a7e3db09e42d5e08bc3cefeba",
+      "notes": "Direct article returned HTTP 404 and public shells had not yet displayed the title during immediate check. Do not republish."
+    },
     {
       "title": "Before You Cut Care, Did You Stop Paying More for the Same Care?",
       "slug": "before-you-cut-care-stop-paying-more-for-same-care.html",
@@ -190,27 +199,6 @@
   "queue": [
     {
       "position": 1,
-      "title": "He Asked to Break His Fast. He Allegedly Lost His Job.",
-      "slug": "he-asked-to-break-his-fast-he-allegedly-lost-his-job",
-      "status": "approved_queued_full_finished",
-      "completion_status": "full_finished",
-      "publication_status": "unpublished",
-      "approval": "Jansen standing two-review instruction",
-      "review_1": "2026-10-08 source/claim/posture and Groff chronology audit",
-      "review_2": "2026-10-08 corrected format/copy/fairness/action/metadata audit",
-      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_HE_ASKED_TO_BREAK_HIS_FAST_PUBLICATION_PACKAGE_2026-10-08.md",
-      "scheduled_date": null,
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "The HR Manager Said No to Discrimination. Then She Allegedly Lost Her Job.",
-          "distinction": "Own religious scheduling accommodation and usable review process rather than HR opposition to hiring discrimination."
-        }
-      ],
-      "notes": "Supersedes October 7 opening draft. Full decree not independently obtained; no additional terms or liability findings asserted. Final live uniqueness/current case check, HTML/image/navigation and deployment verification remain."
-    },
-    {
-      "position": 2,
       "title": "Germany Has a Way to Keep the Power On. Can People Use It?",
       "slug": "germany-has-a-way-to-keep-the-power-on-can-people-use-it",
       "completion_status": "full_finished",
@@ -237,7 +225,7 @@
       "notes": "§41g directly read; §41f timed out and general safeguards checked via regulator. No inaccessible Destatis statistics used. HTML/image/navigation, final current-law/live uniqueness and deployment checks remain."
     },
     {
-      "position": 3,
+      "position": 2,
       "title": "The Disability Hiring Duty Stayed. The Audits Stopped.",
       "slug": "the-disability-hiring-duty-stayed-the-audits-stopped",
       "completion_status": "full_finished",
@@ -268,7 +256,7 @@
       "notes": "Reflects August 21, 2026 rule changes; former 7% goal is not described as current. 532 is audits with findings, not individuals or necessarily unique contractors. Final recommendation/rule status, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 4,
+      "position": 3,
       "title": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.",
       "slug": "the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power",
       "completion_status": "full_finished",
@@ -289,7 +277,7 @@
       "notes": "BLS earnings figures are descriptive medians, not equal-work proof. 2025 occupation figures exclude October; Census childcare result is a working paper. Final table refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 5,
+      "position": 4,
       "title": "The College Took the Money. The Outcome Data Is Late.",
       "slug": "the-college-took-the-money-the-outcome-data-is-late",
       "completion_status": "full_finished",
@@ -310,7 +298,7 @@
       "notes": "Reporting delinquency is not proof of poor outcomes, fraud or inaccurate submitted records. Refresh January 15 deadline/enforcement, verify uniqueness, and complete HTML/image/navigation/deployment checks."
     },
     {
-      "position": 6,
+      "position": 5,
       "title": "The Complaint Had a 100-Day Clock. The Housing Problem Did Not Wait.",
       "slug": "the-complaint-had-a-100-day-clock-the-housing-problem-did-not-wait",
       "completion_status": "full_finished",
@@ -335,7 +323,7 @@
       "notes": "70.2% late-investigation figure covers 2020–2022. HUD's June 2026 27% backlog-reduction claim lacks published baseline and remaining counts. Refresh backlog/OIG status and complete uniqueness, HTML/image/navigation/deployment checks."
     },
     {
-      "position": 7,
+      "position": 6,
       "title": "Germany Promised a Full School Day. Families Need the Hours to Match.",
       "slug": "germany-promised-a-full-school-day-families-need-the-hours-to-match",
       "completion_status": "full_finished",
@@ -356,7 +344,7 @@
       "notes": "Current §24 directly verified. No national implementation outcome claimed. Final law/live uniqueness, HTML/image/navigation/deployment remain."
     },
     {
-      "position": 8,
+      "position": 7,
       "title": "The Workers Were Teenagers. The Complaint System Was Built for Adults.",
       "slug": "the-workers-were-teenagers-the-complaint-system-was-built-for-adults",
       "completion_status": "full_finished",
@@ -381,7 +369,7 @@
       "notes": "Settlement is not a court judgment or admission. The EEOC's at-least-100 statement is attributed to the agency. Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 9,
+      "position": 8,
       "canonical_title": "The Military Wants AI Faster. Who Owns the Safety Check?",
       "slug": "the-military-wants-ai-faster-who-owns-the-safety-check",
       "status": "approved_queued_full_finished",
@@ -401,7 +389,7 @@
       ]
     },
     {
-      "position": 10,
+      "position": 9,
       "canonical_title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
       "slug": "germany-raised-the-minimum-wage-the-paycheck-still-needs-the-hours",
       "status": "approved_queued_full_finished",
@@ -422,10 +410,10 @@
     }
   ],
   "counts": {
-    "full_finished_unpublished_eligible": 10,
-    "full_finished_currently_queued": 10,
+    "full_finished_unpublished_eligible": 9,
+    "full_finished_currently_queued": 9,
     "full_finished_retired_or_replaced": 4,
-    "status_verification_required": 1
+    "status_verification_required": 2
   },
   "pending_priority_requests": [
     {
@@ -598,28 +586,6 @@
   "unpublished_ledger": [
     {
       "position": 1,
-      "title": "He Asked to Break His Fast. He Allegedly Lost His Job.",
-      "slug": "he-asked-to-break-his-fast-he-allegedly-lost-his-job",
-      "status": "approved_queued_full_finished",
-      "completion_status": "full_finished",
-      "publication_status": "unpublished",
-      "approval": "Jansen standing two-review instruction",
-      "review_1": "2026-10-08 source/claim/posture and Groff chronology audit",
-      "review_2": "2026-10-08 corrected format/copy/fairness/action/metadata audit",
-      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_HE_ASKED_TO_BREAK_HIS_FAST_PUBLICATION_PACKAGE_2026-10-08.md",
-      "scheduled_date": null,
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "The HR Manager Said No to Discrimination. Then She Allegedly Lost Her Job.",
-          "distinction": "Own religious scheduling accommodation and usable review process rather than HR opposition to hiring discrimination."
-        }
-      ],
-      "notes": "Supersedes October 7 opening draft. Full decree not independently obtained; no additional terms or liability findings asserted. Final live uniqueness/current case check, HTML/image/navigation and deployment verification remain.",
-      "queue_position": 1
-    },
-    {
-      "position": 2,
       "title": "Germany Has a Way to Keep the Power On. Can People Use It?",
       "slug": "germany-has-a-way-to-keep-the-power-on-can-people-use-it",
       "completion_status": "full_finished",
@@ -644,10 +610,10 @@
       "review_1": "2026-10-09 primary current-law/regulator scope audit",
       "review_2": "2026-10-09 corrected copy, format, fairness, action and socials",
       "notes": "§41g directly read; §41f timed out and general safeguards checked via regulator. No inaccessible Destatis statistics used. HTML/image/navigation, final current-law/live uniqueness and deployment checks remain.",
-      "queue_position": 2
+      "queue_position": 1
     },
     {
-      "position": 3,
+      "position": 2,
       "title": "The Disability Hiring Duty Stayed. The Audits Stopped.",
       "slug": "the-disability-hiring-duty-stayed-the-audits-stopped",
       "completion_status": "full_finished",
@@ -676,10 +642,10 @@
       "review_1": "2026-10-09 primary GAO/current-law/final-rule claim audit",
       "review_2": "2026-10-09 corrected copy, legal currency, fairness, action, metadata and social audit",
       "notes": "Reflects August 21, 2026 rule changes; former 7% goal is not described as current. 532 is audits with findings, not individuals or necessarily unique contractors. Final recommendation/rule status, live uniqueness, HTML/image/navigation and deployment checks remain.",
-      "queue_position": 3
+      "queue_position": 2
     },
     {
-      "position": 4,
+      "position": 3,
       "title": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.",
       "slug": "the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power",
       "completion_status": "full_finished",
@@ -698,10 +664,10 @@
       "review_1": "2026-10-10 BLS/Census evidence, definitions, source limitations and race/sex comparison audit",
       "review_2": "2026-10-10 corrected copy, Regular Joe clarity, counterargument, action, metadata and social audit",
       "notes": "BLS earnings figures are descriptive medians, not equal-work proof. 2025 occupation figures exclude October; Census childcare result is a working paper. Final table refresh, live uniqueness, HTML/image/navigation and deployment checks remain.",
-      "queue_position": 4
+      "queue_position": 3
     },
     {
-      "position": 5,
+      "position": 4,
       "title": "The College Took the Money. The Outcome Data Is Late.",
       "slug": "the-college-took-the-money-the-outcome-data-is-late",
       "completion_status": "full_finished",
@@ -720,10 +686,10 @@
       "review_1": "2026-10-11 primary evidence, dates and claim posture",
       "review_2": "2026-10-11 copy, fairness, action, metadata and social review",
       "notes": "Reporting delinquency is not proof of poor outcomes, fraud or inaccurate submitted records. Refresh January 15 deadline/enforcement, verify uniqueness, and complete HTML/image/navigation/deployment checks.",
-      "queue_position": 5
+      "queue_position": 4
     },
     {
-      "position": 6,
+      "position": 5,
       "title": "The Complaint Had a 100-Day Clock. The Housing Problem Did Not Wait.",
       "slug": "the-complaint-had-a-100-day-clock-the-housing-problem-did-not-wait",
       "completion_status": "full_finished",
@@ -746,10 +712,10 @@
       "review_1": "2026-10-12 primary evidence, dates and claim posture",
       "review_2": "2026-10-12 copy, fairness, action, metadata and social review",
       "notes": "70.2% late-investigation figure covers 2020–2022. HUD's June 2026 27% backlog-reduction claim lacks published baseline and remaining counts. Refresh backlog/OIG status and complete uniqueness, HTML/image/navigation/deployment checks.",
-      "queue_position": 6
+      "queue_position": 5
     },
     {
-      "position": 7,
+      "position": 6,
       "title": "Germany Promised a Full School Day. Families Need the Hours to Match.",
       "slug": "germany-promised-a-full-school-day-families-need-the-hours-to-match",
       "completion_status": "full_finished",
@@ -768,10 +734,10 @@
       "review_1": "2026-10-13 current statute and scope audit",
       "review_2": "2026-10-13 copy, fairness, action, metadata and socials",
       "notes": "Current §24 directly verified. No national implementation outcome claimed. Final law/live uniqueness, HTML/image/navigation/deployment remain.",
-      "queue_position": 7
+      "queue_position": 6
     },
     {
-      "position": 8,
+      "position": 7,
       "title": "The Workers Were Teenagers. The Complaint System Was Built for Adults.",
       "slug": "the-workers-were-teenagers-the-complaint-system-was-built-for-adults",
       "completion_status": "full_finished",
@@ -794,10 +760,10 @@
       "review_1": "2026-10-14 EEOC release, 2022 complaint announcement, legal posture, numbers, dates and filing guidance audit",
       "review_2": "2026-10-14 Regular Joe clarity, TMS format, fairness, counterargument, action, metadata and social audit",
       "notes": "Settlement is not a court judgment or admission. The EEOC's at-least-100 statement is attributed to the agency. Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain.",
-      "queue_position": 8
+      "queue_position": 7
     },
     {
-      "position": 9,
+      "position": 8,
       "title": "The Military Wants AI Faster. Who Owns the Safety Check?",
       "slug": "the-military-wants-ai-faster-who-owns-the-safety-check",
       "status": "approved_queued_full_finished",
@@ -818,10 +784,10 @@
         "confirm deployment source",
         "HTML/image and navigation integration"
       ],
-      "queue_position": 9
+      "queue_position": 8
     },
     {
-      "position": 10,
+      "position": 9,
       "title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
       "slug": "germany-raised-the-minimum-wage-the-paycheck-still-needs-the-hours",
       "status": "approved_queued_full_finished",
@@ -842,7 +808,7 @@
         "confirm deployment source",
         "HTML/image and navigation integration"
       ],
-      "queue_position": 10
+      "queue_position": 9
     }
   ],
   "status_verification_ledger": [
@@ -850,6 +816,11 @@
       "title": "October 12 job-support homepage visibility",
       "reason": "Archive card now verified live October 13; homepage feature has not yet been independently rechecked.",
       "required_action": "Verify homepage feature before closing the remaining shell reconciliation."
+    },
+    {
+      "title": "October 16 religious-accommodation editorial live propagation",
+      "reason": "GitHub main contains article, homepage, archive, Justice & Law topic and RSS changes; immediate public check had not propagated.",
+      "required_action": "Recheck direct article and four shell surfaces; do not republish."
     }
   ],
   "story_briefs_2026_10_05": [
@@ -1329,16 +1300,53 @@
     "completed_editorial": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
     "queue_position": 10,
     "counts": {
-      "full_finished_unpublished_eligible": 10,
-      "full_finished_currently_queued": 10,
+      "full_finished_unpublished_eligible": 9,
+      "full_finished_currently_queued": 9,
       "full_finished_retired_or_replaced": 4,
-      "status_verification_required": 1
+      "status_verification_required": 2
     },
     "germany_weekly_status": "2 of 2 complete",
     "notes": [
       "Two review passes completed.",
       "Package is approved, queued and unpublished.",
       "No repository or active-queue duplicate found."
+    ],
+    "publication": "He Asked to Break His Fast. He Allegedly Lost His Job.",
+    "publication_state": "Published to GitHub main; public propagation pending",
+    "next_queue_item": "Germany Has a Way to Keep the Power On. Can People Use It?",
+    "title_changes": [
+      "Removed the religious-accommodation editorial from unpublished inventory and active queue.",
+      "Added its public-propagation verification item.",
+      "Recorded three verified research briefs; none is counted as finished or queued."
     ]
-  }
+  },
+  "story_briefs_2026_10_16": [
+    {
+      "title": "The Housing Agency Lost 29% of Its Workforce. Tenants Felt the Handoff.",
+      "seat_affected": "People relying on public housing, rental assistance, fair-housing enforcement and property inspections",
+      "status": "GAO findings and stakeholder reports; the 20 interviewed organizations were a nongeneralizable selection",
+      "sources": [
+        "https://www.gao.gov/products/gao-26-108442"
+      ],
+      "notes": "HUD reduced its workforce 29% in 2025; over half of departing staff had at least 10 years of service. Nearly all selected stakeholder organizations reported lost contacts or navigation difficulties, with some reporting inspection delays or service cuts."
+    },
+    {
+      "title": "The Encryption Works Today. The Data May Still Be Stolen for Tomorrow.",
+      "seat_affected": "People whose health, financial, identity and government records depend on federal encryption",
+      "status": "GAO preparedness finding; current quantum computers cannot break the relevant cryptography and development timing is uncertain",
+      "sources": [
+        "https://www.gao.gov/products/gao-27-108740"
+      ],
+      "notes": "GAO found incomplete inventories, funding assessments and testing plans across federal agencies and disclosed that the sensitive report made 89 recommendations to 23 agencies."
+    },
+    {
+      "title": "Four Million Children May Need Malnutrition Treatment. The Funding Cliff Comes First.",
+      "seat_affected": "Children in Afghanistan, especially more than one million projected to face severe acute malnutrition",
+      "status": "UNICEF and Nutrition Cluster projection for 2027; not a current verified treatment count",
+      "sources": [
+        "https://www.unicef.org/press-releases/afghanistan-face-sharp-rise-acute-malnutrition-2027-over-4-million-children"
+      ],
+      "notes": "The October 15 projection anticipates more than four million children needing treatment in 2027 and 14 provinces reaching critical levels, citing seasonal pressures and an anticipated funding cliff."
+    }
+  ]
 }

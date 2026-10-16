@@ -1,14 +1,361 @@
 [
-{"id":"ads-de","name":"Antidiskriminierungsstelle des Bundes","region":"Germany","type":"Get Help","topics":["rights","racial-justice","work","health"],"actions":["Know your rights","Get advice"],"description":"Federal information and counselling resource for people experiencing discrimination or sexual harassment.","url":"https://www.antidiskriminierungsstelle.de/DE/startseite/startseite-node.html","verified":"2026-09-02"},
-{"id":"dimr-de","name":"Deutsches Institut für Menschenrechte","region":"Germany","type":"Learn & Research","topics":["human-rights","children-families","disability","democracy"],"actions":["Research","Learn"],"description":"Germany's independent national human rights institution, with research, monitoring, documentation and human-rights education.","url":"https://www.institut-fuer-menschenrechte.de/","verified":"2026-09-02"},
-{"id":"bpb-de","name":"Bundeszentrale für politische Bildung","region":"Germany","type":"Learn & Research","topics":["democracy","human-rights","history","education"],"actions":["Learn","Teach"],"description":"Public political-education resources on democracy, government, fundamental rights, history and current political questions.","url":"https://www.bpb.de/","verified":"2026-09-02"},
-{"id":"aas-de","name":"Amadeu Antonio Stiftung","region":"Germany","type":"Organizations","topics":["racial-justice","democracy","extremism","antisemitism"],"actions":["Learn","Get support","Take action"],"description":"Supports democratic civil society and people confronting racism, antisemitism and right-wing violence and extremism.","url":"https://www.amadeu-antonio-stiftung.de/","verified":"2026-09-02"},
-{"id":"proasyl-de","name":"PRO ASYL","region":"Germany","type":"Get Help","topics":["immigration-asylum","human-rights"],"actions":["Get advice","Learn","Take action"],"description":"Information, advocacy and contact options concerning asylum and refugee rights in Germany and Europe.","url":"https://www.proasyl.de/","verified":"2026-09-02"},
-{"id":"telefonseelsorge-de","name":"TelefonSeelsorge Deutschland","region":"Germany","type":"Get Help","topics":["mental-health","crisis"],"actions":["Get help now","Volunteer"],"description":"Free, anonymous crisis and emotional support by telephone, chat and email, available day and night.","url":"https://www.telefonseelsorge.de/","verified":"2026-09-02"},
-{"id":"vz-de","name":"Verbraucherzentrale","region":"Germany","type":"Get Help","topics":["consumer-rights","money","housing"],"actions":["Get advice","Know your rights"],"description":"Consumer information and counselling through Germany's state consumer centres.","url":"https://www.verbraucherzentrale.de/beratung","verified":"2026-09-02"},
-{"id":"ldf-us","name":"Legal Defense Fund","region":"United States","type":"Organizations","topics":["racial-justice","voting","democracy","education","criminal-justice"],"actions":["Learn","Volunteer","Take action"],"description":"Civil-rights legal organization advancing racial justice, voting rights, education equity, economic justice and criminal-justice reform.","url":"https://www.naacpldf.org/","verified":"2026-09-02"},
-{"id":"aclu-us","name":"American Civil Liberties Union","region":"United States","type":"Know Your Rights","topics":["civil-rights","voting","racial-justice","free-speech"],"actions":["Know your rights","Get voting help","Take action"],"description":"Civil-liberties organization with practical Know Your Rights material, including voting and discrimination resources.","url":"https://www.aclu.org/know-your-rights","verified":"2026-09-02"},
-{"id":"eji-us","name":"Equal Justice Initiative","region":"United States","type":"Organizations","topics":["racial-justice","criminal-justice","history","poverty"],"actions":["Learn","Support","Take action"],"description":"Works against racial and economic injustice, excessive punishment and mass incarceration while documenting America's history of racial injustice.","url":"https://eji.org/","verified":"2026-09-02"},
-{"id":"loc-black-history-us","name":"Library of Congress: African American History Online","region":"United States","type":"Primary Sources","topics":["black-history","history","research"],"actions":["Research","Read primary sources"],"description":"Research guide connecting readers to digitized primary sources documenting more than 400 years of African American experience.","url":"https://guides.loc.gov/african-american-history-online","verified":"2026-09-02"},
-{"id":"nara-black-history-us","name":"National Archives: African American Heritage","region":"United States","type":"Primary Sources","topics":["black-history","reconstruction","civil-rights","voting","history"],"actions":["Research","Read primary sources"],"description":"Federal archival records and research guides covering slavery, Reconstruction, civil rights, voting rights and the broader Black experience.","url":"https://www.archives.gov/research/african-americans","verified":"2026-09-02"}
+  {
+    "id": "ads-de",
+    "name": "Antidiskriminierungsstelle des Bundes",
+    "region": "Germany",
+    "type": "Get Help",
+    "topics": [
+      "rights",
+      "racial-justice",
+      "work",
+      "health"
+    ],
+    "actions": [
+      "Know your rights",
+      "Get advice"
+    ],
+    "description": "Federal information and counselling resource for people experiencing discrimination or sexual harassment.",
+    "url": "https://www.antidiskriminierungsstelle.de/DE/startseite/startseite-node.html",
+    "verified": "2026-09-02"
+  },
+  {
+    "id": "dimr-de",
+    "name": "Deutsches Institut für Menschenrechte",
+    "region": "Germany",
+    "type": "Learn & Research",
+    "topics": [
+      "human-rights",
+      "children-families",
+      "disability",
+      "democracy"
+    ],
+    "actions": [
+      "Research",
+      "Learn"
+    ],
+    "description": "Germany's independent national human rights institution, with research, monitoring, documentation and human-rights education.",
+    "url": "https://www.institut-fuer-menschenrechte.de/",
+    "verified": "2026-09-02"
+  },
+  {
+    "id": "bpb-de",
+    "name": "Bundeszentrale für politische Bildung",
+    "region": "Germany",
+    "type": "Learn & Research",
+    "topics": [
+      "democracy",
+      "human-rights",
+      "history",
+      "education"
+    ],
+    "actions": [
+      "Learn",
+      "Teach"
+    ],
+    "description": "Public political-education resources on democracy, government, fundamental rights, history and current political questions.",
+    "url": "https://www.bpb.de/",
+    "verified": "2026-09-02"
+  },
+  {
+    "id": "aas-de",
+    "name": "Amadeu Antonio Stiftung",
+    "region": "Germany",
+    "type": "Organizations",
+    "topics": [
+      "racial-justice",
+      "democracy",
+      "extremism",
+      "antisemitism"
+    ],
+    "actions": [
+      "Learn",
+      "Get support",
+      "Take action"
+    ],
+    "description": "Supports democratic civil society and people confronting racism, antisemitism and right-wing violence and extremism.",
+    "url": "https://www.amadeu-antonio-stiftung.de/",
+    "verified": "2026-09-02"
+  },
+  {
+    "id": "proasyl-de",
+    "name": "PRO ASYL",
+    "region": "Germany",
+    "type": "Get Help",
+    "topics": [
+      "immigration-asylum",
+      "human-rights"
+    ],
+    "actions": [
+      "Get advice",
+      "Learn",
+      "Take action"
+    ],
+    "description": "Information, advocacy and contact options concerning asylum and refugee rights in Germany and Europe.",
+    "url": "https://www.proasyl.de/",
+    "verified": "2026-09-02"
+  },
+  {
+    "id": "telefonseelsorge-de",
+    "name": "TelefonSeelsorge Deutschland",
+    "region": "Germany",
+    "type": "Get Help",
+    "topics": [
+      "mental-health",
+      "crisis"
+    ],
+    "actions": [
+      "Get help now",
+      "Volunteer"
+    ],
+    "description": "Free, anonymous crisis and emotional support by telephone, chat and email, available day and night.",
+    "url": "https://www.telefonseelsorge.de/",
+    "verified": "2026-09-02"
+  },
+  {
+    "id": "vz-de",
+    "name": "Verbraucherzentrale",
+    "region": "Germany",
+    "type": "Get Help",
+    "topics": [
+      "consumer-rights",
+      "money",
+      "housing"
+    ],
+    "actions": [
+      "Get advice",
+      "Know your rights"
+    ],
+    "description": "Consumer information and counselling through Germany's state consumer centres.",
+    "url": "https://www.verbraucherzentrale.de/beratung",
+    "verified": "2026-09-02"
+  },
+  {
+    "id": "ldf-us",
+    "name": "Legal Defense Fund",
+    "region": "United States",
+    "type": "Organizations",
+    "topics": [
+      "racial-justice",
+      "voting",
+      "democracy",
+      "education",
+      "criminal-justice"
+    ],
+    "actions": [
+      "Learn",
+      "Volunteer",
+      "Take action"
+    ],
+    "description": "Civil-rights legal organization advancing racial justice, voting rights, education equity, economic justice and criminal-justice reform.",
+    "url": "https://www.naacpldf.org/",
+    "verified": "2026-09-02"
+  },
+  {
+    "id": "aclu-us",
+    "name": "American Civil Liberties Union",
+    "region": "United States",
+    "type": "Know Your Rights",
+    "topics": [
+      "civil-rights",
+      "voting",
+      "racial-justice",
+      "free-speech"
+    ],
+    "actions": [
+      "Know your rights",
+      "Get voting help",
+      "Take action"
+    ],
+    "description": "Civil-liberties organization with practical Know Your Rights material, including voting and discrimination resources.",
+    "url": "https://www.aclu.org/know-your-rights",
+    "verified": "2026-09-02"
+  },
+  {
+    "id": "eji-us",
+    "name": "Equal Justice Initiative",
+    "region": "United States",
+    "type": "Organizations",
+    "topics": [
+      "racial-justice",
+      "criminal-justice",
+      "history",
+      "poverty"
+    ],
+    "actions": [
+      "Learn",
+      "Support",
+      "Take action"
+    ],
+    "description": "Works against racial and economic injustice, excessive punishment and mass incarceration while documenting America's history of racial injustice.",
+    "url": "https://eji.org/",
+    "verified": "2026-09-02"
+  },
+  {
+    "id": "loc-black-history-us",
+    "name": "Library of Congress: African American History Online",
+    "region": "United States",
+    "type": "Primary Sources",
+    "topics": [
+      "black-history",
+      "history",
+      "research"
+    ],
+    "actions": [
+      "Research",
+      "Read primary sources"
+    ],
+    "description": "Research guide connecting readers to digitized primary sources documenting more than 400 years of African American experience.",
+    "url": "https://guides.loc.gov/african-american-history-online",
+    "verified": "2026-09-02"
+  },
+  {
+    "id": "nara-black-history-us",
+    "name": "National Archives: African American Heritage",
+    "region": "United States",
+    "type": "Primary Sources",
+    "topics": [
+      "black-history",
+      "reconstruction",
+      "civil-rights",
+      "voting",
+      "history"
+    ],
+    "actions": [
+      "Research",
+      "Read primary sources"
+    ],
+    "description": "Federal archival records and research guides covering slavery, Reconstruction, civil rights, voting rights and the broader Black experience.",
+    "url": "https://www.archives.gov/research/african-americans",
+    "verified": "2026-09-02"
+  },
+  {
+    "id": "foia-us",
+    "name": "FOIA.gov",
+    "region": "United States",
+    "type": "Know Your Rights",
+    "topics": [
+      "government-accountability",
+      "records",
+      "democracy"
+    ],
+    "actions": [
+      "Request federal records",
+      "Appeal a denial"
+    ],
+    "description": "Official federal guide for requesting records from executive agencies under the Freedom of Information Act.",
+    "url": "https://www.foia.gov/",
+    "verified": "2026-10-16"
+  },
+  {
+    "id": "nlrb-us",
+    "name": "National Labor Relations Board: Employee Rights",
+    "region": "United States",
+    "type": "Know Your Rights",
+    "topics": [
+      "work",
+      "labor-rights",
+      "unions",
+      "wages"
+    ],
+    "actions": [
+      "Learn collective rights",
+      "File or research a labor charge"
+    ],
+    "description": "Official information about protected concerted activity, organizing and federal labor-law rights for covered employees.",
+    "url": "https://www.nlrb.gov/about-nlrb/rights-we-protect/the-law/employees",
+    "verified": "2026-10-16"
+  },
+  {
+    "id": "whd-us",
+    "name": "U.S. Department of Labor: Wage and Hour Division",
+    "region": "United States",
+    "type": "Get Help",
+    "topics": [
+      "work",
+      "wages",
+      "overtime",
+      "retaliation"
+    ],
+    "actions": [
+      "Check wage rights",
+      "Contact Wage and Hour Division"
+    ],
+    "description": "Official federal wage-and-hour enforcement resource, including minimum wage, overtime and retaliation information.",
+    "url": "https://www.dol.gov/agencies/whd",
+    "verified": "2026-10-16"
+  },
+  {
+    "id": "osha-whistle-us",
+    "name": "OSHA Whistleblower Protection Program",
+    "region": "United States",
+    "type": "Know Your Rights",
+    "topics": [
+      "work",
+      "safety",
+      "whistleblower",
+      "retaliation"
+    ],
+    "actions": [
+      "Check protection",
+      "Check filing deadline"
+    ],
+    "description": "Official information about retaliation protections administered by OSHA under multiple federal statutes.",
+    "url": "https://www.whistleblowers.gov/",
+    "verified": "2026-10-16"
+  },
+  {
+    "id": "sgb14-de",
+    "name": "§14 SGB I — Anspruch auf Beratung",
+    "region": "Germany",
+    "type": "Primary Sources",
+    "topics": [
+      "social-rights",
+      "benefits",
+      "government-accountability"
+    ],
+    "actions": [
+      "Ask for advice",
+      "Know your rights"
+    ],
+    "description": "German Social Code provision giving everyone a right to advice about rights and duties under the Social Code.",
+    "url": "https://www.gesetze-im-internet.de/sgb_1/__14.html",
+    "verified": "2026-10-16"
+  },
+  {
+    "id": "sgb25-de",
+    "name": "§25 SGB X — Akteneinsicht",
+    "region": "Germany",
+    "type": "Primary Sources",
+    "topics": [
+      "social-rights",
+      "administration",
+      "records"
+    ],
+    "actions": [
+      "Check file-inspection rights",
+      "Request relevant records"
+    ],
+    "description": "German social-administrative provision governing file inspection by participants in covered proceedings.",
+    "url": "https://www.gesetze-im-internet.de/sgb_10/__25.html",
+    "verified": "2026-10-16"
+  },
+  {
+    "id": "betrvg-de",
+    "name": "Betriebsverfassungsgesetz",
+    "region": "Germany",
+    "type": "Primary Sources",
+    "topics": [
+      "work",
+      "labor-rights",
+      "betriebsrat",
+      "complaints"
+    ],
+    "actions": [
+      "Check works-council rights",
+      "Use workplace complaint rights"
+    ],
+    "description": "Official text of Germany's Works Constitution Act, including works-council eligibility, complaint rights and co-determination provisions.",
+    "url": "https://www.gesetze-im-internet.de/betrvg/",
+    "verified": "2026-10-16"
+  }
 ]

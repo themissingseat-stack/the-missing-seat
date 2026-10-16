@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-10-15",
+  "last_reconciled": "2026-10-16",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -399,11 +399,31 @@
         "confirm deployment source",
         "HTML/image and navigation integration"
       ]
+    },
+    {
+      "position": 10,
+      "canonical_title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
+      "slug": "germany-raised-the-minimum-wage-the-paycheck-still-needs-the-hours",
+      "status": "approved_queued_full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-16 primary German sources, estimates, coverage and claim posture",
+      "review_2": "2026-10-16 TMS format, Regular Joe clarity, fairness, duplication and action",
+      "source": "editorial-packages/TMS_GERMANY_MINIMUM_WAGE_HOURS_PUBLICATION_PACKAGE_2026-10-16.md",
+      "scheduled_date": null,
+      "closest_live_comparator": "Germany Has a Way to Keep the Power On. Can People Use It?",
+      "material_distinction": "Wages, recorded working time and labor enforcement rather than household energy debt and electricity disconnection.",
+      "notes": "Destatis figures are upper-limit estimates based on April 2025 data, not proof of individual raises or violations. Refresh rate, enforcement guidance and estimates before publication.",
+      "release_checks": [
+        "refresh BMAS rate and enforcement guidance",
+        "independent live title/slug check",
+        "confirm deployment source",
+        "HTML/image and navigation integration"
+      ]
     }
   ],
   "counts": {
-    "full_finished_unpublished_eligible": 9,
-    "full_finished_currently_queued": 9,
+    "full_finished_unpublished_eligible": 10,
+    "full_finished_currently_queued": 10,
     "full_finished_retired_or_replaced": 4,
     "status_verification_required": 1
   },
@@ -799,6 +819,30 @@
         "HTML/image and navigation integration"
       ],
       "queue_position": 9
+    },
+    {
+      "position": 10,
+      "title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
+      "slug": "germany-raised-the-minimum-wage-the-paycheck-still-needs-the-hours",
+      "status": "approved_queued_full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-16 primary German sources, estimates, coverage and claim posture",
+      "review_2": "2026-10-16 TMS format, Regular Joe clarity, fairness, duplication and action",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GERMANY_MINIMUM_WAGE_HOURS_PUBLICATION_PACKAGE_2026-10-16.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        "Germany Has a Way to Keep the Power On. Can People Use It?: Wages, recorded working time and labor enforcement rather than household energy debt and electricity disconnection."
+      ],
+      "notes": "Destatis figures are upper-limit estimates based on April 2025 data, not proof of individual raises or violations. Refresh rate, enforcement guidance and estimates before publication.",
+      "release_checks": [
+        "refresh BMAS rate and enforcement guidance",
+        "independent live title/slug check",
+        "confirm deployment source",
+        "HTML/image and navigation integration"
+      ],
+      "queue_position": 10
     }
   ],
   "status_verification_ledger": [
@@ -831,8 +875,8 @@
   "germany_weekly_delivery": {
     "week": "2026-10-12/2026-10-18",
     "target_packages": 2,
-    "completed_packages": 1,
-    "remaining_packages": 1,
+    "completed_packages": 2,
+    "remaining_packages": 0,
     "target_days": [
       "2026-10-13",
       "2026-10-16"
@@ -843,9 +887,15 @@
         "title": "Germany Promised a Full School Day. Families Need the Hours to Match.",
         "source": "editorial-packages/TMS_GERMANY_FULL_SCHOOL_DAY_PUBLICATION_PACKAGE_2026-10-13.md",
         "status": "approved_queued_full_finished"
+      },
+      {
+        "date": "2026-10-16",
+        "title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
+        "source": "editorial-packages/TMS_GERMANY_MINIMUM_WAGE_HOURS_PUBLICATION_PACKAGE_2026-10-16.md",
+        "status": "approved_queued_full_finished"
       }
     ],
-    "notes": "Prior week October 5–11 completed 2 of 2. New weekly cycle opened; first package targeted Tuesday."
+    "notes": "Weekly target completed: two distinct Germany packages delivered October 13 and October 16."
   },
   "story_briefs_2026_10_06": [
     {
@@ -1265,5 +1315,30 @@
     "reviews_completed": 2,
     "distinction": "Military AI governance, staffing and congressional oversight rather than human review of an individual AI accusation.",
     "notes": "New publication-ready reserve editorial. Not published."
+  },
+  "daily_editorial_completion_2026_10_16": {
+    "title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
+    "status": "approved_queued_full_finished",
+    "source": "editorial-packages/TMS_GERMANY_MINIMUM_WAGE_HOURS_PUBLICATION_PACKAGE_2026-10-16.md",
+    "commit": "57e848a897ef7bcf84d7b2439270f0a64428fe34",
+    "reviews_completed": 2,
+    "germany_weekly_package": "2 of 2",
+    "notes": "New publication-ready Germany reserve editorial. Not published."
+  },
+  "reconciliation_notes_2026_10_16": {
+    "completed_editorial": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
+    "queue_position": 10,
+    "counts": {
+      "full_finished_unpublished_eligible": 10,
+      "full_finished_currently_queued": 10,
+      "full_finished_retired_or_replaced": 4,
+      "status_verification_required": 1
+    },
+    "germany_weekly_status": "2 of 2 complete",
+    "notes": [
+      "Two review passes completed.",
+      "Package is approved, queued and unpublished.",
+      "No repository or active-queue duplicate found."
+    ]
   }
 }

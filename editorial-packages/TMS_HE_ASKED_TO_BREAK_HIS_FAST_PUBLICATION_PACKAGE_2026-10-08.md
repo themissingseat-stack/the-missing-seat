@@ -2,7 +2,7 @@
 
 ## Publication metadata
 
-Status: FULL, FINISHED / TWO REVIEWS PASSED / APPROVED AND QUEUED / UNPUBLISHED
+Status: PUBLISHED TO GITHUB MAIN / PUBLIC PROPAGATION PENDING
 Completed and verified: October 8, 2026
 Working slug: he-asked-to-break-his-fast-he-allegedly-lost-his-job
 Suggested filename: he-asked-to-break-his-fast-he-allegedly-lost-his-job.html
@@ -146,3 +146,14 @@ Pass 1, October 8: source and claim audit. Verified case date and reported postu
 Pass 2, October 8: reread complete corrected package for format, repetition, plain language, unfair inference and action. Checked developed paragraphs, limited headings, who is missing/power/benefit/burden, counterargument, publication metadata, receipts, social versions and exact editorial ending. No long dashes. Instagram below 2,200 characters. Approved under Jansen's standing two-review instruction.
 
 Release work remaining: final live title/slug and case-status refresh; article HTML, selected illustration, homepage/archive/topic/feed integration and live rendering checks. These do not change the full-finished editorial status.
+
+
+## Publication record: October 16, 2026
+
+- Article commit: `65133aa24eb2213a7e3db09e42d5e08bc3cefeba`
+- Homepage commit: `ccb7ae40efb54f567f03e507d939559ac3a549a2`
+- Archive commit: `f454345567acb5010b26b09b0424ac71e115a071`
+- Justice & Law topic commit: `bba8e9bc8bf591ebc80b085aa8fbd42d3fc1fa67`
+- RSS commit: `b382b0ca50a45748fb3ab5698476eba406bacc14`
+- Immediate public check: article returned HTTP 404; homepage, archive, topic page and RSS returned HTTP 200 but had not yet displayed the new title.
+- Do not republish. Recheck all public surfaces after deployment propagation.

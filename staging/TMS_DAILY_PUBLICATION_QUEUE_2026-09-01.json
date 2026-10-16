@@ -386,7 +386,8 @@
         "independent live title/slug check",
         "confirm deployment source",
         "HTML/image and navigation integration"
-      ]
+      ],
+      "title": "The Military Wants AI Faster. Who Owns the Safety Check?"
     },
     {
       "position": 9,
@@ -406,12 +407,94 @@
         "independent live title/slug check",
         "confirm deployment source",
         "HTML/image and navigation integration"
+      ],
+      "title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours."
+    },
+    {
+      "position": 10,
+      "title": "The Building Failed. The Children Lost the School Day.",
+      "canonical_title": "The Building Failed. The Children Lost the School Day.",
+      "slug": "the-building-failed-the-children-lost-the-school-day",
+      "status": "approved_queued_full_finished",
+      "completion_status": "full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-16 primary findings, dates, scope and agency response",
+      "review_2": "2026-10-16 finished copy, Regular Joe, fairness, action, source links and distinctness",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_SCHOOL_BUILDING_FAILED_CHILDREN_LOST_DAY_PUBLICATION_PACKAGE_2026-10-16.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "duplication_status": "materially distinct in repository and archive; independent live check required",
+      "related_live_comparators": [
+        {
+          "title": "The Absence Rate Was Over 100%. The Oversight Had Already Stopped.",
+          "distinction": "Physical facilities, instructional closures and local repair responsibility rather than federal absenteeism calculations and ESEA monitoring."
+        }
+      ],
+      "release_checks": [
+        "refresh primary-source status",
+        "independent live title/slug and distinctness check (live access returned 403)",
+        "confirm deployment source",
+        "HTML/image/navigation and public URL verification"
+      ]
+    },
+    {
+      "position": 11,
+      "title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
+      "canonical_title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
+      "slug": "the-job-center-was-open-the-help-still-wasnt-accessible",
+      "status": "approved_queued_full_finished",
+      "completion_status": "full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-16 primary findings, dates, scope and agency response",
+      "review_2": "2026-10-16 finished copy, Regular Joe, fairness, action, source links and distinctness",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_JOB_CENTER_ACCESS_PUBLICATION_PACKAGE_2026-10-16.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "duplication_status": "materially distinct in repository and archive; independent live check required",
+      "related_live_comparators": [
+        {
+          "title": "Two Agencies Fund the Support. The Worker Still Gets Left Waiting.",
+          "distinction": "Access to job-center appointments and training rather than sequential VR/Medicaid support funding."
+        }
+      ],
+      "release_checks": [
+        "refresh primary-source status",
+        "independent live title/slug and distinctness check (live access returned 403)",
+        "confirm deployment source",
+        "HTML/image/navigation and public URL verification"
+      ]
+    },
+    {
+      "position": 12,
+      "title": "The Loan Rule Changed. Were the Instructions Ready?",
+      "canonical_title": "The Loan Rule Changed. Were the Instructions Ready?",
+      "slug": "the-loan-rule-changed-were-the-instructions-ready",
+      "status": "approved_queued_full_finished",
+      "completion_status": "full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-16 primary findings, dates, scope and agency response",
+      "review_2": "2026-10-16 finished copy, Regular Joe, fairness, action, source links and distinctness",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_LOAN_RULE_CHANGED_INSTRUCTIONS_NOT_READY_PUBLICATION_PACKAGE_2026-10-16.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "duplication_status": "materially distinct in repository and archive; independent live check required",
+      "related_live_comparators": [
+        {
+          "title": "The College Took the Money. The Outcome Data Is Late.",
+          "distinction": "Education's implementation instructions to loan servicers rather than institutions' outcome-data reporting."
+        }
+      ],
+      "release_checks": [
+        "refresh primary-source status",
+        "independent live title/slug and distinctness check (live access returned 403)",
+        "confirm deployment source",
+        "HTML/image/navigation and public URL verification"
       ]
     }
   ],
   "counts": {
-    "full_finished_unpublished_eligible": 9,
-    "full_finished_currently_queued": 9,
+    "full_finished_unpublished_eligible": 12,
+    "full_finished_currently_queued": 12,
     "full_finished_retired_or_replaced": 4,
     "status_verification_required": 2
   },
@@ -809,6 +892,90 @@
         "HTML/image and navigation integration"
       ],
       "queue_position": 9
+    },
+    {
+      "position": 10,
+      "title": "The Building Failed. The Children Lost the School Day.",
+      "canonical_title": "The Building Failed. The Children Lost the School Day.",
+      "slug": "the-building-failed-the-children-lost-the-school-day",
+      "status": "approved_queued_full_finished",
+      "completion_status": "full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-16 primary findings, dates, scope and agency response",
+      "review_2": "2026-10-16 finished copy, Regular Joe, fairness, action, source links and distinctness",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_SCHOOL_BUILDING_FAILED_CHILDREN_LOST_DAY_PUBLICATION_PACKAGE_2026-10-16.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "duplication_status": "materially distinct in repository and archive; independent live check required",
+      "related_live_comparators": [
+        {
+          "title": "The Absence Rate Was Over 100%. The Oversight Had Already Stopped.",
+          "distinction": "Physical facilities, instructional closures and local repair responsibility rather than federal absenteeism calculations and ESEA monitoring."
+        }
+      ],
+      "release_checks": [
+        "refresh primary-source status",
+        "independent live title/slug and distinctness check (live access returned 403)",
+        "confirm deployment source",
+        "HTML/image/navigation and public URL verification"
+      ],
+      "queue_position": 10
+    },
+    {
+      "position": 11,
+      "title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
+      "canonical_title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
+      "slug": "the-job-center-was-open-the-help-still-wasnt-accessible",
+      "status": "approved_queued_full_finished",
+      "completion_status": "full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-16 primary findings, dates, scope and agency response",
+      "review_2": "2026-10-16 finished copy, Regular Joe, fairness, action, source links and distinctness",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_JOB_CENTER_ACCESS_PUBLICATION_PACKAGE_2026-10-16.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "duplication_status": "materially distinct in repository and archive; independent live check required",
+      "related_live_comparators": [
+        {
+          "title": "Two Agencies Fund the Support. The Worker Still Gets Left Waiting.",
+          "distinction": "Access to job-center appointments and training rather than sequential VR/Medicaid support funding."
+        }
+      ],
+      "release_checks": [
+        "refresh primary-source status",
+        "independent live title/slug and distinctness check (live access returned 403)",
+        "confirm deployment source",
+        "HTML/image/navigation and public URL verification"
+      ],
+      "queue_position": 11
+    },
+    {
+      "position": 12,
+      "title": "The Loan Rule Changed. Were the Instructions Ready?",
+      "canonical_title": "The Loan Rule Changed. Were the Instructions Ready?",
+      "slug": "the-loan-rule-changed-were-the-instructions-ready",
+      "status": "approved_queued_full_finished",
+      "completion_status": "full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-16 primary findings, dates, scope and agency response",
+      "review_2": "2026-10-16 finished copy, Regular Joe, fairness, action, source links and distinctness",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_LOAN_RULE_CHANGED_INSTRUCTIONS_NOT_READY_PUBLICATION_PACKAGE_2026-10-16.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "duplication_status": "materially distinct in repository and archive; independent live check required",
+      "related_live_comparators": [
+        {
+          "title": "The College Took the Money. The Outcome Data Is Late.",
+          "distinction": "Education's implementation instructions to loan servicers rather than institutions' outcome-data reporting."
+        }
+      ],
+      "release_checks": [
+        "refresh primary-source status",
+        "independent live title/slug and distinctness check (live access returned 403)",
+        "confirm deployment source",
+        "HTML/image/navigation and public URL verification"
+      ],
+      "queue_position": 12
     }
   ],
   "status_verification_ledger": [
@@ -1347,6 +1514,34 @@
         "https://www.unicef.org/press-releases/afghanistan-face-sharp-rise-acute-malnutrition-2027-over-4-million-children"
       ],
       "notes": "The October 15 projection anticipates more than four million children needing treatment in 2027 and 14 provinces reaching critical levels, citing seasonal pressures and an anticipated funding cliff."
+    }
+  ],
+  "unfinished_stories_evidence_ledger": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/TMS_UNFINISHED_STORIES_EVIDENCE_LEDGER_2026-10-16.md",
+  "remaining_unfinished_priority_stories": [
+    "Medicaid/SNAP work requirements",
+    "Broader Trump Receipt accounting",
+    "Rape-sentencing evidence review",
+    "Arkansas rural maternal health",
+    "Tribal homelessness evidence"
+  ],
+  "unfinished_completion_2026_10_16": [
+    {
+      "title": "The Building Failed. The Children Lost the School Day.",
+      "source": "editorial-packages/TMS_SCHOOL_BUILDING_FAILED_CHILDREN_LOST_DAY_PUBLICATION_PACKAGE_2026-10-16.md",
+      "reviews": 2,
+      "status": "approved_queued_unpublished"
+    },
+    {
+      "title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
+      "source": "editorial-packages/TMS_JOB_CENTER_ACCESS_PUBLICATION_PACKAGE_2026-10-16.md",
+      "reviews": 2,
+      "status": "approved_queued_unpublished"
+    },
+    {
+      "title": "The Loan Rule Changed. Were the Instructions Ready?",
+      "source": "editorial-packages/TMS_LOAN_RULE_CHANGED_INSTRUCTIONS_NOT_READY_PUBLICATION_PACKAGE_2026-10-16.md",
+      "reviews": 2,
+      "status": "approved_queued_unpublished"
     }
   ]
 }

@@ -1,5 +1,5 @@
 # TMS unfinished-story evidence ledger
-Updated October 16, 2026. This file records research progress; only complete packages enter finished inventory.
+Updated October 17, 2026. This file records research progress; only complete packages enter finished inventory.
 
 ## Completed from the unfinished list
 
@@ -13,7 +13,11 @@ Updated October 16, 2026. This file records research progress; only complete pac
    Package: editorial-packages/TMS_LOAN_RULE_CHANGED_INSTRUCTIONS_NOT_READY_PUBLICATION_PACKAGE_2026-10-16.md.
    Source: GAO-26-107780, publicly released August 6, 2026. Education's reported improvement and disagreement with formal coordination criteria included.
 
-All three have full bodies, metadata, social versions, counterargument, verification notice, distinctness analysis, practical action and required closing. Two reviews completed. Append after the existing approved queue, without publishing today.
+4. Tribal homelessness: **The House Was Full. The Homelessness Definition Still Had an Empty Seat.**
+   Package: editorial-packages/TMS_TRIBAL_HOMELESSNESS_DEFINITION_EMPTY_SEAT_PUBLICATION_PACKAGE_2026-10-17.md.
+   Source: GAO-26-109173, publicly released September 16, 2026. Preliminary observations and nongeneralizable interviews are identified throughout; no national count or universal doubled-up eligibility claim is made.
+
+All four have full bodies, metadata, social versions, counterargument, verification notice, distinctness analysis, practical action and required closing. Two reviews completed for each. They remain queued and unpublished.
 
 ## 1. Medicaid/SNAP work requirements: advanced, not cleared
 
@@ -57,16 +61,6 @@ Search identifies a 2025 legislative report, but direct retrieval returned 403. 
 
 Next task: obtain that actual report, determine death years and denominators, then verify rural obstetric-unit availability, travel/access evidence, current postpartum coverage and named implementation owners. National rural findings cannot substitute for Arkansas results. Attribute preventability to the committee's reviewed cases and method.
 
-## 5. Tribal homelessness: useful evidence, explicitly preliminary
-
-Read GAO-26-109173, September 16, 2026:
-https://www.gao.gov/products/gao-26-109173
-Full testimony: https://files.gao.gov/reports/GAO-26-109173/index.html
-
-It reports preliminary observations from ongoing work, including accounts that doubling up and program definitions can limit access. Interview samples are nongeneralizable. It does not establish a national homeless count or mean all doubled-up households meet every federal program's eligibility definition.
-
-Next task: inspect the full testimony's governing definition and exceptions, cross-check HUD's current Continuum of Care rules and the affected Tribal accounts, and check whether final GAO work supersedes the testimony. Potential thesis: the emergency is real even when a funding definition does not count it. The article must test that thesis without erasing program-specific definitions.
-
 ## Inventory controls
 
-Three unfinished leads completed in this run. Five priority projects above remain unfinished; do not count their research as reserve inventory. Four retired duplicates and sixteen website replacement revisions remain separate. Independent live archive access returned HTTP 403; repository/archive/queue distinctness checks passed for the new packages, with live verification required before release.
+Four unfinished leads completed across the October 16–17 work. Four priority projects above remain unfinished; do not count their research as reserve inventory. Four retired duplicates and sixteen website replacement revisions remain separate. Independent live archive access returned HTTP 403; repository/archive/queue distinctness checks passed for the new packages, with live verification required before release.

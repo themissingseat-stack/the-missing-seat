@@ -357,5 +357,197 @@
     "description": "Official text of Germany's Works Constitution Act, including works-council eligibility, complaint rights and co-determination provisions.",
     "url": "https://www.gesetze-im-internet.de/betrvg/",
     "verified": "2026-10-16"
+  },
+  {
+    "id": "usccr-us",
+    "name": "U.S. Commission on Civil Rights — Complaint Referral",
+    "region": "United States",
+    "type": "Get Help",
+    "topics": [
+      "civil-rights",
+      "racial-justice",
+      "government-accountability",
+      "discrimination"
+    ],
+    "actions": [
+      "Find the right complaint office",
+      "Review civil-rights enforcement information"
+    ],
+    "description": "Independent federal civil-rights watchdog. Investigates and reports on civil-rights issues; its referral service helps locate complaint offices. It does not represent complainants or enforce remedies.",
+    "url": "https://www.usccr.gov/contact/complaints",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "doj-crt-us",
+    "name": "U.S. Department of Justice — Civil Rights Reporting",
+    "region": "United States",
+    "type": "Get Help",
+    "topics": [
+      "civil-rights",
+      "racial-justice",
+      "police-accountability",
+      "voting",
+      "discrimination"
+    ],
+    "actions": [
+      "Report possible civil-rights violations",
+      "Find an enforcement route"
+    ],
+    "description": "Official portal to report possible federal civil-rights violations, including discrimination and certain law-enforcement misconduct. Reporting does not guarantee investigation, representation, or compensation.",
+    "url": "https://civilrights.justice.gov/",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "oversight-us",
+    "name": "Oversight.gov — Federal Inspectors General",
+    "region": "United States",
+    "type": "Primary Sources",
+    "topics": [
+      "government-accountability",
+      "police-accountability",
+      "misconduct",
+      "whistleblower",
+      "records"
+    ],
+    "actions": [
+      "Search inspector-general reports",
+      "Find agency wrongdoing reporting routes"
+    ],
+    "description": "Search federal inspector-general audits and investigations and find reporting channels. Inspectors general can investigate and recommend action but generally cannot award individual damages.",
+    "url": "https://www.oversight.gov/",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "gao-fraudnet-us",
+    "name": "GAO FraudNet — Report Federal Waste or Abuse",
+    "region": "United States",
+    "type": "Get Help",
+    "topics": [
+      "government-accountability",
+      "fraud",
+      "mismanagement",
+      "public-spending"
+    ],
+    "actions": [
+      "Report suspected federal fraud or misuse",
+      "Read oversight findings"
+    ],
+    "description": "Receives allegations involving federal funds, waste, abuse and mismanagement, and refers appropriate matters. Not an individual civil-rights compensation or legal representation service.",
+    "url": "https://www.gao.gov/fraudnet",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "gao-reports-us",
+    "name": "Government Accountability Office — Reports",
+    "region": "United States",
+    "type": "Primary Sources",
+    "topics": [
+      "government-accountability",
+      "public-spending",
+      "civil-rights",
+      "research"
+    ],
+    "actions": [
+      "Search federal audits",
+      "Track recommendations"
+    ],
+    "description": "Congressional audit agency documenting federal program performance, failures and recommendations. Its reports are evidence for accountability, not binding awards of compensation.",
+    "url": "https://www.gao.gov/",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "brennancenter-us",
+    "name": "Brennan Center for Justice",
+    "region": "United States",
+    "type": "Learn & Research",
+    "topics": [
+      "voting",
+      "democracy",
+      "racial-justice",
+      "constitutional-rights"
+    ],
+    "actions": [
+      "Read voting-rights research",
+      "Review reform proposals"
+    ],
+    "description": "Nonpartisan law and policy institute researching democracy, voting rights, justice systems and government reform. Not a general individual complaint-resolution service.",
+    "url": "https://www.brennancenter.org/",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "pogo-us",
+    "name": "Project On Government Oversight (POGO)",
+    "region": "United States",
+    "type": "Organizations",
+    "topics": [
+      "government-accountability",
+      "whistleblower",
+      "oversight",
+      "public-spending"
+    ],
+    "actions": [
+      "Read independent investigations",
+      "Learn about oversight reform"
+    ],
+    "description": "Independent nonprofit watchdog investigating federal misconduct, waste, conflicts of interest and oversight failures. Not a court or compensation agency.",
+    "url": "https://www.pogo.org/",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "propublica-us",
+    "name": "ProPublica — Investigative Journalism",
+    "region": "United States",
+    "type": "Learn & Research",
+    "topics": [
+      "government-accountability",
+      "racial-justice",
+      "police-accountability",
+      "investigations"
+    ],
+    "actions": [
+      "Read investigations",
+      "Find documented public-interest reporting"
+    ],
+    "description": "Independent nonprofit newsroom investigating abuses of power and public-interest failures. Reporting can expose wrongdoing but cannot compel legal remedies.",
+    "url": "https://www.propublica.org/",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "civilrightsorg-us",
+    "name": "Leadership Conference on Civil and Human Rights",
+    "region": "United States",
+    "type": "Organizations",
+    "topics": [
+      "civil-rights",
+      "racial-justice",
+      "voting",
+      "government-accountability"
+    ],
+    "actions": [
+      "Follow civil-rights policy",
+      "Find advocacy coalitions"
+    ],
+    "description": "Coalition advocating for civil and human rights legislation, enforcement and accountability. Advocacy and policy work are not a substitute for legal representation.",
+    "url": "https://civilrights.org/",
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "naacp-us",
+    "name": "NAACP — Civil Rights Advocacy",
+    "region": "United States",
+    "type": "Organizations",
+    "topics": [
+      "racial-justice",
+      "civil-rights",
+      "voting",
+      "police-accountability"
+    ],
+    "actions": [
+      "Find local branches",
+      "Explore advocacy and action"
+    ],
+    "description": "Civil-rights membership organization working on racial justice, voting, education and public accountability. Local assistance and legal referrals vary.",
+    "url": "https://naacp.org/",
+    "verified": "2026-10-17"
   }
 ]

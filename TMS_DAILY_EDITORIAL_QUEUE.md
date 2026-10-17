@@ -6,6 +6,23 @@
 
 **Release before queue position 1:** **Racism Is Over. So Why Are Black Drivers Still a Competition?** (`racism-is-over-charlotte-police-scandal`). **Status:** `approved_priority_staged_not_live`. Full Regular Joe editorial package: [Charlotte police racism publication package](editorial-packages/TMS_CHARLOTTE_RACISM_IS_OVER_PUBLICATION_PACKAGE_2026-10-17.md). Publish at the next available daily slot after factual refresh, final HTML/image/navigation/feed integration, and live URL verification. This is a special priority override, not a reorder or deletion of the 13 approved queued stories. After its publication, resume queue positions 1–13 unchanged. Do not report the story as live before deployment and URL verification.
 
+## Mandatory Regular Joe comprehension and accountability test (added 2026-10-17)
+
+Every **Full TMS Editorial Joe Package** must ensure that an ordinary reader finishes the website editorial knowing:
+
+1. **What happened** — the events, dates, actors and verifiable facts in understandable language.
+2. **Why the promise or protection failed in practice** — how the relevant constitutional, statutory, policy or institutional commitment was narrowed, evaded, disregarded, delayed or underenforced. When the story does not involve a constitutional promise, identify the actual promise, duty or standard that failed.
+3. **Who benefited** — identify traceable political, institutional, personal or economic advantages, distinguishing documented beneficiaries from hypotheses.
+4. **Who paid** — identify who bore financial, legal, physical, psychological and intergenerational burdens; show what remained uncompensated or uncorrected.
+5. **Exactly which documented decisions made it possible** — name the decision-makers, decisions, chronology, authority, notice, opposition and effect. Do not stop at abstractions such as "the system."
+6. **What readers can realistically do now** — credible routes to evidence, oversight, correction, participation, and remedy.
+
+**The “Wait. What? They actually did that?” test:** Include at least one compelling, precisely sourced and context-preserving fact or sequence whose surprising implications ordinary readers can see for themselves. Earn surprise through evidence, not exaggerated claims, manufactured outrage or rhetorical tricks. Enable readers to check original records.
+
+**Evidence rules:** Present direct fact, documentary purpose, circumstantial evidence, strongly supported inference, hypothesis, counterevidence and unresolved issues as distinct categories where relevant. Do not demand an explicit admission when convergent evidence supports a reasoned inference. Do not present inference as proven intent, or omit an inconvenient documented explanation. Include known challenges, objections and resistance so "went unchallenged" is not implied falsely. Link injury to beneficiaries and to actual restoration after notice.
+
+**Writing and QA:** Full developed paragraphs, flowing editorial prose, restrained headings, Regular Joe clarity on first reading. No choppy stacked one-liners, performative mic drops, generic AI rhetoric, or repetition. Verify factual/legal claims and links; perform a second editorial and comprehension review; test for duplicates and distinguish developments; correct all flagged issues before publication. Only mark double-reviewed once both passes are complete. The website article, receipts, recipes/action, accountability ledger, and separate correctly sized Facebook and Instagram texts form one Full Package. Publication must obey the existing daily limit and deployment verification.
+
 ## Permanent publication standards
 
 - Publish no more than one editorial per calendar day.

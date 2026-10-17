@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-10-16",
+  "last_reconciled": "2026-10-17",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -490,6 +490,27 @@
         "confirm deployment source",
         "HTML/image/navigation and public URL verification"
       ]
+    },
+    {
+      "position": 13,
+      "title": "The House Was Full. The Homelessness Definition Still Had an Empty Seat.",
+      "slug": "the-house-was-full-the-homelessness-definition-still-had-an-empty-seat",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "scheduled_date": null,
+      "source": "editorial-packages/TMS_TRIBAL_HOMELESSNESS_DEFINITION_EMPTY_SEAT_PUBLICATION_PACKAGE_2026-10-17.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Water Project Was Built. The Missing Money Was for Keeping It Alive.",
+          "distinction": "Tribal homelessness definitions, doubled-up housing and CoC access rather than water-system construction and maintenance funding."
+        }
+      ],
+      "review_1": "2026-10-17 GAO methodology, program definition, attribution and preliminary-status audit",
+      "review_2": "2026-10-17 Regular Joe clarity, respectful framing, counterargument, action, metadata and social audit",
+      "notes": "GAO evidence is preliminary and interviews are nongeneralizable. No national count or universal doubled-up eligibility claim. Refresh for final GAO work and HUD guidance; complete live uniqueness, HTML/image/navigation and deployment checks."
     }
   ],
   "counts": {
@@ -1521,8 +1542,7 @@
     "Medicaid/SNAP work requirements",
     "Broader Trump Receipt accounting",
     "Rape-sentencing evidence review",
-    "Arkansas rural maternal health",
-    "Tribal homelessness evidence"
+    "Arkansas rural maternal health"
   ],
   "unfinished_completion_2026_10_16": [
     {
@@ -1543,5 +1563,25 @@
       "reviews": 2,
       "status": "approved_queued_unpublished"
     }
-  ]
+  ],
+  "daily_editorial_completion_2026_10_17": {
+    "title": "The House Was Full. The Homelessness Definition Still Had an Empty Seat.",
+    "position": 13,
+    "status": "approved_queued_full_finished",
+    "source": "editorial-packages/TMS_TRIBAL_HOMELESSNESS_DEFINITION_EMPTY_SEAT_PUBLICATION_PACKAGE_2026-10-17.md",
+    "commit": "e23722269f6d1f34398e95fddbb12f27b0fe0ecd",
+    "reviews_completed": 2,
+    "notes": "Moved from the unfinished evidence ledger into publication-ready reserve inventory. Not published."
+  },
+  "reconciliation_notes_2026_10_17": {
+    "counts": {
+      "full_finished_unpublished_eligible": 13,
+      "full_finished_currently_queued": 13,
+      "full_finished_retired_or_replaced": 4,
+      "status_verification_required": 2
+    },
+    "new_completion": "The House Was Full. The Homelessness Definition Still Had an Empty Seat.",
+    "remaining_unfinished_priorities": 4,
+    "next_queue_item": "Germany Has a Way to Keep the Power On. Can People Use It?"
+  }
 }

@@ -253,3 +253,17 @@
   .mobile-menu nav a{padding:11px 10px;border-bottom:1px solid #ded7cd;text-decoration:none;font-size:11px;font-weight:700;text-transform:uppercase}
   .site-header > nav:not(.desktop-nav){flex-basis:100%;min-width:0}
 }
+
+/* Something Worth Sharing — permanent editorial-adjacent daily feature */
+.daily-sharing{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.5fr);gap:clamp(22px,5vw,70px);max-width:var(--max);margin:0 auto;padding:clamp(48px,6vw,88px) 24px;border-bottom:1px solid #d6cbbd;align-items:start}
+.daily-sharing-intro h2,.sharing-page h1{font-size:clamp(34px,4.4vw,62px);line-height:1.1;margin:10px 0 20px;font-weight:500}
+.daily-sharing-intro>p:not(.eyebrow){max-width:42ch;color:var(--muted);font-size:18px}
+.daily-archive-link{font:700 12px Arial,sans-serif;letter-spacing:.06em;color:var(--red);display:inline-block;margin-top:16px}
+.daily-sharing-feature{background:#fffaf2;border:1px solid #d9cec0;padding:clamp(25px,4vw,52px);box-shadow:0 8px 22px rgba(25,18,10,.04)}
+.daily-entry .eyebrow{color:var(--red);font:700 11px Arial,sans-serif;letter-spacing:.12em;text-transform:uppercase}
+.daily-entry h3{font-size:clamp(28px,3vw,43px);line-height:1.14;margin:14px 0 24px;font-weight:500}
+.daily-entry p:not(.eyebrow){font-size:clamp(16px,1.4vw,19px);line-height:1.7;margin:0 0 17px}
+.sharing-page{max-width:1000px;margin:0 auto;padding:clamp(38px,6vw,86px) 24px 100px}
+.sharing-page .sharing-lead{font-size:20px;max-width:60ch;color:var(--muted);margin-bottom:40px}
+.sharing-page .daily-entry{background:#fffaf2;border:1px solid #d9cec0;padding:clamp(26px,5vw,64px)}
+@media(max-width:760px){.daily-sharing{grid-template-columns:1fr;padding:42px 20px}.daily-sharing-feature{padding:25px}.sharing-page{padding:42px 20px 70px}}

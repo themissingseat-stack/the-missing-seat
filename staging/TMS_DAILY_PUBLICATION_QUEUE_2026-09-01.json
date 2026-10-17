@@ -23,7 +23,7 @@
   },
   "deployment": {
     "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "October 16 religious-accommodation article and shell updates are committed to GitHub main and awaiting public propagation. The older October 12 job-support homepage visibility item also remains open."
+    "status": "Public themissingseat.org surfaces returned HTTP 403 during the October 17 prepublication check. The October 16 religious-accommodation propagation and older job-support homepage item therefore could not be independently closed. No new article was released."
   },
   "published_record": [
     {
@@ -1582,6 +1582,38 @@
     },
     "new_completion": "The House Was Full. The Homelessness Definition Still Had an Empty Seat.",
     "remaining_unfinished_priorities": 4,
-    "next_queue_item": "Germany Has a Way to Keep the Power On. Can People Use It?"
-  }
+    "next_queue_item": "Germany Has a Way to Keep the Power On. Can People Use It?",
+    "publication": "No publication; next approved Germany energy-debt story held because independent live-site checks returned HTTP 403.",
+    "current_law_refresh": "Bundesnetzagentur current guidance verified disconnection thresholds, notice, proportionality, vulnerability and §41g basic-supply agreement route.",
+    "story_briefs_added": 3
+  },
+  "story_briefs_2026_10_17": [
+    {
+      "title": "Three Insurers Held Most of the Market. How Much Choice Did the Card Really Offer?",
+      "seat_affected": "People buying individual or employer health insurance, including workers and small businesses",
+      "status": "GAO market-concentration finding; concentration may affect choice and premiums but does not by itself prove a specific price increase",
+      "sources": [
+        "https://www.gao.gov/products/gao-27-108927"
+      ],
+      "notes": "GAO reported October 16 that three or fewer insurers held at least 80% enrollment share in individual and employer-group markets in at least 36 states in 2024. Individual-market concentration peaked in 2019 and eased somewhat afterward."
+    },
+    {
+      "title": "The Military Kept the Record. One Request Exposed Someone Else's Information.",
+      "seat_affected": "Service members and veterans seeking timely access to personnel or health records",
+      "status": "GAO management and covert-test findings; 49 reported breaches are incidents, not a complete national count of all improper disclosures",
+      "sources": [
+        "https://www.gao.gov/products/gao-27-107784"
+      ],
+      "notes": "GAO reported almost 50 improper releases affecting more than 1,000 service members during fiscal years 2021–2025. In its 26-request covert test, 18 were processed and one improperly exposed personally identifiable information. Five recommendations remain open."
+    },
+    {
+      "title": "The Job Was Informal. The Right to Be Safe Wasn't.",
+      "seat_affected": "Informal workers, especially women, migrants, domestic workers, street vendors and home-based workers",
+      "status": "ILO policy analysis and promising practices; comparable global prevalence evidence specific to informal workers remains limited",
+      "sources": [
+        "https://www.ilo.org/resource/news/protection-violence-and-harassment-cannot-wait-formalization-new-ilo-briefs"
+      ],
+      "notes": "ILO said weak inspection, dispersed employer responsibility, economic insecurity and limited complaint routes can magnify violence and harassment risks. It expressly cautioned that comparable global evidence specific to informal workers is limited."
+    }
+  ]
 }

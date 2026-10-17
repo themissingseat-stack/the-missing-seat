@@ -136,3 +136,12 @@ The table records this workflow’s reconciled publication history, not every hi
 - The package treats GAO's evidence as preliminary, does not create a national count from nongeneralizable interviews, and does not treat all doubled-up or multigenerational households as homeless.
 - Current completed unpublished inventory: **13**, all queued. Four unfinished priorities remain; four retired duplicates and sixteen replacement revisions remain separate.
 - The package is unpublished and remains subject to final GAO/HUD source refresh, live uniqueness, HTML/image/navigation and deployment checks at release.
+
+
+## October 17 story-brief and publication check
+
+- Refreshed the current German energy-disconnection rules for **Germany Has a Way to Keep the Power On. Can People Use It?** against the Bundesnetzagentur's current guidance.
+- The regulator confirms the debt threshold, four-week initial notice, eight-working-day final notice, proportionality and vulnerability safeguards, and the §41g basic-supply agreement route.
+- Held publication because independent public checks of themissingseat.org returned HTTP 403. The required live title/slug, navigation and post-release verification could not be completed safely.
+- Recorded three new verified briefs in the staged ledger: private-health-insurance concentration, military-record privacy and delays, and violence protections for informal workers.
+- Counts remain **13 finished unpublished / 13 queued / 4 retired / 2 requiring status verification**. Next queue item remains the Germany energy-debt editorial.

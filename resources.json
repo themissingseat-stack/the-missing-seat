@@ -19,6 +19,27 @@
     "verified": "2026-09-02"
   },
   {
+    "id": "lads-berlin-de",
+    "name": "Berlin State Office for Equal Treatment and Against Discrimination (LADS)",
+    "region": "Germany",
+    "type": "Get Help",
+    "topics": [
+      "discrimination",
+      "racial-justice",
+      "equal-treatment",
+      "human-rights",
+      "berlin"
+    ],
+    "actions": [
+      "Know your rights",
+      "Find anti-discrimination information",
+      "Contact the Berlin state office"
+    ],
+    "description": "Berlin's state anti-discrimination office. Provides information on equal-treatment law, discrimination, publications and Berlin's anti-discrimination work, and connects readers to contact and advisory infrastructure.",
+    "url": "https://www.berlin.de/sen/lads/en/",
+    "verified": "2026-10-17"
+  },
+  {
     "id": "dimr-de",
     "name": "Deutsches Institut für Menschenrechte",
     "region": "Germany",

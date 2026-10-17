@@ -1,4 +1,4 @@
-# TMS Daily Editorial Queue — Reconciled 2026-10-16
+# TMS Daily Editorial Queue — Reconciled 2026-10-17
 
 **Source of truth:** verified live pages and published HTML/commits take precedence over stale queue labels. The staged JSON on branch `tms-daily-queue-2026-09-01` is the machine-readable companion to this ledger.
 
@@ -14,8 +14,8 @@
 
 | Ledger category | Count |
 |---|---:|
-| Full finished unpublished, eligible | 12 |
-| Full finished currently queued | 12 |
+| Full finished unpublished, eligible | 13 |
+| Full finished currently queued | 13 |
 | Retired/replaced finished editorials | 4 |
 | Requiring live/repository status verification | 2 |
 
@@ -35,6 +35,7 @@
 | 10 | The Building Failed. The Children Lost the School Day. | `the-building-failed-the-children-lost-the-school-day` | approved_queued_full_finished | The Absence Rate Was Over 100%. The Oversight Had Already Stopped.: Physical facilities, instructional closures and local repair responsibility rather than federal absenteeism calculations and ESEA monitoring. | [Full package](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_SCHOOL_BUILDING_FAILED_CHILDREN_LOST_DAY_PUBLICATION_PACKAGE_2026-10-16.md). Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain. |
 | 11 | The Job Center Was Open. The Help Still Wasn't Accessible. | `the-job-center-was-open-the-help-still-wasnt-accessible` | approved_queued_full_finished | Two Agencies Fund the Support. The Worker Still Gets Left Waiting.: Access to job-center appointments and training rather than sequential VR/Medicaid support funding. | [Full package](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_JOB_CENTER_ACCESS_PUBLICATION_PACKAGE_2026-10-16.md). Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain. |
 | 12 | The Loan Rule Changed. Were the Instructions Ready? | `the-loan-rule-changed-were-the-instructions-ready` | approved_queued_full_finished | The College Took the Money. The Outcome Data Is Late.: Education's implementation instructions to loan servicers rather than institutions' outcome-data reporting. | [Full package](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_LOAN_RULE_CHANGED_INSTRUCTIONS_NOT_READY_PUBLICATION_PACKAGE_2026-10-16.md). Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain. |
+| 13 | The House Was Full. The Homelessness Definition Still Had an Empty Seat. | `the-house-was-full-the-homelessness-definition-still-had-an-empty-seat` | approved_queued_full_finished | The Water Project Was Built. The Missing Money Was for Keeping It Alive.: Tribal homelessness definitions, doubled-up housing and CoC access rather than water-system construction and maintenance funding. | [Full package](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_TRIBAL_HOMELESSNESS_DEFINITION_EMPTY_SEAT_PUBLICATION_PACKAGE_2026-10-17.md). GAO evidence is preliminary and interview samples are nongeneralizable. Refresh for final GAO work and HUD guidance; complete live uniqueness, HTML/image/navigation and deployment checks. |
 
 ## Published record — do not requeue
 
@@ -126,3 +127,12 @@ The table records this workflow’s reconciled publication history, not every hi
 - [Evidence ledger and specific remaining blockers](https://github.com/themissingseat-stack/the-missing-seat/blob/main/TMS_UNFINISHED_STORIES_EVIDENCE_LEDGER_2026-10-16.md). Research remains outside the finished count.
 - Current completed unpublished inventory: **12**, all queued. Four retired duplicates and sixteen replacement revisions remain separate.
 - No public article was released in this completion run. Independent live archive retrieval returned 403; release checks remain required.
+
+
+## October 17 editorial completion
+
+- Completed, reviewed twice and approved **The House Was Full. The Homelessness Definition Still Had an Empty Seat.**
+- Moved Tribal homelessness from unfinished research into finished reserve inventory at queue position 13.
+- The package treats GAO's evidence as preliminary, does not create a national count from nongeneralizable interviews, and does not treat all doubled-up or multigenerational households as homeless.
+- Current completed unpublished inventory: **13**, all queued. Four unfinished priorities remain; four retired duplicates and sixteen replacement revisions remain separate.
+- The package is unpublished and remains subject to final GAO/HUD source refresh, live uniqueness, HTML/image/navigation and deployment checks at release.

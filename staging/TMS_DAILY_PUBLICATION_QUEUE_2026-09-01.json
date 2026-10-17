@@ -1,0 +1,1619 @@
+{
+  "schema_version": 3,
+  "created": "2026-08-31",
+  "last_reconciled": "2026-10-17",
+  "timezone": "Europe/Berlin",
+  "policy": {
+    "cadence": "no more than one editorial per calendar day",
+    "publication_order": "dynamic based on verified live publication; blocked items remain waiting",
+    "prepublish_checks": [
+      "Confirm title/slug is not already live",
+      "Confirm material distinctness from live TMS coverage",
+      "Recheck factual claims, dates, source links, verification notice and legal allegation/settlement language",
+      "After publication, verify live article URL and archive visibility",
+      "Pass the Regular Joe and AI-error review: normal paragraphs, plain language, no repetition or AI theatrics, strongest verified evidence, clear beneficiary/burden/power/action",
+      "Confirm the shared editorial template renders as a serious, readable page on desktop and mobile; online is not the same as finished"
+    ],
+    "excluded_retired_duplicates": [
+      "TMS 050: When AI Accuses You, Who Checks the Machine?",
+      "TMS 052: Who Gave the Court the Last Word?",
+      "TMS 053: Who Gets to Edit the National Memory?",
+      "TMS 056: She Was Seven. America Had 104 Years."
+    ]
+  },
+  "deployment": {
+    "source": "GitHub main: themissingseat-stack/the-missing-seat",
+    "status": "Public themissingseat.org surfaces returned HTTP 403 during the October 17 prepublication check. The October 16 religious-accommodation propagation and older job-support homepage item therefore could not be independently closed. No new article was released."
+  },
+  "published_record": [
+    {
+      "title": "He Asked to Break His Fast. He Allegedly Lost His Job.",
+      "slug": "he-asked-to-break-his-fast-he-allegedly-lost-his-job.html",
+      "published_verified": "2026-10-16",
+      "publication_status": "published_to_github_main_public_propagation_pending",
+      "source": "editorial-packages/TMS_HE_ASKED_TO_BREAK_HIS_FAST_PUBLICATION_PACKAGE_2026-10-08.md",
+      "article_commit": "65133aa24eb2213a7e3db09e42d5e08bc3cefeba",
+      "notes": "Direct article returned HTTP 404 and public shells had not yet displayed the title during immediate check. Do not republish."
+    },
+    {
+      "title": "Before You Cut Care, Did You Stop Paying More for the Same Care?",
+      "slug": "before-you-cut-care-stop-paying-more-for-same-care.html",
+      "published_verified": "2026-10-15",
+      "publication_status": "published_live_verified",
+      "source": "editorial-packages/TMS_BEFORE_YOU_CUT_CARE_SITE_NEUTRAL_MEDICARE_PUBLICATION_PACKAGE.md",
+      "article_commit": "7404af02eb86a7e3d35791ec44363f7c38ea2064",
+      "notes": "Direct article, homepage, archive and RSS returned HTTP 200 and displayed the title on October 15, 2026."
+    },
+    {
+      "title": "How Far Have We Come? Show Me the Receipt.",
+      "slug": "how-far-have-we-come-show-me-the-receipt.html",
+      "published_verified": "2026-09-05"
+    },
+    {
+      "title": "The Navy Spent $3.4 Billion Keeping Submarines and Crews Waiting",
+      "slug": "the-navy-spent-3-4-billion-keeping-submarines-and-crews-waiting.html",
+      "published_verified": "2026-09-05"
+    },
+    {
+      "title": "The Apartment Was Available. Access Still Wasn't.",
+      "slug": "the-apartment-was-available-access-still-wasnt.html",
+      "published_verified": "2026-09-05"
+    },
+    {
+      "title": "The Government Isn't the Public's Boss",
+      "slug": "the-government-isnt-the-publics-boss.html",
+      "published_verified": "2026-09-05"
+    },
+    {
+      "title": "Two Tenants Were Incarcerated. Only One Allegedly Lost the Keys.",
+      "slug": "two-tenants-were-incarcerated-only-one-allegedly-lost-the-keys.html",
+      "published_verified": "2026-09-05"
+    },
+    {
+      "title": "The Campaign Was the Ad. We’re Stuck With the Bill.",
+      "slug": "the-campaign-was-the-ad-were-stuck-with-the-bill.html",
+      "published_verified": "2026-09-27"
+    },
+    {
+      "title": "They Trusted Black Women With Their Babies. Just Not With Power.",
+      "slug": "they-trusted-black-women-with-their-babies-just-not-with-power.html",
+      "published_verified": "2026-09-28"
+    },
+    {
+      "title": "They Served the United States. The Nearest VA Care May Be an Ocean Away.",
+      "slug": "they-served-the-united-states-the-nearest-va-care-may-be-an-ocean-away.html",
+      "published_verified": "2026-09-29",
+      "source": "staging/editorials/TMS_They_Served_The_United_States_VA_Care_Publication_Package_2026-09-28.md",
+      "drive_url": "https://drive.google.com/file/d/1odRtxQ_FznwKhuoyrDnPLWMM8JCMuRpk/view?usp=drivesdk"
+    },
+    {
+      "title": "The HR Manager Said No to Discrimination. Then She Allegedly Lost Her Job.",
+      "slug": "the-hr-manager-said-no-to-discrimination-then-she-allegedly-lost-her-job.html",
+      "published_verified": "2026-09-30",
+      "source": "staging/editorials/TMS_The_HR_Manager_Said_No_Publication_Package_2026-09-29.md",
+      "drive_url": "https://drive.google.com/file/d/1xqA6wM2c8xbDTUD6zmb6J0UQBcjyYOO9/view?usp=drivesdk"
+    },
+    {
+      "title": "The Efficiency Team Got Access. The Public Still Cannot See the Security Receipt.",
+      "slug": "the-efficiency-team-got-access-the-public-still-cannot-see-the-security-receipt.html",
+      "published_verified": "2026-10-01",
+      "source": "staging/editorials/TMS_The_Efficiency_Team_Got_Access_Publication_Package_2026-09-30.md",
+      "drive_url": "https://drive.google.com/file/d/1P8kSuT3MkcfbRz3V52-o10F8HsDwbJxQ/view?usp=drivesdk",
+      "notes": "Direct live article URL verified October 1, 2026. Archive was still serving the prior card list during the same check, so navigation/cache visibility remains pending."
+    },
+    {
+      "title": "The Water Project Was Built. The Missing Money Was for Keeping It Alive.",
+      "slug": "the-water-project-was-built-the-missing-money-was-for-keeping-it-alive.html",
+      "published_verified": "2026-10-03",
+      "publication_commit_date": "2026-10-02",
+      "source": "staging/editorials/TMS_The_Water_Project_Was_Built_Publication_Package_2026-10-01.md",
+      "drive_url": "https://drive.google.com/file/d/1lVT-AEPvaDkM9NZ8jMzQFiWQ7EBHMT1g/view?usp=drivesdk",
+      "notes": "Direct live article URL verified October 3, 2026."
+    },
+    {
+      "title": "The Absence Rate Was Over 100%. The Oversight Had Already Stopped.",
+      "slug": "the-absence-rate-was-over-100-percent-the-oversight-had-already-stopped.html",
+      "published_verified": "2026-10-03",
+      "publication_commit_date": "2026-10-02",
+      "source": "staging/editorials/TMS_The_Absence_Rate_Was_Over_100_Percent_Publication_Package_2026-10-02.md",
+      "drive_url": "https://drive.google.com/file/d/1LfEcZpIJS3sUIGVrI2YUtDJlLmLOQ1Q7/view?usp=drivesdk",
+      "notes": "Direct live article URL verified October 3, 2026. GitHub main contains the homepage feature, archive lead card and RSS entry, but the served archive still lacks the card; navigation/cache synchronization remains unresolved."
+    },
+    {
+      "title": "The Disaster Plan Included Everyone. The Training for Disability Access Disappeared.",
+      "slug": "the-disaster-plan-included-everyone-the-training-for-disability-access-disappeared.html",
+      "published_verified": "2026-10-03",
+      "source": "GitHub main commit b05dd9bb830a69afeaba13e91ee0c5935815a8ca",
+      "notes": "Direct article and archive card verified live October 4, 2026."
+    },
+    {
+      "title": "America Keeps Measuring Black Anger. Who Is Measuring Black Strength?",
+      "slug": "black-strength-mental-cost-racism.html",
+      "published_verified": "2026-10-04",
+      "source": "editorial-packages/TMS_Black_Strength_English_Package.md; GitHub main commit 418e8d3cf7c17c9451d1b0bc9f48b24624ae3794",
+      "notes": "Published by Jansen's explicit immediate-publication instruction. Direct archive card and URL verified live October 4, 2026."
+    },
+    {
+      "title": "The Absurdity of Being Black in America",
+      "slug": "the-absurdity-of-being-black-in-america.html",
+      "published_verified": "2026-10-05",
+      "source": "editorial-packages/TMS_THE_ABSURDITY_OF_BEING_BLACK_IN_AMERICA_PUBLICATION_PACKAGE.md; GitHub main commit 1543191527fc0cf89ad5abdf777ed2a97790c549",
+      "notes": "Direct article, homepage feature, archive card and Race & Equal Humanity topic card verified live October 5, 2026."
+    },
+    {
+      "title": "You Can Talk About Racism and Still Be Happy",
+      "slug": "you-can-talk-about-racism-and-still-be-happy.html",
+      "published_verified": "2026-10-07",
+      "publication_commit_date": "2026-10-06",
+      "source": "GitHub main commit ce246633; live direct URL and served archive verified October 7, 2026.",
+      "notes": "The live page, served editorial archive, GitHub homepage, Race & Equal Humanity topic page and feed entry were reconciled. This was not an item in the active staged queue."
+    },
+    {
+      "title": "She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.",
+      "slug": "she-was-qualified-to-repair-the-pallets-the-company-allegedly-only-hired-men.html",
+      "published_verified": "2026-10-08",
+      "publication_commit_date": "2026-10-07",
+      "notes": "Canonical main queue marks published; title and article link independently observed in served archive October 8. Pallet archive card appears twice."
+    },
+    {
+      "title": "The Cloud Has an Address. Somebody Else Is Paying the Bill.",
+      "slug": "the-cloud-has-an-address-somebody-else-is-paying-the-bill.html",
+      "published_verified": "2026-10-08",
+      "publication_commit_date": "2026-10-07",
+      "notes": "Canonical main queue marks published; title and article link independently observed in served archive October 8. Pallet archive card appears twice."
+    },
+    {
+      "title": "The Warning Arrived. The Language Did Not.",
+      "slug": "the-warning-arrived-the-language-did-not.html",
+      "published_verified": "2026-10-10",
+      "source": "editorial-packages/TMS_THE_WARNING_ARRIVED_THE_LANGUAGE_DID_NOT_2026-10-05.md; GitHub main publication commit 7bb4b143d0ccf84c937156aa48bb7b7753f958cf",
+      "notes": "GAO recommendation remained open. FCC multilingual template scope and June 12, 2028 compliance date verified in the January 20, 2026 Federal Register notice. Live archive matched GitHub main before publication."
+    },
+    {
+      "title": "Learning to Unlearn",
+      "slug": "learning-to-unlearn.html",
+      "published_verified": "2026-10-11",
+      "source": "editorial-packages/TMS_LEARNING_TO_UNLEARN_REGULAR_JOE_EDITORIAL_PACKAGE.md; GitHub main commit e6d7caa68aacf16781859450bdb510efb1074bef",
+      "notes": "Five research links refreshed; live uniqueness and deployment source checked before release."
+    },
+    {
+      "title": "Two Agencies Fund the Support. The Worker Still Gets Left Waiting.",
+      "slug": "two-agencies-fund-the-support-the-worker-still-gets-left-waiting.html",
+      "published_verified": "2026-10-12",
+      "source": "editorial-packages/TMS_JOB_SUPPORT_HANDOFF_2026-10-04.md; GitHub main publication commit 2682dcab623bf8259641625ef54eaebe1237a4d4",
+      "notes": "Direct live article URL verified October 12, 2026. Archive/homepage cache visibility remained pending in the same check."
+    },
+    {
+      "title": "They Served the Country. The Food Benefit Still Missed Them.",
+      "slug": "they-served-the-country-the-food-benefit-still-missed-them.html",
+      "published_verified": "2026-10-13"
+    },
+    {
+      "title": "Germany Created a Seat for Police Complaints. Who Can Actually Use It?",
+      "slug": "germany-created-a-seat-for-police-complaints-who-can-actually-use-it.html",
+      "published_verified": "2026-10-14",
+      "source": "editorial-packages/TMS_GERMANY_POLICE_COMPLAINTS_PUBLICATION_PACKAGE_2026-10-06.md; GitHub main article commit 5142770b9dd20ef58fac4fa3c4e094d19a075103",
+      "notes": "Direct public article URL returned HTTP 200 and title matched on October 14. Homepage, archive, Democracy & Government topic page and RSS had not yet refreshed; shell propagation remains in status verification. Do not republish."
+    }
+  ],
+  "queue": [
+    {
+      "position": 1,
+      "title": "Germany Has a Way to Keep the Power On. Can People Use It?",
+      "slug": "germany-has-a-way-to-keep-the-power-on-can-people-use-it",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Standing two-review instruction",
+      "scheduled_date": null,
+      "source": "editorial-packages/TMS_GERMANY_KEEP_THE_POWER_ON_PUBLICATION_PACKAGE_2026-10-09.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Apartment Was Available. Access Still Wasn't.",
+          "distinction": "German energy-debt and disconnection protection, not U.S. disability housing accommodation."
+        }
+      ],
+      "related_unpublished_comparators": [
+        {
+          "title": "Germany Created a Seat for Police Complaints. Who Can Actually Use It?",
+          "distinction": "Supplier debt remedies and basic supply, not police oversight."
+        }
+      ],
+      "review_1": "2026-10-09 primary current-law/regulator scope audit",
+      "review_2": "2026-10-09 corrected copy, format, fairness, action and socials",
+      "notes": "§41g directly read; §41f timed out and general safeguards checked via regulator. No inaccessible Destatis statistics used. HTML/image/navigation, final current-law/live uniqueness and deployment checks remain."
+    },
+    {
+      "position": 2,
+      "title": "The Disability Hiring Duty Stayed. The Audits Stopped.",
+      "slug": "the-disability-hiring-duty-stayed-the-audits-stopped",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "scheduled_date": null,
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_DISABILITY_HIRING_DUTY_AUDITS_STOPPED_PUBLICATION_PACKAGE_2026-10-09.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Disaster Plan Included Everyone. The Training for Disability Access Disappeared.",
+          "distinction": "Disaster-response access and training, not federal-contractor hiring and Section 503 audit suspension."
+        },
+        {
+          "title": "The Apartment Was Available. Access Still Wasn't.",
+          "distinction": "Housing accommodation, not employment oversight."
+        }
+      ],
+      "related_unpublished_comparators": [
+        {
+          "title": "Two Agencies Fund the Support. The Worker Still Gets Left Waiting.",
+          "distinction": "Vocational-rehabilitation funding handoffs, not contractor compliance audits."
+        }
+      ],
+      "review_1": "2026-10-09 primary GAO/current-law/final-rule claim audit",
+      "review_2": "2026-10-09 corrected copy, legal currency, fairness, action, metadata and social audit",
+      "notes": "Reflects August 21, 2026 rule changes; former 7% goal is not described as current. 532 is audits with findings, not individuals or necessarily unique contractors. Final recommendation/rule status, live uniqueness, HTML/image/navigation and deployment checks remain."
+    },
+    {
+      "position": 3,
+      "title": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.",
+      "slug": "the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "scheduled_date": null,
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GAP_NOT_JUST_PAY_TIME_CARE_POWER_PUBLICATION_PACKAGE_2026-10-10.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.",
+          "distinction": "National structural analysis of earnings, leadership, unpaid work, care and race rather than a specific EEOC hiring settlement."
+        }
+      ],
+      "review_1": "2026-10-10 BLS/Census evidence, definitions, source limitations and race/sex comparison audit",
+      "review_2": "2026-10-10 corrected copy, Regular Joe clarity, counterargument, action, metadata and social audit",
+      "notes": "BLS earnings figures are descriptive medians, not equal-work proof. 2025 occupation figures exclude October; Census childcare result is a working paper. Final table refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
+    },
+    {
+      "position": 4,
+      "title": "The College Took the Money. The Outcome Data Is Late.",
+      "slug": "the-college-took-the-money-the-outcome-data-is-late",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "scheduled_date": null,
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_COLLEGE_TOOK_THE_MONEY_OUTCOME_DATA_LATE_PUBLICATION_PACKAGE_2026-10-11.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Absence Rate Was Over 100%. The Oversight Had Already Stopped.",
+          "distinction": "Postsecondary program-cost and outcome reporting before enrollment, not K–12 chronic-absence data and federal program oversight."
+        }
+      ],
+      "review_1": "2026-10-11 primary evidence, dates and claim posture",
+      "review_2": "2026-10-11 copy, fairness, action, metadata and social review",
+      "notes": "Reporting delinquency is not proof of poor outcomes, fraud or inaccurate submitted records. Refresh January 15 deadline/enforcement, verify uniqueness, and complete HTML/image/navigation/deployment checks."
+    },
+    {
+      "position": 5,
+      "title": "The Complaint Had a 100-Day Clock. The Housing Problem Did Not Wait.",
+      "slug": "the-complaint-had-a-100-day-clock-the-housing-problem-did-not-wait",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "scheduled_date": null,
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_FAIR_HOUSING_100_DAY_CLOCK_PUBLICATION_PACKAGE_2026-10-12.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Apartment Was Available. Access Still Wasn't.",
+          "distinction": "Federal complaint-investigation timeliness and remedy loss, not a specific disability-accommodation dispute."
+        },
+        {
+          "title": "Two Tenants Were Incarcerated. Only One Allegedly Lost the Keys.",
+          "distinction": "Systemwide HUD investigation timeliness, not alleged unequal lease enforcement."
+        }
+      ],
+      "review_1": "2026-10-12 primary evidence, dates and claim posture",
+      "review_2": "2026-10-12 copy, fairness, action, metadata and social review",
+      "notes": "70.2% late-investigation figure covers 2020–2022. HUD's June 2026 27% backlog-reduction claim lacks published baseline and remaining counts. Refresh backlog/OIG status and complete uniqueness, HTML/image/navigation/deployment checks."
+    },
+    {
+      "position": 6,
+      "title": "Germany Promised a Full School Day. Families Need the Hours to Match.",
+      "slug": "germany-promised-a-full-school-day-families-need-the-hours-to-match",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "scheduled_date": null,
+      "source": "editorial-packages/TMS_GERMANY_FULL_SCHOOL_DAY_PUBLICATION_PACKAGE_2026-10-13.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "It Takes a Village. Where Did It Go?",
+          "distinction": "Defined German statutory cohort, hours and holiday limits with a local accountability route, rather than general community support."
+        }
+      ],
+      "review_1": "2026-10-13 current statute and scope audit",
+      "review_2": "2026-10-13 copy, fairness, action, metadata and socials",
+      "notes": "Current §24 directly verified. No national implementation outcome claimed. Final law/live uniqueness, HTML/image/navigation/deployment remain."
+    },
+    {
+      "position": 7,
+      "title": "The Workers Were Teenagers. The Complaint System Was Built for Adults.",
+      "slug": "the-workers-were-teenagers-the-complaint-system-was-built-for-adults",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing instruction: full TMS format plus two completed reviews queues automatically",
+      "scheduled_date": null,
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_THE_WORKERS_WERE_TEENAGERS_PUBLICATION_PACKAGE_2026-10-14.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.",
+          "distinction": "Teenage restaurant-worker safeguarding and complaint-channel design after a harassment settlement, not sex discrimination in hiring."
+        },
+        {
+          "title": "The HR Manager Said No to Discrimination. Then She Allegedly Lost Her Job.",
+          "distinction": "Young workers reporting harassment against workplace power, not an HR professional's alleged retaliation for opposing discriminatory hiring."
+        }
+      ],
+      "review_1": "2026-10-14 EEOC release, 2022 complaint announcement, legal posture, numbers, dates and filing guidance audit",
+      "review_2": "2026-10-14 Regular Joe clarity, TMS format, fairness, counterargument, action, metadata and social audit",
+      "notes": "Settlement is not a court judgment or admission. The EEOC's at-least-100 statement is attributed to the agency. Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
+    },
+    {
+      "position": 8,
+      "canonical_title": "The Military Wants AI Faster. Who Owns the Safety Check?",
+      "slug": "the-military-wants-ai-faster-who-owns-the-safety-check",
+      "status": "approved_queued_full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-15 facts, sources, scope and claim posture",
+      "review_2": "2026-10-15 TMS format, Regular Joe clarity, fairness, duplication and action",
+      "source": "editorial-packages/TMS_MILITARY_AI_SAFETY_CHECK_PUBLICATION_PACKAGE_2026-10-15.md",
+      "scheduled_date": null,
+      "closest_live_comparator": "When AI Accuses You, Who Checks the Machine?",
+      "material_distinction": "Military AI governance, staffing and congressional oversight rather than human review of an individual AI accusation.",
+      "notes": "GAO survey covered 10 selected components and 10 selected use cases. Three-of-ten staffing figure was current as of February 2026. Refresh staffing, recommendation status and live uniqueness before publication.",
+      "release_checks": [
+        "refresh GAO recommendation and staffing status",
+        "independent live title/slug check",
+        "confirm deployment source",
+        "HTML/image and navigation integration"
+      ],
+      "title": "The Military Wants AI Faster. Who Owns the Safety Check?"
+    },
+    {
+      "position": 9,
+      "canonical_title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
+      "slug": "germany-raised-the-minimum-wage-the-paycheck-still-needs-the-hours",
+      "status": "approved_queued_full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-16 primary German sources, estimates, coverage and claim posture",
+      "review_2": "2026-10-16 TMS format, Regular Joe clarity, fairness, duplication and action",
+      "source": "editorial-packages/TMS_GERMANY_MINIMUM_WAGE_HOURS_PUBLICATION_PACKAGE_2026-10-16.md",
+      "scheduled_date": null,
+      "closest_live_comparator": "Germany Has a Way to Keep the Power On. Can People Use It?",
+      "material_distinction": "Wages, recorded working time and labor enforcement rather than household energy debt and electricity disconnection.",
+      "notes": "Destatis figures are upper-limit estimates based on April 2025 data, not proof of individual raises or violations. Refresh rate, enforcement guidance and estimates before publication.",
+      "release_checks": [
+        "refresh BMAS rate and enforcement guidance",
+        "independent live title/slug check",
+        "confirm deployment source",
+        "HTML/image and navigation integration"
+      ],
+      "title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours."
+    },
+    {
+      "position": 10,
+      "title": "The Building Failed. The Children Lost the School Day.",
+      "canonical_title": "The Building Failed. The Children Lost the School Day.",
+      "slug": "the-building-failed-the-children-lost-the-school-day",
+      "status": "approved_queued_full_finished",
+      "completion_status": "full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-16 primary findings, dates, scope and agency response",
+      "review_2": "2026-10-16 finished copy, Regular Joe, fairness, action, source links and distinctness",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_SCHOOL_BUILDING_FAILED_CHILDREN_LOST_DAY_PUBLICATION_PACKAGE_2026-10-16.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "duplication_status": "materially distinct in repository and archive; independent live check required",
+      "related_live_comparators": [
+        {
+          "title": "The Absence Rate Was Over 100%. The Oversight Had Already Stopped.",
+          "distinction": "Physical facilities, instructional closures and local repair responsibility rather than federal absenteeism calculations and ESEA monitoring."
+        }
+      ],
+      "release_checks": [
+        "refresh primary-source status",
+        "independent live title/slug and distinctness check (live access returned 403)",
+        "confirm deployment source",
+        "HTML/image/navigation and public URL verification"
+      ]
+    },
+    {
+      "position": 11,
+      "title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
+      "canonical_title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
+      "slug": "the-job-center-was-open-the-help-still-wasnt-accessible",
+      "status": "approved_queued_full_finished",
+      "completion_status": "full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-16 primary findings, dates, scope and agency response",
+      "review_2": "2026-10-16 finished copy, Regular Joe, fairness, action, source links and distinctness",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_JOB_CENTER_ACCESS_PUBLICATION_PACKAGE_2026-10-16.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "duplication_status": "materially distinct in repository and archive; independent live check required",
+      "related_live_comparators": [
+        {
+          "title": "Two Agencies Fund the Support. The Worker Still Gets Left Waiting.",
+          "distinction": "Access to job-center appointments and training rather than sequential VR/Medicaid support funding."
+        }
+      ],
+      "release_checks": [
+        "refresh primary-source status",
+        "independent live title/slug and distinctness check (live access returned 403)",
+        "confirm deployment source",
+        "HTML/image/navigation and public URL verification"
+      ]
+    },
+    {
+      "position": 12,
+      "title": "The Loan Rule Changed. Were the Instructions Ready?",
+      "canonical_title": "The Loan Rule Changed. Were the Instructions Ready?",
+      "slug": "the-loan-rule-changed-were-the-instructions-ready",
+      "status": "approved_queued_full_finished",
+      "completion_status": "full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-16 primary findings, dates, scope and agency response",
+      "review_2": "2026-10-16 finished copy, Regular Joe, fairness, action, source links and distinctness",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_LOAN_RULE_CHANGED_INSTRUCTIONS_NOT_READY_PUBLICATION_PACKAGE_2026-10-16.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "duplication_status": "materially distinct in repository and archive; independent live check required",
+      "related_live_comparators": [
+        {
+          "title": "The College Took the Money. The Outcome Data Is Late.",
+          "distinction": "Education's implementation instructions to loan servicers rather than institutions' outcome-data reporting."
+        }
+      ],
+      "release_checks": [
+        "refresh primary-source status",
+        "independent live title/slug and distinctness check (live access returned 403)",
+        "confirm deployment source",
+        "HTML/image/navigation and public URL verification"
+      ]
+    },
+    {
+      "position": 13,
+      "title": "The House Was Full. The Homelessness Definition Still Had an Empty Seat.",
+      "slug": "the-house-was-full-the-homelessness-definition-still-had-an-empty-seat",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "scheduled_date": null,
+      "source": "editorial-packages/TMS_TRIBAL_HOMELESSNESS_DEFINITION_EMPTY_SEAT_PUBLICATION_PACKAGE_2026-10-17.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Water Project Was Built. The Missing Money Was for Keeping It Alive.",
+          "distinction": "Tribal homelessness definitions, doubled-up housing and CoC access rather than water-system construction and maintenance funding."
+        }
+      ],
+      "review_1": "2026-10-17 GAO methodology, program definition, attribution and preliminary-status audit",
+      "review_2": "2026-10-17 Regular Joe clarity, respectful framing, counterargument, action, metadata and social audit",
+      "notes": "GAO evidence is preliminary and interviews are nongeneralizable. No national count or universal doubled-up eligibility claim. Refresh for final GAO work and HUD guidance; complete live uniqueness, HTML/image/navigation and deployment checks."
+    }
+  ],
+  "counts": {
+    "full_finished_unpublished_eligible": 12,
+    "full_finished_currently_queued": 12,
+    "full_finished_retired_or_replaced": 4,
+    "status_verification_required": 2
+  },
+  "pending_priority_requests": [
+    {
+      "title": "The Government Calls It a Work Requirement. The Receipt May Show a Coverage-Removal System.",
+      "topic": "Medicaid and SNAP restrictions",
+      "requested_action": "Prepare web, Facebook and Instagram package and publish as soon as safely verified.",
+      "ledger_status": "not_counted_as_full_finished",
+      "reason": "No complete standalone package was found in Google Drive or GitHub on 2026-09-14; conversation material is substantial but the requested consolidated web/FB/IG publication package and prepublication evidence pass are not yet recoverable as a finished artifact."
+    },
+    {
+      "title": "The Trump Receipt: Who Benefited, Who Paid, and What Will America Be Left With?",
+      "topic": "Broad Trump accounting",
+      "requested_action": "Complete the broader accounting covering Black America, all Americans, personal and family benefit, claimed accomplishments, and lasting balance.",
+      "ledger_status": "not_counted_as_full_finished",
+      "reason": "The live Black America ledger is narrower than the requested comprehensive package; no complete standalone package has been verified."
+    }
+  ],
+  "website_quality_status": {
+    "as_of": "2026-10-08",
+    "status": "release_held",
+    "finding": "Live archive accessible. Pallet hiring appears twice; Cloud is visible. Six approved finished stories remain queued. No publication attempted: exact FCC implementation date link inaccessible and current deployment configuration not independently recovered.",
+    "priority_order": [
+      "Verify FCC effective date and current deployment source before releasing first queued story",
+      "Remove duplicate pallet archive card without recreating article",
+      "Deliver second Germany full package by October 9",
+      "Preserve existing website reconciliation backlog and replacement work"
+    ]
+  },
+  "story_briefs_2026_09_28": [
+    {
+      "title": "The Warning Arrived. Just Not in Your Language.",
+      "seat_affected": "People with limited English proficiency during severe weather",
+      "source": "https://www.gao.gov/products/gao-26-107680",
+      "status": "verified GAO finding; AI alert project planning shortcomings are agency-program findings, not proof that every alert failed"
+    },
+    {
+      "title": "The Job Center Was Open. Access Was Still Missing.",
+      "seat_affected": "Job seekers with disabilities",
+      "source": "https://www.gao.gov/products/gao-26-107473",
+      "status": "verified GAO finding; more than 500,000 were unemployed and actively seeking work annually in 2021–2024"
+    },
+    {
+      "title": "The Loan Rule Changed. Did Anyone Tell the Servicer?",
+      "seat_affected": "Federal student-loan borrowers",
+      "source": "https://www.gao.gov/products/gao-26-107780",
+      "status": "verified GAO report, publicly released August 6, 2026"
+    }
+  ],
+  "story_briefs_2026_09_29": [
+    {
+      "title": "The HR Manager Said No to Discrimination. Then She Allegedly Lost Her Job.",
+      "seat_affected": "Black, female, and Afghan job applicants, plus workers who oppose discrimination",
+      "source": "https://www.eeoc.gov/newsroom/mile-hi-foods-pay-15-million-eeoc-race-sex-and-national-origin-discrimination-lawsuit",
+      "status": "EEOC allegations resolved by a $1.5 million settlement and three-year consent decree; allegations were not adjudicated findings."
+    },
+    {
+      "title": "The School Was Open on Paper. The Building Said Otherwise.",
+      "seat_affected": "Students in districts with unsafe or failing school facilities",
+      "source": "https://www.gao.gov/products/gao-26-107970",
+      "status": "GAO nationwide survey estimates, publicly released September 14, 2026; estimates carry sampling uncertainty."
+    },
+    {
+      "title": "A Fair Housing Complaint Cannot Protect You If It Sits in a Backlog.",
+      "seat_affected": "Families with children, disabled tenants, and people reporting housing-related sexual harassment",
+      "source": "https://www.hud.gov/news/hud-no-26-069",
+      "status": "HUD charges are allegations, not adjudicated findings; backlog-reduction figure is HUD's reported administrative metric."
+    }
+  ],
+  "story_briefs_2026_09_30": [
+    {
+      "title": "The Efficiency Team Got Access. The Public Still Cannot See the Security Receipt.",
+      "seat_affected": "People whose personal information sits in federal systems",
+      "source": "https://www.gao.gov/products/gao-26-108192",
+      "status": "GAO finding released September 29, 2026; GAO could not determine the full access or controls because agencies provided incomplete information. This is an assurance gap, not proof of a data breach."
+    },
+    {
+      "title": "Fertility Care Exists. Some Veterans May Not Know They Qualify.",
+      "seat_affected": "Veterans seeking fertility care, including male veterans",
+      "source": "https://www.gao.gov/products/gao-26-108492",
+      "status": "GAO finding released September 29, 2026; about 30,000 veterans had an infertility diagnosis in FY2025. GAO found communication and eligibility-process weaknesses and made two open recommendations, both accepted by VA."
+    },
+    {
+      "title": "The Plan Said No-Cost Birth Control. Some Patients Still Paid or Had to Fail First.",
+      "seat_affected": "Women and others relying on private insurance for contraception",
+      "source": "https://www.gao.gov/products/gao-26-108446",
+      "status": "GAO report released September 24, 2026; federal investigations found specific instances of noncompliance, not evidence that every health plan violated the requirement."
+    }
+  ],
+  "story_briefs_2026_10_01": [
+    {
+      "title": "The Water Project Was Built. The Missing Money Was for Keeping It Alive.",
+      "seat_affected": "Tribal residents relying on safe drinking-water and wastewater systems",
+      "source": "https://www.gao.gov/products/gao-26-107178",
+      "status": "GAO findings published September 22, 2026. The $6 billion figure is IHS's November 2025 construction-need estimate; proposed statutory changes and maintenance pilot remain open, not implemented."
+    },
+    {
+      "title": "The Absence Rate Was Over 100%. The Oversight Had Already Stopped.",
+      "seat_affected": "K-12 students, especially in low-performing and high-turnover schools",
+      "source": "https://www.gao.gov/products/gao-26-107920",
+      "status": "GAO findings published September 23, 2026. GAO found mismatched data timeframes and suspended comprehensive monitoring; Education agreed with one recommendation and disagreed with two."
+    },
+    {
+      "title": "She Needed Time for Chemotherapy. The Attendance System Allegedly Counted It Against Her.",
+      "seat_affected": "Workers with cancer and other disabilities seeking reasonable accommodation",
+      "source": "https://www.eeoc.gov/newsroom/butterball-resolves-eeoc-disability-discrimination-lawsuit-230000",
+      "status": "EEOC allegations resolved by a $230,000 consent decree on September 15, 2026; no trial finding of liability. The decree requires accommodation processes, multilingual leave policies, training and reporting."
+    }
+  ],
+  "deployment_pending_record": [],
+  "story_briefs_2026_10_02": [
+    {
+      "title": "The Court File Closed. Did the Equal School Arrive First?",
+      "seat_affected": "Black students and families in districts formerly operating legally segregated school systems",
+      "source": "https://www.justice.gov/opa/pr/justice-department-ends-over-50-half-century-old-desegregation-cases-throughout-united",
+      "status": "DOJ announced more than 50 dismissals and says it uses case-by-case unitary-status review. District-specific proof must be tested before drawing conclusions about present conditions."
+    },
+    {
+      "title": "ICE Bought Eleven Warehouses. Seven Are Already Headed Back Out the Door.",
+      "seat_affected": "People held in immigration detention and taxpayers",
+      "source": "https://www.gao.gov/products/gao-26-108663",
+      "status": "GAO finding published September 24, 2026. ICE reported more than $20 million in unrecoverable costs; DHS accepted the strategic-plan recommendation, which remains open."
+    },
+    {
+      "title": "The Committee Found Preventable Maternal Deaths. Who Made the Recommendations Real?",
+      "seat_affected": "Pregnant and postpartum women, especially Black and American Indian/Alaska Native women",
+      "source": "https://www.gao.gov/products/gao-26-108690",
+      "status": "GAO review of a nongeneralizable sample of 10 committees. National mortality and disparity figures rely on CDC/GAO evidence; the proposed story should track implementation rather than assume every recommendation was ignored."
+    }
+  ],
+  "story_briefs_2026_10_03": [
+    {
+      "title": "The Disaster Plan Included Everyone. The Training for Disability Access Disappeared.",
+      "seat_affected": "People with disabilities navigating evacuation, shelter and FEMA assistance",
+      "source": "https://www.gao.gov/products/gao-26-108057",
+      "status": "GAO findings published September 30, 2026. FEMA officials said disability-inclusion training was removed in 2025 for compliance with executive orders; GAO identified inconsistent coordination and application-access barriers and made open recommendations."
+    },
+    {
+      "title": "The Child Was Working. The Safety Data Clocked Out.",
+      "seat_affected": "Working children, especially those in hazardous jobs and agriculture",
+      "source": "https://www.gao.gov/products/gao-26-107722",
+      "status": "GAO estimated 2.8 million working children in 2023 and found rising cited violations, data gaps and diminished interagency collaboration. DOL generally disagreed with one recommendation, agreed with three and neither agreed nor disagreed with one."
+    },
+    {
+      "title": "The Harassment Report Counted 31,000 Incidents. It Still Could Not Count the Problem.",
+      "seat_affected": "Veterans and VA staff exposed to harassment, sexual harassment or sexual assault in medical centers",
+      "source": "https://www.gao.gov/products/gao-26-109183",
+      "status": "GAO found more than 31,000 reported incidents in fiscal years 2020-2025 but cautioned that reports likely underestimate prevalence. VA did not provide comments; GAO's systemwide prevalence recommendation remains open."
+    }
+  ],
+  "story_briefs_2026_10_04": [
+    {
+      "title": "The Budget Decisions Became Legally Binding. Then the Public Website Disappeared.",
+      "seat_affected": "Taxpayers, Congress and anyone tracking federal spending",
+      "source": "https://www.gao.gov/products/e12062",
+      "status": "GAO General Counsel letter; OMB says disclosure can expose deliberative or sensitive information, while GAO disputes that characterization for legally binding apportionments."
+    },
+    {
+      "title": "USAID Ended. The State Department Took the Programs Without a Written Decision Rule.",
+      "seat_affected": "Refugees and populations relying on U.S. humanitarian and development assistance",
+      "source": "https://www.gao.gov/products/gao-26-108607",
+      "status": "GAO report published September 30, 2026; GAO found State lacked documented guidance for consistent and effective foreign-assistance decisions after taking over remaining USAID programs."
+    },
+    {
+      "title": "The Accommodation Worked for Seven Years. Then the Nursing Home Allegedly Took It Away.",
+      "seat_affected": "Disabled workers, especially direct-care and nursing-home staff",
+      "source": "https://www.eeoc.gov/newsroom/eeoc-sues-optima-care-fountains-disability-discrimination",
+      "status": "EEOC lawsuit announced October 1, 2026; allegations are not adjudicated findings and no settlement or liability determination has been reported."
+    }
+  ],
+  "unpublished_ledger": [
+    {
+      "position": 1,
+      "title": "Germany Has a Way to Keep the Power On. Can People Use It?",
+      "slug": "germany-has-a-way-to-keep-the-power-on-can-people-use-it",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Standing two-review instruction",
+      "scheduled_date": null,
+      "source": "editorial-packages/TMS_GERMANY_KEEP_THE_POWER_ON_PUBLICATION_PACKAGE_2026-10-09.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Apartment Was Available. Access Still Wasn't.",
+          "distinction": "German energy-debt and disconnection protection, not U.S. disability housing accommodation."
+        }
+      ],
+      "related_unpublished_comparators": [
+        {
+          "title": "Germany Created a Seat for Police Complaints. Who Can Actually Use It?",
+          "distinction": "Supplier debt remedies and basic supply, not police oversight."
+        }
+      ],
+      "review_1": "2026-10-09 primary current-law/regulator scope audit",
+      "review_2": "2026-10-09 corrected copy, format, fairness, action and socials",
+      "notes": "§41g directly read; §41f timed out and general safeguards checked via regulator. No inaccessible Destatis statistics used. HTML/image/navigation, final current-law/live uniqueness and deployment checks remain.",
+      "queue_position": 1
+    },
+    {
+      "position": 2,
+      "title": "The Disability Hiring Duty Stayed. The Audits Stopped.",
+      "slug": "the-disability-hiring-duty-stayed-the-audits-stopped",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "scheduled_date": null,
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_DISABILITY_HIRING_DUTY_AUDITS_STOPPED_PUBLICATION_PACKAGE_2026-10-09.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Disaster Plan Included Everyone. The Training for Disability Access Disappeared.",
+          "distinction": "Disaster-response access and training, not federal-contractor hiring and Section 503 audit suspension."
+        },
+        {
+          "title": "The Apartment Was Available. Access Still Wasn't.",
+          "distinction": "Housing accommodation, not employment oversight."
+        }
+      ],
+      "related_unpublished_comparators": [
+        {
+          "title": "Two Agencies Fund the Support. The Worker Still Gets Left Waiting.",
+          "distinction": "Vocational-rehabilitation funding handoffs, not contractor compliance audits."
+        }
+      ],
+      "review_1": "2026-10-09 primary GAO/current-law/final-rule claim audit",
+      "review_2": "2026-10-09 corrected copy, legal currency, fairness, action, metadata and social audit",
+      "notes": "Reflects August 21, 2026 rule changes; former 7% goal is not described as current. 532 is audits with findings, not individuals or necessarily unique contractors. Final recommendation/rule status, live uniqueness, HTML/image/navigation and deployment checks remain.",
+      "queue_position": 2
+    },
+    {
+      "position": 3,
+      "title": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.",
+      "slug": "the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "scheduled_date": null,
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GAP_NOT_JUST_PAY_TIME_CARE_POWER_PUBLICATION_PACKAGE_2026-10-10.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.",
+          "distinction": "National structural analysis of earnings, leadership, unpaid work, care and race rather than a specific EEOC hiring settlement."
+        }
+      ],
+      "review_1": "2026-10-10 BLS/Census evidence, definitions, source limitations and race/sex comparison audit",
+      "review_2": "2026-10-10 corrected copy, Regular Joe clarity, counterargument, action, metadata and social audit",
+      "notes": "BLS earnings figures are descriptive medians, not equal-work proof. 2025 occupation figures exclude October; Census childcare result is a working paper. Final table refresh, live uniqueness, HTML/image/navigation and deployment checks remain.",
+      "queue_position": 3
+    },
+    {
+      "position": 4,
+      "title": "The College Took the Money. The Outcome Data Is Late.",
+      "slug": "the-college-took-the-money-the-outcome-data-is-late",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "scheduled_date": null,
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_COLLEGE_TOOK_THE_MONEY_OUTCOME_DATA_LATE_PUBLICATION_PACKAGE_2026-10-11.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Absence Rate Was Over 100%. The Oversight Had Already Stopped.",
+          "distinction": "Postsecondary program-cost and outcome reporting before enrollment, not K–12 chronic-absence data and federal program oversight."
+        }
+      ],
+      "review_1": "2026-10-11 primary evidence, dates and claim posture",
+      "review_2": "2026-10-11 copy, fairness, action, metadata and social review",
+      "notes": "Reporting delinquency is not proof of poor outcomes, fraud or inaccurate submitted records. Refresh January 15 deadline/enforcement, verify uniqueness, and complete HTML/image/navigation/deployment checks.",
+      "queue_position": 4
+    },
+    {
+      "position": 5,
+      "title": "The Complaint Had a 100-Day Clock. The Housing Problem Did Not Wait.",
+      "slug": "the-complaint-had-a-100-day-clock-the-housing-problem-did-not-wait",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "scheduled_date": null,
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_FAIR_HOUSING_100_DAY_CLOCK_PUBLICATION_PACKAGE_2026-10-12.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Apartment Was Available. Access Still Wasn't.",
+          "distinction": "Federal complaint-investigation timeliness and remedy loss, not a specific disability-accommodation dispute."
+        },
+        {
+          "title": "Two Tenants Were Incarcerated. Only One Allegedly Lost the Keys.",
+          "distinction": "Systemwide HUD investigation timeliness, not alleged unequal lease enforcement."
+        }
+      ],
+      "review_1": "2026-10-12 primary evidence, dates and claim posture",
+      "review_2": "2026-10-12 copy, fairness, action, metadata and social review",
+      "notes": "70.2% late-investigation figure covers 2020–2022. HUD's June 2026 27% backlog-reduction claim lacks published baseline and remaining counts. Refresh backlog/OIG status and complete uniqueness, HTML/image/navigation/deployment checks.",
+      "queue_position": 5
+    },
+    {
+      "position": 6,
+      "title": "Germany Promised a Full School Day. Families Need the Hours to Match.",
+      "slug": "germany-promised-a-full-school-day-families-need-the-hours-to-match",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "scheduled_date": null,
+      "source": "editorial-packages/TMS_GERMANY_FULL_SCHOOL_DAY_PUBLICATION_PACKAGE_2026-10-13.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "It Takes a Village. Where Did It Go?",
+          "distinction": "Defined German statutory cohort, hours and holiday limits with a local accountability route, rather than general community support."
+        }
+      ],
+      "review_1": "2026-10-13 current statute and scope audit",
+      "review_2": "2026-10-13 copy, fairness, action, metadata and socials",
+      "notes": "Current §24 directly verified. No national implementation outcome claimed. Final law/live uniqueness, HTML/image/navigation/deployment remain.",
+      "queue_position": 6
+    },
+    {
+      "position": 7,
+      "title": "The Workers Were Teenagers. The Complaint System Was Built for Adults.",
+      "slug": "the-workers-were-teenagers-the-complaint-system-was-built-for-adults",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing instruction: full TMS format plus two completed reviews queues automatically",
+      "scheduled_date": null,
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_THE_WORKERS_WERE_TEENAGERS_PUBLICATION_PACKAGE_2026-10-14.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.",
+          "distinction": "Teenage restaurant-worker safeguarding and complaint-channel design after a harassment settlement, not sex discrimination in hiring."
+        },
+        {
+          "title": "The HR Manager Said No to Discrimination. Then She Allegedly Lost Her Job.",
+          "distinction": "Young workers reporting harassment against workplace power, not an HR professional's alleged retaliation for opposing discriminatory hiring."
+        }
+      ],
+      "review_1": "2026-10-14 EEOC release, 2022 complaint announcement, legal posture, numbers, dates and filing guidance audit",
+      "review_2": "2026-10-14 Regular Joe clarity, TMS format, fairness, counterargument, action, metadata and social audit",
+      "notes": "Settlement is not a court judgment or admission. The EEOC's at-least-100 statement is attributed to the agency. Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain.",
+      "queue_position": 7
+    },
+    {
+      "position": 8,
+      "title": "The Military Wants AI Faster. Who Owns the Safety Check?",
+      "slug": "the-military-wants-ai-faster-who-owns-the-safety-check",
+      "status": "approved_queued_full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-15 facts, sources, scope and claim posture",
+      "review_2": "2026-10-15 TMS format, Regular Joe clarity, fairness, duplication and action",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_MILITARY_AI_SAFETY_CHECK_PUBLICATION_PACKAGE_2026-10-15.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        "When AI Accuses You, Who Checks the Machine?: Military AI governance, staffing and congressional oversight rather than human review of an individual AI accusation."
+      ],
+      "notes": "GAO survey covered 10 selected components and 10 selected use cases. Three-of-ten staffing figure was current as of February 2026. Refresh staffing, recommendation status and live uniqueness before publication.",
+      "release_checks": [
+        "refresh GAO recommendation and staffing status",
+        "independent live title/slug check",
+        "confirm deployment source",
+        "HTML/image and navigation integration"
+      ],
+      "queue_position": 8
+    },
+    {
+      "position": 9,
+      "title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
+      "slug": "germany-raised-the-minimum-wage-the-paycheck-still-needs-the-hours",
+      "status": "approved_queued_full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-16 primary German sources, estimates, coverage and claim posture",
+      "review_2": "2026-10-16 TMS format, Regular Joe clarity, fairness, duplication and action",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GERMANY_MINIMUM_WAGE_HOURS_PUBLICATION_PACKAGE_2026-10-16.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        "Germany Has a Way to Keep the Power On. Can People Use It?: Wages, recorded working time and labor enforcement rather than household energy debt and electricity disconnection."
+      ],
+      "notes": "Destatis figures are upper-limit estimates based on April 2025 data, not proof of individual raises or violations. Refresh rate, enforcement guidance and estimates before publication.",
+      "release_checks": [
+        "refresh BMAS rate and enforcement guidance",
+        "independent live title/slug check",
+        "confirm deployment source",
+        "HTML/image and navigation integration"
+      ],
+      "queue_position": 9
+    },
+    {
+      "position": 10,
+      "title": "The Building Failed. The Children Lost the School Day.",
+      "canonical_title": "The Building Failed. The Children Lost the School Day.",
+      "slug": "the-building-failed-the-children-lost-the-school-day",
+      "status": "approved_queued_full_finished",
+      "completion_status": "full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-16 primary findings, dates, scope and agency response",
+      "review_2": "2026-10-16 finished copy, Regular Joe, fairness, action, source links and distinctness",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_SCHOOL_BUILDING_FAILED_CHILDREN_LOST_DAY_PUBLICATION_PACKAGE_2026-10-16.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "duplication_status": "materially distinct in repository and archive; independent live check required",
+      "related_live_comparators": [
+        {
+          "title": "The Absence Rate Was Over 100%. The Oversight Had Already Stopped.",
+          "distinction": "Physical facilities, instructional closures and local repair responsibility rather than federal absenteeism calculations and ESEA monitoring."
+        }
+      ],
+      "release_checks": [
+        "refresh primary-source status",
+        "independent live title/slug and distinctness check (live access returned 403)",
+        "confirm deployment source",
+        "HTML/image/navigation and public URL verification"
+      ],
+      "queue_position": 10
+    },
+    {
+      "position": 11,
+      "title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
+      "canonical_title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
+      "slug": "the-job-center-was-open-the-help-still-wasnt-accessible",
+      "status": "approved_queued_full_finished",
+      "completion_status": "full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-16 primary findings, dates, scope and agency response",
+      "review_2": "2026-10-16 finished copy, Regular Joe, fairness, action, source links and distinctness",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_JOB_CENTER_ACCESS_PUBLICATION_PACKAGE_2026-10-16.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "duplication_status": "materially distinct in repository and archive; independent live check required",
+      "related_live_comparators": [
+        {
+          "title": "Two Agencies Fund the Support. The Worker Still Gets Left Waiting.",
+          "distinction": "Access to job-center appointments and training rather than sequential VR/Medicaid support funding."
+        }
+      ],
+      "release_checks": [
+        "refresh primary-source status",
+        "independent live title/slug and distinctness check (live access returned 403)",
+        "confirm deployment source",
+        "HTML/image/navigation and public URL verification"
+      ],
+      "queue_position": 11
+    },
+    {
+      "position": 12,
+      "title": "The Loan Rule Changed. Were the Instructions Ready?",
+      "canonical_title": "The Loan Rule Changed. Were the Instructions Ready?",
+      "slug": "the-loan-rule-changed-were-the-instructions-ready",
+      "status": "approved_queued_full_finished",
+      "completion_status": "full_finished",
+      "approval": "Jansen standing two-review instruction",
+      "review_1": "2026-10-16 primary findings, dates, scope and agency response",
+      "review_2": "2026-10-16 finished copy, Regular Joe, fairness, action, source links and distinctness",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_LOAN_RULE_CHANGED_INSTRUCTIONS_NOT_READY_PUBLICATION_PACKAGE_2026-10-16.md",
+      "scheduled_date": null,
+      "publication_status": "unpublished",
+      "duplication_status": "materially distinct in repository and archive; independent live check required",
+      "related_live_comparators": [
+        {
+          "title": "The College Took the Money. The Outcome Data Is Late.",
+          "distinction": "Education's implementation instructions to loan servicers rather than institutions' outcome-data reporting."
+        }
+      ],
+      "release_checks": [
+        "refresh primary-source status",
+        "independent live title/slug and distinctness check (live access returned 403)",
+        "confirm deployment source",
+        "HTML/image/navigation and public URL verification"
+      ],
+      "queue_position": 12
+    }
+  ],
+  "status_verification_ledger": [
+    {
+      "title": "October 12 job-support homepage visibility",
+      "reason": "Archive card now verified live October 13; homepage feature has not yet been independently rechecked.",
+      "required_action": "Verify homepage feature before closing the remaining shell reconciliation."
+    },
+    {
+      "title": "October 16 religious-accommodation editorial live propagation",
+      "reason": "GitHub main contains article, homepage, archive, Justice & Law topic and RSS changes; immediate public check had not propagated.",
+      "required_action": "Recheck direct article and four shell surfaces; do not republish."
+    }
+  ],
+  "story_briefs_2026_10_05": [
+    {
+      "title": "More Than a Million Veterans Face Food Insecurity. The SNAP Hand-Off Slowed Down.",
+      "seat_affected": "Food-insecure veterans and their families",
+      "source": "https://www.gao.gov/products/gao-27-108111",
+      "status": "GAO report published October 1, 2026. GAO cites an average 1.4 million food-insecure veterans annually for 2015–2020, found outdated veteran outreach and unclear VA-USDA coordination, and made four open recommendations accepted by both agencies."
+    },
+    {
+      "title": "The Flood Map Said Optional. The Rain Did Not.",
+      "seat_affected": "Homeowners and renters exposed to heavy-rain flooding, especially households without recovery savings",
+      "source": "https://www.gao.gov/products/gao-27-108012",
+      "status": "GAO report published October 1, 2026. GAO found 86% of high-risk properties lacked NFIP coverage as of April 2026 and estimated about 13 million high-risk properties sit outside FEMA special flood hazard areas. These figures do not mean every property will flood."
+    },
+    {
+      "title": "The Homelessness Staff Came Back. The Work Still Had No Direction.",
+      "seat_affected": "People experiencing homelessness and local systems depending on federal coordination",
+      "source": "https://www.gao.gov/products/gao-27-108779",
+      "status": "GAO report published October 2, 2026. A district court found the 2025 downsizing implementation unlawful; the government appealed. Returned staff told GAO they still lacked policy direction as of the review period."
+    }
+  ],
+  "germany_weekly_delivery": {
+    "week": "2026-10-12/2026-10-18",
+    "target_packages": 2,
+    "completed_packages": 2,
+    "remaining_packages": 0,
+    "target_days": [
+      "2026-10-13",
+      "2026-10-16"
+    ],
+    "delivered": [
+      {
+        "date": "2026-10-13",
+        "title": "Germany Promised a Full School Day. Families Need the Hours to Match.",
+        "source": "editorial-packages/TMS_GERMANY_FULL_SCHOOL_DAY_PUBLICATION_PACKAGE_2026-10-13.md",
+        "status": "approved_queued_full_finished"
+      },
+      {
+        "date": "2026-10-16",
+        "title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
+        "source": "editorial-packages/TMS_GERMANY_MINIMUM_WAGE_HOURS_PUBLICATION_PACKAGE_2026-10-16.md",
+        "status": "approved_queued_full_finished"
+      }
+    ],
+    "notes": "Weekly target completed: two distinct Germany packages delivered October 13 and October 16."
+  },
+  "story_briefs_2026_10_06": [
+    {
+      "title": "The Housing Stock Grew. Families Still Ran Out of Rooms.",
+      "seat_affected": "Children, immigrant families, single-parent households and low-income renters in Germany",
+      "source": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/05/PD26_N030_63.html",
+      "status": "Destatis final 2025 EU-SILC results. Overcrowding is a statistical room-based measure, not proof that every household experienced unsafe housing or discrimination."
+    },
+    {
+      "title": "She Followed Military Orders. Her Civilian Job Allegedly Demoted Her for It.",
+      "seat_affected": "National Guard and Reserve members balancing military duty with civilian employment",
+      "source": "https://www.justice.gov/opa/pr/us-department-justice-obtains-settlement-behalf-national-guard-medic-alleged-employment",
+      "status": "DOJ allegations resolved through a court-approved $15,000 settlement on October 5, 2026. The settlement is not an adjudicated finding of liability."
+    },
+    {
+      "title": "The Applicants Had Prescriptions. The Shipyard Allegedly Treated Side Effects as Facts.",
+      "seat_affected": "Qualified workers with disabilities or disclosed prescription medications",
+      "source": "https://www.eeoc.gov/newsroom/eeoc-sues-bollinger-shipyards-continuing-disability-discrimination",
+      "status": "EEOC lawsuit filed September 30, 2026. Allegations have not been adjudicated. The agency describes five rescinded offers and similar earlier litigation."
+    }
+  ],
+  "story_briefs_2026_10_07": [
+    {
+      "title": "The Shift Ended Before Sunset. The Accommodation Request Allegedly Ended the Job.",
+      "seat_affected": "Muslim workers and employees requesting religious accommodations",
+      "source": "https://www.eeoc.gov/newsroom/hungry-ghost-coffee-settles-eeoc-religious-discrimination-and-retaliation-suit",
+      "status": "EEOC allegations resolved by a $22,500 consent decree announced October 6, 2026. The settlement is not an adjudicated finding of liability; it also requires policy review and training."
+    },
+    {
+      "title": "She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.",
+      "seat_affected": "Women seeking warehouse, logistics and skilled manual jobs",
+      "source": "https://www.eeoc.gov/newsroom/warehouse-logistics-company-pay-500000-settle-eeoc-sex-discrimination-charge",
+      "status": "EEOC administrative investigation and pre-litigation settlement announced October 6, 2026. The agency found sex-based rejection across five locations; the $500,000 agreement includes an individual payment, class fund, policy changes, training and a claims process. It is not a court judgment."
+    },
+    {
+      "title": "Germany Is Making Accessibility Enforceable. Some Remedies Still Stop at the Door.",
+      "seat_affected": "Disabled people seeking equal access to private goods, services and federal buildings in Germany",
+      "source": "https://www.bmas.de/DE/Soziales/Teilhabe-und-Inklusion/Rehabilitation-und-Teilhabe/Behindertengleichstellungsgesetz/reform-des-behindertengleichstellungsgesetzes.html",
+      "status": "BMAS description of the federal cabinet draft dated July 3, 2026. The reform is proposed law, not yet a final enacted rule. It creates individual enforceable accommodation claims, but excludes damages against private companies and allows only declaratory actions for some accessibility-rule violations."
+    }
+  ],
+  "daily_editorial_completion_2026_10_07": {
+    "title": "She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.",
+    "status": "published_per_canonical_ledger",
+    "source": "editorial-packages/TMS_SHE_WAS_QUALIFIED_TO_REPAIR_THE_PALLETS_PUBLICATION_PACKAGE_2026-10-07.md",
+    "publication_commit": "2012e9e6ce3c279df24b6f75582a677be5daaada",
+    "notes": "New reserve editorial completed after repository, live-archive and ledger duplication checks. Not inserted into the queue or published without Jansen approval. Settlement posture and EEOC investigative findings are clearly distinguished from a court judgment."
+  },
+  "canonical_queue": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/TMS_DAILY_EDITORIAL_QUEUE.md",
+  "reconciliation_notes_2026_10_07": [
+    "main/TMS_DAILY_EDITORIAL_QUEUE.md is the canonical current posting order.",
+    "Pallet hiring and Cloud have published records in the canonical ledger and article files on main; excluded from unpublished count.",
+    "Job-support full body recovered, reviewed and persisted on main.",
+    "Six complete packages approved under Jansen's standing two-review instruction; unfinished briefs excluded.",
+    "Four retired/replaced duplicates retained; existing website revisions remain replacement work."
+  ],
+  "story_briefs_2026_10_08": [
+    {
+      "title": "You Applied for a Mortgage. Your Information Became a Sales Lead.",
+      "seat_affected": "Homebuyers and borrowers concerned about privacy",
+      "source": "https://www.gao.gov/products/gao-27-108874",
+      "status": "GAO October 6 report: March 2026 restrictions limit residential mortgage trigger leads. Effects not yet established; preserve comparison-shopping options."
+    },
+    {
+      "title": "Rural Health Got the Money. Patients Still Need the Receipt.",
+      "seat_affected": "Rural patients and communities with limited care access",
+      "source": "https://www.gao.gov/products/gao-27-108853",
+      "crosscheck": "https://www.medicaid.gov/resources-for-states/rural-health",
+      "status": "GAO October 6 report: first-year awards total $10 billion across 50 states; monitoring plans generally consistent with selected federal requirements. Awards are not proof of improved outcomes."
+    },
+    {
+      "title": "The Settlement Was Signed. The Women Still Had to Wait for Payment.",
+      "seat_affected": "Women reporting workplace sexual harassment",
+      "source": "https://www.eeoc.gov/newsroom/court-orders-jaco-enterprises-pay-85000-forced-compliance-eeoc-sexual-harassment",
+      "crosscheck": "https://www.eeoc.gov/newsroom/eeoc-sues-jaco-enterprises-force-compliance-conciliation-agreement",
+      "status": "October 7 EEOC release: agreed consent judgment requires remaining $85,000 plus statutory interest after $10,000 paid. Underlying harassment allegations were not adjudicated findings."
+    }
+  ],
+  "reconciliation_notes_2026_10_08": [
+    "Preserved six approved finished queue entries and four retired duplicates.",
+    "Pallet and Cloud added to published record based on canonical queue and served archive; no new publication today.",
+    "Second Germany package remains due October 9; completed weekly count remains one.",
+    "Discovery briefs are not finished reserve editorials."
+  ],
+  "daily_editorial_completion_2026_10_08": {
+    "title": "He Asked to Break His Fast. He Allegedly Lost His Job.",
+    "status": "approved_queued_full_finished",
+    "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_HE_ASKED_TO_BREAK_HIS_FAST_PUBLICATION_PACKAGE_2026-10-08.md",
+    "notes": "New complete package; not a revision of live website copy. First priority reserved titles already published. Appended to existing queue after two reviews."
+  },
+  "story_briefs_2026_10_09": [
+    {
+      "title": "The Project Needed No Environmental Repair. Where Is the Explanation?",
+      "seat_affected": "Communities near federal water projects and people relying on local ecosystems",
+      "source": "https://www.gao.gov/products/gao-27-108551",
+      "status": "October 8 finding; 52 of 74 projects reviewed lacked mitigation plans, and explanations generally unclear. Army disputes recommendation; no proof each project caused unmitigated harm."
+    },
+    {
+      "title": "The Grants Promised Opportunity. Who Checked the Results?",
+      "seat_affected": "Distressed and underserved regional communities",
+      "source": "https://www.gao.gov/products/gao-27-108496",
+      "status": "October 7 report: over $12 billion awarded FY2016–2024; improved regional indicators cannot be causally attributed to grants. Verification gap is not proof grants failed."
+    },
+    {
+      "title": "The Disability Hiring Duty Stayed. The Audits Stopped.",
+      "seat_affected": "Disabled employees and job applicants at federal contractors",
+      "source": "https://www.gao.gov/products/gao-26-107937",
+      "status": "Published September29/public October6; Section503 audits suspended since2025, 532 FY2017–2025 audits found violations. Count is audits, not individuals or unique employers."
+    }
+  ],
+  "reconciliation_notes_2026_10_09": [
+    "Eight finished unpublished packages, all queued; four retired unchanged.",
+    "Germany weekly minimum reached: two distinct full packages, not two live publications.",
+    "Live archive inspected October9; matches repository list with duplicate pallet card.",
+    "First queued release still held; FCC PDF403 and current deployment configuration not recovered. No public files altered.",
+    "Daily editorial added: disability contractor audit package at queue position 9; finished unpublished and queued counts increased to nine."
+  ],
+  "daily_editorial_completion_2026_10_09": {
+    "title": "The Disability Hiring Duty Stayed. The Audits Stopped.",
+    "status": "approved_queued_full_finished",
+    "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_DISABILITY_HIRING_DUTY_AUDITS_STOPPED_PUBLICATION_PACKAGE_2026-10-09.md",
+    "notes": "Genuinely new full package, distinct from live disability disaster and housing stories and from queued vocational-rehabilitation handoff story. Passed two reviews and appended to the standing approved queue."
+  },
+  "daily_editorial_completion_2026_10_10": {
+    "title": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.",
+    "status": "approved_queued_full_finished",
+    "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GAP_NOT_JUST_PAY_TIME_CARE_POWER_PUBLICATION_PACKAGE_2026-10-10.md",
+    "notes": "Genuinely new workforce gender-gap editorial requested by Jansen. Distinct from the published pallet-hiring settlement story. Passed two reviews and entered the standing queue at position 10."
+  },
+  "reconciliation_notes_2026_10_10": {
+    "0": "Ten finished unpublished packages, all approved and queued; four retired duplicates unchanged.",
+    "1": "New October 10 package examines gender, work, care, leadership and race using BLS and Census evidence.",
+    "2": "No public release performed by this completion run; release prerequisites remain in the canonical queue.",
+    "publication": "Published the former queue position 1 and moved it to the published record; remaining queue renumbered to 1–9.",
+    "blockers_cleared": [
+      "FCC multilingual WEA compliance date and scope verified in Federal Register",
+      "GAO recommendation confirmed open",
+      "live archive matched GitHub main",
+      "live title and slug were absent before release"
+    ],
+    "germany_weekly_delivery": "2 of 2 complete packages delivered for the week of October 5–11; no additional Germany package required today."
+  },
+  "story_briefs_2026_10_10": [
+    {
+      "title": "The Copper Is Strategic. The Sacred Site Is Not Disposable.",
+      "seat_affected": "Apache religious freedom, Indigenous land and meaningful consultation",
+      "status": "verified angle; litigation posture must be updated before drafting",
+      "sources": [
+        "https://www.justice.gov/opa/pr/ninth-circuit-leaves-resolution-copper-ruling-place"
+      ],
+      "notes": "DOJ says the Ninth Circuit rejected rehearing petitions and left the March 13 decision allowing the congressionally mandated land exchange in place. A full piece must add the Apache plaintiffs’ primary filings and distinguish the government’s economic and national-security claims from the tribes’ religious-freedom claims."
+    },
+    {
+      "title": "The Repair Grant Closed. The Roof Still Leaks.",
+      "seat_affected": "Low-income rural households, Tribal communities, disabled residents and disaster survivors",
+      "status": "verified brief; not a finished editorial",
+      "sources": [
+        "https://www.rd.usda.gov/programs-services/single-family-housing-programs/housing-preservation-grants"
+      ],
+      "notes": "USDA lists $8.3 million nationally for FY2026, including $2.09 million tied to 2022 disaster areas; individuals cannot apply directly. Investigate demand, awards and unmet repairs before making adequacy claims."
+    },
+    {
+      "title": "The Settlement Paid Billions. Who Is Still Waiting?",
+      "seat_affected": "Retired football players living with cognitive and neurological disability and their families",
+      "status": "verified brief; not a finished editorial",
+      "sources": [
+        "https://www.nflconcussionsettlement.com/"
+      ],
+      "notes": "The official settlement dashboard reported 20,564 registrants, 4,638 claim packages, 2,217 payable awards and $1.731 billion in payable awards as of October 5, 2026. A full story should examine claim denials, appeal times and demographic outcomes before drawing conclusions."
+    }
+  ],
+  "story_briefs_2026_10_11": [
+    {
+      "title": "Support Before the Label",
+      "seat_affected": "Children, young people and adults waiting for mental-health, ADHD or autism support",
+      "status": "verified policy-development angle; implementation remains prospective",
+      "sources": [
+        "https://www.gov.uk/government/collections/independent-review-into-mental-health-conditions-adhd-and-autism",
+        "https://www.gov.uk/government/news/government-pledges-earlier-support-to-tackle-mental-health-crises"
+      ],
+      "notes": "The independent final report and government response were published October 9. Government promises needs-led support before diagnosis and stronger regulation of assessments; the forthcoming strategy and delivery remain to be tested."
+    },
+    {
+      "title": "The New Door Opens. Which Children Get Moved Through It?",
+      "seat_affected": "Australian children under nine with developmental delay or autism and their families",
+      "status": "verified transition angle; outcome evidence not yet available",
+      "sources": [
+        "https://www.health.gov.au/ministers/the-hon-mark-butler-mp/media/advice-on-national-model-for-thriving-kids?language=en"
+      ],
+      "notes": "Thriving Kids rollout began October 1, 2026, with full implementation planned by January 2028. Government says $4 billion is committed and high-support children remain NDIS-eligible; monitor access, reassessment and service continuity rather than assuming success or harm."
+    },
+    {
+      "title": "The College Took the Money. The Outcome Data Is Late.",
+      "seat_affected": "Students choosing career programs and taxpayers financing federal aid",
+      "status": "verified accountability angle; delinquency is not proof of poor student outcomes",
+      "sources": [
+        "https://fsapartners.ed.gov/knowledge-center/library/electronic-announcements/2026-08-11/guidance-fvt/ge-data-reporting-stats-early-implementation-and-next-steps-publication-updated-oct-8-2026"
+      ],
+      "notes": "Education reported more than 1,000 institutions delinquent for 2026 reporting and nearly 1,400 still delinquent for 2024–2025, with a final January 15, 2027 extension. Investigate why data are missing and whether enforcement follows."
+    }
+  ],
+  "reconciliation_notes_2026_10_11": {
+    "publication": "Learning to Unlearn published; remaining approved queue renumbered to 1–8.",
+    "counts": {
+      "eligible": 8,
+      "queued": 8,
+      "retired": 4,
+      "status_verification": 0
+    },
+    "germany_weekly_delivery": "2 of 2 completed for October 5–11."
+  },
+  "story_briefs_2026_10_12": [
+    {
+      "title": "The Retaliation Was Substantiated. The Remedy Still Waited.",
+      "seat_affected": "Federal whistleblowers and the public that depends on them to expose wrongdoing",
+      "source": "https://www.gao.gov/products/gao-26-108106",
+      "status": "GAO reported in September 2026 that DHS missed the 30-day decision deadline in all 11 substantiated cases reviewed; six were pending as of May, and DHS later told GAO one was decided July 22. GAO's recommendations remain open."
+    },
+    {
+      "title": "The Attack Hit a Server. The Public Service Carried the Risk.",
+      "seat_affected": "People relying on public administration, transport, finance and other essential services across Europe",
+      "source": "https://www.enisa.europa.eu/publications/enisa-threat-landscape-2026",
+      "status": "ENISA's September 22 report analyses 2025 incidents. It says 73% of targeted organisations were entities classed as essential or important under NIS2 and warns that digital dependencies widen the attack surface. This does not mean 73% suffered service outages."
+    },
+    {
+      "title": "The Work Could Be Done Remotely. The Rule Allegedly Changed With the Worker.",
+      "seat_affected": "Disabled workers, workers of color and employees affected by national-origin bias",
+      "source": "https://www.eeoc.gov/newsroom/novadoz-pharmaceuticals-pay-116666-resolve-eeoc-charge-alleging-national-origin-and-other",
+      "status": "The EEOC announced a $116,666 pre-litigation conciliation agreement on October 1, 2026 after finding reasonable cause to believe Novadoz denied an American assistant manager remote work because of race, national origin and disability, then retaliated. These are agency findings and settled allegations, not a court judgment."
+    }
+  ],
+  "reconciliation_notes_2026_10_12": {
+    "publication": "Two Agencies Fund the Support. The Worker Still Gets Left Waiting. published and removed from unpublished inventory.",
+    "additions": [
+      "The College Took the Money. The Outcome Data Is Late.",
+      "The Complaint Had a 100-Day Clock. The Housing Problem Did Not Wait."
+    ],
+    "counts": {
+      "full_finished_unpublished_eligible": 9,
+      "full_finished_currently_queued": 9,
+      "full_finished_retired_or_replaced": 4,
+      "status_verification_required": 1
+    },
+    "next_queue_item": "They Served the Country. The Food Benefit Still Missed Them.",
+    "germany_weekly_delivery": "New week opened at 0 of 2; Tuesday and Friday targets retained.",
+    "verification": "Direct article live; archive/homepage visibility pending."
+  },
+  "daily_editorial_completion_2026_10_13": {
+    "position": 10,
+    "title": "Germany Promised a Full School Day. Families Need the Hours to Match.",
+    "slug": "germany-promised-a-full-school-day-families-need-the-hours-to-match",
+    "completion_status": "full_finished",
+    "status": "approved_queued_full_finished",
+    "publication_status": "unpublished",
+    "approval": "Jansen standing two-review instruction",
+    "scheduled_date": null,
+    "source": "editorial-packages/TMS_GERMANY_FULL_SCHOOL_DAY_PUBLICATION_PACKAGE_2026-10-13.md",
+    "duplication_status": "materially_distinct",
+    "related_live_comparators": [
+      {
+        "title": "It Takes a Village. Where Did It Go?",
+        "distinction": "Defined German statutory cohort, hours and holiday limits with a local accountability route, rather than general community support."
+      }
+    ],
+    "review_1": "2026-10-13 current statute and scope audit",
+    "review_2": "2026-10-13 copy, fairness, action, metadata and socials",
+    "notes": "Current §24 directly verified. No national implementation outcome claimed. Final law/live uniqueness, HTML/image/navigation/deployment remain."
+  },
+  "reconciliation_notes_2026_10_13": [
+    "New school-age care package completed, twice reviewed and queued.",
+    "October 12 job-support archive card now independently observed live; archive propagation blocker cleared. Homepage not independently rechecked.",
+    "Two reserved priority titles remain published; 16 replacement revisions excluded.",
+    "Veterans SNAP editorial published and removed from both current unpublished ledgers; remaining queue renumbered to 9 items.",
+    "Direct veterans article verified live; archive/homepage shell propagation remained pending, raising status-verification count to 2."
+  ],
+  "story_briefs_2026_10_13": [
+    {
+      "title": "Temporary Protection Is Carrying 4.43 Million Lives. What Comes After Temporary?",
+      "seat_affected": "People displaced from Ukraine, especially women and children, and the communities hosting them",
+      "source": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261012-1",
+      "status": "Eurostat reported on October 12 that 4.43 million non-EU citizens fleeing Ukraine held temporary protection on August 31; 43.6% were adult women and 29.1% minors. Status is extended to March 4, 2027. Different deregistration practices limit month-to-month comparisons."
+    },
+    {
+      "title": "Disability Made Poverty Risk Worse in Every EU Country",
+      "seat_affected": "People with disabilities facing higher poverty, exclusion and housing costs",
+      "source": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/wdn-20260917-1",
+      "status": "Eurostat's 2026 living-conditions edition reported that people with disabilities faced a higher risk of poverty or social exclusion in every EU country. The claim is descriptive; it does not by itself identify causation or a single remedy."
+    },
+    {
+      "title": "The Prison Door Opened. The Address Was Still Missing.",
+      "seat_affected": "People leaving custody without stable housing and the communities receiving them",
+      "source": "https://www.gov.uk/government/statistics/offender-accommodation-outcomes-update-to-march-2026",
+      "status": "England and Wales added probation-unit data on October 1 for releases from April 2025 through March 2026, distinguishing housed, no fixed abode and unknown outcomes. A time-series break means the new figures should not be compared mechanically with pre-May 2024 data."
+    }
+  ],
+  "story_briefs_2026_10_14": [
+    {
+      "title": "The Workers Were Teenagers. The Alleged Harassment Crossed Locations.",
+      "seat_affected": "Women and teenage restaurant workers",
+      "status": "EEOC settlement announced October 13, 2026; allegations were resolved by settlement, not adjudicated as facts",
+      "sources": [
+        "https://www.eeoc.gov/newsroom/il-fornaio-america-pay-3-million-settle-eeoc-sexual-harassment-lawsuit"
+      ],
+      "notes": "The EEOC says Il Fornaio will pay $3 million to settle a federal suit alleging harassment and retaliation affecting female employees, many teenagers, at multiple California locations. A full story should preserve the no-admission/settlement posture and test whether minors had a reporting path outside their local chain of command."
+    },
+    {
+      "title": "The Earthquake Ended. More Than 8,000 Children Still Need the Basics.",
+      "seat_affected": "Children and families affected by the October 2026 Panama earthquake",
+      "status": "UNICEF emergency estimate; needs and response figures remain preliminary",
+      "sources": [
+        "https://www.unicef.org/press-releases/more-8000-children-need-humanitarian-assistance-after-earthquake-panama"
+      ],
+      "notes": "UNICEF reported October 13 that more than 8,000 children needed humanitarian assistance and described work with government on health, water, sanitation, education and child protection. Treat the figure as an emergency estimate and check later situation reports before a full editorial."
+    },
+    {
+      "title": "The Care Happened in 2024. The Public Receipt Arrived in 2026.",
+      "seat_affected": "Children enrolled in Medicaid and CHIP, especially in states with missing or suppressed quality measures",
+      "status": "Verified federal data-accountability angle; reporting gaps are not proof that care failed",
+      "sources": [
+        "https://data.medicaid.gov/dataset/eb8273dd-e5c1-4963-9a83-b5492724f22e"
+      ],
+      "notes": "CMS's September 2026 Child Core Set release reports state performance for 2025 reporting, generally reflecting 2024 care. Measures appear only when at least 25 states reported data meeting quality standards. A full story should distinguish delayed or omitted public data from evidence of poor clinical performance."
+    }
+  ],
+  "reconciliation_notes_2026_10_14": {
+    "publication": "Germany Created a Seat for Police Complaints. Who Can Actually Use It? published to GitHub main and removed from both current unpublished ledgers.",
+    "counts": {
+      "full_finished_unpublished_eligible": 8,
+      "full_finished_currently_queued": 8,
+      "full_finished_retired_or_replaced": 4,
+      "status_verification_required": 2
+    },
+    "next_queue_item": "Before You Cut Care, Did You Stop Paying More for the Same Care?",
+    "germany_weekly_delivery": "1 of 2 completed for October 12–18; the completed school-day package remains this week's first delivery. The next Germany package remains targeted for Friday.",
+    "verification": "Direct Germany article verified live; its four shell surfaces remain pending. Veterans shell propagation cleared. Job-support homepage visibility remains open.",
+    "canonical_ledger": "Canonical Markdown queue was found stale and is being rebuilt from this staged inventory and verified publication records.",
+    "new_completion": "The Workers Were Teenagers. The Complaint System Was Built for Adults. completed, passed two reviews, approved and added at queue position 9."
+  },
+  "daily_editorial_completion_2026_10_14": {
+    "position": 9,
+    "title": "The Workers Were Teenagers. The Complaint System Was Built for Adults.",
+    "slug": "the-workers-were-teenagers-the-complaint-system-was-built-for-adults",
+    "completion_status": "full_finished",
+    "status": "approved_queued_full_finished",
+    "publication_status": "unpublished",
+    "approval": "Jansen standing instruction: full TMS format plus two completed reviews queues automatically",
+    "scheduled_date": null,
+    "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_THE_WORKERS_WERE_TEENAGERS_PUBLICATION_PACKAGE_2026-10-14.md",
+    "duplication_status": "materially_distinct",
+    "related_live_comparators": [
+      {
+        "title": "She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.",
+        "distinction": "Teenage restaurant-worker safeguarding and complaint-channel design after a harassment settlement, not sex discrimination in hiring."
+      },
+      {
+        "title": "The HR Manager Said No to Discrimination. Then She Allegedly Lost Her Job.",
+        "distinction": "Young workers reporting harassment against workplace power, not an HR professional's alleged retaliation for opposing discriminatory hiring."
+      }
+    ],
+    "review_1": "2026-10-14 EEOC release, 2022 complaint announcement, legal posture, numbers, dates and filing guidance audit",
+    "review_2": "2026-10-14 Regular Joe clarity, TMS format, fairness, counterargument, action, metadata and social audit",
+    "notes": "Settlement is not a court judgment or admission. The EEOC's at-least-100 statement is attributed to the agency. Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
+  },
+  "story_briefs_2026_10_15": [
+    {
+      "title": "The Camera Was Issued. The Rules Were Still Missing.",
+      "seat_affected": "Migrants, travelers, border communities, and CBP and ICE personnel",
+      "status": "GAO management findings and open recommendations; not proof that cameras were unused or that misconduct occurred",
+      "sources": [
+        "https://www.gao.gov/products/gao-26-108157"
+      ],
+      "notes": "GAO reported that CBP and ICE had not updated their initial body-camera plans after deployment changes, lacked results-oriented performance measures, and that most offices lacked operational guidance. DHS agreed with six of seven recommendations and disputed automated activation controls."
+    },
+    {
+      "title": "The Military Wants AI Faster. Who Owns the Safety Check?",
+      "seat_affected": "Service members, civilians affected by military AI systems, and democratic oversight",
+      "status": "GAO oversight findings and open recommendations; not a finding that DOD AI systems are unsafe",
+      "sources": [
+        "https://www.gao.gov/products/gao-27-107837"
+      ],
+      "notes": "GAO found Responsible AI principles and initial implementation steps, but said collaboration responsibilities and workforce needs remain unresolved. As of February 2026, three of 10 authorized Responsible AI Division positions were filled."
+    },
+    {
+      "title": "More Than 300 Million People Have No Safe Home. Housing Is the First Missing Seat.",
+      "seat_affected": "Women, children, older people, disabled people, migrants, refugees, and racial or ethnic minorities facing inadequate housing",
+      "status": "United Nations global estimate and rights framing; not a local prevalence count",
+      "sources": [
+        "https://www.un.org/en/desa/3-reasons-safe-homes-matter-in-the-fight-against-poverty"
+      ],
+      "notes": "UN DESA reported October 14 that more than 300 million people lack safe, secure and adequate housing and described disproportionate effects on marginalized groups. A full story should pair the global estimate with current local housing data before publication."
+    }
+  ],
+  "reconciliation_notes_2026_10_15": {
+    "publication": "Before You Cut Care, Did You Stop Paying More for the Same Care?",
+    "publication_state": "Published and verified live on the direct article, homepage, archive and RSS",
+    "next_queue_item": "He Asked to Break His Fast. He Allegedly Lost His Job.",
+    "title_changes": [
+      "Removed the published Medicare editorial from the unpublished ledger and queue.",
+      "Closed the Germany police-complaints shell-propagation discrepancy.",
+      "Added the October 15 Medicare propagation check.",
+      "Closed the October 15 Medicare propagation check after all required public surfaces returned HTTP 200 and displayed the title.",
+      "Added the twice-reviewed military AI accountability editorial to the finished unpublished ledger and queue at position 9."
+    ],
+    "counts": {
+      "full_finished_unpublished_eligible": 9,
+      "full_finished_currently_queued": 9,
+      "full_finished_retired_or_replaced": 4,
+      "status_verification_required": 1
+    },
+    "germany_weekly_status": "1 of 2 packages complete for 2026-10-12/2026-10-18; Friday package remains due."
+  },
+  "daily_editorial_completion_2026_10_15": {
+    "title": "The Military Wants AI Faster. Who Owns the Safety Check?",
+    "status": "approved_queued_full_finished",
+    "source": "editorial-packages/TMS_MILITARY_AI_SAFETY_CHECK_PUBLICATION_PACKAGE_2026-10-15.md",
+    "commit": "13fcc88a43c81ad6239e0f826aac2435abb3f06a",
+    "reviews_completed": 2,
+    "distinction": "Military AI governance, staffing and congressional oversight rather than human review of an individual AI accusation.",
+    "notes": "New publication-ready reserve editorial. Not published."
+  },
+  "daily_editorial_completion_2026_10_16": {
+    "title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
+    "status": "approved_queued_full_finished",
+    "source": "editorial-packages/TMS_GERMANY_MINIMUM_WAGE_HOURS_PUBLICATION_PACKAGE_2026-10-16.md",
+    "commit": "57e848a897ef7bcf84d7b2439270f0a64428fe34",
+    "reviews_completed": 2,
+    "germany_weekly_package": "2 of 2",
+    "notes": "New publication-ready Germany reserve editorial. Not published."
+  },
+  "reconciliation_notes_2026_10_16": {
+    "completed_editorial": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
+    "queue_position": 10,
+    "counts": {
+      "full_finished_unpublished_eligible": 9,
+      "full_finished_currently_queued": 9,
+      "full_finished_retired_or_replaced": 4,
+      "status_verification_required": 2
+    },
+    "germany_weekly_status": "2 of 2 complete",
+    "notes": [
+      "Two review passes completed.",
+      "Package is approved, queued and unpublished.",
+      "No repository or active-queue duplicate found."
+    ],
+    "publication": "He Asked to Break His Fast. He Allegedly Lost His Job.",
+    "publication_state": "Published to GitHub main; public propagation pending",
+    "next_queue_item": "Germany Has a Way to Keep the Power On. Can People Use It?",
+    "title_changes": [
+      "Removed the religious-accommodation editorial from unpublished inventory and active queue.",
+      "Added its public-propagation verification item.",
+      "Recorded three verified research briefs; none is counted as finished or queued."
+    ]
+  },
+  "story_briefs_2026_10_16": [
+    {
+      "title": "The Housing Agency Lost 29% of Its Workforce. Tenants Felt the Handoff.",
+      "seat_affected": "People relying on public housing, rental assistance, fair-housing enforcement and property inspections",
+      "status": "GAO findings and stakeholder reports; the 20 interviewed organizations were a nongeneralizable selection",
+      "sources": [
+        "https://www.gao.gov/products/gao-26-108442"
+      ],
+      "notes": "HUD reduced its workforce 29% in 2025; over half of departing staff had at least 10 years of service. Nearly all selected stakeholder organizations reported lost contacts or navigation difficulties, with some reporting inspection delays or service cuts."
+    },
+    {
+      "title": "The Encryption Works Today. The Data May Still Be Stolen for Tomorrow.",
+      "seat_affected": "People whose health, financial, identity and government records depend on federal encryption",
+      "status": "GAO preparedness finding; current quantum computers cannot break the relevant cryptography and development timing is uncertain",
+      "sources": [
+        "https://www.gao.gov/products/gao-27-108740"
+      ],
+      "notes": "GAO found incomplete inventories, funding assessments and testing plans across federal agencies and disclosed that the sensitive report made 89 recommendations to 23 agencies."
+    },
+    {
+      "title": "Four Million Children May Need Malnutrition Treatment. The Funding Cliff Comes First.",
+      "seat_affected": "Children in Afghanistan, especially more than one million projected to face severe acute malnutrition",
+      "status": "UNICEF and Nutrition Cluster projection for 2027; not a current verified treatment count",
+      "sources": [
+        "https://www.unicef.org/press-releases/afghanistan-face-sharp-rise-acute-malnutrition-2027-over-4-million-children"
+      ],
+      "notes": "The October 15 projection anticipates more than four million children needing treatment in 2027 and 14 provinces reaching critical levels, citing seasonal pressures and an anticipated funding cliff."
+    }
+  ],
+  "unfinished_stories_evidence_ledger": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/TMS_UNFINISHED_STORIES_EVIDENCE_LEDGER_2026-10-16.md",
+  "remaining_unfinished_priority_stories": [
+    "Medicaid/SNAP work requirements",
+    "Broader Trump Receipt accounting",
+    "Rape-sentencing evidence review",
+    "Arkansas rural maternal health"
+  ],
+  "unfinished_completion_2026_10_16": [
+    {
+      "title": "The Building Failed. The Children Lost the School Day.",
+      "source": "editorial-packages/TMS_SCHOOL_BUILDING_FAILED_CHILDREN_LOST_DAY_PUBLICATION_PACKAGE_2026-10-16.md",
+      "reviews": 2,
+      "status": "approved_queued_unpublished"
+    },
+    {
+      "title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
+      "source": "editorial-packages/TMS_JOB_CENTER_ACCESS_PUBLICATION_PACKAGE_2026-10-16.md",
+      "reviews": 2,
+      "status": "approved_queued_unpublished"
+    },
+    {
+      "title": "The Loan Rule Changed. Were the Instructions Ready?",
+      "source": "editorial-packages/TMS_LOAN_RULE_CHANGED_INSTRUCTIONS_NOT_READY_PUBLICATION_PACKAGE_2026-10-16.md",
+      "reviews": 2,
+      "status": "approved_queued_unpublished"
+    }
+  ],
+  "daily_editorial_completion_2026_10_17": {
+    "title": "The House Was Full. The Homelessness Definition Still Had an Empty Seat.",
+    "position": 13,
+    "status": "approved_queued_full_finished",
+    "source": "editorial-packages/TMS_TRIBAL_HOMELESSNESS_DEFINITION_EMPTY_SEAT_PUBLICATION_PACKAGE_2026-10-17.md",
+    "commit": "e23722269f6d1f34398e95fddbb12f27b0fe0ecd",
+    "reviews_completed": 2,
+    "notes": "Moved from the unfinished evidence ledger into publication-ready reserve inventory. Not published."
+  },
+  "reconciliation_notes_2026_10_17": {
+    "counts": {
+      "full_finished_unpublished_eligible": 13,
+      "full_finished_currently_queued": 13,
+      "full_finished_retired_or_replaced": 4,
+      "status_verification_required": 2
+    },
+    "new_completion": "The House Was Full. The Homelessness Definition Still Had an Empty Seat.",
+    "remaining_unfinished_priorities": 4,
+    "next_queue_item": "Germany Has a Way to Keep the Power On. Can People Use It?",
+    "publication": "No publication; next approved Germany energy-debt story held because independent live-site checks returned HTTP 403.",
+    "current_law_refresh": "Bundesnetzagentur current guidance verified disconnection thresholds, notice, proportionality, vulnerability and §41g basic-supply agreement route.",
+    "story_briefs_added": 3
+  },
+  "story_briefs_2026_10_17": [
+    {
+      "title": "Three Insurers Held Most of the Market. How Much Choice Did the Card Really Offer?",
+      "seat_affected": "People buying individual or employer health insurance, including workers and small businesses",
+      "status": "GAO market-concentration finding; concentration may affect choice and premiums but does not by itself prove a specific price increase",
+      "sources": [
+        "https://www.gao.gov/products/gao-27-108927"
+      ],
+      "notes": "GAO reported October 16 that three or fewer insurers held at least 80% enrollment share in individual and employer-group markets in at least 36 states in 2024. Individual-market concentration peaked in 2019 and eased somewhat afterward."
+    },
+    {
+      "title": "The Military Kept the Record. One Request Exposed Someone Else's Information.",
+      "seat_affected": "Service members and veterans seeking timely access to personnel or health records",
+      "status": "GAO management and covert-test findings; 49 reported breaches are incidents, not a complete national count of all improper disclosures",
+      "sources": [
+        "https://www.gao.gov/products/gao-27-107784"
+      ],
+      "notes": "GAO reported almost 50 improper releases affecting more than 1,000 service members during fiscal years 2021–2025. In its 26-request covert test, 18 were processed and one improperly exposed personally identifiable information. Five recommendations remain open."
+    },
+    {
+      "title": "The Job Was Informal. The Right to Be Safe Wasn't.",
+      "seat_affected": "Informal workers, especially women, migrants, domestic workers, street vendors and home-based workers",
+      "status": "ILO policy analysis and promising practices; comparable global prevalence evidence specific to informal workers remains limited",
+      "sources": [
+        "https://www.ilo.org/resource/news/protection-violence-and-harassment-cannot-wait-formalization-new-ilo-briefs"
+      ],
+      "notes": "ILO said weak inspection, dispersed employer responsibility, economic insecurity and limited complaint routes can magnify violence and harassment risks. It expressly cautioned that comparable global evidence specific to informal workers is limited."
+    }
+  ]
+}

@@ -2,6 +2,10 @@
 
 **Source of truth:** verified live pages and published HTML/commits take precedence over stale queue labels. The staged JSON on branch `tms-daily-queue-2026-09-01` is the machine-readable companion to this ledger.
 
+## Priority override — next eligible publication slot (October 17, 2026)
+
+**Release before queue position 1:** **Racism Is Over. So Why Are Black Drivers Still a Competition?** (`racism-is-over-charlotte-police-scandal`). **Status:** `approved_priority_staged_not_live`. Full Regular Joe editorial package: [Charlotte police racism publication package](editorial-packages/TMS_CHARLOTTE_RACISM_IS_OVER_PUBLICATION_PACKAGE_2026-10-17.md). Publish at the next available daily slot after factual refresh, final HTML/image/navigation/feed integration, and live URL verification. This is a special priority override, not a reorder or deletion of the 13 approved queued stories. After its publication, resume queue positions 1–13 unchanged. Do not report the story as live before deployment and URL verification.
+
 ## Permanent publication standards
 
 - Publish no more than one editorial per calendar day.

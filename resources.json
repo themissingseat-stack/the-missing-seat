@@ -570,5 +570,27 @@
     "description": "Civil-rights membership organization working on racial justice, voting, education and public accountability. Local assistance and legal referrals vary.",
     "url": "https://naacp.org/",
     "verified": "2026-10-17"
+  },
+  {
+    "id": "truevote-us",
+    "name": "TrueVote",
+    "region": "United States",
+    "type": "Learn & Research",
+    "topics": [
+      "democracy",
+      "elections",
+      "candidates",
+      "campaign-finance",
+      "government-accountability",
+      "congress"
+    ],
+    "actions": [
+      "Research candidates and elected officials",
+      "Review money, voting records and disclosures",
+      "Follow links to primary records"
+    ],
+    "description": "Independent third-party research resource for reviewing federal candidates and elected officials through campaign-finance information, congressional activity, voting records and financial disclosures. Verify important findings through the linked primary records.",
+    "url": "https://www.truevote.app/",
+    "verified": "2026-10-18"
   }
 ]

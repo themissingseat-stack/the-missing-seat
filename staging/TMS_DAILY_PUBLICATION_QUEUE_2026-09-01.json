@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-10-17",
+  "last_reconciled": "2026-10-18",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -23,7 +23,7 @@
   },
   "deployment": {
     "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "Public themissingseat.org surfaces returned HTTP 403 during the October 17 prepublication check. The October 16 religious-accommodation propagation and older job-support homepage item therefore could not be independently closed. No new article was released."
+    "status": "October 18: HEAD request returned 200, but full public GET requests returned 403. This is an access limitation, not proof of outage or failed deployment. Current served content/source could not be compared safely. No publication attempted."
   },
   "published_record": [
     {
@@ -511,13 +511,40 @@
       "review_1": "2026-10-17 GAO methodology, program definition, attribution and preliminary-status audit",
       "review_2": "2026-10-17 Regular Joe clarity, respectful framing, counterargument, action, metadata and social audit",
       "notes": "GAO evidence is preliminary and interviews are nongeneralizable. No national count or universal doubled-up eligibility claim. Refresh for final GAO work and HUD guidance; complete live uniqueness, HTML/image/navigation and deployment checks."
+    },
+    {
+      "position": 14,
+      "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
+      "canonical_title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
+      "slug": "a-seat-was-made-timor-leste-kept-showing-up",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "source": "editorial-packages/TMS_TIMOR_LESTE_A_SEAT_WAS_MADE_PUBLICATION_PACKAGE_2026-10-18.md",
+      "approval": "Standing two-review instruction",
+      "duplication_status": "materially_distinct_repository_archive_checked_live_release_check_pending",
+      "related_live_comparators": [
+        {
+          "title": "A Seat Was Made",
+          "distinction": "National disease-specific public-health verification and maintenance rather than classroom inclusion."
+        }
+      ],
+      "review_1": "October 18: WHO source/chronology/method/limitations check",
+      "review_2": "October 18: full package/Regular Joe/fairness/action/social/duplication review",
+      "notes": "Positive-results package. Final live uniqueness, source refresh, HTML/image/navigation and deployment checks required."
     }
   ],
   "counts": {
-    "full_finished_unpublished_eligible": 12,
-    "full_finished_currently_queued": 12,
+    "full_finished_unpublished_eligible": 14,
+    "full_finished_currently_queued": 14,
     "full_finished_retired_or_replaced": 4,
-    "status_verification_required": 2
+    "status_verification_required": 2,
+    "historical_replacement_versions": 16,
+    "replacements_still_pending_installation": null,
+    "unfinished_or_blocked": 5,
+    "follow_up_candidates": 3,
+    "positive_solution_candidates": 2
   },
   "pending_priority_requests": [
     {
@@ -714,7 +741,7 @@
       "review_1": "2026-10-09 primary current-law/regulator scope audit",
       "review_2": "2026-10-09 corrected copy, format, fairness, action and socials",
       "notes": "§41g directly read; §41f timed out and general safeguards checked via regulator. No inaccessible Destatis statistics used. HTML/image/navigation, final current-law/live uniqueness and deployment checks remain.",
-      "queue_position": 1
+      "canonical_title": "Germany Has a Way to Keep the Power On. Can People Use It?"
     },
     {
       "position": 2,
@@ -746,7 +773,7 @@
       "review_1": "2026-10-09 primary GAO/current-law/final-rule claim audit",
       "review_2": "2026-10-09 corrected copy, legal currency, fairness, action, metadata and social audit",
       "notes": "Reflects August 21, 2026 rule changes; former 7% goal is not described as current. 532 is audits with findings, not individuals or necessarily unique contractors. Final recommendation/rule status, live uniqueness, HTML/image/navigation and deployment checks remain.",
-      "queue_position": 2
+      "canonical_title": "The Disability Hiring Duty Stayed. The Audits Stopped."
     },
     {
       "position": 3,
@@ -768,7 +795,7 @@
       "review_1": "2026-10-10 BLS/Census evidence, definitions, source limitations and race/sex comparison audit",
       "review_2": "2026-10-10 corrected copy, Regular Joe clarity, counterargument, action, metadata and social audit",
       "notes": "BLS earnings figures are descriptive medians, not equal-work proof. 2025 occupation figures exclude October; Census childcare result is a working paper. Final table refresh, live uniqueness, HTML/image/navigation and deployment checks remain.",
-      "queue_position": 3
+      "canonical_title": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power."
     },
     {
       "position": 4,
@@ -790,7 +817,7 @@
       "review_1": "2026-10-11 primary evidence, dates and claim posture",
       "review_2": "2026-10-11 copy, fairness, action, metadata and social review",
       "notes": "Reporting delinquency is not proof of poor outcomes, fraud or inaccurate submitted records. Refresh January 15 deadline/enforcement, verify uniqueness, and complete HTML/image/navigation/deployment checks.",
-      "queue_position": 4
+      "canonical_title": "The College Took the Money. The Outcome Data Is Late."
     },
     {
       "position": 5,
@@ -816,7 +843,7 @@
       "review_1": "2026-10-12 primary evidence, dates and claim posture",
       "review_2": "2026-10-12 copy, fairness, action, metadata and social review",
       "notes": "70.2% late-investigation figure covers 2020–2022. HUD's June 2026 27% backlog-reduction claim lacks published baseline and remaining counts. Refresh backlog/OIG status and complete uniqueness, HTML/image/navigation/deployment checks.",
-      "queue_position": 5
+      "canonical_title": "The Complaint Had a 100-Day Clock. The Housing Problem Did Not Wait."
     },
     {
       "position": 6,
@@ -838,7 +865,7 @@
       "review_1": "2026-10-13 current statute and scope audit",
       "review_2": "2026-10-13 copy, fairness, action, metadata and socials",
       "notes": "Current §24 directly verified. No national implementation outcome claimed. Final law/live uniqueness, HTML/image/navigation/deployment remain.",
-      "queue_position": 6
+      "canonical_title": "Germany Promised a Full School Day. Families Need the Hours to Match."
     },
     {
       "position": 7,
@@ -864,23 +891,20 @@
       "review_1": "2026-10-14 EEOC release, 2022 complaint announcement, legal posture, numbers, dates and filing guidance audit",
       "review_2": "2026-10-14 Regular Joe clarity, TMS format, fairness, counterargument, action, metadata and social audit",
       "notes": "Settlement is not a court judgment or admission. The EEOC's at-least-100 statement is attributed to the agency. Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain.",
-      "queue_position": 7
+      "canonical_title": "The Workers Were Teenagers. The Complaint System Was Built for Adults."
     },
     {
       "position": 8,
-      "title": "The Military Wants AI Faster. Who Owns the Safety Check?",
+      "canonical_title": "The Military Wants AI Faster. Who Owns the Safety Check?",
       "slug": "the-military-wants-ai-faster-who-owns-the-safety-check",
       "status": "approved_queued_full_finished",
       "approval": "Jansen standing two-review instruction",
       "review_1": "2026-10-15 facts, sources, scope and claim posture",
       "review_2": "2026-10-15 TMS format, Regular Joe clarity, fairness, duplication and action",
-      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_MILITARY_AI_SAFETY_CHECK_PUBLICATION_PACKAGE_2026-10-15.md",
+      "source": "editorial-packages/TMS_MILITARY_AI_SAFETY_CHECK_PUBLICATION_PACKAGE_2026-10-15.md",
       "scheduled_date": null,
-      "publication_status": "unpublished",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        "When AI Accuses You, Who Checks the Machine?: Military AI governance, staffing and congressional oversight rather than human review of an individual AI accusation."
-      ],
+      "closest_live_comparator": "When AI Accuses You, Who Checks the Machine?",
+      "material_distinction": "Military AI governance, staffing and congressional oversight rather than human review of an individual AI accusation.",
       "notes": "GAO survey covered 10 selected components and 10 selected use cases. Three-of-ten staffing figure was current as of February 2026. Refresh staffing, recommendation status and live uniqueness before publication.",
       "release_checks": [
         "refresh GAO recommendation and staffing status",
@@ -888,23 +912,20 @@
         "confirm deployment source",
         "HTML/image and navigation integration"
       ],
-      "queue_position": 8
+      "title": "The Military Wants AI Faster. Who Owns the Safety Check?"
     },
     {
       "position": 9,
-      "title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
+      "canonical_title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
       "slug": "germany-raised-the-minimum-wage-the-paycheck-still-needs-the-hours",
       "status": "approved_queued_full_finished",
       "approval": "Jansen standing two-review instruction",
       "review_1": "2026-10-16 primary German sources, estimates, coverage and claim posture",
       "review_2": "2026-10-16 TMS format, Regular Joe clarity, fairness, duplication and action",
-      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GERMANY_MINIMUM_WAGE_HOURS_PUBLICATION_PACKAGE_2026-10-16.md",
+      "source": "editorial-packages/TMS_GERMANY_MINIMUM_WAGE_HOURS_PUBLICATION_PACKAGE_2026-10-16.md",
       "scheduled_date": null,
-      "publication_status": "unpublished",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        "Germany Has a Way to Keep the Power On. Can People Use It?: Wages, recorded working time and labor enforcement rather than household energy debt and electricity disconnection."
-      ],
+      "closest_live_comparator": "Germany Has a Way to Keep the Power On. Can People Use It?",
+      "material_distinction": "Wages, recorded working time and labor enforcement rather than household energy debt and electricity disconnection.",
       "notes": "Destatis figures are upper-limit estimates based on April 2025 data, not proof of individual raises or violations. Refresh rate, enforcement guidance and estimates before publication.",
       "release_checks": [
         "refresh BMAS rate and enforcement guidance",
@@ -912,7 +933,7 @@
         "confirm deployment source",
         "HTML/image and navigation integration"
       ],
-      "queue_position": 9
+      "title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours."
     },
     {
       "position": 10,
@@ -939,8 +960,7 @@
         "independent live title/slug and distinctness check (live access returned 403)",
         "confirm deployment source",
         "HTML/image/navigation and public URL verification"
-      ],
-      "queue_position": 10
+      ]
     },
     {
       "position": 11,
@@ -967,8 +987,7 @@
         "independent live title/slug and distinctness check (live access returned 403)",
         "confirm deployment source",
         "HTML/image/navigation and public URL verification"
-      ],
-      "queue_position": 11
+      ]
     },
     {
       "position": 12,
@@ -995,8 +1014,51 @@
         "independent live title/slug and distinctness check (live access returned 403)",
         "confirm deployment source",
         "HTML/image/navigation and public URL verification"
+      ]
+    },
+    {
+      "position": 13,
+      "title": "The House Was Full. The Homelessness Definition Still Had an Empty Seat.",
+      "slug": "the-house-was-full-the-homelessness-definition-still-had-an-empty-seat",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "scheduled_date": null,
+      "source": "editorial-packages/TMS_TRIBAL_HOMELESSNESS_DEFINITION_EMPTY_SEAT_PUBLICATION_PACKAGE_2026-10-17.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Water Project Was Built. The Missing Money Was for Keeping It Alive.",
+          "distinction": "Tribal homelessness definitions, doubled-up housing and CoC access rather than water-system construction and maintenance funding."
+        }
       ],
-      "queue_position": 12
+      "review_1": "2026-10-17 GAO methodology, program definition, attribution and preliminary-status audit",
+      "review_2": "2026-10-17 Regular Joe clarity, respectful framing, counterargument, action, metadata and social audit",
+      "notes": "GAO evidence is preliminary and interviews are nongeneralizable. No national count or universal doubled-up eligibility claim. Refresh for final GAO work and HUD guidance; complete live uniqueness, HTML/image/navigation and deployment checks.",
+      "canonical_title": "The House Was Full. The Homelessness Definition Still Had an Empty Seat."
+    },
+    {
+      "position": 14,
+      "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
+      "canonical_title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
+      "slug": "a-seat-was-made-timor-leste-kept-showing-up",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "source": "editorial-packages/TMS_TIMOR_LESTE_A_SEAT_WAS_MADE_PUBLICATION_PACKAGE_2026-10-18.md",
+      "approval": "Standing two-review instruction",
+      "duplication_status": "materially_distinct_repository_archive_checked_live_release_check_pending",
+      "related_live_comparators": [
+        {
+          "title": "A Seat Was Made",
+          "distinction": "National disease-specific public-health verification and maintenance rather than classroom inclusion."
+        }
+      ],
+      "review_1": "October 18: WHO source/chronology/method/limitations check",
+      "review_2": "October 18: full package/Regular Joe/fairness/action/social/duplication review",
+      "notes": "Positive-results package. Final live uniqueness, source refresh, HTML/image/navigation and deployment checks required."
     }
   ],
   "status_verification_ledger": [
@@ -1615,5 +1677,67 @@
       ],
       "notes": "ILO said weak inspection, dispersed employer responsibility, economic insecurity and limited complaint routes can magnify violence and harassment risks. It expressly cautioned that comparable global evidence specific to informal workers is limited."
     }
-  ]
+  ],
+  "follow_up_candidates": [
+    {
+      "original_slug": "germany-created-a-seat-for-police-complaints-who-can-actually-use-it",
+      "trigger": "Subsequent disposition/action/individual relief; no new outcome asserted"
+    },
+    {
+      "original_slug": "the-water-project-was-built-the-missing-money-was-for-keeping-it-alive",
+      "trigger": "Changed maintenance funding/rules or service delivery; no new remedy asserted"
+    },
+    {
+      "original_slug": "he-asked-to-break-his-fast-he-allegedly-lost-his-job",
+      "trigger": "Published decree implementation/compliance outcome"
+    }
+  ],
+  "positive_solution_candidates": [
+    {
+      "title": "Nepal care cooperatives: did training become paid care and affordable places?",
+      "source": "https://www.ilo.org/resource/news/together-they-are-changing-their-communities-how-cooperatives-are-advancing",
+      "status": "research_not_finished"
+    },
+    {
+      "title": "Women agricultural producers: did organizing change bargaining power and net income?",
+      "source": "https://www.ilo.org/resource/news/together-they-are-changing-their-communities-how-cooperatives-are-advancing",
+      "status": "research_not_finished"
+    }
+  ],
+  "priority_override": {
+    "title": "Racism Is Over. So Why Are Black Drivers Still a Competition?",
+    "slug": "racism-is-over-charlotte-police-scandal",
+    "status": "approved_priority_pending_release_and_standalone_completeness_checks",
+    "source": "editorial-packages/TMS_CHARLOTTE_RACISM_IS_OVER_PUBLICATION_PACKAGE_2026-10-17.md",
+    "blockers": [
+      "Underlying CMPD traffic-stop percentages and direct DA review citation required by package",
+      "Standalone social versions referenced in conversation but absent from retrieved package",
+      "Independent live uniqueness/current production verification unavailable"
+    ]
+  },
+  "daily_editorial_completion_2026_10_18": {
+    "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
+    "position": 14,
+    "source": "editorial-packages/TMS_TIMOR_LESTE_A_SEAT_WAS_MADE_PUBLICATION_PACKAGE_2026-10-18.md",
+    "reviews_completed": 2,
+    "status": "approved_queued_full_finished"
+  },
+  "reporting_tracks": "TMS_FOLLOW_UP_AND_POSITIVE_RESULTS_TRACKS.md",
+  "reconciliation_notes_2026_10_18": {
+    "publication": "None: current live GET access blocked; Charlotte priority retained",
+    "new_full_finished": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
+    "counts": {
+      "full_finished_unpublished_eligible": 14,
+      "full_finished_currently_queued": 14,
+      "full_finished_retired_or_replaced": 4,
+      "status_verification_required": 2,
+      "historical_replacement_versions": 16,
+      "replacements_still_pending_installation": null,
+      "unfinished_or_blocked": 5,
+      "follow_up_candidates": 3,
+      "positive_solution_candidates": 2
+    },
+    "correction": "Prior top-level count and unpublished_ledger lagged the 13-entry actual queue. Rebuilt from complete queue, then appended one finished package.",
+    "germany": "2 of 2 completed for October 12–18; no duplicate package manufactured"
+  }
 }

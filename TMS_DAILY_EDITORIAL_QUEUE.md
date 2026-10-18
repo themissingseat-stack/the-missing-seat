@@ -1,4 +1,4 @@
-# TMS Daily Editorial Queue — Reconciled 2026-10-17
+# TMS Daily Editorial Queue — Reconciled 2026-10-18
 
 **Source of truth:** verified live pages and published HTML/commits take precedence over stale queue labels. The staged JSON on branch `tms-daily-queue-2026-09-01` is the machine-readable companion to this ledger.
 
@@ -35,10 +35,15 @@ Every **Full TMS Editorial Joe Package** must ensure that an ordinary reader fin
 
 | Ledger category | Count |
 |---|---:|
-| Full finished unpublished, eligible | 13 |
-| Full finished currently queued | 13 |
+| Full finished unpublished, eligible | 14 |
+| Full finished currently queued | 14 |
 | Retired/replaced finished editorials | 4 |
 | Requiring live/repository status verification | 2 |
+| Historical existing-website replacement versions, excluded from new inventory | 16 |
+| Replacements still awaiting installation | Not yet reconciled |
+| Unfinished/blocked including separate Charlotte priority release checks | 5 |
+| Follow-up research candidates | 3 |
+| Positive/solution research candidates, excluding completed packages | 2 |
 
 ## Approved finished queue
 
@@ -57,6 +62,8 @@ Every **Full TMS Editorial Joe Package** must ensure that an ordinary reader fin
 | 11 | The Job Center Was Open. The Help Still Wasn't Accessible. | `the-job-center-was-open-the-help-still-wasnt-accessible` | approved_queued_full_finished | Two Agencies Fund the Support. The Worker Still Gets Left Waiting.: Access to job-center appointments and training rather than sequential VR/Medicaid support funding. | [Full package](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_JOB_CENTER_ACCESS_PUBLICATION_PACKAGE_2026-10-16.md). Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain. |
 | 12 | The Loan Rule Changed. Were the Instructions Ready? | `the-loan-rule-changed-were-the-instructions-ready` | approved_queued_full_finished | The College Took the Money. The Outcome Data Is Late.: Education's implementation instructions to loan servicers rather than institutions' outcome-data reporting. | [Full package](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_LOAN_RULE_CHANGED_INSTRUCTIONS_NOT_READY_PUBLICATION_PACKAGE_2026-10-16.md). Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain. |
 | 13 | The House Was Full. The Homelessness Definition Still Had an Empty Seat. | `the-house-was-full-the-homelessness-definition-still-had-an-empty-seat` | approved_queued_full_finished | The Water Project Was Built. The Missing Money Was for Keeping It Alive.: Tribal homelessness definitions, doubled-up housing and CoC access rather than water-system construction and maintenance funding. | [Full package](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_TRIBAL_HOMELESSNESS_DEFINITION_EMPTY_SEAT_PUBLICATION_PACKAGE_2026-10-17.md). GAO evidence is preliminary and interview samples are nongeneralizable. Refresh for final GAO work and HUD guidance; complete live uniqueness, HTML/image/navigation and deployment checks. |
+
+| 14 | A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground. | `a-seat-was-made-timor-leste-kept-showing-up` | approved_queued_full_finished | A Seat Was Made: National disease-specific health verification and maintenance rather than classroom inclusion. | [Full package](editorial-packages/TMS_TIMOR_LESTE_A_SEAT_WAS_MADE_PUBLICATION_PACKAGE_2026-10-18.md). WHO milestones dated separately; no patient invention or measured savings claim. Final live uniqueness, source refresh, HTML/image/navigation and deployment verification remain. |
 
 ## Published record — do not requeue
 
@@ -166,3 +173,15 @@ The table records this workflow’s reconciled publication history, not every hi
 - Held publication because independent public checks of themissingseat.org returned HTTP 403. The required live title/slug, navigation and post-release verification could not be completed safely.
 - Recorded three new verified briefs in the staged ledger: private-health-insurance concentration, military-record privacy and delays, and violence protections for informal workers.
 - Counts remain **13 finished unpublished / 13 queued / 4 retired / 2 requiring status verification**. Next queue item remains the Germany energy-debt editorial.
+
+
+## October 18 consolidated workflow reconciliation
+
+- Completed and twice reviewed **A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.**; approved and appended at numbered queue position 14.
+- Retained Charlotte's priority override ahead of numbered position 1. Its package's own prepublication gate requires underlying stop-data verification and a direct DA-review citation; the standalone file also references Facebook/Instagram drafts outside it. Preserve approval while resolving these checks; do not include it in the 14 fully cleared packages.
+- Public HEAD returned 200 but full GETs of homepage, archive and selected articles returned 403. That is an automated-access limitation, not proof the website is down. Current live content could not be compared with GitHub safely. No new publication was attempted.
+- Corrected the staged summary and unpublished list, which lagged its actual 13-entry queue; then added the new completed package. Both records now show 14.
+- [Follow-up and positive-results research tracks](TMS_FOLLOW_UP_AND_POSITIVE_RESULTS_TRACKS.md) created: 3 follow-up candidates and 2 positive research candidates, all outside finished inventory.
+- The historical 16 replacements remain excluded from reserve inventory. Their remaining installation count is not certified by this run and must not be reported automatically as 16 awaiting replacement.
+- Four long-running unfinished subjects remain (Medicaid/SNAP, broader Trump Receipt, rape sentencing, Arkansas maternal health), plus Charlotte's priority release/completeness checks.
+- Germany week October 12–18 remains complete at 2/2. Next week's target opens October 19.

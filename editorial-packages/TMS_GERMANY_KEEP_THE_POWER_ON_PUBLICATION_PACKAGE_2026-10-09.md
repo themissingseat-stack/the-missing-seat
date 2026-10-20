@@ -3,7 +3,7 @@
 ## Publication metadata
 
 Completed and verified: October 9, 2026
-Status: FULL, FINISHED / RELEASE COMMITTED OCTOBER 20 / PUBLIC PROPAGATION PENDING
+Status: FULL, FINISHED / PUBLISHED OCTOBER 20 / LIVE ARTICLE AND NAVIGATION VERIFIED
 Slug: germany-has-a-way-to-keep-the-power-on-can-people-use-it
 Filename: germany-has-a-way-to-keep-the-power-on-can-people-use-it.html
 Topic: Work & Economic Fairness
@@ -146,3 +146,6 @@ Remaining release work: final live uniqueness and legal refresh, HTML, image sel
 ## October 20 release record
 
 Current §41g and regulator complaint guidance refreshed. Source confirmed by exact live/GitHub blob matches on homepage, archive, Democracy & Government topic and RSS. Charlotte priority skipped pending its stated evidence checks. Article commit 7f8dca361d32b97edd3745048a44ef0fbb14199c and all four navigation/feed updates completed. Immediate public URL still returned 404 and shells served the prior versions. Treat as committed release awaiting propagation; do not republish or count as verified live. Keep the §41f retrieval limitation stated.
+
+
+Final October 20 check: direct article HTTP 200 and matching title; homepage, archive, Democracy & Government topic and RSS all display the article link. Public propagation check closed. Live URL: https://themissingseat.org/germany-has-a-way-to-keep-the-power-on-can-people-use-it.html

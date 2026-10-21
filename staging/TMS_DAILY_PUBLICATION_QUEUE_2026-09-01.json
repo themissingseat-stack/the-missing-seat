@@ -1817,6 +1817,45 @@
     "status_verification_required": 0,
     "germany_weekly_completed": "2/2",
     "next_numbered_story": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.",
-    "priority_override": "Charlotte priority preserved; evidence and standalone package checks still block release."
-  }
+    "priority_override": "Charlotte priority preserved; evidence and standalone package checks still block release.",
+    "discovery_briefs": 3
+  },
+  "discovery_2026_10_21": [
+    {
+      "title": "The Application Was Online Until the American Worker Tried to Apply",
+      "seat_affected": "U.S. workers competing in PERM recruitment, alongside immigrant workers whose status should not be used to justify unequal hiring routes",
+      "hook": "DOJ and EEOC announced a $5 million Instacart settlement over allegations that U.S. workers faced a mail-only application burden while ordinary recruitment accepted electronic applications.",
+      "central_facts": "This is a settlement, not a trial finding or admission. The agencies say $4 million is back pay and $1 million a civil penalty, with prospective electronic-application requirements.",
+      "why_it_matters": "A fair immigration system should not require discrimination against either U.S. workers or visa holders.",
+      "takeaway": "The question is whether the same job has the same application door.",
+      "practical_action": "Read the settlement terms and ask Labor, DOJ and EEOC to publish compliance outcomes after implementation.",
+      "sources": [
+        "https://www.eeoc.gov/newsroom/civil-rights-division-and-equal-employment-opportunity-commission-secure-5000000-joint"
+      ]
+    },
+    {
+      "title": "The Accommodation Request Reached the Company. The Tools Allegedly Did Not.",
+      "seat_affected": "Blind and disabled remote workers",
+      "hook": "EEOC filed suit alleging a blind longtime employee was moved into sales, denied job support and resources provided to others, then fired.",
+      "central_facts": "These are agency allegations in a new lawsuit, not proven facts. The employer's response and court record require review before a full editorial.",
+      "why_it_matters": "Remote work is not automatically accessible work.",
+      "takeaway": "Access depends on tools, training and equal support, not merely permission to work from home.",
+      "practical_action": "Ask employers to audit whether disabled workers receive the same job systems and support as peers.",
+      "sources": [
+        "https://www.eeoc.gov/newsroom"
+      ]
+    },
+    {
+      "title": "A Seat Was Made: Heart-Care Treatment Grew 21 Percent in One Year",
+      "seat_affected": "People at risk of cardiovascular disease in the Americas, especially patients missing routine primary care",
+      "hook": "WHO reported a 21 percent one-year rise in patients receiving treatment through the HEARTS initiative.",
+      "central_facts": "The figure comes from WHO's October 1 regional remarks. A full package needs the underlying program dashboard, country distribution and outcome measures before treating enrollment growth as improved health.",
+      "why_it_matters": "Positive public-health coverage should show both scale and whether better treatment reaches underserved communities.",
+      "takeaway": "A larger program is promising; blood-pressure control and equity are the real receipt.",
+      "practical_action": "Track country-level enrollment, control rates and rural/low-income reach.",
+      "sources": [
+        "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-78th-session-of-the-regional-committee-of-who-for-the-americas---1-october-2026"
+      ]
+    }
+  ]
 }

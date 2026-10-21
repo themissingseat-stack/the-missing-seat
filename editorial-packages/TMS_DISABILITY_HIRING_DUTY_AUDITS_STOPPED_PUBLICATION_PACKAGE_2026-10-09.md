@@ -2,7 +2,7 @@
 
 ## Publication metadata
 
-- **Status:** FULL, FINISHED, TWICE REVIEWED, APPROVED / QUEUED / UNPUBLISHED
+- **Status:** PUBLISHED / VERIFIED LIVE — October 21, 2026
 - **Date completed:** October 9, 2026
 - **Working slug:** `the-disability-hiring-duty-stayed-the-audits-stopped`
 - **Topic:** Disability Rights · Work · Federal Contracting · Government Accountability
@@ -93,7 +93,7 @@ The law kept a seat for disabled workers. Oversight is how the public checks whe
 
 ## Verification notice
 
-Checked October 9, 2026 against GAO's report page, recommendation table, the current eCFR text, and the August 21, 2026 final rule. The editorial distinguishes GAO findings from inference and opinion. The 532 figure counts audits with violations, not people, allegations, or necessarily unique contractors. No claim is made that every contractor violates Section 503. All eight GAO recommendations were shown as open at the time of verification. Refresh recommendation status and current regulations immediately before publication.
+Refreshed October 21, 2026 against GAO's report page, recommendation table, the current eCFR text, and the August 21, 2026 final rule. The editorial distinguishes GAO findings from inference and opinion. The 532 figure counts audits with violations, not people, allegations, or necessarily unique contractors. No claim is made that every contractor violates Section 503. All eight GAO recommendations were shown as open at the time of verification. Refresh recommendation status and current regulations immediately before publication.
 
 ## Duplication and relevance check
 
@@ -141,3 +141,7 @@ Federal contractors still have a duty to recruit, employ, advance, and accommoda
 
 A realistic federal-contract workplace entrance with an accessible door and a visible “Now Hiring” notice. In the foreground, an empty chair faces a clipboard stamped “AUDIT SUSPENDED.” Keep people out of frame so the missing seat is the subject. Neutral documentary lighting; no partisan symbols, medical imagery, or inspirational framing.
 
+
+## Publication record
+
+Published October 21, 2026. GitHub article commit: `3a7a93c5176938a6ea4430edc05ab2f673bc73b2`. Homepage, archive, Democracy & Government topic page and RSS were updated. Public URL: https://themissingseat.org/the-disability-hiring-duty-stayed-the-audits-stopped.html

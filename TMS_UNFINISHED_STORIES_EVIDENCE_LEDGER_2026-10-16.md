@@ -64,3 +64,9 @@ Next task: obtain that actual report, determine death years and denominators, th
 ## Inventory controls
 
 Four unfinished leads completed across the October 16–17 work. Four priority projects above remain unfinished; do not count their research as reserve inventory. Four retired duplicates and sixteen website replacement revisions remain separate. Independent live archive access returned HTTP 403; repository/archive/queue distinctness checks passed for the new packages, with live verification required before release.
+
+## October 22 Arkansas primary-source update
+
+HRSA's current RMOMS program page lists Arkansas's 2022 cohort as September 2022–August 2026 and University of Arkansas for Medical Sciences in the 2025 cohort for September 2025–September 2029. This verifies funded program/cohort existence, not patient reach, sustained obstetric-unit access or a mortality reduction. Obtain the Arkansas evaluation, service geography, operating providers and attributable patient accounts before completing the editorial. The maternal-mortality report and outcome/denominator blockers above remain.
+
+https://www.hrsa.gov/rural-health/grants/rural-community/rmoms

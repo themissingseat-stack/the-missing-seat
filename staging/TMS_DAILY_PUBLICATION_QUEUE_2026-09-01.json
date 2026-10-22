@@ -29,11 +29,12 @@
     {
       "title": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.",
       "slug": "the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power.html",
-      "publication_status": "committed_to_main_pending_final_link_verification",
+      "publication_status": "published_live_verified",
       "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GAP_NOT_JUST_PAY_TIME_CARE_POWER_PUBLICATION_PACKAGE_2026-10-10.md",
       "article_commit": "c48c38b2f63a7ebf5352b2772d48cef95fc97c68",
       "date_committed": "2026-10-22",
-      "notes": "Direct article HTTP 200; homepage/archive/topic/RSS propagation being verified."
+      "notes": "Direct article and homepage/archive/Race & Equal Humanity topic/RSS returned HTTP 200 with correct slug. Production source preflight matched GitHub main on homepage/archive/RSS.",
+      "published_verified": "2026-10-22"
     },
     {
       "title": "Germany Has a Way to Keep the Power On. Can People Use It?",
@@ -403,7 +404,8 @@
         "independent live title/slug and distinctness check (live access returned 403)",
         "confirm deployment source",
         "HTML/image/navigation and public URL verification"
-      ]
+      ],
+      "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
       "position": 9,
@@ -430,7 +432,8 @@
         "independent live title/slug and distinctness check (live access returned 403)",
         "confirm deployment source",
         "HTML/image/navigation and public URL verification"
-      ]
+      ],
+      "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
       "position": 10,
@@ -457,7 +460,8 @@
         "independent live title/slug and distinctness check (live access returned 403)",
         "confirm deployment source",
         "HTML/image/navigation and public URL verification"
-      ]
+      ],
+      "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
       "position": 11,
@@ -550,7 +554,7 @@
     "full_finished_unpublished_eligible": 14,
     "full_finished_currently_queued": 14,
     "full_finished_retired_or_replaced": 4,
-    "status_verification_required": 1,
+    "status_verification_required": 0,
     "historical_replacement_versions": 16,
     "replacements_still_pending_installation": null,
     "unfinished_or_blocked": 5,
@@ -911,7 +915,8 @@
         "independent live title/slug and distinctness check (live access returned 403)",
         "confirm deployment source",
         "HTML/image/navigation and public URL verification"
-      ]
+      ],
+      "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
       "position": 9,
@@ -938,7 +943,8 @@
         "independent live title/slug and distinctness check (live access returned 403)",
         "confirm deployment source",
         "HTML/image/navigation and public URL verification"
-      ]
+      ],
+      "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
       "position": 10,
@@ -965,7 +971,8 @@
         "independent live title/slug and distinctness check (live access returned 403)",
         "confirm deployment source",
         "HTML/image/navigation and public URL verification"
-      ]
+      ],
+      "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
       "position": 11,
@@ -1057,15 +1064,7 @@
       "canonical_title": "The Job Was Online. The Application Had to Go in the Mail."
     }
   ],
-  "status_verification_ledger": [
-    {
-      "title": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.",
-      "slug": "the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power",
-      "status": "article_live_navigation_propagation_pending",
-      "date": "2026-10-22",
-      "notes": "Direct public article HTTP 200; GitHub homepage/archive/topic/RSS updated but initial public responses still old. Do not republish."
-    }
-  ],
+  "status_verification_ledger": [],
   "story_briefs_2026_10_05": [
     {
       "title": "More Than a Million Veterans Face Food Insecurity. The SNAP Hand-Off Slowed Down.",
@@ -1937,6 +1936,7 @@
     "queue_count": 14,
     "positive_queue_change": "Timor-Leste moved to numbered position 2, following college outcome-data story; Charlotte priority retained ahead of numbered queue.",
     "volunteer_verification": "Direct §3 check passed and hold cleared.",
-    "next_numbered_story": "The College Took the Money. The Outcome Data Is Late."
+    "next_numbered_story": "The College Took the Money. The Outcome Data Is Late.",
+    "live_verification": "Article and all four linked surfaces confirmed; propagation discrepancy closed."
   }
 }

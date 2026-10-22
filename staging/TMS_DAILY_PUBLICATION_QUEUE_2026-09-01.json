@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-10-21",
+  "last_reconciled": "2026-10-22",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -26,6 +26,15 @@
     "status": "GitHub main source confirmed by exact blob matches on four live surfaces. October 20 energy article subsequently verified live with all four navigation/feed links."
   },
   "published_record": [
+    {
+      "title": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.",
+      "slug": "the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power.html",
+      "publication_status": "committed_to_main_pending_final_link_verification",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GAP_NOT_JUST_PAY_TIME_CARE_POWER_PUBLICATION_PACKAGE_2026-10-10.md",
+      "article_commit": "c48c38b2f63a7ebf5352b2772d48cef95fc97c68",
+      "date_committed": "2026-10-22",
+      "notes": "Direct article HTTP 200; homepage/archive/topic/RSS propagation being verified."
+    },
     {
       "title": "Germany Has a Way to Keep the Power On. Can People Use It?",
       "slug": "germany-has-a-way-to-keep-the-power-on-can-people-use-it.html",
@@ -215,27 +224,6 @@
   "queue": [
     {
       "position": 1,
-      "title": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.",
-      "slug": "the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "approval": "Jansen standing two-review instruction",
-      "scheduled_date": null,
-      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GAP_NOT_JUST_PAY_TIME_CARE_POWER_PUBLICATION_PACKAGE_2026-10-10.md",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.",
-          "distinction": "National structural analysis of earnings, leadership, unpaid work, care and race rather than a specific EEOC hiring settlement."
-        }
-      ],
-      "review_1": "2026-10-10 BLS/Census evidence, definitions, source limitations and race/sex comparison audit",
-      "review_2": "2026-10-10 corrected copy, Regular Joe clarity, counterargument, action, metadata and social audit",
-      "notes": "BLS earnings figures are descriptive medians, not equal-work proof. 2025 occupation figures exclude October; Census childcare result is a working paper. Final table refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
-    },
-    {
-      "position": 2,
       "title": "The College Took the Money. The Outcome Data Is Late.",
       "slug": "the-college-took-the-money-the-outcome-data-is-late",
       "completion_status": "full_finished",
@@ -254,6 +242,28 @@
       "review_1": "2026-10-11 primary evidence, dates and claim posture",
       "review_2": "2026-10-11 copy, fairness, action, metadata and social review",
       "notes": "Reporting delinquency is not proof of poor outcomes, fraud or inaccurate submitted records. Refresh January 15 deadline/enforcement, verify uniqueness, and complete HTML/image/navigation/deployment checks."
+    },
+    {
+      "position": 2,
+      "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
+      "canonical_title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
+      "slug": "a-seat-was-made-timor-leste-kept-showing-up",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "source": "editorial-packages/TMS_TIMOR_LESTE_A_SEAT_WAS_MADE_PUBLICATION_PACKAGE_2026-10-18.md",
+      "approval": "Standing two-review instruction",
+      "duplication_status": "materially_distinct_repository_archive_checked_live_release_check_pending",
+      "related_live_comparators": [
+        {
+          "title": "A Seat Was Made",
+          "distinction": "National disease-specific public-health verification and maintenance rather than classroom inclusion."
+        }
+      ],
+      "review_1": "October 18: WHO source/chronology/method/limitations check",
+      "review_2": "October 18: full package/Regular Joe/fairness/action/social/duplication review",
+      "notes": "Positive-results package. Final live uniqueness, source refresh, HTML/image/navigation and deployment checks required."
     },
     {
       "position": 3,
@@ -472,28 +482,6 @@
     },
     {
       "position": 12,
-      "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
-      "canonical_title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
-      "slug": "a-seat-was-made-timor-leste-kept-showing-up",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "scheduled_date": null,
-      "source": "editorial-packages/TMS_TIMOR_LESTE_A_SEAT_WAS_MADE_PUBLICATION_PACKAGE_2026-10-18.md",
-      "approval": "Standing two-review instruction",
-      "duplication_status": "materially_distinct_repository_archive_checked_live_release_check_pending",
-      "related_live_comparators": [
-        {
-          "title": "A Seat Was Made",
-          "distinction": "National disease-specific public-health verification and maintenance rather than classroom inclusion."
-        }
-      ],
-      "review_1": "October 18: WHO source/chronology/method/limitations check",
-      "review_2": "October 18: full package/Regular Joe/fairness/action/social/duplication review",
-      "notes": "Positive-results package. Final live uniqueness, source refresh, HTML/image/navigation and deployment checks required."
-    },
-    {
-      "position": 13,
       "title": "Germany Gives Workers a Complaint Route. The Compensation Clock Still Runs.",
       "canonical_title": "Germany Gives Workers a Complaint Route. The Compensation Clock Still Runs.",
       "slug": "germany-gives-workers-a-complaint-route-the-compensation-clock-still-runs",
@@ -515,7 +503,7 @@
       "notes": "Final law/live uniqueness, HTML/image/navigation and deployment checks required."
     },
     {
-      "position": 14,
+      "position": 13,
       "title": "Germany Raised the Volunteer Allowance. Now Show Who Can Actually Use It.",
       "slug": "germany-raised-the-volunteer-allowance-now-show-who-can-use-it",
       "completion_status": "full_finished",
@@ -532,21 +520,42 @@
           "distinction": "Minimum-wage rate and paid hours, not civic-work tax exemptions and accessibility for small associations."
         }
       ],
-      "review_1": "2026-10-21 parliamentary enactment, current-government description, eligibility limits, counterevidence and outcome-claim audit",
+      "review_1": "2026-10-22 final direct consolidated-law check passed; prior timeout resolved.",
       "review_2": "2026-10-21 Regular Joe clarity, complete TMS elements, social copies, German copy, fairness and duplication audit",
-      "notes": "Positive/A Seat Was Made package. Bundestag and federal-government sources verified. Direct consolidated §3 retrieval timed out; read §3 numbers 26 and 26a directly before publication. No claim of universal eligibility, increased volunteering or measured fiscal outcome."
+      "notes": "Direct official §3 numbers 26 and 26a read October 22: amounts, activities, organizations, annual personal limits and non-stacking rule checked. Legal hold cleared. Refresh law at release; render and verify HTML/navigation."
+    },
+    {
+      "position": 14,
+      "title": "The Job Was Online. The Application Had to Go in the Mail.",
+      "slug": "the-job-was-online-the-application-had-to-go-in-the-mail",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "scheduled_date": null,
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_INSTACART_APPLICATION_ROUTE_PUBLICATION_PACKAGE_2026-10-22.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.",
+          "distinction": "Alleged sex exclusion in pallet-repair hiring versus unequal application channels in PERM recruitment, citizenship/national-origin allegations and delivered settlement relief."
+        }
+      ],
+      "review_1": "2026-10-22 EEOC/DOJ original record cross-check, chronology, claim/settlement distinction and Reuters company response",
+      "review_2": "2026-10-22 package, prose, fairness, action, duplicate comparison and 917-character Instagram review",
+      "notes": "No implemented compliance or claimant payment claimed. Refresh interim claims address, fund status and company/legal developments at release; render HTML and verify public links."
     }
   ],
   "counts": {
     "full_finished_unpublished_eligible": 14,
     "full_finished_currently_queued": 14,
     "full_finished_retired_or_replaced": 4,
-    "status_verification_required": 0,
+    "status_verification_required": 1,
     "historical_replacement_versions": 16,
     "replacements_still_pending_installation": null,
     "unfinished_or_blocked": 5,
     "follow_up_candidates": 3,
-    "positive_solution_candidates": 2
+    "positive_solution_candidates": 3
   },
   "pending_priority_requests": [
     {
@@ -719,28 +728,6 @@
   "unpublished_ledger": [
     {
       "position": 1,
-      "title": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.",
-      "slug": "the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "approval": "Jansen standing two-review instruction",
-      "scheduled_date": null,
-      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GAP_NOT_JUST_PAY_TIME_CARE_POWER_PUBLICATION_PACKAGE_2026-10-10.md",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.",
-          "distinction": "National structural analysis of earnings, leadership, unpaid work, care and race rather than a specific EEOC hiring settlement."
-        }
-      ],
-      "review_1": "2026-10-10 BLS/Census evidence, definitions, source limitations and race/sex comparison audit",
-      "review_2": "2026-10-10 corrected copy, Regular Joe clarity, counterargument, action, metadata and social audit",
-      "notes": "BLS earnings figures are descriptive medians, not equal-work proof. 2025 occupation figures exclude October; Census childcare result is a working paper. Final table refresh, live uniqueness, HTML/image/navigation and deployment checks remain.",
-      "canonical_title": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power."
-    },
-    {
-      "position": 2,
       "title": "The College Took the Money. The Outcome Data Is Late.",
       "slug": "the-college-took-the-money-the-outcome-data-is-late",
       "completion_status": "full_finished",
@@ -760,6 +747,28 @@
       "review_2": "2026-10-11 copy, fairness, action, metadata and social review",
       "notes": "Reporting delinquency is not proof of poor outcomes, fraud or inaccurate submitted records. Refresh January 15 deadline/enforcement, verify uniqueness, and complete HTML/image/navigation/deployment checks.",
       "canonical_title": "The College Took the Money. The Outcome Data Is Late."
+    },
+    {
+      "position": 2,
+      "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
+      "canonical_title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
+      "slug": "a-seat-was-made-timor-leste-kept-showing-up",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "source": "editorial-packages/TMS_TIMOR_LESTE_A_SEAT_WAS_MADE_PUBLICATION_PACKAGE_2026-10-18.md",
+      "approval": "Standing two-review instruction",
+      "duplication_status": "materially_distinct_repository_archive_checked_live_release_check_pending",
+      "related_live_comparators": [
+        {
+          "title": "A Seat Was Made",
+          "distinction": "National disease-specific public-health verification and maintenance rather than classroom inclusion."
+        }
+      ],
+      "review_1": "October 18: WHO source/chronology/method/limitations check",
+      "review_2": "October 18: full package/Regular Joe/fairness/action/social/duplication review",
+      "notes": "Positive-results package. Final live uniqueness, source refresh, HTML/image/navigation and deployment checks required."
     },
     {
       "position": 3,
@@ -982,28 +991,6 @@
     },
     {
       "position": 12,
-      "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
-      "canonical_title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
-      "slug": "a-seat-was-made-timor-leste-kept-showing-up",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "scheduled_date": null,
-      "source": "editorial-packages/TMS_TIMOR_LESTE_A_SEAT_WAS_MADE_PUBLICATION_PACKAGE_2026-10-18.md",
-      "approval": "Standing two-review instruction",
-      "duplication_status": "materially_distinct_repository_archive_checked_live_release_check_pending",
-      "related_live_comparators": [
-        {
-          "title": "A Seat Was Made",
-          "distinction": "National disease-specific public-health verification and maintenance rather than classroom inclusion."
-        }
-      ],
-      "review_1": "October 18: WHO source/chronology/method/limitations check",
-      "review_2": "October 18: full package/Regular Joe/fairness/action/social/duplication review",
-      "notes": "Positive-results package. Final live uniqueness, source refresh, HTML/image/navigation and deployment checks required."
-    },
-    {
-      "position": 13,
       "title": "Germany Gives Workers a Complaint Route. The Compensation Clock Still Runs.",
       "canonical_title": "Germany Gives Workers a Complaint Route. The Compensation Clock Still Runs.",
       "slug": "germany-gives-workers-a-complaint-route-the-compensation-clock-still-runs",
@@ -1025,7 +1012,7 @@
       "notes": "Final law/live uniqueness, HTML/image/navigation and deployment checks required."
     },
     {
-      "position": 14,
+      "position": 13,
       "title": "Germany Raised the Volunteer Allowance. Now Show Who Can Actually Use It.",
       "slug": "germany-raised-the-volunteer-allowance-now-show-who-can-use-it",
       "completion_status": "full_finished",
@@ -1042,13 +1029,43 @@
           "distinction": "Minimum-wage rate and paid hours, not civic-work tax exemptions and accessibility for small associations."
         }
       ],
-      "review_1": "2026-10-21 parliamentary enactment, current-government description, eligibility limits, counterevidence and outcome-claim audit",
+      "review_1": "2026-10-22 final direct consolidated-law check passed; prior timeout resolved.",
       "review_2": "2026-10-21 Regular Joe clarity, complete TMS elements, social copies, German copy, fairness and duplication audit",
-      "notes": "Positive/A Seat Was Made package. Bundestag and federal-government sources verified. Direct consolidated §3 retrieval timed out; read §3 numbers 26 and 26a directly before publication. No claim of universal eligibility, increased volunteering or measured fiscal outcome.",
+      "notes": "Direct official §3 numbers 26 and 26a read October 22: amounts, activities, organizations, annual personal limits and non-stacking rule checked. Legal hold cleared. Refresh law at release; render and verify HTML/navigation.",
       "canonical_title": "Germany Raised the Volunteer Allowance. Now Show Who Can Actually Use It."
+    },
+    {
+      "position": 14,
+      "title": "The Job Was Online. The Application Had to Go in the Mail.",
+      "slug": "the-job-was-online-the-application-had-to-go-in-the-mail",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "scheduled_date": null,
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_INSTACART_APPLICATION_ROUTE_PUBLICATION_PACKAGE_2026-10-22.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.",
+          "distinction": "Alleged sex exclusion in pallet-repair hiring versus unequal application channels in PERM recruitment, citizenship/national-origin allegations and delivered settlement relief."
+        }
+      ],
+      "review_1": "2026-10-22 EEOC/DOJ original record cross-check, chronology, claim/settlement distinction and Reuters company response",
+      "review_2": "2026-10-22 package, prose, fairness, action, duplicate comparison and 917-character Instagram review",
+      "notes": "No implemented compliance or claimant payment claimed. Refresh interim claims address, fund status and company/legal developments at release; render HTML and verify public links.",
+      "canonical_title": "The Job Was Online. The Application Had to Go in the Mail."
     }
   ],
-  "status_verification_ledger": [],
+  "status_verification_ledger": [
+    {
+      "title": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.",
+      "slug": "the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power",
+      "status": "article_live_navigation_propagation_pending",
+      "date": "2026-10-22",
+      "notes": "Direct public article HTTP 200; GitHub homepage/archive/topic/RSS updated but initial public responses still old. Do not republish."
+    }
+  ],
   "story_briefs_2026_10_05": [
     {
       "title": "More Than a Million Veterans Face Food Insecurity. The SNAP Hand-Off Slowed Down.",
@@ -1678,6 +1695,12 @@
       "title": "Women agricultural producers: did organizing change bargaining power and net income?",
       "source": "https://www.ilo.org/resource/news/together-they-are-changing-their-communities-how-cooperatives-are-advancing",
       "status": "research_not_finished"
+    },
+    {
+      "title": "River-blindness elimination progress and remaining communities",
+      "source": "https://www.who.int/publications/journals/weekly-epidemiological-record/wer101-40",
+      "status": "research_only_not_finished",
+      "notes": "Read country tables, verify maintenance and seek frontline account; no country outcome claim made."
     }
   ],
   "priority_override": {
@@ -1687,8 +1710,7 @@
     "source": "editorial-packages/TMS_CHARLOTTE_RACISM_IS_OVER_PUBLICATION_PACKAGE_2026-10-17.md",
     "blockers": [
       "Underlying CMPD traffic-stop percentages and direct DA review citation required by package",
-      "Standalone social versions referenced in conversation but absent from retrieved package",
-      "Independent live uniqueness/current production verification unavailable"
+      "Standalone social versions referenced in conversation but absent from retrieved package"
     ]
   },
   "daily_editorial_completion_2026_10_18": {
@@ -1857,5 +1879,64 @@
         "https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-78th-session-of-the-regional-committee-of-who-for-the-americas---1-october-2026"
       ]
     }
-  ]
+  ],
+  "daily_editorial_completion_2026_10_22": {
+    "title": "The Job Was Online. The Application Had to Go in the Mail.",
+    "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_INSTACART_APPLICATION_ROUTE_PUBLICATION_PACKAGE_2026-10-22.md",
+    "reviews_completed": 2,
+    "status": "approved_queued_full_finished",
+    "position": 14
+  },
+  "discovery_2026_10_22": [
+    {
+      "title": "The Job Was Online. The Application Had to Go in the Mail.",
+      "status": "completed_full_editorial",
+      "seat_affected": "U.S. applicants and deterred applicants",
+      "hook": "Different application routes are the practical issue behind a federal recruitment settlement.",
+      "central_facts": "Agency allegations resolved by settlement; employer denies unlawful practices; fund and prospective changes announced, delivery not verified.",
+      "why_it_matters": "An application instruction can change who gets considered before qualifications are compared.",
+      "takeaway": "Follow equal application access and delivered compensation.",
+      "practical_action": "Check current EEOC claim instructions and request aggregate implementation results.",
+      "sources": [
+        "https://www.eeoc.gov/newsroom/civil-rights-division-and-equal-employment-opportunity-commission-secure-5000000-joint",
+        "https://www.justice.gov/crt/media/1466996/dl"
+      ]
+    },
+    {
+      "title": "Arkansas maternal-care grants: which access problems actually changed?",
+      "status": "research_update_to_existing_blocked_subject",
+      "seat_affected": "Rural pregnant women and infants",
+      "hook": "HRSA lists Arkansas in a 2022 cohort ending August 2026 and a newer 2025 cohort.",
+      "central_facts": "Official program listings identify cohorts. A listing proves neither a clinic opened nor better outcomes.",
+      "why_it_matters": "Grant awards can be celebrated while women still travel for care.",
+      "takeaway": "Compare funded networks with delivered services and patient access.",
+      "practical_action": "Obtain Arkansas network service locations, patient reach and evaluation reports.",
+      "sources": [
+        "https://www.hrsa.gov/rural-health/grants/rural-community/rmoms"
+      ],
+      "blocker": "Arkansas-specific outcome evaluation and attributable patient account still required."
+    },
+    {
+      "title": "River blindness: after progress, who still needs treatment?",
+      "status": "positive_solution_research_lead",
+      "seat_affected": "Communities exposed to onchocerciasis",
+      "hook": "WHO's October 9 Weekly Epidemiological Record includes 2025–2026 elimination progress and an Americas report.",
+      "central_facts": "The current official issue contains these reports. Country-specific outcome claims await reading and checking underlying tables.",
+      "why_it_matters": "Sustained prevention can produce positive results while communities remaining outside coverage need attention.",
+      "takeaway": "Explain what worked without treating elimination everywhere as accomplished.",
+      "practical_action": "Read the progress report, verify country results and maintenance funding, seek attributable frontline accounts.",
+      "sources": [
+        "https://www.who.int/publications/journals/weekly-epidemiological-record/wer101-40"
+      ]
+    }
+  ],
+  "reconciliation_notes_2026_10_22": {
+    "new_full_editorial": "The Job Was Online. The Application Had to Go in the Mail.",
+    "publication_limit_used": 1,
+    "release": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.",
+    "queue_count": 14,
+    "positive_queue_change": "Timor-Leste moved to numbered position 2, following college outcome-data story; Charlotte priority retained ahead of numbered queue.",
+    "volunteer_verification": "Direct §3 check passed and hold cleared.",
+    "next_numbered_story": "The College Took the Money. The Outcome Data Is Late."
+  }
 }

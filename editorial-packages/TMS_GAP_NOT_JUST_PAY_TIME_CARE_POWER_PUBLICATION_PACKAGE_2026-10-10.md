@@ -2,7 +2,7 @@
 
 ## Publication metadata
 
-- **Status:** FULL, FINISHED, TWICE REVIEWED, APPROVED / QUEUED / UNPUBLISHED
+- **Status:** RELEASED TO MAIN / DIRECT ARTICLE LIVE / NAVIGATION VERIFICATION PENDING
 - **Date completed:** October 10, 2026
 - **Working slug:** `the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power`
 - **Topic:** Women · Work · Economic Fairness · Race · Caregiving
@@ -14,13 +14,9 @@
 
 ## Editorial
 
-Women are not waiting outside the workforce anymore. In 2025, they made up 47.1% of employed people in the United States.
+In 2025, women made up 47.1% of employed people in the United States. That sounds close to equal until we ask what kind of work people do, what they earn, what happens after they become caregivers, and who reaches the rooms where pay and promotion decisions are made.
 
-That sounds close to equal until we ask what kind of work people do, what they earn, what happens after they become caregivers, and who reaches the rooms where pay and promotion decisions are made.
-
-In 2024, women working full time had median weekly earnings equal to 83% of men's. That was a major improvement from 62% in 1979. But most of the progress happened decades ago. Since 2010, the national ratio has remained between 81% and 84%.
-
-The gap moved. Then it settled in.
+In the 2024 annual earnings report, women working full time had median weekly earnings equal to 83% of men's. That was a major improvement from 62% in 1979. But most of the progress happened decades ago. Since 2010, the national ratio has remained between 81% and 84%.
 
 This does not mean every woman earns 17% less than a man doing the same job. The Bureau of Labor Statistics warns that its headline comparison does not control for occupation, experience, education, specialization, hours beyond the full-time threshold, or job responsibilities. The number describes two large groups. It cannot decide whether a particular employer broke the law.
 
@@ -113,7 +109,7 @@ The missing receipt is not whether women work. We already know they do. It is wh
 
 ## Verification notice
 
-Verified October 10, 2026 against current BLS and Census pages. The piece distinguishes descriptive medians, time-use averages, and occupational representation from proof of discrimination or equal-work pay differences. The 2025 CPS occupation figures exclude October because data were not collected during the federal shutdown. The childcare evidence is a Census research working paper, not a statute, adjudicated finding, or universal causal estimate. BLS tables primarily classify respondents as women and men and do not fully describe nonbinary workers; this limitation should be preserved if the article is updated. Refresh all tables and source notes immediately before publication.
+Refreshed October 22, 2026 against current BLS and Census pages. The piece distinguishes descriptive medians, time-use averages, and occupational representation from proof of discrimination or equal-work pay differences. The 2025 CPS occupation figures exclude October because data were not collected during the federal shutdown. The childcare evidence is a Census research working paper, not a statute, adjudicated finding, or universal causal estimate. BLS tables primarily classify respondents as women and men and do not fully describe nonbinary workers; this limitation should be preserved if the article is updated. Refresh all tables and source notes immediately before publication.
 
 ## Duplication and relevance check
 
@@ -161,3 +157,8 @@ Women are nearly half of employed America. The remaining gap is not one number. 
 
 A documentary-style office stairway splitting into three clearly labeled directions: “EARN,” “CARE,” and “LEAD.” A woman carries a work bag and a child-care bag while a man carries a work bag, with both figures shown respectfully and without caricature. An empty chair sits at the executive landing. Neutral natural light, realistic workplace, no graphs embedded in the image, no pink-versus-blue color coding.
 
+
+## October 22 release
+
+Article: https://themissingseat.org/the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power.html
+Article commit: c48c38b2f63a7ebf5352b2772d48cef95fc97c68. Direct page returned HTTP 200. Homepage/archive/topic/RSS committed; public propagation pending. Do not republish.

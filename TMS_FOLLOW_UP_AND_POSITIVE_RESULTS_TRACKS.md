@@ -1,5 +1,5 @@
 # TMS follow-up and positive-results reporting tracks
-Updated October 18, 2026. Candidates are research leads, never finished inventory.
+Updated October 22, 2026. Candidates are research leads, never finished inventory.
 
 ## Follow-up candidates: 3
 1. Germany police-complaints editorial: obtain subsequent Bundestag/commissioner reporting on complaint disposition, investigations completed, institutional action and individual relief. Baseline live slug: germany-created-a-seat-for-police-complaints-who-can-actually-use-it. Trigger: a verified later outcome, not the existing complaint count. No new outcome asserted.
@@ -8,11 +8,13 @@ Updated October 18, 2026. Candidates are research leads, never finished inventor
 
 For each: maintain finding → responsible authority → action after notice → concrete relief delivered → remaining burden. Do not publish another piece until evidence materially advances the original. Refresh original receipts and cross-link both pages at release.
 
-## Positive / A Seat Was Made candidates: 2
+## Positive / A Seat Was Made candidates: 3
 1. Nepal care cooperatives: ILO describes training reaching 28 cooperatives and two domestic-worker groups after July 2026. Report on whether operating services, paid jobs, affordable places and worker voice followed. Training reach is not a measured care outcome. Seat: caregivers, women workers and families. Action: request operating/affordability/wage data from the implementing partners.
 2. Women agricultural producers in India: ILO describes April 2026 organizing and skills work with farmer-producer organizations and self-help groups. Obtain named participants with consent and independently check sales, bargaining access and net income rather than call attendance an economic result. Seat: small producers and informal women workers. Action: ask project partners for before/after results and costs.
 
-Primary starting receipt for both: https://www.ilo.org/resource/news/together-they-are-changing-their-communities-how-cooperatives-are-advancing
+3. River-blindness elimination: WHO's October 9, 2026 Weekly Epidemiological Record includes a 2025–2026 progress report and an Americas report. Read the country tables and verify prevention, treatment coverage, maintenance funding and remaining communities before claiming a measured success. Seek a named frontline account. This is a research lead, not a full package or a national result asserted here. Source: https://www.who.int/publications/journals/weekly-epidemiological-record/wer101-40
+
+Primary starting receipt for the first two: https://www.ilo.org/resource/news/together-they-are-changing-their-communities-how-cooperatives-are-advancing
 These are separate leads under development; neither is a completed editorial or proven impact evaluation.
 
 ## Completed positive package this run
@@ -28,3 +30,6 @@ The historical 16 Regular Joe replacements remain a separate replacement-work re
 
 ## Coverage method
 Track the five territories, continued Black/racial coverage, Germany, lived experience and positive results. Evidence determines findings, regardless of party or identity. Seek named, attributable human accounts; never invent quotations or composite patients to fill a narrative opening.
+
+## October 22 production and scheduling
+The completed Timor-Leste package moves to numbered position 2 after the college outcome-data editorial, giving verified positive coverage a near-term slot while retaining Charlotte's priority override. The Germany volunteer-allowance package passed its direct §3 numbers 26/26a check today. Both are complete reserve packages rather than research candidates. No new follow-up outcome was verified today.

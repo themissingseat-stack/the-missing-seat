@@ -29,7 +29,7 @@ The job is not finished when the number changes.
 
 The Übungsleiterpauschale is commonly associated with coaches, but its legal scope is more specific than the nickname suggests. It covers certain part-time teaching, training, educational, artistic and care activities performed for public-law bodies or qualifying nonprofit, charitable or religious organizations. The separate Ehrenamtspauschale can cover other eligible part-time work serving qualifying tax-advantaged purposes.
 
-These are tax exemptions, not government grants. They do not guarantee that an organization pays a volunteer, and they do not turn every payment for community work into tax-free income. The activity, organization, purpose and amount all matter. Social-insurance, expense-reimbursement, employment and minimum-wage questions can also require separate analysis.
+These are tax exemptions, not government grants. They do not guarantee that an organization pays a volunteer, and they do not turn every payment for community work into tax-free income. The activity, organization, purpose and amount all matter. Each ceiling is an annual personal limit, rather than a new allowance from every organization. The same income cannot be placed under both allowances. Social-insurance, expense-reimbursement, employment and minimum-wage questions can also require separate analysis.
 
 That distinction is important because simple political language can create a false impression. “Volunteers can earn €960 tax-free” sounds as if every person who helps a neighbor or receives money from any club automatically qualifies. The law is narrower. A person should check the role and the organization instead of relying on a slogan.
 
@@ -88,7 +88,7 @@ Germany did something sensible by leaving more modest civic compensation in the 
 
 ## Verification notice
 
-Checked October 21, 2026. The Bundestag record confirms enactment and the €3,300/€960 amounts; the September 2026 federal overview presents them as current relief. Direct retrieval of the consolidated §3 page timed out during this run, so the package does not quote statutory wording and must receive a final direct-law refresh before publication. The editorial distinguishes tax exemption from a grant, does not claim universal eligibility, does not claim the change increased volunteering, and does not invent a user count or fiscal cost. Outcome questions are editorial recommendations, not existing statutory duties.
+Refreshed October 22, 2026. The official consolidated §3 numbers 26 and 26a were read directly and confirm the €3,300 and €960 annual limits and the qualifying activities, purposes and organizations. Number 26a excludes income already exempt in whole or in part under numbers 12, 26 or 26b. These are annual personal limits, not a fresh allowance for each organization. The Bundestag record confirms enactment; the September 2026 federal overview presents the relief as current. The editorial distinguishes tax exemption from a grant, does not claim universal eligibility, does not claim the change increased volunteering, and does not invent a user count or fiscal cost. Outcome questions are editorial recommendations, not existing statutory duties.
 
 ## Duplication and relevance check
 
@@ -96,7 +96,7 @@ No live or queued TMS editorial was found with the same controlling thesis. The 
 
 ## Review 1: factual and legal check
 
-**Passed with a publication-stage refresh condition.** Dates, parliamentary posture and allowance amounts were checked against the Bundestag and federal government. Claims about automatic eligibility, outcomes, fiscal cost and social-insurance treatment were deliberately limited. Direct consolidated-law retrieval was unavailable; therefore this package is approved for reserve and queue, but not for release until §3 numbers 26 and 26a are read directly.
+**Passed, refreshed October 22.** The consolidated §3 numbers 26 and 26a were read directly, confirming activities, eligible organizations, amounts and the non-stacking rule for the same income. Parliamentary posture and current-government explanation were cross-checked. No factual or legal verification hold remains; refresh the law again at eventual release.
 
 ## Review 2: TMS package and voice check
 

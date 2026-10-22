@@ -2,7 +2,7 @@
 
 ## Publication metadata
 
-- **Status:** RELEASED TO MAIN / DIRECT ARTICLE LIVE / NAVIGATION VERIFICATION PENDING
+- **Status:** PUBLISHED / VERIFIED LIVE — October 22, 2026
 - **Date completed:** October 10, 2026
 - **Working slug:** `the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power`
 - **Topic:** Women · Work · Economic Fairness · Race · Caregiving
@@ -158,7 +158,7 @@ Women are nearly half of employed America. The remaining gap is not one number. 
 A documentary-style office stairway splitting into three clearly labeled directions: “EARN,” “CARE,” and “LEAD.” A woman carries a work bag and a child-care bag while a man carries a work bag, with both figures shown respectfully and without caricature. An empty chair sits at the executive landing. Neutral natural light, realistic workplace, no graphs embedded in the image, no pink-versus-blue color coding.
 
 
-## October 22 release
+## October 22 publication record
 
-Article: https://themissingseat.org/the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power.html
-Article commit: c48c38b2f63a7ebf5352b2772d48cef95fc97c68. Direct page returned HTTP 200. Homepage/archive/topic/RSS committed; public propagation pending. Do not republish.
+Published and verified: https://themissingseat.org/the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power.html
+Direct article, homepage, archive, Race & Equal Humanity topic and RSS all returned HTTP 200 and carried the correct slug. Article commit: c48c38b2f63a7ebf5352b2772d48cef95fc97c68. Removed from unpublished inventory. No visual browser QA was performed in this run.

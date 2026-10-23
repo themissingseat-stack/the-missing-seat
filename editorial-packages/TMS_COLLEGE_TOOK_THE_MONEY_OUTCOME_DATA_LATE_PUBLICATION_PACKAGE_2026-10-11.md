@@ -2,7 +2,7 @@
 
 ## Publication metadata
 
-- **Status:** FULL, FINISHED, TWICE REVIEWED, APPROVED / QUEUED / UNPUBLISHED
+- **Status:** PUBLISHED / VERIFIED LIVE — October 23, 2026
 - **Date completed:** October 11, 2026
 - **Working slug:** `the-college-took-the-money-the-outcome-data-is-late`
 - **Topic:** Education · Economic Fairness · Student Debt · Government Accountability
@@ -16,17 +16,13 @@
 
 A student can spend months comparing programs, filling out aid forms and trying to decide whether a credential will lead to a better life. The school can collect tuition backed by federal aid. The loan can follow the student for years.
 
-The information meant to help that student judge the program can arrive late.
-
-On October 8, Federal Student Aid reported that more than 1,000 institutions missed the October 1 deadline for the 2026 Financial Value Transparency and Gainful Employment reporting cycle. Nearly 1,400 institutions also remained delinquent on required reporting from the 2024 and 2025 cycles.
+The information meant to help that student judge the program can arrive late. On October 8, Federal Student Aid reported that more than 1,000 institutions missed the October 1 deadline for the 2026 Financial Value Transparency and Gainful Employment reporting cycle. Nearly 1,400 institutions also remained delinquent on required reporting from the 2024 and 2025 cycles.
 
 Those numbers describe institutions with missing required data. They do not establish that 1,400 schools cheated students, offered worthless programs or broke the law in every other respect. They do establish something simpler: the government did not yet have every required file from a large number of institutions when the deadline passed.
 
 Students are expected to make their decisions on time. The institutions receiving their money should be expected to provide the receipt on time too.
 
 ## What the missing files are supposed to do
-
-The name of the rule is a mouthful. The purpose is easier to understand.
 
 Financial Value Transparency and Gainful Employment reporting requires covered institutions to submit program information and student information. For the 2026 cycle, a complete submission includes a program file and a student file for the 2025–26 award year. The reporting system is meant to support measures and disclosures about what programs cost and whether their graduates earn enough to justify that cost.
 
@@ -99,20 +95,20 @@ The government does not need to accuse a school of poor outcomes before the evid
 ## Receipts
 
 1. **Federal Student Aid, “Guidance on FVT/GE Data Reporting, STATS Early Implementation, and Next Steps for Publication,” updated October 8, 2026.** Reports more than 1,000 institutions delinquent for the 2026 cycle, nearly 1,400 still delinquent for 2024 and 2025, the January 15, 2027 final extension, possible enforcement, reporting components and planned 2027 publication.
-   https://fsapartners.ed.gov/knowledge-center/library/electronic-announcements/2026-08-11/guidance-fvtge-data-reporting-stats-early-implementation-and-next-steps-publication-updated-oct-8-2026
+   https://fsapartners.ed.gov/knowledge-center/library/electronic-announcements/2026-08-11/guidance-fvt/ge-data-reporting-stats-early-implementation-and-next-steps-publication-updated-oct-8-2026
 
 2. **34 C.F.R. Part 668, Subpart Q, Financial Value Transparency and Gainful Employment.** Governing reporting and accountability framework referenced by Federal Student Aid.
    https://www.ecfr.gov/current/title-34/subtitle-B/chapter-VI/part-668/subpart-Q
 
-3. **Federal Register, Student Tuition and Transparency System and Earnings Accountability final rule, July 1, 2026.** Establishes the successor framework scheduled to replace FVT/GE reporting beginning July 1, 2027.
-   https://www.federalregister.gov/documents/2026/07/01/2026-12360/student-tuition-and-transparency-system-and-earnings-accountability
+3. **Federal Register, “Accountability in Higher Education and Access Through Demand-Driven Workforce Pell: Student Tuition and Transparency System (STATS) and Earnings Accountability,” final rule, July 1, 2026.** Establishes the successor framework scheduled to replace FVT/GE reporting beginning July 1, 2027.
+   https://www.federalregister.gov/documents/2026/07/01/2026-13286/accountability-in-higher-education-and-access-through-demand--driven-workforce-pell-student-tuition
 
 4. **College Scorecard, U.S. Department of Education.** Existing federal tool for comparing college costs, completion and earnings information, subject to the coverage and limitations of its underlying data.
    https://collegescorecard.ed.gov/
 
 ## Verification notice
 
-Verified October 11, 2026 against Federal Student Aid’s October 8 update and the regulations it cites. “Delinquent” means the institution had not submitted all required reporting components by the applicable deadline; it is not a finding that the institution’s educational outcomes were poor, that it committed fraud or that every submitted record was inaccurate. The October 8 institution list identifies previously submitted file components but, according to Federal Student Aid, does not establish their completeness. Potential sanctions are prospective, not completed enforcement actions. Refresh the January 15 deadline status, publication timetable and any rule changes immediately before publication.
+Refreshed October 23, 2026 against Federal Student Aid’s October 8 update and the regulations it cites. “Delinquent” means the institution had not submitted all required reporting components by the applicable deadline; it is not a finding that the institution’s educational outcomes were poor, that it committed fraud or that every submitted record was inaccurate. The October 8 institution list identifies previously submitted file components but, according to Federal Student Aid, does not establish their completeness. Potential sanctions are prospective, not completed enforcement actions. The October 8 FSA notice, current eCFR and correct July 1 final rule were directly read on October 23. No later change to the reported figures or deadline was found. The College Scorecard homepage returned 403 to automated retrieval, so its interface was not independently tested; the specific reporting-list action uses the working FSA notice.
 
 ## Duplication and relevance check
 
@@ -173,3 +169,9 @@ A realistic college enrollment desk with a tuition agreement and financial-aid f
 
 - **Review 1, evidence and legal posture:** completed October 11, 2026. Checked the October 8 Federal Student Aid counts, deadlines, reporting components, planned publication, transition rule and conditional enforcement language. Removed any suggestion that delinquency proves poor outcomes.
 - **Review 2, format and reader test:** completed October 11, 2026. Checked metadata, hook, human consequence, evidence, counterargument, missing seat, benefit-power-burden analysis, practical action, social versions, readable paragraphs, repetition, long dashes and required ending.
+
+## October 23 publication record
+
+https://themissingseat.org/the-college-took-the-money-the-outcome-data-is-late.html
+
+Direct article and homepage/archive/Democracy & Government topic/RSS all returned HTTP 200 and contained the correct slug. Article commit: 25a727d38ab8dc5714f8b75bf17968088c5a29dd. Removed from unpublished inventory. Corrected source links and refreshed deadline/enforcement posture before release. Public HTML/link checks performed; no visual browser rendering check performed in this run.

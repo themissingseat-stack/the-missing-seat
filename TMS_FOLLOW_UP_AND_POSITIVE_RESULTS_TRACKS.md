@@ -1,5 +1,5 @@
 # TMS follow-up and positive-results reporting tracks
-Updated October 22, 2026. Candidates are research leads, never finished inventory.
+Updated October 23, 2026. Candidates are research leads, never finished inventory.
 
 ## Follow-up candidates: 3
 1. Germany police-complaints editorial: obtain subsequent Bundestag/commissioner reporting on complaint disposition, investigations completed, institutional action and individual relief. Baseline live slug: germany-created-a-seat-for-police-complaints-who-can-actually-use-it. Trigger: a verified later outcome, not the existing complaint count. No new outcome asserted.
@@ -33,3 +33,11 @@ Track the five territories, continued Black/racial coverage, Germany, lived expe
 
 ## October 22 production and scheduling
 The completed Timor-Leste package moves to numbered position 2 after the college outcome-data editorial, giving verified positive coverage a near-term slot while retaining Charlotte's priority override. The Germany volunteer-allowance package passed its direct §3 numbers 26/26a check today. Both are complete reserve packages rather than research candidates. No new follow-up outcome was verified today.
+
+## October 23 completion and follow-up check
+
+Completed and twice reviewed **Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.** Full package: editorial-packages/TMS_RAYE_MONTAGUE_TEACH_THE_WORK_PUBLICATION_PACKAGE_2026-10-23.md. This is a completed positive/technical-history package, not a fourth unfinished positive research candidate. Dates and draft-versus-finished-ship distinction preserved. Timor-Leste now occupies numbered queue position 1 after today's college-data release; Charlotte priority retains precedence if cleared.
+
+Checked the Bundestag's October 14 police-commissioner teaching account. It establishes educational participation rather than delivered complaint relief or improved practice, so no new full follow-up is counted. Source and next questions are in TMS_REPORTING_UPDATE_2026-10-23.md.
+
+Charlotte evidence advanced: named DA review statement located and reporting-mandate repeal verified; statistical reproduction, current disciplinary chronology and standalone social integration still required. Candidate counts remain 3 follow-up / 3 unfinished positive research leads.

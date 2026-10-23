@@ -24,7 +24,7 @@ A person hired into one kind of work was capable of much more. Her story gives u
 
 ## The work deserves a clear explanation
 
-The Naval History and Heritage Command credits Montague with a computer-generated draft for the Oliver Hazard Perry-class frigate in 1971. Its published account gives a completion time of 18 hours and 26 minutes. UA Little Rock's account independently describes the initial draft as taking less than 19 hours.
+The Naval History and Heritage Command credits Montague with a computer-generated draft for the Oliver Hazard Perry-class frigate in 1971. Its published account gives a completion time of 18 hours and 26 minutes. UA Little Rock's account also describes the initial draft as taking less than 19 hours.
 
 That is the remarkable receipt. It also needs an honest description.
 

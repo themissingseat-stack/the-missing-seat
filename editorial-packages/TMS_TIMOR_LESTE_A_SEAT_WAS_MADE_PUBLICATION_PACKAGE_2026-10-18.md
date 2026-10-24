@@ -4,7 +4,7 @@
 
 - Author: Jansen
 - Completed and verified: October 18, 2026
-- Status: FULL FINISHED / TWO REVIEWS COMPLETED / APPROVED / QUEUED / UNPUBLISHED
+- Status: FULL FINISHED / TWO REVIEWS COMPLETED / PUBLISHED / LIVE VERIFIED OCTOBER 24, 2026
 - Slug: `a-seat-was-made-timor-leste-kept-showing-up`
 - Filename: `a-seat-was-made-timor-leste-kept-showing-up.html`
 - Territory: Solutions & Participation
@@ -139,3 +139,8 @@ Review 1 completed: reopened WHO program history, September recognition and curr
 Review 2 completed: reread full body and social versions; checked plain English, developed paragraphs, power/benefit/burden, specific action, respectful framing, distinction, no collective blame, no long dashes and required ending. Instagram characters including hashtags: 904. Not a website replacement revision.
 
 Release tasks: recheck live uniqueness and disease-status currency; prepare HTML and illustration; integrate homepage/archive/Global Voices or Positive Change/topic/feed; confirm current production source; verify direct URL and cards after release. Do not call this live on the strength of a repository commit.
+
+
+## October 24 release verification
+
+WHO receipts refreshed and factual/format/legal status review passed. Repository tree, actual live homepage/archive and current queue checked for uniqueness. Live homepage exact blob matched main before release after a browser-style GET succeeded; initial 403 did not imply outage. Published one editorial only. Direct article and homepage/archive/Positive Change topic/RSS returned HTTP 200 with correct slug; four shell blobs matched current main after propagation. Article commit: c28dfa180bc6e3c6a04dc7d931c11b1285893205. No original patient interview or visual browser QA claimed. Image remains a concept; no fabricated documentary image deployed. Removed from finished-unpublished inventory.

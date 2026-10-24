@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-10-23",
+  "last_reconciled": "2026-10-24",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -23,9 +23,18 @@
   },
   "deployment": {
     "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "GitHub main source confirmed by exact blob matches on four live surfaces. October 20 energy article subsequently verified live with all four navigation/feed links."
+    "status": "2026-10-24 exact live homepage blob matched main before release. After release all four navigation/feed surfaces matched new main blobs; direct article HTTP 200 and title verified."
   },
   "published_record": [
+    {
+      "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
+      "slug": "a-seat-was-made-timor-leste-kept-showing-up.html",
+      "publication_status": "published_live_verified",
+      "published_verified": "2026-10-24",
+      "source": "editorial-packages/TMS_TIMOR_LESTE_A_SEAT_WAS_MADE_PUBLICATION_PACKAGE_2026-10-18.md",
+      "article_commit": "c28dfa180bc6e3c6a04dc7d931c11b1285893205",
+      "notes": "Direct article and homepage/archive/Positive Change topic/RSS all HTTP 200; shell bytes match committed main. WHO receipts refreshed; no visual browser QA or original interviews claimed."
+    },
     {
       "title": "The College Took the Money. The Outcome Data Is Late.",
       "slug": "the-college-took-the-money-the-outcome-data-is-late.html",
@@ -234,28 +243,6 @@
   "queue": [
     {
       "position": 1,
-      "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
-      "canonical_title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
-      "slug": "a-seat-was-made-timor-leste-kept-showing-up",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "scheduled_date": null,
-      "source": "editorial-packages/TMS_TIMOR_LESTE_A_SEAT_WAS_MADE_PUBLICATION_PACKAGE_2026-10-18.md",
-      "approval": "Standing two-review instruction",
-      "duplication_status": "materially_distinct_repository_archive_checked_live_release_check_pending",
-      "related_live_comparators": [
-        {
-          "title": "A Seat Was Made",
-          "distinction": "National disease-specific public-health verification and maintenance rather than classroom inclusion."
-        }
-      ],
-      "review_1": "October 18: WHO source/chronology/method/limitations check",
-      "review_2": "October 18: full package/Regular Joe/fairness/action/social/duplication review",
-      "notes": "Positive-results package. Final live uniqueness, source refresh, HTML/image/navigation and deployment checks required."
-    },
-    {
-      "position": 2,
       "title": "The Complaint Had a 100-Day Clock. The Housing Problem Did Not Wait.",
       "slug": "the-complaint-had-a-100-day-clock-the-housing-problem-did-not-wait",
       "completion_status": "full_finished",
@@ -280,7 +267,7 @@
       "notes": "70.2% late-investigation figure covers 2020–2022. HUD's June 2026 27% backlog-reduction claim lacks published baseline and remaining counts. Refresh backlog/OIG status and complete uniqueness, HTML/image/navigation/deployment checks."
     },
     {
-      "position": 3,
+      "position": 2,
       "title": "Germany Promised a Full School Day. Families Need the Hours to Match.",
       "slug": "germany-promised-a-full-school-day-families-need-the-hours-to-match",
       "completion_status": "full_finished",
@@ -301,7 +288,7 @@
       "notes": "Current §24 directly verified. No national implementation outcome claimed. Final law/live uniqueness, HTML/image/navigation/deployment remain."
     },
     {
-      "position": 4,
+      "position": 3,
       "title": "The Workers Were Teenagers. The Complaint System Was Built for Adults.",
       "slug": "the-workers-were-teenagers-the-complaint-system-was-built-for-adults",
       "completion_status": "full_finished",
@@ -326,7 +313,7 @@
       "notes": "Settlement is not a court judgment or admission. The EEOC's at-least-100 statement is attributed to the agency. Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 5,
+      "position": 4,
       "canonical_title": "The Military Wants AI Faster. Who Owns the Safety Check?",
       "slug": "the-military-wants-ai-faster-who-owns-the-safety-check",
       "status": "approved_queued_full_finished",
@@ -347,7 +334,7 @@
       "title": "The Military Wants AI Faster. Who Owns the Safety Check?"
     },
     {
-      "position": 6,
+      "position": 5,
       "canonical_title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
       "slug": "germany-raised-the-minimum-wage-the-paycheck-still-needs-the-hours",
       "status": "approved_queued_full_finished",
@@ -368,7 +355,7 @@
       "title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours."
     },
     {
-      "position": 7,
+      "position": 6,
       "title": "The Building Failed. The Children Lost the School Day.",
       "canonical_title": "The Building Failed. The Children Lost the School Day.",
       "slug": "the-building-failed-the-children-lost-the-school-day",
@@ -396,7 +383,7 @@
       "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 8,
+      "position": 7,
       "title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
       "canonical_title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
       "slug": "the-job-center-was-open-the-help-still-wasnt-accessible",
@@ -424,7 +411,7 @@
       "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 9,
+      "position": 8,
       "title": "The Loan Rule Changed. Were the Instructions Ready?",
       "canonical_title": "The Loan Rule Changed. Were the Instructions Ready?",
       "slug": "the-loan-rule-changed-were-the-instructions-ready",
@@ -452,7 +439,7 @@
       "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 10,
+      "position": 9,
       "title": "The House Was Full. The Homelessness Definition Still Had an Empty Seat.",
       "slug": "the-house-was-full-the-homelessness-definition-still-had-an-empty-seat",
       "completion_status": "full_finished",
@@ -473,7 +460,7 @@
       "notes": "GAO evidence is preliminary and interviews are nongeneralizable. No national count or universal doubled-up eligibility claim. Refresh for final GAO work and HUD guidance; complete live uniqueness, HTML/image/navigation and deployment checks."
     },
     {
-      "position": 11,
+      "position": 10,
       "title": "Germany Gives Workers a Complaint Route. The Compensation Clock Still Runs.",
       "canonical_title": "Germany Gives Workers a Complaint Route. The Compensation Clock Still Runs.",
       "slug": "germany-gives-workers-a-complaint-route-the-compensation-clock-still-runs",
@@ -495,7 +482,7 @@
       "notes": "Final law/live uniqueness, HTML/image/navigation and deployment checks required."
     },
     {
-      "position": 12,
+      "position": 11,
       "title": "Germany Raised the Volunteer Allowance. Now Show Who Can Actually Use It.",
       "slug": "germany-raised-the-volunteer-allowance-now-show-who-can-use-it",
       "completion_status": "full_finished",
@@ -517,7 +504,7 @@
       "notes": "Direct official §3 numbers 26 and 26a read October 22: amounts, activities, organizations, annual personal limits and non-stacking rule checked. Legal hold cleared. Refresh law at release; render and verify HTML/navigation."
     },
     {
-      "position": 13,
+      "position": 12,
       "title": "The Job Was Online. The Application Had to Go in the Mail.",
       "slug": "the-job-was-online-the-application-had-to-go-in-the-mail",
       "completion_status": "full_finished",
@@ -562,7 +549,29 @@
       "review_1": "2026-10-23 Navy/DVIDS, university and Mint factual check; draft versus completed ship, chronology, qualifications and source limits checked.",
       "review_2": "2026-10-23 complete TMS package, voice, fairness, prior-work credit, action and 912-character Instagram check.",
       "notes": "Historical explanatory piece; 2024 dedication/2025 coin not breaking news. No claim of sole finished-ship authorship, never-recognized history or calculated loss/savings. At release refresh source links, uniqueness and image credit/reuse; render and verify article/navigation.",
-      "position": 14
+      "position": 13
+    },
+    {
+      "position": 14,
+      "title": "A Child Can Have a Credit File Before They Have a Job.",
+      "canonical_title": "A Child Can Have a Credit File Before They Have a Job.",
+      "slug": "a-child-can-have-a-credit-file-before-they-have-a-job",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "source": "editorial-packages/TMS_CHILD_CREDIT_FILE_FREEZE_PUBLICATION_PACKAGE_2026-10-24.md",
+      "approval": "Jansen standing two-review instruction",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The College Took the Money. The Outcome Data Is Late.",
+          "distinction": "Institutional program reporting versus child protected-consumer records, prevention and separate correction routes."
+        }
+      ],
+      "review_1": "2026-10-24 FTC/CFPB current guidance cross-check and TransUnion procedure, eligibility, counterevidence and limits.",
+      "review_2": "2026-10-24 full package, developed prose, fairness, action, distinctness and 841-character Instagram audit.",
+      "notes": "Evergreen service/accountability piece, not new law. Refresh official procedures/links and uniqueness, render and verify public links at release."
     }
   ],
   "counts": {
@@ -747,28 +756,6 @@
   "unpublished_ledger": [
     {
       "position": 1,
-      "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
-      "canonical_title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
-      "slug": "a-seat-was-made-timor-leste-kept-showing-up",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "scheduled_date": null,
-      "source": "editorial-packages/TMS_TIMOR_LESTE_A_SEAT_WAS_MADE_PUBLICATION_PACKAGE_2026-10-18.md",
-      "approval": "Standing two-review instruction",
-      "duplication_status": "materially_distinct_repository_archive_checked_live_release_check_pending",
-      "related_live_comparators": [
-        {
-          "title": "A Seat Was Made",
-          "distinction": "National disease-specific public-health verification and maintenance rather than classroom inclusion."
-        }
-      ],
-      "review_1": "October 18: WHO source/chronology/method/limitations check",
-      "review_2": "October 18: full package/Regular Joe/fairness/action/social/duplication review",
-      "notes": "Positive-results package. Final live uniqueness, source refresh, HTML/image/navigation and deployment checks required."
-    },
-    {
-      "position": 2,
       "title": "The Complaint Had a 100-Day Clock. The Housing Problem Did Not Wait.",
       "slug": "the-complaint-had-a-100-day-clock-the-housing-problem-did-not-wait",
       "completion_status": "full_finished",
@@ -790,11 +777,10 @@
       ],
       "review_1": "2026-10-12 primary evidence, dates and claim posture",
       "review_2": "2026-10-12 copy, fairness, action, metadata and social review",
-      "notes": "70.2% late-investigation figure covers 2020–2022. HUD's June 2026 27% backlog-reduction claim lacks published baseline and remaining counts. Refresh backlog/OIG status and complete uniqueness, HTML/image/navigation/deployment checks.",
-      "canonical_title": "The Complaint Had a 100-Day Clock. The Housing Problem Did Not Wait."
+      "notes": "70.2% late-investigation figure covers 2020–2022. HUD's June 2026 27% backlog-reduction claim lacks published baseline and remaining counts. Refresh backlog/OIG status and complete uniqueness, HTML/image/navigation/deployment checks."
     },
     {
-      "position": 3,
+      "position": 2,
       "title": "Germany Promised a Full School Day. Families Need the Hours to Match.",
       "slug": "germany-promised-a-full-school-day-families-need-the-hours-to-match",
       "completion_status": "full_finished",
@@ -812,11 +798,10 @@
       ],
       "review_1": "2026-10-13 current statute and scope audit",
       "review_2": "2026-10-13 copy, fairness, action, metadata and socials",
-      "notes": "Current §24 directly verified. No national implementation outcome claimed. Final law/live uniqueness, HTML/image/navigation/deployment remain.",
-      "canonical_title": "Germany Promised a Full School Day. Families Need the Hours to Match."
+      "notes": "Current §24 directly verified. No national implementation outcome claimed. Final law/live uniqueness, HTML/image/navigation/deployment remain."
     },
     {
-      "position": 4,
+      "position": 3,
       "title": "The Workers Were Teenagers. The Complaint System Was Built for Adults.",
       "slug": "the-workers-were-teenagers-the-complaint-system-was-built-for-adults",
       "completion_status": "full_finished",
@@ -838,11 +823,10 @@
       ],
       "review_1": "2026-10-14 EEOC release, 2022 complaint announcement, legal posture, numbers, dates and filing guidance audit",
       "review_2": "2026-10-14 Regular Joe clarity, TMS format, fairness, counterargument, action, metadata and social audit",
-      "notes": "Settlement is not a court judgment or admission. The EEOC's at-least-100 statement is attributed to the agency. Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain.",
-      "canonical_title": "The Workers Were Teenagers. The Complaint System Was Built for Adults."
+      "notes": "Settlement is not a court judgment or admission. The EEOC's at-least-100 statement is attributed to the agency. Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 5,
+      "position": 4,
       "canonical_title": "The Military Wants AI Faster. Who Owns the Safety Check?",
       "slug": "the-military-wants-ai-faster-who-owns-the-safety-check",
       "status": "approved_queued_full_finished",
@@ -863,7 +847,7 @@
       "title": "The Military Wants AI Faster. Who Owns the Safety Check?"
     },
     {
-      "position": 6,
+      "position": 5,
       "canonical_title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
       "slug": "germany-raised-the-minimum-wage-the-paycheck-still-needs-the-hours",
       "status": "approved_queued_full_finished",
@@ -884,7 +868,7 @@
       "title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours."
     },
     {
-      "position": 7,
+      "position": 6,
       "title": "The Building Failed. The Children Lost the School Day.",
       "canonical_title": "The Building Failed. The Children Lost the School Day.",
       "slug": "the-building-failed-the-children-lost-the-school-day",
@@ -912,7 +896,7 @@
       "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 8,
+      "position": 7,
       "title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
       "canonical_title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
       "slug": "the-job-center-was-open-the-help-still-wasnt-accessible",
@@ -940,7 +924,7 @@
       "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 9,
+      "position": 8,
       "title": "The Loan Rule Changed. Were the Instructions Ready?",
       "canonical_title": "The Loan Rule Changed. Were the Instructions Ready?",
       "slug": "the-loan-rule-changed-were-the-instructions-ready",
@@ -968,7 +952,7 @@
       "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 10,
+      "position": 9,
       "title": "The House Was Full. The Homelessness Definition Still Had an Empty Seat.",
       "slug": "the-house-was-full-the-homelessness-definition-still-had-an-empty-seat",
       "completion_status": "full_finished",
@@ -986,11 +970,10 @@
       ],
       "review_1": "2026-10-17 GAO methodology, program definition, attribution and preliminary-status audit",
       "review_2": "2026-10-17 Regular Joe clarity, respectful framing, counterargument, action, metadata and social audit",
-      "notes": "GAO evidence is preliminary and interviews are nongeneralizable. No national count or universal doubled-up eligibility claim. Refresh for final GAO work and HUD guidance; complete live uniqueness, HTML/image/navigation and deployment checks.",
-      "canonical_title": "The House Was Full. The Homelessness Definition Still Had an Empty Seat."
+      "notes": "GAO evidence is preliminary and interviews are nongeneralizable. No national count or universal doubled-up eligibility claim. Refresh for final GAO work and HUD guidance; complete live uniqueness, HTML/image/navigation and deployment checks."
     },
     {
-      "position": 11,
+      "position": 10,
       "title": "Germany Gives Workers a Complaint Route. The Compensation Clock Still Runs.",
       "canonical_title": "Germany Gives Workers a Complaint Route. The Compensation Clock Still Runs.",
       "slug": "germany-gives-workers-a-complaint-route-the-compensation-clock-still-runs",
@@ -1012,7 +995,7 @@
       "notes": "Final law/live uniqueness, HTML/image/navigation and deployment checks required."
     },
     {
-      "position": 12,
+      "position": 11,
       "title": "Germany Raised the Volunteer Allowance. Now Show Who Can Actually Use It.",
       "slug": "germany-raised-the-volunteer-allowance-now-show-who-can-use-it",
       "completion_status": "full_finished",
@@ -1031,11 +1014,10 @@
       ],
       "review_1": "2026-10-22 final direct consolidated-law check passed; prior timeout resolved.",
       "review_2": "2026-10-21 Regular Joe clarity, complete TMS elements, social copies, German copy, fairness and duplication audit",
-      "notes": "Direct official §3 numbers 26 and 26a read October 22: amounts, activities, organizations, annual personal limits and non-stacking rule checked. Legal hold cleared. Refresh law at release; render and verify HTML/navigation.",
-      "canonical_title": "Germany Raised the Volunteer Allowance. Now Show Who Can Actually Use It."
+      "notes": "Direct official §3 numbers 26 and 26a read October 22: amounts, activities, organizations, annual personal limits and non-stacking rule checked. Legal hold cleared. Refresh law at release; render and verify HTML/navigation."
     },
     {
-      "position": 13,
+      "position": 12,
       "title": "The Job Was Online. The Application Had to Go in the Mail.",
       "slug": "the-job-was-online-the-application-had-to-go-in-the-mail",
       "completion_status": "full_finished",
@@ -1053,8 +1035,7 @@
       ],
       "review_1": "2026-10-22 EEOC/DOJ original record cross-check, chronology, claim/settlement distinction and Reuters company response",
       "review_2": "2026-10-22 package, prose, fairness, action, duplicate comparison and 917-character Instagram review",
-      "notes": "No implemented compliance or claimant payment claimed. Refresh interim claims address, fund status and company/legal developments at release; render HTML and verify public links.",
-      "canonical_title": "The Job Was Online. The Application Had to Go in the Mail."
+      "notes": "No implemented compliance or claimant payment claimed. Refresh interim claims address, fund status and company/legal developments at release; render HTML and verify public links."
     },
     {
       "title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.",
@@ -1081,8 +1062,29 @@
       "review_1": "2026-10-23 Navy/DVIDS, university and Mint factual check; draft versus completed ship, chronology, qualifications and source limits checked.",
       "review_2": "2026-10-23 complete TMS package, voice, fairness, prior-work credit, action and 912-character Instagram check.",
       "notes": "Historical explanatory piece; 2024 dedication/2025 coin not breaking news. No claim of sole finished-ship authorship, never-recognized history or calculated loss/savings. At release refresh source links, uniqueness and image credit/reuse; render and verify article/navigation.",
+      "position": 13
+    },
+    {
       "position": 14,
-      "canonical_title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name."
+      "title": "A Child Can Have a Credit File Before They Have a Job.",
+      "canonical_title": "A Child Can Have a Credit File Before They Have a Job.",
+      "slug": "a-child-can-have-a-credit-file-before-they-have-a-job",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "source": "editorial-packages/TMS_CHILD_CREDIT_FILE_FREEZE_PUBLICATION_PACKAGE_2026-10-24.md",
+      "approval": "Jansen standing two-review instruction",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The College Took the Money. The Outcome Data Is Late.",
+          "distinction": "Institutional program reporting versus child protected-consumer records, prevention and separate correction routes."
+        }
+      ],
+      "review_1": "2026-10-24 FTC/CFPB current guidance cross-check and TransUnion procedure, eligibility, counterevidence and limits.",
+      "review_2": "2026-10-24 full package, developed prose, fairness, action, distinctness and 841-character Instagram audit.",
+      "notes": "Evergreen service/accountability piece, not new law. Refresh official procedures/links and uniqueness, render and verify public links at release."
     }
   ],
   "status_verification_ledger": [],
@@ -1991,6 +1993,39 @@
   },
   "discovery_2026_10_23": {
     "source": "TMS_REPORTING_UPDATE_2026-10-23.md",
+    "records": 3,
+    "completed": 1,
+    "research_only": 2
+  },
+  "daily_editorial_completion_2026_10_24": {
+    "title": "A Child Can Have a Credit File Before They Have a Job.",
+    "source": "editorial-packages/TMS_CHILD_CREDIT_FILE_FREEZE_PUBLICATION_PACKAGE_2026-10-24.md",
+    "reviews_completed": 2,
+    "status": "approved_queued_full_finished",
+    "position": 14
+  },
+  "reconciliation_notes_2026_10_24": {
+    "publication": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
+    "release_count": 1,
+    "new_full_editorial": "A Child Can Have a Credit File Before They Have a Job.",
+    "counts": {
+      "full_finished_unpublished_eligible": 14,
+      "full_finished_currently_queued": 14,
+      "full_finished_retired_or_replaced": 4,
+      "status_verification_required": 0,
+      "historical_replacement_versions": 16,
+      "replacements_still_pending_installation": null,
+      "unfinished_or_blocked": 5,
+      "follow_up_candidates": 3,
+      "positive_solution_candidates": 3
+    },
+    "next_numbered_story": "The Complaint Had a 100-Day Clock. The Housing Problem Did Not Wait.",
+    "germany": "2/2 this week; no new package counted today.",
+    "replacements": "None installed; historical count 16, remaining installation count unknown.",
+    "priority": "Charlotte retained; statistics/timeline/social checks unresolved."
+  },
+  "discovery_2026_10_24": {
+    "source": "TMS_REPORTING_UPDATE_2026-10-24.md",
     "records": 3,
     "completed": 1,
     "research_only": 2

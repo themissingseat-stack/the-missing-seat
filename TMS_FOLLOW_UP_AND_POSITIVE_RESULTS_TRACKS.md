@@ -17,13 +17,13 @@ For each: maintain finding → responsible authority → action after notice →
 Primary starting receipt for the first two: https://www.ilo.org/resource/news/together-they-are-changing-their-communities-how-cooperatives-are-advancing
 These are separate leads under development; neither is a completed editorial or proven impact evaluation.
 
-## Completed positive package this run
+## Completed positive package: current status
 A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.
 Source: editorial-packages/TMS_TIMOR_LESTE_A_SEAT_WAS_MADE_PUBLICATION_PACKAGE_2026-10-18.md.
 Full, finished and twice reviewed; published and publicly verified October24,2026. Excluded from unpublished and research-candidate counts.
 
 ## Priority release control
-Charlotte priority retained ahead of the numbered queue. Its repository package still explicitly requires underlying CMPD traffic-stop percentage verification and a direct DA case-review citation; it also references social versions outside the standalone file. Recover or integrate those versions before labeling the standalone package complete. Preserve approval; do not erase or retire it. Record as priority-approved pending release/completeness checks, outside the fully cleared queue count.
+Charlotte priority retained ahead of the numbered queue. Direct DA attribution and standalone Facebook/Instagram versions were integrated October 25. Underlying CMPD statistical reproduction, current per-person disciplinary chronology/separate SBI scope and Canada comparator/final package checks remain. Preserve approval; do not erase or retire it. Record as priority-approved pending release checks, outside the fully cleared queue count.
 
 ## Existing website replacements
 The historical 16 Regular Joe replacements remain a separate replacement-work record, excluded from new inventory. This run does not certify all 16 still await installation. Reconcile each replacement against current public text before reporting a remaining ready-to-replace total.

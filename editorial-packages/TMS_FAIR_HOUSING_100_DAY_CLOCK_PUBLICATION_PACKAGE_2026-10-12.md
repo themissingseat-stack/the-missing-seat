@@ -2,7 +2,7 @@
 
 ## Publication metadata
 
-- **Status:** FULL, FINISHED, TWICE REVIEWED, APPROVED / QUEUED / UNPUBLISHED
+- **Status:** FULL, FINISHED, TWICE REVIEWED / PUBLISHED / LIVE VERIFIED OCTOBER 25, 2026
 - **Date completed:** October 12, 2026
 - **Working slug:** `the-complaint-had-a-100-day-clock-the-housing-problem-did-not-wait`
 - **Topic:** Housing · Civil Rights · Disability · Government Accountability
@@ -133,3 +133,8 @@ A realistic apartment doorway with moving boxes inside. In the foreground, a com
 ## October 25 refreshed reviews and release
 
 Review 1: new HUD September release, GAO October release/footnote24, current OIG C entry and current HUD process read; corrected stale27% framing, narrow recommendation status, deadline/relief distinctions and removed unsupported current-page attribution. Review 2: reworked choppy one-line stacks into natural paragraphs, checked accountability, counterargument, action, social length (899 characters), full metadata and distinctness. Both passed. Original approved thesis preserved with materially current evidence. Release limited to this single queued editorial today. Public verification recorded separately after deployment.
+
+
+## Confirmed public release October 25, 2026
+
+Direct article URL and homepage/archive/Justice & Law topic/RSS all returned HTTP200 with the correct slug. All four linked surfaces matched current main blob hashes after propagation. Article commit5f78b0a91840810e08cc5c3459f9062845c3699b; direct article content matched repository blob7214e5f9e4c7c0a2dffba1f0ea91f6694eb29dd4. Exactly one publication today. Removed from unpublished/queued count; no illustration fabricated or browser visual check claimed.

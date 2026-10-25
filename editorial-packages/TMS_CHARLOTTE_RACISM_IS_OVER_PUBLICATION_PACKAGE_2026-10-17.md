@@ -55,7 +55,7 @@ Imagine someone who was improperly stopped on the way to work. They lose time, a
 
 The institution may announce resignations, hearings, additional training, and policy changes. Each can matter. But the resident's financial loss, record, or sense of safety does not disappear when the employee leaves.
 
-The Mecklenburg County District Attorney's office has begun examining cases involving the officers. That is a consequential development because it moves beyond workplace discipline into the potential reliability of prosecutions. The next questions are how many cases are reviewed, what the evidence shows, whether disclosure or legal correction is required, and what affected people are told.
+On October 15, WSOC reporter Evan Donovan reported that District Attorney Spencer Merriweather said his office needed to examine pending and past criminal cases involving the officers. The report said the office was still determining the scope and did not plan to publish the number affected. On October 22, Merriweather told Spectrum News that cases required individual review. Those statements establish a review commitment, not a verified count of completed reviews, overturned convictions or delivered relief.
 
 Where rights violations are established, the government should provide clear and accessible pathways to appropriate remedies. Depending on facts and law, that may involve correction of a record, review of a conviction, reimbursement, civil relief, or other forms of restoration. None of these outcomes should be assumed in advance, and not every offensive text proves a traffic stop was unlawful. But neither should the absence of an earlier complaint automatically clear an encounter.
 
@@ -96,7 +96,7 @@ The other half is the one we keep asking: **Why can't you just leave us the hell
 4. British Columbia Police Complaint Commissioner, official releases: https://opcc.bc.ca/news/news-releases/
 5. OPCC June 26, 2025 release: https://opcc.bc.ca/wp-content/uploads/2025/06/20959-2025-06-26-News-Release-PH-25-01-1.pdf
 
-**Publication gate:** Recheck current factual status, traffic-stop percentages against underlying CMPD data, DA case review and direct citation, title/slug uniqueness and daily release limit before rendering and deploying HTML. The supplied website copy expressly distinguishes proven communications, journalistic allegations and potential civil rights violations.
+**Publication gate:** Recheck current factual status, traffic-stop percentages against underlying CMPD data, current disciplinary chronology and Canada comparator, title/slug uniqueness and daily release limit before rendering and deploying HTML. The supplied website copy expressly distinguishes proven communications, journalistic allegations and potential civil rights violations.
 
 ## Receipts & Recipes
 **Known action:** Three resigned; three subject to recommended termination. Department review and federal referral. DA case examination reported.
@@ -104,4 +104,45 @@ The other half is the one we keep asking: **Why can't you just leave us the hell
 **Who benefits:** Any officers protected by a tolerant culture, if proven; institutional reputation from personnel discipline alone, if not accompanied by investigation of victims.
 **Who pays:** Taxpayers fund enforcement and review; any wronged people may carry unremedied legal, financial, or personal losses.
 **Reader action:** Request aggregate findings and methodology from CMPD and public officials; support independent reporting; preserve stop records and consult legal counsel if directly affected.
-**Editorial note:** This full package is the priority release, with Facebook and Instagram drafts supplied in the accompanying editorial conversation. Publish ahead of existing queue without dropping or reshuffling its existing 13 stories.
+**Editorial note:** Priority approval preserved. Standalone social drafts are now included below. Required statistical, chronology and Canada-comparator refreshes remain; this package is not yet release-cleared. Preserve the numbered queue.
+
+
+## October 25 standalone-package update
+
+This file remains staged, not live. The October15 employment numbers in the body are historical, not today's status. October19 WFAE/WUNC distinguished the six-officer personnel cohort from Seth Elliott's separate SBI/Flock matter; October22 Spectrum reported six resignations among seven connected officers and one suspension. Final per-person timeline and scope must be reconciled with personnel records before release; do not mix snapshots or investigations.
+
+Direct DA source integrated into the body: Evan Donovan, WSOC, October15,2026: https://www.wsoctv.com/news/local/district-attorney-now-reviewing-criminal-cases-involving-cmpd-officers-linked-racist-texts/N4LX6GPPIBDWZJMCEHJLR55TUA/
+
+Later DA/case-by-case account: Jordan Kudisch, Spectrum, updated October22,2026: https://spectrumlocalnews.com/nc/charlotte/news/2026/10/22/cmpd-racist-texts-convictions
+
+Personnel chronology starting point, WFAE reporting republished by WUNC, October19,2026: https://www.wunc.org/2026-10-19/cmpd-identifies-officers-tied-to-racist-text-message-investigation-as-fifth-resigns
+
+## Facebook version
+
+Charlotte's police-text investigation must follow the evidence to residents, not stop at employment discipline.
+
+Alleged discriminatory messages raise questions about stops, searches and the reliability of prosecutions. A text does not by itself establish what happened in every encounter. That makes preserved records and independent review essential.
+
+Ask CMPD and the district attorney for aggregate results: encounters examined, cases flagged, people notified and relief delivered. If you may be affected, preserve your records and seek case-specific legal help.
+
+The remaining test is whether anyone wronged receives a remedy.
+
+Ally = Action. 🪑
+
+## Instagram version
+
+Charlotte's police-text investigation must follow the evidence to residents, not stop at employment discipline.
+
+Alleged discriminatory messages raise questions about stops, searches and the reliability of prosecutions. A text does not by itself establish what happened in every encounter. That makes preserved records and independent review essential.
+
+Ask CMPD and the district attorney for aggregate results: encounters examined, cases flagged, people notified and relief delivered. If you may be affected, preserve your records and seek case-specific legal help.
+
+The remaining test is whether anyone wronged receives a remedy.
+
+Ally = Action. 🪑
+
+## Review of additions and remaining release gates
+
+October25 additions checked for attribution, dated statements, proceedings versus relief and natural prose. Standalone Facebook/Instagram supplied; Instagram 650 characters. No unverified 56%/83% percentages or current personnel total added to socials. Direct DA citation and standalone-social absence are resolved as document-completeness issues. These are additions to an already approved priority draft, not a new completed editorial or automatic release clearance.
+
+Still required: reproduce the January–May CMPD56%/83% calculation from underlying data; reconcile final per-person disciplinary timeline/separate SBI scope; refresh the Canadian OPCC comparator and full-package factual/legal/prose checks. Actual DA review counts/results are not verified. Do not release this alongside the October25 housing story; today's one-publication slot is used.

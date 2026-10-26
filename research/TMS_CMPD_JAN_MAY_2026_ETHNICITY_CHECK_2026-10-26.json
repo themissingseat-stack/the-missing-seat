@@ -1,0 +1,217 @@
+{
+  "retrieved_date": "2026-10-26",
+  "source": "https://gis.charlottenc.gov/arcgis/rest/services/CMPD/Officer_Traffic_Stop/MapServer/0/query?f=json&where=Month_of_Stop+%3E%3D+%272026%2F01%27+AND+Month_of_Stop+%3C%3D+%272026%2F05%27&groupByFieldsForStatistics=Driver_Race%2CDriver_Ethnicity%2CWas_a_Search_Conducted&outStatistics=%5B%7B%22statisticType%22%3A+%22count%22%2C+%22onStatisticField%22%3A+%22OBJECTID%22%2C+%22outStatisticFieldName%22%3A+%22n%22%7D%5D&returnGeometry=false&orderByFields=Driver_Race%2CDriver_Ethnicity%2CWas_a_Search_Conducted",
+  "parameters": {
+    "f": "json",
+    "where": "Month_of_Stop >= '2026/01' AND Month_of_Stop <= '2026/05'",
+    "groupByFieldsForStatistics": "Driver_Race,Driver_Ethnicity,Was_a_Search_Conducted",
+    "outStatistics": "[{\"statisticType\": \"count\", \"onStatisticField\": \"OBJECTID\", \"outStatisticFieldName\": \"n\"}]",
+    "returnGeometry": "false",
+    "orderByFields": "Driver_Race,Driver_Ethnicity,Was_a_Search_Conducted"
+  },
+  "response": {
+    "displayFieldName": "",
+    "fieldAliases": {
+      "Driver_Race": "Driver_Race",
+      "Driver_Ethnicity": "Driver_Ethnicity",
+      "Was_a_Search_Conducted": "Was_a_Search_Conducted",
+      "n": "n"
+    },
+    "fields": [
+      {
+        "name": "Driver_Race",
+        "type": "esriFieldTypeString",
+        "alias": "Driver_Race",
+        "length": 20
+      },
+      {
+        "name": "Driver_Ethnicity",
+        "type": "esriFieldTypeString",
+        "alias": "Driver_Ethnicity",
+        "length": 12
+      },
+      {
+        "name": "Was_a_Search_Conducted",
+        "type": "esriFieldTypeString",
+        "alias": "Was_a_Search_Conducted",
+        "length": 3
+      },
+      {
+        "name": "n",
+        "type": "esriFieldTypeInteger",
+        "alias": "n"
+      }
+    ],
+    "features": [
+      {
+        "attributes": {
+          "Driver_Race": null,
+          "Driver_Ethnicity": null,
+          "Was_a_Search_Conducted": "NO",
+          "n": 4
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Asian",
+          "Driver_Ethnicity": "Hispanic",
+          "Was_a_Search_Conducted": "NO",
+          "n": 13
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Asian",
+          "Driver_Ethnicity": "Hispanic",
+          "Was_a_Search_Conducted": "YES",
+          "n": 1
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Asian",
+          "Driver_Ethnicity": "Non-Hispanic",
+          "Was_a_Search_Conducted": "NO",
+          "n": 985
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Asian",
+          "Driver_Ethnicity": "Non-Hispanic",
+          "Was_a_Search_Conducted": "YES",
+          "n": 14
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Black",
+          "Driver_Ethnicity": "Hispanic",
+          "Was_a_Search_Conducted": "NO",
+          "n": 174
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Black",
+          "Driver_Ethnicity": "Hispanic",
+          "Was_a_Search_Conducted": "YES",
+          "n": 7
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Black",
+          "Driver_Ethnicity": "Non-Hispanic",
+          "Was_a_Search_Conducted": "NO",
+          "n": 23152
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Black",
+          "Driver_Ethnicity": "Non-Hispanic",
+          "Was_a_Search_Conducted": "YES",
+          "n": 2494
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Native American",
+          "Driver_Ethnicity": "Hispanic",
+          "Was_a_Search_Conducted": "NO",
+          "n": 21
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Native American",
+          "Driver_Ethnicity": "Non-Hispanic",
+          "Was_a_Search_Conducted": "NO",
+          "n": 39
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Native American",
+          "Driver_Ethnicity": "Non-Hispanic",
+          "Was_a_Search_Conducted": "YES",
+          "n": 2
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Other/Unknown",
+          "Driver_Ethnicity": "Hispanic",
+          "Was_a_Search_Conducted": "NO",
+          "n": 1018
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Other/Unknown",
+          "Driver_Ethnicity": "Hispanic",
+          "Was_a_Search_Conducted": "YES",
+          "n": 23
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Other/Unknown",
+          "Driver_Ethnicity": "Non-Hispanic",
+          "Was_a_Search_Conducted": "NO",
+          "n": 1138
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Other/Unknown",
+          "Driver_Ethnicity": "Non-Hispanic",
+          "Was_a_Search_Conducted": "YES",
+          "n": 14
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "White",
+          "Driver_Ethnicity": "Hispanic",
+          "Was_a_Search_Conducted": "NO",
+          "n": 5855
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "White",
+          "Driver_Ethnicity": "Hispanic",
+          "Was_a_Search_Conducted": "YES",
+          "n": 261
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "White",
+          "Driver_Ethnicity": "Non-Hispanic",
+          "Was_a_Search_Conducted": "NO",
+          "n": 10028
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "White",
+          "Driver_Ethnicity": "Non-Hispanic",
+          "Was_a_Search_Conducted": "YES",
+          "n": 153
+        }
+      }
+    ]
+  },
+  "calculation": {
+    "all_stop_rows": 45396,
+    "all_search_yes_rows": 2969,
+    "black_non_hispanic_stop_rows": 25646,
+    "black_non_hispanic_stop_percent_of_all": 56.49396422592299,
+    "black_non_hispanic_search_rows": 2494,
+    "black_non_hispanic_search_percent_of_all": 84.001347254968
+  },
+  "interpretation": "Separating ethnicity changes the numerator. This is a transparent alternative calculation, not a certified replication of NC CopWatch source definitions or historical snapshot. Current city GIS versus state-reported SBI dataset/snapshot may differ. Does not reproduce both quoted56/83 percentages."
+}

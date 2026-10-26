@@ -592,5 +592,106 @@
     "description": "Independent third-party research resource for reviewing federal candidates and elected officials through campaign-finance information, congressional activity, voting records and financial disclosures. Verify important findings through the linked primary records.",
     "url": "https://www.truevote.app/",
     "verified": "2026-10-18"
+  },
+  {
+    "id": "dol-tipped-dualjobs-2026-us",
+    "name": "U.S. Wage and Hour Division: 2026-1 Tipped Dual Jobs Bulletin",
+    "region": "United States",
+    "type": "Primary Sources",
+    "topics": [
+      "work",
+      "wages",
+      "tipped-workers",
+      "restaurants",
+      "labor-rights"
+    ],
+    "actions": [
+      "Check tip-credit rules",
+      "Review dual jobs",
+      "Document hours"
+    ],
+    "description": "October 19, 2026 federal enforcement guidance withdraws three older opinion letters and confirms that the former 80/20 percentage guidance is not current WHD policy. State law may provide stronger protections.",
+    "url": "https://www.dol.gov/sites/dolgov/files/WHD/fab/fab2026-1.pdf",
+    "verified": "2026-10-26"
+  },
+  {
+    "id": "dol-tipped-state-wages-us",
+    "name": "U.S. Department of Labor: State Tipped Minimum Wages",
+    "region": "United States",
+    "type": "Know Your Rights",
+    "topics": [
+      "work",
+      "wages",
+      "tipped-workers",
+      "restaurants"
+    ],
+    "actions": [
+      "Check state cash wage",
+      "Compare state and federal protections"
+    ],
+    "description": "Official state-by-state tipped-wage table. Workers should check applicable state and local rules as well as federal tip-credit requirements.",
+    "url": "https://www.dol.gov/agencies/whd/state/minimum-wage/tipped",
+    "verified": "2026-10-26"
+  },
+  {
+    "id": "irs-adoption-carryforward-2026-us",
+    "name": "IRS: 2025 Adoption Credit Carryforward Adjustment and Penalty Review",
+    "region": "United States",
+    "type": "Know Your Rights",
+    "topics": [
+      "taxes",
+      "money",
+      "family",
+      "refunds",
+      "appeals"
+    ],
+    "actions": [
+      "Review IRS adjustment notice",
+      "Check estimated-tax penalty",
+      "Request abatement when appropriate"
+    ],
+    "description": "IRS FAQs explain automatic 2025 adoption-credit adjustments and why an estimated-tax penalty is not automatically recomputed; a separate request may be needed.",
+    "url": "https://www.irs.gov/faqs/questions-and-answers-about-adoption-tax-credit-carryforward",
+    "verified": "2026-10-26"
+  },
+  {
+    "id": "irs-ira-corrections-2027-us",
+    "name": "IRS: IRA Compliance Resolution System (Effective May 2027)",
+    "region": "United States",
+    "type": "Know Your Rights",
+    "topics": [
+      "retirement",
+      "money",
+      "taxes",
+      "appeals"
+    ],
+    "actions": [
+      "Check existing rollover waiver routes",
+      "Prepare for May 2027 correction system"
+    ],
+    "description": "IRS October 22, 2026 announcement of a future IRA correction system, with existing automatic waiver and self-certification options remaining available now for qualifying cases.",
+    "url": "https://www.irs.gov/newsroom/treasury-irs-update-retirement-plan-correction-program-and-establish-correction-program-for-individual-retirement-accounts",
+    "verified": "2026-10-26"
+  },
+  {
+    "id": "sgb2-38-jobsearch-release-de",
+    "name": "§§2, 38 SGB III: Arbeitsuchendmeldung und Freistellung",
+    "region": "Germany",
+    "type": "Know Your Rights",
+    "topics": [
+      "work",
+      "unemployment",
+      "deadlines",
+      "labor-rights",
+      "benefits"
+    ],
+    "actions": [
+      "Meet registration deadline",
+      "Ask employer for time for required appointments",
+      "Register unemployed separately"
+    ],
+    "description": "German law and Federal Employment Agency guidance on timely job-seeker registration, employer information/release responsibilities and avoiding an ALG I gap.",
+    "url": "https://www.arbeitsagentur.de/vor-ort/leipzig/presse/2026-26-rechtzeitig-arbeitsuchend-melden-neue-arbeit-finden-bevor-die-alte-endet",
+    "verified": "2026-10-26"
   }
 ]

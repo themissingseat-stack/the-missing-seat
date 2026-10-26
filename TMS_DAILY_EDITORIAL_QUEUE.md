@@ -1,4 +1,4 @@
-# TMS Daily Editorial Queue — Reconciled 2026-10-25
+# TMS Daily Editorial Queue — Reconciled 2026-10-26
 
 **Source of truth:** verified live pages and published HTML/commits take precedence over stale queue labels. The staged JSON on branch `tms-daily-queue-2026-09-01` is the machine-readable companion to this ledger.
 
@@ -35,8 +35,8 @@ Every **Full TMS Editorial Joe Package** must ensure that an ordinary reader fin
 
 | Ledger category | Count |
 |---|---:|
-| Full finished unpublished, eligible | 14 |
-| Full finished currently queued | 14 |
+| Full finished unpublished, eligible | 15 |
+| Full finished currently queued | 15 |
 | Retired/replaced finished editorials | 4 |
 | Requiring live/repository status verification | 0 |
 | Historical existing-website replacement versions, excluded from new inventory | 16 |
@@ -63,6 +63,8 @@ Every **Full TMS Editorial Joe Package** must ensure that an ordinary reader fin
 | 12 | Raye Montague Helped Change Ship Design. Teach the Work Behind the Name. | `raye-montague-helped-change-ship-design-teach-the-work` | approved_queued_full_finished | They Trusted Black Women With Their Babies. Just Not With Power.: Black midwives and health authority versus named engineer's technical work, accurate recognition and practical skill/teaching access. | [Full package](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_RAYE_MONTAGUE_TEACH_THE_WORK_PUBLICATION_PACKAGE_2026-10-23.md). Historical explanatory piece; 2024 dedication/2025 coin not breaking news. No claim of sole finished-ship authorship, never-recognized history or calculated loss/savings. At release refresh source links, uniqueness and image credit/reuse; render and verify article/navigation. |
 | 13 | A Child Can Have a Credit File Before They Have a Job. | `a-child-can-have-a-credit-file-before-they-have-a-job` | approved_queued_full_finished | The College Took the Money. The Outcome Data Is Late.: Institutional program reporting versus child protected-consumer records, prevention and separate correction routes. | [Full package](editorial-packages/TMS_CHILD_CREDIT_FILE_FREEZE_PUBLICATION_PACKAGE_2026-10-24.md). Evergreen service/accountability piece, not new law. Refresh official procedures/links and uniqueness, render and verify public links at release. |
 | 14 | Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance. | `before-you-agree-to-a-hospital-payment-plan-ask-about-financial-assistance` | approved_queued_full_finished | Before You Cut Care, Did You Stop Paying More for the Same Care?: Medicare outpatient public spending versus patient's hospital-assistance eligibility, public policy access and separately billed providers. | [Full package](editorial-packages/TMS_HOSPITAL_ASSISTANCE_BEFORE_PAYMENT_PLAN_PUBLICATION_PACKAGE_2026-10-25.md). Evergreen service/accountability, not a new law or reported patient investigation. Refresh source/current example and live distinctness; render HTML and verify navigation at release. |
+
+| 15 | The Server Still Cleans the Tables. The Federal 80/20 Guide Is Gone. | `the-server-still-cleans-the-tables-the-federal-80-20-guide-is-gone` | approved_queued_full_finished | Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.: U.S. tipped-worker occupation versus related duties and October 2026 federal guidance withdrawal, not German minimum-wage hours accounting. | [Full package](editorial-packages/TMS_TIPPED_WORK_8020_GUIDANCE_WITHDRAWN_PUBLICATION_PACKAGE_2026-10-26.md). DOL bulletin, fact sheet, state table and complaint route checked October 26. 2024 court/2025 handbook chronology explicit. Final source refresh, daily slot, HTML/navigation/RSS and live deployment verification required. |
 
 ## Published record — do not requeue
 

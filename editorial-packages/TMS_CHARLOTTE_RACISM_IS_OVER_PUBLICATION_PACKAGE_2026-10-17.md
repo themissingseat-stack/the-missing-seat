@@ -35,7 +35,7 @@ We cannot learn from a history we are constantly instructed to forget.
 
 ## Numbers must be investigated, not weaponized
 
-Reported CMPD traffic data through May 31, 2026 showed Black drivers accounted for approximately 56 percent of stops and 83 percent of searches. Those numbers alone do not prove discrimination. Investigators must consider who was driving in enforcement areas, reasons officers recorded for stops, search justification, search outcomes, and treatment of comparable drivers of other races.
+Earlier reporting cited approximately 56 percent of stops and 83 percent of searches through May 31, 2026. Those reported percentages have not been independently reproduced here. An October 26 query of the city's current GIS dataset for January through May produced different results: 25,827 of 45,396 stop records had Driver_Race recorded as Black, and 2,501 of 2,969 records with a search recorded YES did so. That is about 56.9 percent and 84.2 percent respectively. Separating non-Hispanic Black records changes the numerators again; it still does not reproduce both reported percentages. These are current records, not a preserved May snapshot, and city/state datasets and category definitions may differ. The discrepancy must be reconciled before release. Those numbers alone do not prove discrimination. Investigators must consider who was driving in enforcement areas, reasons officers recorded for stops, search justification, search outcomes, and treatment of comparable drivers of other races.
 
 But in a department where officers are accused of making Black drivers a contest, those disparities plainly demand examination. Their meaning cannot be decided by a headline, nor should they be dismissed without a serious audit.
 
@@ -157,3 +157,15 @@ Official September17 notice with October8 update: https://opcc.bc.ca/wp-content/
 Official stream notice with October5 update: https://opcc.bc.ca/wp-content/uploads/2023/04/2026.09.18-Nelson-Public-Hearing-Live-Audio-Stream-1_UPDATE.pdf
 
 The comparator factual-refresh blocker is cleared for this narrowed paragraph. Primary CMPD statistical reproduction and final per-person disciplinary chronology/separate SBI scope remain, as does the final full-package check. Existing approval and priority preserved; this is not a new finished package or a second October26 publication.
+
+
+## October 26 underlying-data audit
+
+City GIS metadata and aggregate query responses retrieved directly. Month counts sum to45,396 January–May2026 stop rows, matching the race/search aggregate total. Query includes unknown race in the denominator and counts search=YES records; it is not a unique-person or officer-cohort analysis. Race-field Black stop/search shares are56.8927% and84.2371%. Alternative non-Hispanic Black counts are25,646stop rows and2,494search rows, shares56.4940% and84.0013%. These alternatives do not establish the original reported56%/83% pair. Do not round or select a definition merely to force agreement. Current city GIS can differ from a prior SBI/NC CopWatch reporting snapshot. No intent or causal inference certified by aggregate percentages.
+
+Preserved responses and exact query parameters/URLs:
+- [Race/search aggregate](../research/TMS_CMPD_JAN_MAY_2026_AGGREGATE_CHECK_2026-10-26.json)
+- [Race/ethnicity/search aggregate](../research/TMS_CMPD_JAN_MAY_2026_ETHNICITY_CHECK_2026-10-26.json)
+- Source metadata: https://gis.charlottenc.gov/arcgis/rest/services/CMPD/Officer_Traffic_Stop/MapServer/0
+
+This materially advances the statistical work without certifying the old pair. Reconcile dataset/snapshot and category definitions or fully adopt a clearly defined current analysis after final review before release. Disciplinary chronology/separate SBI scope and final package review remain. Canada comparator is separately refreshed. Priority approval retained; no second publication today.

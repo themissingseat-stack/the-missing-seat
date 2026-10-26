@@ -1,5 +1,5 @@
 # TMS follow-up and positive-results reporting tracks
-Updated October 25, 2026. Candidates are research leads, never finished inventory.
+Updated October 26, 2026. Candidates are research leads, never finished inventory.
 
 ## Follow-up candidates: 3
 1. Germany police-complaints editorial: obtain subsequent Bundestag/commissioner reporting on complaint disposition, investigations completed, institutional action and individual relief. Baseline live slug: germany-created-a-seat-for-police-complaints-who-can-actually-use-it. Trigger: a verified later outcome, not the existing complaint count. No new outcome asserted.
@@ -23,7 +23,7 @@ Source: editorial-packages/TMS_TIMOR_LESTE_A_SEAT_WAS_MADE_PUBLICATION_PACKAGE_2
 Full, finished and twice reviewed; published and publicly verified October24,2026. Excluded from unpublished and research-candidate counts.
 
 ## Priority release control
-Charlotte priority retained ahead of the numbered queue. Direct DA attribution and standalone Facebook/Instagram versions were integrated October 25. Underlying CMPD statistical reproduction, current per-person disciplinary chronology/separate SBI scope and Canada comparator/final package checks remain. Preserve approval; do not erase or retire it. Record as priority-approved pending release checks, outside the fully cleared queue count.
+Charlotte priority retained ahead of the numbered queue. Direct DA attribution and standalone Facebook/Instagram versions were integrated October 25. Current primary CMPD aggregates are now preserved but do not reproduce the original quoted percentage pair; dataset/snapshot/category reconciliation or a fully reviewed replacement analysis, current per-person disciplinary chronology/separate SBI scope and final package checks remain. The Canada comparator was refreshed and narrowed October 26. Preserve approval; do not erase or retire it. Record as priority-approved pending release checks, outside the fully cleared queue count.
 
 ## Existing website replacements
 The historical 16 Regular Joe replacements remain a separate replacement-work record, excluded from new inventory. This run does not certify all 16 still await installation. Reconcile each replacement against current public text before reporting a remaining ready-to-replace total.
@@ -50,3 +50,14 @@ Charlotte evidence advanced: named DA review statement located and reporting-man
 The Timor-Leste package is published, not still queued. Raye Montague remains completed reserve, excluded from research candidates. Counts now:3follow-up/4positive research candidates. No independently verified new outcome for the three existing follow-up tracks this run; IHS's current press-release index does not itself establish a change to sanitation maintenance funding or delivered water service. Do not treat a news-index check as an exhaustive search or proof no change occurred.
 
 Charlotte's named DA source is now integrated and standalone Facebook/Instagram versions are present in its package. Underlying statistical reproduction, current per-person chronology and Canada comparator refresh remain. It is still priority-approved but not release-cleared. See TMS_REPORTING_UPDATE_2026-10-25.md. No new finished count from these additions.
+
+
+## October 26 completed positive package and verification progress
+
+**Wheelmap Helps People Plan. Now Track Which Barriers Come Down.** is full, finished, twice reviewed, automatically approved and queued. Source: editorial-packages/TMS_GERMANY_WHEELMAP_INFORMATION_TO_REPAIR_PUBLICATION_PACKAGE_2026-10-26.md. It is new Germany package 1/2 for October 26–November 1, not a fifth unfinished positive candidate. The operator's reported coverage is separated from barriers removed and independent visitor outcomes. Named founder and local coordinators credited without invented interviews.
+
+**Raye Montague** moves to queue position 3 to keep positive achievement and Black history visible; **Wheelmap** is appended at 14. Research counts remain 3 follow-up / 4 positive candidates. Prior week Germany production closed 2/2; today's older school-day publication is excluded from the new week.
+
+Charlotte's underlying city aggregate queries now exist in research/ with full parameters, responses, dates and calculations. Race-field and non-Hispanic alternatives do not reproduce both earlier reported 56%/83%; do not force categories or rounding to fit. Current-city versus prior-state snapshots require reconciliation. Canadian current hearing index and October 8 updated notice verified; narrowed comparator gate cleared. Final per-person chronology and final package review remain.
+
+Care-cooperative reporting prompt: ILO's October 29 agenda includes worker/employer representation and domestic work. Read eventual proceedings and seek pay, protection and actual service outcomes; the agenda itself is not evidence those outcomes occurred. No new permanent candidate added. See TMS_REPORTING_UPDATE_2026-10-26.md.

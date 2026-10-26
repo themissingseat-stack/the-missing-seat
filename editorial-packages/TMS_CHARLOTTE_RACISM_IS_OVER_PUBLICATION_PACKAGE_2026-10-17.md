@@ -43,7 +43,7 @@ The problem is also an imbalance of information. Residents seldom have access to
 
 ## Canada shows why private police culture matters
 
-This is not only an American concern. In British Columbia, Canada's Office of the Police Complaint Commissioner ordered a public hearing in June 2025 over allegations involving racist, sexist, and discriminatory messages in a Nelson Police Department WhatsApp group involving three serving and three former officers. In September 2026 an adjudicator was appointed. Those proceedings concern their own alleged misconduct; they are not evidence of a Charlotte-style contest or that specific Canadians were subjected to unlawful stops.
+This is not only an American concern. British Columbia's Police Complaint Commissioner arranged a public hearing concerning six current and former Nelson Police Department officers and alleged discriminatory WhatsApp content. A September 17, 2026 notice identified adjudicator Brent Hoy and scheduled hearing dates. Its October 8 update addressed a procedural adjournment; the notice said the hearings would examine investigative conduct and authority to obtain and rely on the messages. The current hearing index lists PH25-01 under current proceedings. That is not a final misconduct finding, evidence of a Charlotte-style contest or proof that a particular Canadian suffered an unlawful stop.
 
 The parallel is more fundamental. What people in authority say when they believe the public cannot hear them can matter to how their institutions function. A workplace that tolerates degrading talk about the people it serves has to investigate whether those attitudes influenced conduct, supervision, decisions, or the treatment of complaints.
 
@@ -96,7 +96,7 @@ The other half is the one we keep asking: **Why can't you just leave us the hell
 4. British Columbia Police Complaint Commissioner, official releases: https://opcc.bc.ca/news/news-releases/
 5. OPCC June 26, 2025 release: https://opcc.bc.ca/wp-content/uploads/2025/06/20959-2025-06-26-News-Release-PH-25-01-1.pdf
 
-**Publication gate:** Recheck current factual status, traffic-stop percentages against underlying CMPD data, current disciplinary chronology and Canada comparator, title/slug uniqueness and daily release limit before rendering and deploying HTML. The supplied website copy expressly distinguishes proven communications, journalistic allegations and potential civil rights violations.
+**Publication gate:** Recheck current factual status, traffic-stop percentages against underlying CMPD data, current disciplinary chronology and final full-package review, title/slug uniqueness and daily release limit before rendering and deploying HTML. The supplied website copy expressly distinguishes proven communications, journalistic allegations and potential civil rights violations.
 
 ## Receipts & Recipes
 **Known action:** Three resigned; three subject to recommended termination. Department review and federal referral. DA case examination reported.
@@ -146,3 +146,14 @@ Ally = Action. 🪑
 October25 additions checked for attribution, dated statements, proceedings versus relief and natural prose. Standalone Facebook/Instagram supplied; Instagram 650 characters. No unverified 56%/83% percentages or current personnel total added to socials. Direct DA citation and standalone-social absence are resolved as document-completeness issues. These are additions to an already approved priority draft, not a new completed editorial or automatic release clearance.
 
 Still required: reproduce the January–May CMPD56%/83% calculation from underlying data; reconcile final per-person disciplinary timeline/separate SBI scope; refresh the Canadian OPCC comparator and full-package factual/legal/prose checks. Actual DA review counts/results are not verified. Do not release this alongside the October25 housing story; today's one-publication slot is used.
+
+
+## October 26 Canadian comparator verification
+
+Replaced the unverified September-appointment wording with the actual dated official notice and October8 procedural update. Read current hearing index and both updated linked documents, distinguishing September17 original notice, October5 stream update and later October8 release. The later release provides the October9 scheduling direction; no claim is made that a scheduled hearing necessarily occurred or that liability/individual injury was determined. The index still lists PH25-01 as current, which establishes published status on that index, not an exhaustive assurance that no other ruling exists.
+
+Official current index: https://opcc.bc.ca/adjudications/public-hearings/
+Official September17 notice with October8 update: https://opcc.bc.ca/wp-content/uploads/2023/04/20959-2026-09-17-News-Release-PH-Nelson-start_UPDATE.pdf
+Official stream notice with October5 update: https://opcc.bc.ca/wp-content/uploads/2023/04/2026.09.18-Nelson-Public-Hearing-Live-Audio-Stream-1_UPDATE.pdf
+
+The comparator factual-refresh blocker is cleared for this narrowed paragraph. Primary CMPD statistical reproduction and final per-person disciplinary chronology/separate SBI scope remain, as does the final full-package check. Existing approval and priority preserved; this is not a new finished package or a second October26 publication.

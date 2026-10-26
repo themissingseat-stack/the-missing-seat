@@ -4,11 +4,11 @@ A school place and a working day do not automatically fit together. A parent can
 
 Germany has taken an important step toward changing that arrangement. The new school-age care entitlement starts with children entering first grade in the 2026/2027 school year. That deserves recognition. It also deserves a question more useful than whether the government made a good announcement: can a family actually organize its day around the provision it receives?
 
-Under the current wording of section 24 of the Social Code’s child and youth welfare book, the covered cohort has a care entitlement from school entry until the start of fifth grade. It covers eight hours on weekdays. Lessons and all-day school activities count toward those hours. It is not eight additional hours after school.
+Under the current wording of section 24 of the Social Code’s child and youth welfare book, the covered cohort has a care entitlement from school entry until the start of fifth grade. It covers eight hours from Monday to Friday, excluding public holidays. Lessons and all-day school activities count toward those hours. It is not eight additional hours after school.
 
 The holiday rules matter too. Qualifying public or recognized youth-work provision can fulfill the holiday entitlement, and state law can permit up to four weeks of closure during school holidays. Families need the actual calendar, not an assumption that the school gate will stay open whenever a parent has to work.
 
-That is the legal starting point, verified against the current statute on October 13. It is not a finding that every municipality has delivered every place, nor evidence that every family has been refused. The distinction matters because a right and its delivery are two separate things we should be able to examine without dismissing either.
+The same provision also calls for needs-based provision beyond those eight hours. That is a further planning responsibility to ask about, not a promise that every requested shift or preferred provider is guaranteed. That is the legal starting point, refreshed against the current statute on October 26. It is not a finding that every municipality has delivered every place, nor evidence that every family has been refused. The distinction matters because a right and its delivery are two separate things we should be able to examine without dismissing either.
 
 ## Who is missing?
 
@@ -68,7 +68,7 @@ Ally = Action. 🪑
 Ask the school and local Jugendamt for a written timetable and holiday plan, costs, deadlines, accessibility arrangements and the office responsible for unresolved gaps. For an individual refusal or mismatch, request the applicable decision/review procedure and independent advice. Councils should publish aggregate delivery measures and invite family and staff input. These reporting measures are TMS recommendations, not newly asserted legal duties.
 
 ## Verification notice
-Verified October 13, 2026. This is a legal-entitlement and implementation-accountability editorial, not a national outcome audit. No unmet-demand total, staffing shortage count, discrimination finding, litigation outcome or universal delivery failure is asserted. The family example is hypothetical. Expected benefits and unequal coping capacity are reasoned analysis, not measured effects of the 2026 reform. The right is not described as universal for all current primary pupils, as eight extra hours after lessons, as necessarily free, or as a guarantee of a preferred provider. State and local rules, fees and individual review routes require a local check.
+Refreshed October 26, 2026. This is a legal-entitlement and implementation-accountability editorial, not a national outcome audit. No unmet-demand total, staffing shortage count, discrimination finding, litigation outcome or universal delivery failure is asserted. The family example is hypothetical. Expected benefits and unequal coping capacity are reasoned analysis, not measured effects of the 2026 reform. The right is not described as universal for all current primary pupils, as eight extra hours after lessons, as necessarily free, or as a guarantee of a preferred provider. State and local rules, fees and individual review routes require a local check.
 
 ## Duplication review
 Current main queue, staged finished/retired ledger, repository archive, actual served archive and repository searches for Ganztag/childcare checked October 13. No full package or live article with this controlling thesis found. The two reserved priority titles are already published.
@@ -109,3 +109,41 @@ Ally = Action. 🪑
 
 ## Short social copy
 Germany's new school-age care right covers eight weekday hours for the entering cohort, including lessons. Families need the timetable, holiday plan and responsible contact in writing. A promise becomes useful when the day actually connects. Ally = Action. 🪑
+
+
+## October 26 release refresh
+
+Current §24SGBVIII directly read, including paragraphs4–6 and needs-based provision beyond eight hours. Ministry's April7,2026 enacted holiday-law explanation corroborates Monday–Friday scope and youth-work holiday options. Original scope and privacy limits retained. General ministry links redirect; the release receipts use the current ministry and statute URLs below.
+
+Current release receipts:
+1. https://www.gesetze-im-internet.de/sgb_8/__24.html
+2. https://www.bmbfsfj.bund.de/bmbfsfj/ministerium/gesetze/gesetz-zur-staerkung-der-angebote-der-jugendarbeit-im-ganztag-waehrend-der-schulferien--270748
+3. https://www.km.bayern.de/gestalten/ganztagsschule/grundlagen
+
+Refreshed Review1: cohort, Monday–Friday/public holiday scope, school hours counted, holiday provision/closure limit, further needs-based provision and advice duty checked. No quantified implementation shortfall or new reported family case added. Refreshed Review2: developed prose, counterargument, everyday relevance, power/burden/benefit, specific action, current live distinctness, metadata and social sizes checked. Passed. This is release of the October13 package, not new production for the week beginning October26.
+
+## German Facebook version
+
+Seit dem Schuljahr 2026/27 beginnt der neue Ganztagsanspruch mit der ersten Klasse. Er umfasst montags bis freitags acht Stunden, gesetzliche Feiertage ausgenommen. Unterricht und Ganztagsangebote zählen mit. Es sind keine acht zusätzlichen Stunden nach Schulschluss.
+
+Ferienangebote und mögliche Schließzeiten müssen Familien vor Ort klären. Das Gesetz verlangt außerdem ein bedarfsgerechtes Angebot über die acht Stunden hinaus. Daraus folgt keine freie Wahl beliebiger Zeiten oder Anbieter.
+
+Fragt Schule und Jugendamt schriftlich nach Beginn und Ende, Ferienplan, Schließtagen, Kosten, Anmeldung, Unterstützung und der zuständigen Kontaktperson.
+
+Ein Rechtsanspruch ist ein Fortschritt. Ob er den Alltag trägt, zeigt sich am konkreten Angebot. Dieser Beitrag behauptet weder ein bundesweites Scheitern noch eine bereits vollständige Umsetzung.
+
+Ally = Action. 🪑
+
+## German Instagram version
+
+Seit dem Schuljahr 2026/27 beginnt der neue Ganztagsanspruch mit der ersten Klasse. Er umfasst montags bis freitags acht Stunden, gesetzliche Feiertage ausgenommen. Unterricht und Ganztagsangebote zählen mit. Es sind keine acht zusätzlichen Stunden nach Schulschluss.
+
+Ferienangebote und mögliche Schließzeiten müssen Familien vor Ort klären. Das Gesetz verlangt außerdem ein bedarfsgerechtes Angebot über die acht Stunden hinaus. Daraus folgt keine freie Wahl beliebiger Zeiten oder Anbieter.
+
+Fragt Schule und Jugendamt schriftlich nach Beginn und Ende, Ferienplan, Schließtagen, Kosten, Anmeldung, Unterstützung und der zuständigen Kontaktperson.
+
+Ein Rechtsanspruch ist ein Fortschritt. Ob er den Alltag trägt, zeigt sich am konkreten Angebot. Dieser Beitrag behauptet weder ein bundesweites Scheitern noch eine bereits vollständige Umsetzung.
+
+Ally = Action. 🪑
+
+German Instagram characters including required closing: 866. English Instagram remains below2,200. Image remains a labeled illustration concept; no fabricated documentary image deployed. Final public verification recorded after release.

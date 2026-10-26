@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-10-25",
+  "last_reconciled": "2026-10-26",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -23,9 +23,18 @@
   },
   "deployment": {
     "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "2026-10-25 exact live homepage/archive/RSS blobs matched main before release. After release article and four linked surfaces all HTTP200; shell hashes matched committed main. Pages workflow succeeded."
+    "status": "2026-10-26 preflight homepage/archive/RSS exact blobs matched main; after propagation article and all four linked surfaces HTTP200, shell hashes matched new main and article content matched repository blob4f16b3c4100222b0d67591b0e0dfda31651810a6."
   },
   "published_record": [
+    {
+      "title": "Germany Promised a Full School Day. Families Need the Hours to Match.",
+      "slug": "germany-promised-a-full-school-day-families-need-the-hours-to-match.html",
+      "published_verified": "2026-10-26",
+      "publication_status": "published_live_verified",
+      "source": "editorial-packages/TMS_GERMANY_FULL_SCHOOL_DAY_PUBLICATION_PACKAGE_2026-10-13.md",
+      "article_commit": "978e21e677c4a2d9ebd37fbef24cd6c53c57d776",
+      "notes": "Direct article/home/archive/Children & Families topic/RSS all HTTP200 with correct link; shell hashes matched new main. Added beyond-eight-hour planning clarification and German socials; not new weekly production."
+    },
     {
       "title": "The Complaint Had a 100-Day Clock. The Housing Problem Did Not Wait.",
       "slug": "the-complaint-had-a-100-day-clock-the-housing-problem-did-not-wait.html",
@@ -252,27 +261,6 @@
   "queue": [
     {
       "position": 1,
-      "title": "Germany Promised a Full School Day. Families Need the Hours to Match.",
-      "slug": "germany-promised-a-full-school-day-families-need-the-hours-to-match",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "approval": "Jansen standing two-review instruction",
-      "scheduled_date": null,
-      "source": "editorial-packages/TMS_GERMANY_FULL_SCHOOL_DAY_PUBLICATION_PACKAGE_2026-10-13.md",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "It Takes a Village. Where Did It Go?",
-          "distinction": "Defined German statutory cohort, hours and holiday limits with a local accountability route, rather than general community support."
-        }
-      ],
-      "review_1": "2026-10-13 current statute and scope audit",
-      "review_2": "2026-10-13 copy, fairness, action, metadata and socials",
-      "notes": "Current §24 directly verified. No national implementation outcome claimed. Final law/live uniqueness, HTML/image/navigation/deployment remain."
-    },
-    {
-      "position": 2,
       "title": "The Workers Were Teenagers. The Complaint System Was Built for Adults.",
       "slug": "the-workers-were-teenagers-the-complaint-system-was-built-for-adults",
       "completion_status": "full_finished",
@@ -297,7 +285,7 @@
       "notes": "Settlement is not a court judgment or admission. The EEOC's at-least-100 statement is attributed to the agency. Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 3,
+      "position": 2,
       "canonical_title": "The Military Wants AI Faster. Who Owns the Safety Check?",
       "slug": "the-military-wants-ai-faster-who-owns-the-safety-check",
       "status": "approved_queued_full_finished",
@@ -316,6 +304,33 @@
         "HTML/image and navigation integration"
       ],
       "title": "The Military Wants AI Faster. Who Owns the Safety Check?"
+    },
+    {
+      "title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.",
+      "slug": "raye-montague-helped-change-ship-design-teach-the-work",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "scheduled_date": null,
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_RAYE_MONTAGUE_TEACH_THE_WORK_PUBLICATION_PACKAGE_2026-10-23.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "They Trusted Black Women With Their Babies. Just Not With Power.",
+          "distinction": "Black midwives and health authority versus named engineer's technical work, accurate recognition and practical skill/teaching access."
+        }
+      ],
+      "related_unpublished_comparators": [
+        {
+          "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
+          "distinction": "Public-health elimination outcomes versus technical history and accurate credit."
+        }
+      ],
+      "review_1": "2026-10-23 Navy/DVIDS, university and Mint factual check; draft versus completed ship, chronology, qualifications and source limits checked.",
+      "review_2": "2026-10-23 complete TMS package, voice, fairness, prior-work credit, action and 912-character Instagram check.",
+      "notes": "Historical explanatory piece; 2024 dedication/2025 coin not breaking news. No claim of sole finished-ship authorship, never-recognized history or calculated loss/savings. At release refresh source links, uniqueness and image credit/reuse; render and verify article/navigation.",
+      "position": 3
     },
     {
       "position": 4,
@@ -509,34 +524,7 @@
       "notes": "No implemented compliance or claimant payment claimed. Refresh interim claims address, fund status and company/legal developments at release; render HTML and verify public links."
     },
     {
-      "title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.",
-      "slug": "raye-montague-helped-change-ship-design-teach-the-work",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "approval": "Jansen standing two-review instruction",
-      "scheduled_date": null,
-      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_RAYE_MONTAGUE_TEACH_THE_WORK_PUBLICATION_PACKAGE_2026-10-23.md",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "They Trusted Black Women With Their Babies. Just Not With Power.",
-          "distinction": "Black midwives and health authority versus named engineer's technical work, accurate recognition and practical skill/teaching access."
-        }
-      ],
-      "related_unpublished_comparators": [
-        {
-          "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
-          "distinction": "Public-health elimination outcomes versus technical history and accurate credit."
-        }
-      ],
-      "review_1": "2026-10-23 Navy/DVIDS, university and Mint factual check; draft versus completed ship, chronology, qualifications and source limits checked.",
-      "review_2": "2026-10-23 complete TMS package, voice, fairness, prior-work credit, action and 912-character Instagram check.",
-      "notes": "Historical explanatory piece; 2024 dedication/2025 coin not breaking news. No claim of sole finished-ship authorship, never-recognized history or calculated loss/savings. At release refresh source links, uniqueness and image credit/reuse; render and verify article/navigation.",
-      "position": 12
-    },
-    {
-      "position": 13,
+      "position": 12,
       "title": "A Child Can Have a Credit File Before They Have a Job.",
       "canonical_title": "A Child Can Have a Credit File Before They Have a Job.",
       "slug": "a-child-can-have-a-credit-file-before-they-have-a-job",
@@ -558,7 +546,7 @@
       "notes": "Evergreen service/accountability piece, not new law. Refresh official procedures/links and uniqueness, render and verify public links at release."
     },
     {
-      "position": 14,
+      "position": 13,
       "title": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
       "canonical_title": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
       "slug": "before-you-agree-to-a-hospital-payment-plan-ask-about-financial-assistance",
@@ -578,6 +566,34 @@
       "review_1": "2026-10-25 current IRS/eCFR rules and Stanford public page plus policy cross-check; scope, insured example, provider coverage and collection limits.",
       "review_2": "2026-10-25 complete package, 1148-word natural-prose body, fairness, action, distinctness and 901-character Instagram check.",
       "notes": "Evergreen service/accountability, not a new law or reported patient investigation. Refresh source/current example and live distinctness; render HTML and verify navigation at release."
+    },
+    {
+      "title": "Wheelmap Helps People Plan. Now Track Which Barriers Come Down.",
+      "canonical_title": "Wheelmap Helps People Plan. Now Track Which Barriers Come Down.",
+      "slug": "wheelmap-helps-people-plan-now-track-which-barriers-come-down",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "source": "editorial-packages/TMS_GERMANY_WHEELMAP_INFORMATION_TO_REPAIR_PUBLICATION_PACKAGE_2026-10-26.md",
+      "approval": "Jansen standing two-review instruction",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Apartment Was Available. Access Still Wasn't.",
+          "distinction": "Specific housing accommodation dispute versus named German civic information initiative, local implementation and tracing physical repairs."
+        }
+      ],
+      "related_unpublished_comparators": [
+        {
+          "title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
+          "distinction": "Workforce-service access versus shared geographic access information and responsibility for building changes."
+        }
+      ],
+      "review_1": "2026-10-26 operator FAQ/overview, founder profile, Olpe primary implementation and German tourism cross-check; output/impact distinction.",
+      "review_2": "2026-10-26 natural prose, human contribution, full TMS package, fairness, action, distinctness and English/German social length.",
+      "notes": "Evergreen positive/civic initiative, not October launch. Operator coverage not audited access outcome. Refresh roles/data wording, source links, distinctness and image reuse before HTML/public deployment.",
+      "position": 14
     }
   ],
   "counts": {
@@ -762,27 +778,6 @@
   "unpublished_ledger": [
     {
       "position": 1,
-      "title": "Germany Promised a Full School Day. Families Need the Hours to Match.",
-      "slug": "germany-promised-a-full-school-day-families-need-the-hours-to-match",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "approval": "Jansen standing two-review instruction",
-      "scheduled_date": null,
-      "source": "editorial-packages/TMS_GERMANY_FULL_SCHOOL_DAY_PUBLICATION_PACKAGE_2026-10-13.md",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "It Takes a Village. Where Did It Go?",
-          "distinction": "Defined German statutory cohort, hours and holiday limits with a local accountability route, rather than general community support."
-        }
-      ],
-      "review_1": "2026-10-13 current statute and scope audit",
-      "review_2": "2026-10-13 copy, fairness, action, metadata and socials",
-      "notes": "Current §24 directly verified. No national implementation outcome claimed. Final law/live uniqueness, HTML/image/navigation/deployment remain."
-    },
-    {
-      "position": 2,
       "title": "The Workers Were Teenagers. The Complaint System Was Built for Adults.",
       "slug": "the-workers-were-teenagers-the-complaint-system-was-built-for-adults",
       "completion_status": "full_finished",
@@ -807,7 +802,7 @@
       "notes": "Settlement is not a court judgment or admission. The EEOC's at-least-100 statement is attributed to the agency. Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 3,
+      "position": 2,
       "canonical_title": "The Military Wants AI Faster. Who Owns the Safety Check?",
       "slug": "the-military-wants-ai-faster-who-owns-the-safety-check",
       "status": "approved_queued_full_finished",
@@ -826,6 +821,33 @@
         "HTML/image and navigation integration"
       ],
       "title": "The Military Wants AI Faster. Who Owns the Safety Check?"
+    },
+    {
+      "title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.",
+      "slug": "raye-montague-helped-change-ship-design-teach-the-work",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "approval": "Jansen standing two-review instruction",
+      "scheduled_date": null,
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_RAYE_MONTAGUE_TEACH_THE_WORK_PUBLICATION_PACKAGE_2026-10-23.md",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "They Trusted Black Women With Their Babies. Just Not With Power.",
+          "distinction": "Black midwives and health authority versus named engineer's technical work, accurate recognition and practical skill/teaching access."
+        }
+      ],
+      "related_unpublished_comparators": [
+        {
+          "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
+          "distinction": "Public-health elimination outcomes versus technical history and accurate credit."
+        }
+      ],
+      "review_1": "2026-10-23 Navy/DVIDS, university and Mint factual check; draft versus completed ship, chronology, qualifications and source limits checked.",
+      "review_2": "2026-10-23 complete TMS package, voice, fairness, prior-work credit, action and 912-character Instagram check.",
+      "notes": "Historical explanatory piece; 2024 dedication/2025 coin not breaking news. No claim of sole finished-ship authorship, never-recognized history or calculated loss/savings. At release refresh source links, uniqueness and image credit/reuse; render and verify article/navigation.",
+      "position": 3
     },
     {
       "position": 4,
@@ -1019,34 +1041,7 @@
       "notes": "No implemented compliance or claimant payment claimed. Refresh interim claims address, fund status and company/legal developments at release; render HTML and verify public links."
     },
     {
-      "title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.",
-      "slug": "raye-montague-helped-change-ship-design-teach-the-work",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "approval": "Jansen standing two-review instruction",
-      "scheduled_date": null,
-      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_RAYE_MONTAGUE_TEACH_THE_WORK_PUBLICATION_PACKAGE_2026-10-23.md",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "They Trusted Black Women With Their Babies. Just Not With Power.",
-          "distinction": "Black midwives and health authority versus named engineer's technical work, accurate recognition and practical skill/teaching access."
-        }
-      ],
-      "related_unpublished_comparators": [
-        {
-          "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
-          "distinction": "Public-health elimination outcomes versus technical history and accurate credit."
-        }
-      ],
-      "review_1": "2026-10-23 Navy/DVIDS, university and Mint factual check; draft versus completed ship, chronology, qualifications and source limits checked.",
-      "review_2": "2026-10-23 complete TMS package, voice, fairness, prior-work credit, action and 912-character Instagram check.",
-      "notes": "Historical explanatory piece; 2024 dedication/2025 coin not breaking news. No claim of sole finished-ship authorship, never-recognized history or calculated loss/savings. At release refresh source links, uniqueness and image credit/reuse; render and verify article/navigation.",
-      "position": 12
-    },
-    {
-      "position": 13,
+      "position": 12,
       "title": "A Child Can Have a Credit File Before They Have a Job.",
       "canonical_title": "A Child Can Have a Credit File Before They Have a Job.",
       "slug": "a-child-can-have-a-credit-file-before-they-have-a-job",
@@ -1068,7 +1063,7 @@
       "notes": "Evergreen service/accountability piece, not new law. Refresh official procedures/links and uniqueness, render and verify public links at release."
     },
     {
-      "position": 14,
+      "position": 13,
       "title": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
       "canonical_title": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
       "slug": "before-you-agree-to-a-hospital-payment-plan-ask-about-financial-assistance",
@@ -1088,6 +1083,34 @@
       "review_1": "2026-10-25 current IRS/eCFR rules and Stanford public page plus policy cross-check; scope, insured example, provider coverage and collection limits.",
       "review_2": "2026-10-25 complete package, 1148-word natural-prose body, fairness, action, distinctness and 901-character Instagram check.",
       "notes": "Evergreen service/accountability, not a new law or reported patient investigation. Refresh source/current example and live distinctness; render HTML and verify navigation at release."
+    },
+    {
+      "title": "Wheelmap Helps People Plan. Now Track Which Barriers Come Down.",
+      "canonical_title": "Wheelmap Helps People Plan. Now Track Which Barriers Come Down.",
+      "slug": "wheelmap-helps-people-plan-now-track-which-barriers-come-down",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "source": "editorial-packages/TMS_GERMANY_WHEELMAP_INFORMATION_TO_REPAIR_PUBLICATION_PACKAGE_2026-10-26.md",
+      "approval": "Jansen standing two-review instruction",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Apartment Was Available. Access Still Wasn't.",
+          "distinction": "Specific housing accommodation dispute versus named German civic information initiative, local implementation and tracing physical repairs."
+        }
+      ],
+      "related_unpublished_comparators": [
+        {
+          "title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
+          "distinction": "Workforce-service access versus shared geographic access information and responsibility for building changes."
+        }
+      ],
+      "review_1": "2026-10-26 operator FAQ/overview, founder profile, Olpe primary implementation and German tourism cross-check; output/impact distinction.",
+      "review_2": "2026-10-26 natural prose, human contribution, full TMS package, fairness, action, distinctness and English/German social length.",
+      "notes": "Evergreen positive/civic initiative, not October launch. Operator coverage not audited access outcome. Refresh roles/data wording, source links, distinctness and image reuse before HTML/public deployment.",
+      "position": 14
     }
   ],
   "status_verification_ledger": [],
@@ -1112,29 +1135,23 @@
     }
   ],
   "germany_weekly_delivery": {
-    "week": "2026-10-19/2026-10-25",
+    "week": "2026-10-26/2026-11-01",
     "target_packages": 2,
-    "completed_packages": 2,
-    "remaining_packages": 0,
+    "completed_packages": 1,
+    "remaining_packages": 1,
     "target_days": [
-      "2026-10-20",
-      "2026-10-23"
+      "2026-10-27",
+      "2026-10-30"
     ],
     "delivered": [
       {
-        "date": "2026-10-20",
-        "title": "Germany Gives Workers a Complaint Route. The Compensation Clock Still Runs.",
-        "source": "editorial-packages/TMS_GERMANY_DISCRIMINATION_COMPLAINT_CLAIM_CLOCK_PUBLICATION_PACKAGE_2026-10-20.md",
-        "status": "approved_queued_full_finished"
-      },
-      {
-        "date": "2026-10-21",
-        "title": "Germany Raised the Volunteer Allowance. Now Show Who Can Actually Use It.",
-        "source": "editorial-packages/TMS_GERMANY_VOLUNTEER_ALLOWANCE_USE_PUBLICATION_PACKAGE_2026-10-21.md",
+        "date": "2026-10-26",
+        "title": "Wheelmap Helps People Plan. Now Track Which Barriers Come Down.",
+        "source": "editorial-packages/TMS_GERMANY_WHEELMAP_INFORMATION_TO_REPAIR_PUBLICATION_PACKAGE_2026-10-26.md",
         "status": "approved_queued_full_finished"
       }
     ],
-    "notes": "Weekly target completed with distinct employment-discrimination deadline and civic-participation tax-relief packages."
+    "notes": "First distinct package completed early on Monday. School-day release was produced October13 and is excluded from new weekly production. One further package due this week."
   },
   "story_briefs_2026_10_06": [
     {
@@ -1740,12 +1757,13 @@
     "status": "approved_priority_pending_release_and_standalone_completeness_checks",
     "source": "editorial-packages/TMS_CHARLOTTE_RACISM_IS_OVER_PUBLICATION_PACKAGE_2026-10-17.md",
     "blockers": [
-      "Reproduce January–May2026 CMPD56%/83% stop/search calculation from underlying data.",
-      "Reconcile final per-person disciplinary chronology and separate SBI/Flock scope from dated personnel records.",
-      "Refresh Canadian OPCC comparator and final full-package factual/legal/prose checks. Actual DA review counts/results remain unverified."
+      "Reconcile current primary CMPD GIS aggregates with original56%/83% reported pair, including state/city dataset, snapshot and race/ethnicity definitions; or adopt a fully reviewed, clearly defined current analysis.",
+      "Finalize per-person disciplinary chronology and separate SBI/Flock scope from dated personnel sources.",
+      "Final complete factual/legal/prose review after remaining evidence work. Canada comparator refreshed October26; DA citation/socials integrated October25."
     ],
     "research_update_2026_10_23": "Named DA report located; state reporting mandate repeal verified from legislature/SBI. See TMS_REPORTING_UPDATE_2026-10-23.md. Priority retained; not released.",
-    "research_update_2026_10_25": "Direct named DA attribution integrated in article; standalone FB/IG present. Remains priority-approved but not release-cleared; no new finished count."
+    "research_update_2026_10_25": "Direct named DA attribution integrated in article; standalone FB/IG present. Remains priority-approved but not release-cleared; no new finished count.",
+    "research_update_2026_10_26": "Primary aggregate query responses saved in research/; current race-field shares56.9%/84.2%, non-Hispanic alternative56.5%/84.0% do not reproduce original pair. Canada comparator updated from official current index and October8 notice. Not release-cleared."
   },
   "daily_editorial_completion_2026_10_18": {
     "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
@@ -1801,6 +1819,31 @@
         }
       ],
       "notes": "Weekly target completed: two distinct Germany packages delivered October 13 and October 16."
+    },
+    {
+      "week": "2026-10-19/2026-10-25",
+      "target_packages": 2,
+      "completed_packages": 2,
+      "remaining_packages": 0,
+      "target_days": [
+        "2026-10-20",
+        "2026-10-23"
+      ],
+      "delivered": [
+        {
+          "date": "2026-10-20",
+          "title": "Germany Gives Workers a Complaint Route. The Compensation Clock Still Runs.",
+          "source": "editorial-packages/TMS_GERMANY_DISCRIMINATION_COMPLAINT_CLAIM_CLOCK_PUBLICATION_PACKAGE_2026-10-20.md",
+          "status": "approved_queued_full_finished"
+        },
+        {
+          "date": "2026-10-21",
+          "title": "Germany Raised the Volunteer Allowance. Now Show Who Can Actually Use It.",
+          "source": "editorial-packages/TMS_GERMANY_VOLUNTEER_ALLOWANCE_USE_PUBLICATION_PACKAGE_2026-10-21.md",
+          "status": "approved_queued_full_finished"
+        }
+      ],
+      "notes": "Weekly target completed with distinct employment-discrimination deadline and civic-participation tax-relief packages."
     }
   ],
   "daily_editorial_completion_2026_10_20": {
@@ -2074,5 +2117,40 @@
     "full_completed": 1,
     "existing_priority_advanced": 1,
     "positive_research_added": 1
+  },
+  "daily_editorial_completion_2026_10_26": {
+    "title": "Wheelmap Helps People Plan. Now Track Which Barriers Come Down.",
+    "source": "editorial-packages/TMS_GERMANY_WHEELMAP_INFORMATION_TO_REPAIR_PUBLICATION_PACKAGE_2026-10-26.md",
+    "reviews_completed": 2,
+    "status": "approved_queued_full_finished",
+    "position": 14
+  },
+  "reconciliation_notes_2026_10_26": {
+    "publication": "Germany Promised a Full School Day. Families Need the Hours to Match.",
+    "release_count": 1,
+    "new_full_editorial": "Wheelmap Helps People Plan. Now Track Which Barriers Come Down.",
+    "counts": {
+      "full_finished_unpublished_eligible": 14,
+      "full_finished_currently_queued": 14,
+      "full_finished_retired_or_replaced": 4,
+      "status_verification_required": 0,
+      "historical_replacement_versions": 16,
+      "replacements_still_pending_installation": null,
+      "unfinished_or_blocked": 5,
+      "follow_up_candidates": 3,
+      "positive_solution_candidates": 4
+    },
+    "next_numbered_story": "The Workers Were Teenagers. The Complaint System Was Built for Adults.",
+    "germany_new_week": "1/2; prior week2/2 archived",
+    "positive_rotation": "Raye Montague moved to position3 between unrelated topics; new Wheelmap appended14.",
+    "revisions": "None installed; remaining installation count unknown.",
+    "research_source": "TMS_REPORTING_UPDATE_2026-10-26.md"
+  },
+  "discovery_2026_10_26": {
+    "source": "TMS_REPORTING_UPDATE_2026-10-26.md",
+    "records": 3,
+    "full_completed": 1,
+    "existing_priority_advanced": 1,
+    "research_prompt": 1
   }
 }

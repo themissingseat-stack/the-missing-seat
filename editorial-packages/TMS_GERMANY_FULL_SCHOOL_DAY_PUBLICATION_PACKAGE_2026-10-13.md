@@ -47,7 +47,7 @@ Ally = Action. 🪑
 ## Publication metadata
 - Author: Jansen / The Missing Seat
 - Completed and checked: October 13, 2026
-- Status: FULL / FINISHED / TWICE REVIEWED / APPROVED / QUEUED / UNPUBLISHED
+- Status: FULL / FINISHED / TWICE REVIEWED / PUBLISHED / LIVE VERIFIED OCTOBER 26, 2026
 - Slug: germany-promised-a-full-school-day-families-need-the-hours-to-match
 - Topic: Germany • Children & Education • Workers & Economic Fairness • Public Accountability
 - Seat Affected: Primary-school children in the covered cohort, parents and care workers
@@ -147,3 +147,8 @@ Ein Rechtsanspruch ist ein Fortschritt. Ob er den Alltag trägt, zeigt sich am k
 Ally = Action. 🪑
 
 German Instagram characters including required closing: 866. English Instagram remains below2,200. Image remains a labeled illustration concept; no fabricated documentary image deployed. Final public verification recorded after release.
+
+
+## Confirmed public release October 26, 2026
+
+Direct article/homepage/archive/Children & Families topic/RSS all HTTP200 and correct slug. Four shell blobs matched current main after propagation; article exact content matched repository blob4f16b3c4100222b0d67591b0e0dfda31651810a6. Article commit978e21e677c4a2d9ebd37fbef24cd6c53c57d776. One daily release only. Removed from unpublished/queued count. No visual browser QA or fabricated image claimed. New weekly production excludes this older package.

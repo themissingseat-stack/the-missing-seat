@@ -5,7 +5,7 @@
 - **Canonical title:** The Workers Were Teenagers. The Complaint System Was Built for Adults.
 - **Working slug:** `the-workers-were-teenagers-the-complaint-system-was-built-for-adults`
 - **Completion status:** Full and finished
-- **Publication status:** Release-cleared; public verification pending
+- **Publication status:** Published; public article and all four linked surfaces verified October 27, 2026
 - **Topic:** Children & Families; Work & Economic Fairness; Justice & Law
 - **Location:** California and Nevada, United States
 - **Seat affected:** Teenage and young women working in restaurants, especially workers who depend on supervisors for schedules, references and income
@@ -204,3 +204,8 @@ A realistic, respectful restaurant back-of-house scene after closing. In the for
 Review 1 passed after rereading the EEOC settlement release, original filing announcement, youth guidance, charge deadlines and directly attributed company response. Preserved allegation language and separated announcement from delivered relief. No unverified decree terms added.
 
 Review 2 passed after joining isolated paragraphs, dating the location count, clarifying the deadline and incentive language, checking the full package and social length, and confirming title/slug uniqueness against the live archive and repository. No visual browser QA claimed.
+
+
+## Publication verification
+
+Published October27,2026, article commit9abc4ff56116386c67777b9483b2d60a717e1393. Direct article, homepage, archive, Justice & Law topic and RSS all HTTP200; exact public blobs matched committed main. Local structural checks passed; no visual browser QA claimed. Removed from finished-unpublished inventory.

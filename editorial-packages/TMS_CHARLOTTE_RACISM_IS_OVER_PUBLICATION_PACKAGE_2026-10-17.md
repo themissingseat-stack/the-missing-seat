@@ -169,3 +169,18 @@ Preserved responses and exact query parameters/URLs:
 - Source metadata: https://gis.charlottenc.gov/arcgis/rest/services/CMPD/Officer_Traffic_Stop/MapServer/0
 
 This materially advances the statistical work without certifying the old pair. Reconcile dataset/snapshot and category definitions or fully adopt a clearly defined current analysis after final review before release. Disciplinary chronology/separate SBI scope and final package review remain. Canada comparator is separately refreshed. Priority approval retained; no second publication today.
+
+
+
+## October 27 primary personnel chronology
+
+The department's October19 release now provides an officer-specific update that reconciles the resignation snapshots. Its introductory four-resignation sentence is older than the Larsen update on the same page. Dated entries report resignations in lieu of termination for Joseph Kelly (October11), Matthew Osborn (October12), Tredan Maronic (October13), Mateo Juarez (October15) and Alexander Larsen (October19). Jeremiah Todman is listed as suspended without pay pending Civil Service Board review. These are the department's dated disclosures, not a claim that each status is independently final as of October27. All six were cited for termination October9.
+
+Separately, Seth Elliott was arrested by SBI July29 on a computer-access charge connected to alleged Flock misuse and resigned August4. A charge is not a conviction or a charge over racist speech. The same official source connects him to the text-message matter; it does not establish misconduct in a particular resident's stop.
+
+Primary source: https://www.charlottenc.gov/cmpd/News-Information/Newsroom/CMPD-Releases-Personnel-Information-Records-of-Officers-Involved-in-Recent-Misconduct-Allegations
+Larsen PIR: https://www.charlottenc.gov/files/sharedassets/police/v/1/newsroom/alexander-larsen-pir.pdf
+
+The page explicitly warns that Larsen's linked PIR does not yet reflect his October19 resignation; the fetched PDF indeed still records the October9 suspension. Todman's linked PDF returned403 in this check; no PDF content is inferred from that access failure. Use the dated primary webpage and distinguish it from the lagging file. The updated webpage is stronger evidence for the October19 snapshot than old four-resignation summaries. No current final total or completed resident remedy certified.
+
+The source-reconciliation part of the personnel chronology gate is advanced with primary evidence. Integrate the dated sequence and refresh current status at final full-package review; do not publish an unexplained moving total. The statistical definition/snapshot decision and final factual/legal/prose review remain. Existing priority retained. Today's publication slot is already used; this is not a new finished-editorial count.

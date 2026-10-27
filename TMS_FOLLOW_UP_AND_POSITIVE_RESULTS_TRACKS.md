@@ -61,3 +61,11 @@ Charlotte's named DA source is now integrated and standalone Facebook/Instagram 
 Charlotte's underlying city aggregate queries now exist in research/ with full parameters, responses, dates and calculations. Race-field and non-Hispanic alternatives do not reproduce both earlier reported 56%/83%; do not force categories or rounding to fit. Current-city versus prior-state snapshots require reconciliation. Canadian current hearing index and October 8 updated notice verified; narrowed comparator gate cleared. Final per-person chronology and final package review remain.
 
 Care-cooperative reporting prompt: ILO's October 29 agenda includes worker/employer representation and domestic work. Read eventual proceedings and seek pay, protection and actual service outcomes; the agenda itself is not evidence those outcomes occurred. No new permanent candidate added. See TMS_REPORTING_UPDATE_2026-10-26.md.
+
+
+
+## October 27 completion, publication and follow-up work
+
+Theodor Wonja Michael Found a Second Route Into Education. Teach That Part Too. is a completed, double-reviewed positive/history package, automatically approved and queued14. Source: editorial-packages/TMS_THEODOR_WONJA_MICHAEL_SECOND_ROUTE_PUBLICATION_PACKAGE_2026-10-27.md. With Wheelmap, new Germany production this week is2/2. No measured program-wide or public-attitude impact is invented. Completed packages are not added to the four positive research candidates. Raye Montague moves naturally to position2 after today's teenage-worker release, maintaining visible Black achievement coverage.
+
+Standing research counts remain3follow-up/4positive. HRSA's FY26 cohort supplies a new baseline for existing rural-care reporting, not delivered-outcome proof. Charlotte's official October19 officer-specific update clarifies the changing resignation snapshots; statistics and final review remain. No new resident relief or standing follow-up outcome verified today. See TMS_REPORTING_UPDATE_2026-10-27.md.

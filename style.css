@@ -296,3 +296,13 @@
 .hero .button.secondary{color:#fff}
 .button.secondary:focus-visible,.button.secondary:hover{background:#efe3d0}
 .hero .button.secondary:focus-visible,.hero .button.secondary:hover{background:rgba(255,255,255,.12)}
+
+/* Archive search and topic filters */
+.archive-tools{max-width:960px;margin:0 auto 1rem;padding:0 1rem}
+.archive-tools input[type=search]{width:100%;box-sizing:border-box;padding:.8rem 1rem;font:inherit;font-size:1rem;border:1px solid #8a8176;border-radius:8px;background:transparent;color:inherit}
+.archive-chips{display:flex;flex-wrap:wrap;gap:.4rem;margin:.75rem 0 .25rem}
+.archive-chips button{font:inherit;font-size:.875rem;padding:.4rem .8rem;min-height:40px;border:1px solid #8a8176;border-radius:999px;background:transparent;color:inherit;cursor:pointer}
+.archive-chips button[aria-pressed=true]{background:var(--red);border-color:var(--red);color:#fff;font-weight:700}
+.archive-count{font-size:.875rem;opacity:.8;margin:.25rem 0}
+.archive-card[hidden]{display:none}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}

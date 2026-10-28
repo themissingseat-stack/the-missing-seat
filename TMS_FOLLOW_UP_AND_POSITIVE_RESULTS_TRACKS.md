@@ -1,10 +1,12 @@
 # TMS follow-up and positive-results reporting tracks
-Updated October 26, 2026. Candidates are research leads, never finished inventory.
+Updated October 28, 2026. Candidates are research leads, never finished inventory.
 
-## Follow-up candidates: 3
+## Follow-up candidates: 4
 1. Germany police-complaints editorial: obtain subsequent Bundestag/commissioner reporting on complaint disposition, investigations completed, institutional action and individual relief. Baseline live slug: germany-created-a-seat-for-police-complaints-who-can-actually-use-it. Trigger: a verified later outcome, not the existing complaint count. No new outcome asserted.
 2. Tribal water-project maintenance: check whether IHS/federal funding rules and implementation changed after the documented oversight findings. Baseline live slug: the-water-project-was-built-the-missing-money-was-for-keeping-it-alive. Trigger: actual eligibility, operation/maintenance funding or service outcomes. No new remedy asserted.
 3. Religious accommodation at the coffee shop: track implementation of consent-decree policy review and training and any available compliance reports. Baseline slug: he-asked-to-break-his-fast-he-allegedly-lost-his-job. Trigger: a public compliance outcome or material legal development. Settlement itself does not demonstrate every future obligation was met.
+
+4. Charlotte police-text investigation: baseline `racism-is-over-charlotte-police-scandal`, published October28. Track preserved messages/encounters → audit method → cases reviewed → people notified → records/decisions corrected → compensation or other delivered relief. Publication establishes no relief total. A substantive outcome can support a cross-linked follow-up.
 
 For each: maintain finding → responsible authority → action after notice → concrete relief delivered → remaining burden. Do not publish another piece until evidence materially advances the original. Refresh original receipts and cross-link both pages at release.
 
@@ -23,7 +25,7 @@ Source: editorial-packages/TMS_TIMOR_LESTE_A_SEAT_WAS_MADE_PUBLICATION_PACKAGE_2
 Full, finished and twice reviewed; published and publicly verified October24,2026. Excluded from unpublished and research-candidate counts.
 
 ## Priority release control
-Charlotte priority retained ahead of the numbered queue. Direct DA attribution and standalone Facebook/Instagram versions were integrated October 25. Current primary CMPD aggregates are now preserved but do not reproduce the original quoted percentage pair; dataset/snapshot/category reconciliation or a fully reviewed replacement analysis, current per-person disciplinary chronology/separate SBI scope and final package checks remain. The Canada comparator was refreshed and narrowed October 26. Preserve approval; do not erase or retire it. Record as priority-approved pending release checks, outside the fully cleared queue count.
+Charlotte priority fulfilled October28 after both reviews and five-surface public verification. Dated current calculation replaces unreproduced older pair; personnel chronology and Canadian comparator refreshed. Now a follow-up outcome track, not blocked reserve. Resume numbered queue.
 
 ## Existing website replacements
 The historical 16 Regular Joe replacements remain a separate replacement-work record, excluded from new inventory. This run does not certify all 16 still await installation. Reconcile each replacement against current public text before reporting a remaining ready-to-replace total.
@@ -69,3 +71,11 @@ Care-cooperative reporting prompt: ILO's October 29 agenda includes worker/emplo
 Theodor Wonja Michael Found a Second Route Into Education. Teach That Part Too. is a completed, double-reviewed positive/history package, automatically approved and queued14. Source: editorial-packages/TMS_THEODOR_WONJA_MICHAEL_SECOND_ROUTE_PUBLICATION_PACKAGE_2026-10-27.md. With Wheelmap, new Germany production this week is2/2. No measured program-wide or public-attitude impact is invented. Completed packages are not added to the four positive research candidates. Raye Montague moves naturally to position2 after today's teenage-worker release, maintaining visible Black achievement coverage.
 
 Standing research counts remain3follow-up/4positive. HRSA's FY26 cohort supplies a new baseline for existing rural-care reporting, not delivered-outcome proof. Charlotte's official October19 officer-specific update clarifies the changing resignation snapshots; statistics and final review remain. No new resident relief or standing follow-up outcome verified today. See TMS_REPORTING_UPDATE_2026-10-27.md.
+
+
+
+## October 28 research and new completion
+
+Charlotte published and moved from release checks to the fourth follow-up research track. No resident remedy total certified. New Social Security repayment-decision package is complete, twice reviewed and queued15; not an unfinished candidate. Sources: editorial-packages/TMS_SOCIAL_SECURITY_REPAYMENT_CHECK_DECISION_PUBLICATION_PACKAGE_2026-10-28.md and TMS_REPORTING_UPDATE_2026-10-28.md.
+
+River-blindness lead advanced: WHO's October9 Americas report explains the remaining Yanomami cross-border focus, programme barriers and role of Indigenous health agents. A qualitative programme synthesis is not a measured causal evaluation of a new intervention. Seek treatment/surveillance records, sustained funding and an attributable consenting frontline account before full drafting. Existing positive research count remains4. Standing Germany police/Tribal water/coffee-shop follow-up tracks remain3 plus Charlotte; no new outcome for them certified today. Completed positive packages remain separate from research counts; Germany production this week remains2/2.

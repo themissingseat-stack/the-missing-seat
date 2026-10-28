@@ -125,12 +125,13 @@
       "crisis"
     ],
     "actions": [
-      "Get help now",
+      "Call 0800 111 0 111 or 0800 111 0 222",
+      "Around the clock",
       "Volunteer"
     ],
-    "description": "Free, anonymous crisis and emotional support by telephone, chat and email, available day and night.",
+    "description": "Free, anonymous crisis and emotional support by telephone, chat and email, available day and night. Phone numbers confirmed on the federal Familienportal on 28 Oct 2026.",
     "url": "https://www.telefonseelsorge.de/",
-    "verified": "2026-09-02"
+    "verified": "2026-10-28"
   },
   {
     "id": "vz-de",
@@ -693,5 +694,196 @@
     "description": "German law and Federal Employment Agency guidance on timely job-seeker registration, employer information/release responsibilities and avoiding an ALG I gap.",
     "url": "https://www.arbeitsagentur.de/vor-ort/leipzig/presse/2026-26-rechtzeitig-arbeitsuchend-melden-neue-arbeit-finden-bevor-die-alte-endet",
     "verified": "2026-10-26"
+  },
+  {
+    "id": "988-us",
+    "name": "988 Suicide & Crisis Lifeline",
+    "region": "United States",
+    "type": "Get Help",
+    "topics": [
+      "mental-health",
+      "crisis"
+    ],
+    "actions": [
+      "Call or text 988"
+    ],
+    "description": "Free, confidential support if you are in emotional distress or thinking about suicide. Call or text 988, any time. If someone is in immediate danger, call your local emergency number.",
+    "url": "https://988lifeline.org/",
+    "verified": "2026-10-28"
+  },
+  {
+    "id": "samhsa-helpline-us",
+    "name": "SAMHSA National Helpline",
+    "region": "United States",
+    "type": "Get Help",
+    "topics": [
+      "mental-health",
+      "addiction",
+      "drugs"
+    ],
+    "actions": [
+      "Call 1-800-662-HELP (4357)",
+      "Treatment referral"
+    ],
+    "description": "Free, confidential treatment referral and information for mental health and substance use, 24/7, 365 days a year, in English and Spanish. A referral service, not a crisis line.",
+    "url": "https://www.samhsa.gov/find-help/helplines/national-helpline",
+    "verified": "2026-10-28"
+  },
+  {
+    "id": "ncpg-helpline-us",
+    "name": "National Problem Gambling Helpline",
+    "region": "United States",
+    "type": "Get Help",
+    "topics": [
+      "gambling",
+      "addiction"
+    ],
+    "actions": [
+      "Call, text or chat, 24/7"
+    ],
+    "description": "Run by the National Council on Problem Gambling. Offers call, text and chat support around the clock. The current number is on the linked page; check it there before calling.",
+    "url": "https://ncpgambling.org/help-treatment/national-helpline-1-800-522-4700/",
+    "verified": "2026-10-28"
+  },
+  {
+    "id": "cdc-gettested-us",
+    "name": "CDC GetTested",
+    "region": "United States",
+    "type": "Get Help",
+    "topics": [
+      "sexual-health",
+      "hiv",
+      "sti",
+      "testing"
+    ],
+    "actions": [
+      "Find a testing site"
+    ],
+    "description": "CDC service for finding nearby places that offer HIV, STI and viral hepatitis testing, plus HPV and hepatitis vaccines, in the United States and its territories.",
+    "url": "https://gettested.cdc.gov/",
+    "verified": "2026-10-28"
+  },
+  {
+    "id": "211-us",
+    "name": "211 (local help line)",
+    "region": "United States",
+    "type": "Get Help",
+    "topics": [
+      "money",
+      "housing",
+      "food",
+      "utilities"
+    ],
+    "actions": [
+      "Dial 211"
+    ],
+    "description": "Free, confidential referrals to local help with rent or mortgage, utility bills, food, healthcare, childcare and crisis services. The linked page is Central Maryland's service, as an example; dial 211 to reach your local one.",
+    "url": "https://uwcm.org/211",
+    "verified": "2026-10-28"
+  },
+  {
+    "id": "info-depression-de",
+    "name": "Info-Telefon Depression",
+    "region": "Germany",
+    "type": "Get Help",
+    "topics": [
+      "mental-health",
+      "depression"
+    ],
+    "actions": [
+      "Call 0800 33 44 533",
+      "Mon, Tue, Thu 13:00-17:00; Wed, Fri 8:30-12:30"
+    ],
+    "description": "Deutsche Depressionshilfe phone line for people with depression, their relatives and anyone seeking information. Not a 24-hour crisis line.",
+    "url": "https://familienportal.de/familienportal/lebenslagen/krise-und-konflikt/krisetelefone-anlaufstellen",
+    "verified": "2026-10-28"
+  },
+  {
+    "id": "nummer-gegen-kummer-de",
+    "name": "Nummer gegen Kummer",
+    "region": "Germany",
+    "type": "Get Help",
+    "topics": [
+      "mental-health",
+      "children",
+      "families"
+    ],
+    "actions": [
+      "Children and teens: 116 111 (Mon-Sat 14:00-20:00)",
+      "Parents: 0800 111 0 550"
+    ],
+    "description": "Free, anonymous phone counselling for children and young people (116 111) and for parents and other adults worried about a child (0800 111 0 550).",
+    "url": "https://familienportal.de/familienportal/lebenslagen/krise-und-konflikt/krisetelefone-anlaufstellen",
+    "verified": "2026-10-28"
+  },
+  {
+    "id": "hilfetelefon-gewalt-de",
+    "name": "Hilfetelefon Gewalt gegen Frauen",
+    "region": "Germany",
+    "type": "Get Help",
+    "topics": [
+      "violence",
+      "women",
+      "safety"
+    ],
+    "actions": [
+      "Call 08000 116 016",
+      "365 days, around the clock"
+    ],
+    "description": "Free, anonymous support for women who have experienced or are experiencing violence or sexual harassment, and for relatives and professionals.",
+    "url": "https://familienportal.de/familienportal/lebenslagen/krise-und-konflikt/krisetelefone-anlaufstellen",
+    "verified": "2026-10-28"
+  },
+  {
+    "id": "weisser-ring-de",
+    "name": "Opfer-Telefon Weisser Ring",
+    "region": "Germany",
+    "type": "Get Help",
+    "topics": [
+      "crime-victims",
+      "safety"
+    ],
+    "actions": [
+      "Call 116 006",
+      "Daily 7:00-22:00"
+    ],
+    "description": "Free, anonymous phone help for crime victims and their relatives.",
+    "url": "https://familienportal.de/familienportal/lebenslagen/krise-und-konflikt/krisetelefone-anlaufstellen",
+    "verified": "2026-10-28"
+  },
+  {
+    "id": "aidshilfe-telefon-de",
+    "name": "Deutsche Aidshilfe telephone counselling",
+    "region": "Germany",
+    "type": "Get Help",
+    "topics": [
+      "sexual-health",
+      "hiv",
+      "sti",
+      "testing"
+    ],
+    "actions": [
+      "Call 0180 33 19411",
+      "Mon-Fri 9:00-21:00, Sun 12:00-14:00"
+    ],
+    "description": "Anonymous counselling on HIV and other sexually transmitted infections, where to get tested, and PEP. The counselling is free; the call costs 9 cents per minute from German landlines and up to 42 cents from mobiles.",
+    "url": "https://en.aidshilfe.de/node/879",
+    "verified": "2026-10-28"
+  },
+  {
+    "id": "schuldnerberatung-de",
+    "name": "Schuldnerberatung finden (BAG Schuldnerberatung)",
+    "region": "Germany",
+    "type": "Get Help",
+    "topics": [
+      "money",
+      "debt"
+    ],
+    "actions": [
+      "Find a debt counselling centre by state"
+    ],
+    "description": "Directory run by the Bundesarbeitsgemeinschaft Schuldnerberatung to find debt counselling centres in each German state. Check each centre for cost and contact details.",
+    "url": "https://www.meine-schulden.de/en/hilfe-finden/schuldnerberatungsstellen/bundesland",
+    "verified": "2026-10-28"
   }
 ]

@@ -1,889 +1,989 @@
 [
-  {
-    "id": "ads-de",
-    "name": "Antidiskriminierungsstelle des Bundes",
-    "region": "Germany",
-    "type": "Get Help",
-    "topics": [
-      "rights",
-      "racial-justice",
-      "work",
-      "health"
-    ],
-    "actions": [
-      "Know your rights",
-      "Get advice"
-    ],
-    "description": "Federal information and counselling resource for people experiencing discrimination or sexual harassment.",
-    "url": "https://www.antidiskriminierungsstelle.de/DE/startseite/startseite-node.html",
-    "verified": "2026-09-02"
-  },
-  {
-    "id": "lads-berlin-de",
-    "name": "Berlin State Office for Equal Treatment and Against Discrimination (LADS)",
-    "region": "Germany",
-    "type": "Get Help",
-    "topics": [
-      "discrimination",
-      "racial-justice",
-      "equal-treatment",
-      "human-rights",
-      "berlin"
-    ],
-    "actions": [
-      "Know your rights",
-      "Find anti-discrimination information",
-      "Contact the Berlin state office"
-    ],
-    "description": "Berlin's state anti-discrimination office. Provides information on equal-treatment law, discrimination, publications and Berlin's anti-discrimination work, and connects readers to contact and advisory infrastructure.",
-    "url": "https://www.berlin.de/sen/lads/en/",
-    "verified": "2026-10-17"
-  },
-  {
-    "id": "dimr-de",
-    "name": "Deutsches Institut für Menschenrechte",
-    "region": "Germany",
-    "type": "Learn & Research",
-    "topics": [
-      "human-rights",
-      "children-families",
-      "disability",
-      "democracy"
-    ],
-    "actions": [
-      "Research",
-      "Learn"
-    ],
-    "description": "Germany's independent national human rights institution, with research, monitoring, documentation and human-rights education.",
-    "url": "https://www.institut-fuer-menschenrechte.de/",
-    "verified": "2026-09-02"
-  },
-  {
-    "id": "bpb-de",
-    "name": "Bundeszentrale für politische Bildung",
-    "region": "Germany",
-    "type": "Learn & Research",
-    "topics": [
-      "democracy",
-      "human-rights",
-      "history",
-      "education"
-    ],
-    "actions": [
-      "Learn",
-      "Teach"
-    ],
-    "description": "Public political-education resources on democracy, government, fundamental rights, history and current political questions.",
-    "url": "https://www.bpb.de/",
-    "verified": "2026-09-02"
-  },
-  {
-    "id": "aas-de",
-    "name": "Amadeu Antonio Stiftung",
-    "region": "Germany",
-    "type": "Organizations",
-    "topics": [
-      "racial-justice",
-      "democracy",
-      "extremism",
-      "antisemitism"
-    ],
-    "actions": [
-      "Learn",
-      "Get support",
-      "Take action"
-    ],
-    "description": "Supports democratic civil society and people confronting racism, antisemitism and right-wing violence and extremism.",
-    "url": "https://www.amadeu-antonio-stiftung.de/",
-    "verified": "2026-09-02"
-  },
-  {
-    "id": "proasyl-de",
-    "name": "PRO ASYL",
-    "region": "Germany",
-    "type": "Get Help",
-    "topics": [
-      "immigration-asylum",
-      "human-rights"
-    ],
-    "actions": [
-      "Get advice",
-      "Learn",
-      "Take action"
-    ],
-    "description": "Information, advocacy and contact options concerning asylum and refugee rights in Germany and Europe.",
-    "url": "https://www.proasyl.de/",
-    "verified": "2026-09-02"
-  },
-  {
-    "id": "telefonseelsorge-de",
-    "name": "TelefonSeelsorge Deutschland",
-    "region": "Germany",
-    "type": "Get Help",
-    "topics": [
-      "mental-health",
-      "crisis"
-    ],
-    "actions": [
-      "Call 0800 111 0 111 or 0800 111 0 222",
-      "Around the clock",
-      "Volunteer"
-    ],
-    "description": "Free, anonymous crisis and emotional support by telephone, chat and email, available day and night. Phone numbers confirmed on the federal Familienportal on 28 Oct 2026.",
-    "url": "https://www.telefonseelsorge.de/",
-    "verified": "2026-10-28"
-  },
-  {
-    "id": "vz-de",
-    "name": "Verbraucherzentrale",
-    "region": "Germany",
-    "type": "Get Help",
-    "topics": [
-      "consumer-rights",
-      "money",
-      "housing"
-    ],
-    "actions": [
-      "Get advice",
-      "Know your rights"
-    ],
-    "description": "Consumer information and counselling through Germany's state consumer centres.",
-    "url": "https://www.verbraucherzentrale.de/beratung",
-    "verified": "2026-09-02"
-  },
-  {
-    "id": "ldf-us",
-    "name": "Legal Defense Fund",
-    "region": "United States",
-    "type": "Organizations",
-    "topics": [
-      "racial-justice",
-      "voting",
-      "democracy",
-      "education",
-      "criminal-justice"
-    ],
-    "actions": [
-      "Learn",
-      "Volunteer",
-      "Take action"
-    ],
-    "description": "Civil-rights legal organization advancing racial justice, voting rights, education equity, economic justice and criminal-justice reform.",
-    "url": "https://www.naacpldf.org/",
-    "verified": "2026-09-02"
-  },
-  {
-    "id": "aclu-us",
-    "name": "American Civil Liberties Union",
-    "region": "United States",
-    "type": "Know Your Rights",
-    "topics": [
-      "civil-rights",
-      "voting",
-      "racial-justice",
-      "free-speech"
-    ],
-    "actions": [
-      "Know your rights",
-      "Get voting help",
-      "Take action"
-    ],
-    "description": "Civil-liberties organization with practical Know Your Rights material, including voting and discrimination resources.",
-    "url": "https://www.aclu.org/know-your-rights",
-    "verified": "2026-09-02"
-  },
-  {
-    "id": "eji-us",
-    "name": "Equal Justice Initiative",
-    "region": "United States",
-    "type": "Organizations",
-    "topics": [
-      "racial-justice",
-      "criminal-justice",
-      "history",
-      "poverty"
-    ],
-    "actions": [
-      "Learn",
-      "Support",
-      "Take action"
-    ],
-    "description": "Works against racial and economic injustice, excessive punishment and mass incarceration while documenting America's history of racial injustice.",
-    "url": "https://eji.org/",
-    "verified": "2026-09-02"
-  },
-  {
-    "id": "loc-black-history-us",
-    "name": "Library of Congress: African American History Online",
-    "region": "United States",
-    "type": "Primary Sources",
-    "topics": [
-      "black-history",
-      "history",
-      "research"
-    ],
-    "actions": [
-      "Research",
-      "Read primary sources"
-    ],
-    "description": "Research guide connecting readers to digitized primary sources documenting more than 400 years of African American experience.",
-    "url": "https://guides.loc.gov/african-american-history-online",
-    "verified": "2026-09-02"
-  },
-  {
-    "id": "nara-black-history-us",
-    "name": "National Archives: African American Heritage",
-    "region": "United States",
-    "type": "Primary Sources",
-    "topics": [
-      "black-history",
-      "reconstruction",
-      "civil-rights",
-      "voting",
-      "history"
-    ],
-    "actions": [
-      "Research",
-      "Read primary sources"
-    ],
-    "description": "Federal archival records and research guides covering slavery, Reconstruction, civil rights, voting rights and the broader Black experience.",
-    "url": "https://www.archives.gov/research/african-americans",
-    "verified": "2026-09-02"
-  },
-  {
-    "id": "foia-us",
-    "name": "FOIA.gov",
-    "region": "United States",
-    "type": "Know Your Rights",
-    "topics": [
-      "government-accountability",
-      "records",
-      "democracy"
-    ],
-    "actions": [
-      "Request federal records",
-      "Appeal a denial"
-    ],
-    "description": "Official federal guide for requesting records from executive agencies under the Freedom of Information Act.",
-    "url": "https://www.foia.gov/",
-    "verified": "2026-10-16"
-  },
-  {
-    "id": "nlrb-us",
-    "name": "National Labor Relations Board: Employee Rights",
-    "region": "United States",
-    "type": "Know Your Rights",
-    "topics": [
-      "work",
-      "labor-rights",
-      "unions",
-      "wages"
-    ],
-    "actions": [
-      "Learn collective rights",
-      "File or research a labor charge"
-    ],
-    "description": "Official information about protected concerted activity, organizing and federal labor-law rights for covered employees.",
-    "url": "https://www.nlrb.gov/about-nlrb/rights-we-protect/the-law/employees",
-    "verified": "2026-10-16"
-  },
-  {
-    "id": "whd-us",
-    "name": "U.S. Department of Labor: Wage and Hour Division",
-    "region": "United States",
-    "type": "Get Help",
-    "topics": [
-      "work",
-      "wages",
-      "overtime",
-      "retaliation"
-    ],
-    "actions": [
-      "Check wage rights",
-      "Contact Wage and Hour Division"
-    ],
-    "description": "Official federal wage-and-hour enforcement resource, including minimum wage, overtime and retaliation information.",
-    "url": "https://www.dol.gov/agencies/whd",
-    "verified": "2026-10-16"
-  },
-  {
-    "id": "osha-whistle-us",
-    "name": "OSHA Whistleblower Protection Program",
-    "region": "United States",
-    "type": "Know Your Rights",
-    "topics": [
-      "work",
-      "safety",
-      "whistleblower",
-      "retaliation"
-    ],
-    "actions": [
-      "Check protection",
-      "Check filing deadline"
-    ],
-    "description": "Official information about retaliation protections administered by OSHA under multiple federal statutes.",
-    "url": "https://www.whistleblowers.gov/",
-    "verified": "2026-10-16"
-  },
-  {
-    "id": "sgb14-de",
-    "name": "§14 SGB I — Anspruch auf Beratung",
-    "region": "Germany",
-    "type": "Primary Sources",
-    "topics": [
-      "social-rights",
-      "benefits",
-      "government-accountability"
-    ],
-    "actions": [
-      "Ask for advice",
-      "Know your rights"
-    ],
-    "description": "German Social Code provision giving everyone a right to advice about rights and duties under the Social Code.",
-    "url": "https://www.gesetze-im-internet.de/sgb_1/__14.html",
-    "verified": "2026-10-16"
-  },
-  {
-    "id": "sgb25-de",
-    "name": "§25 SGB X — Akteneinsicht",
-    "region": "Germany",
-    "type": "Primary Sources",
-    "topics": [
-      "social-rights",
-      "administration",
-      "records"
-    ],
-    "actions": [
-      "Check file-inspection rights",
-      "Request relevant records"
-    ],
-    "description": "German social-administrative provision governing file inspection by participants in covered proceedings.",
-    "url": "https://www.gesetze-im-internet.de/sgb_10/__25.html",
-    "verified": "2026-10-16"
-  },
-  {
-    "id": "betrvg-de",
-    "name": "Betriebsverfassungsgesetz",
-    "region": "Germany",
-    "type": "Primary Sources",
-    "topics": [
-      "work",
-      "labor-rights",
-      "betriebsrat",
-      "complaints"
-    ],
-    "actions": [
-      "Check works-council rights",
-      "Use workplace complaint rights"
-    ],
-    "description": "Official text of Germany's Works Constitution Act, including works-council eligibility, complaint rights and co-determination provisions.",
-    "url": "https://www.gesetze-im-internet.de/betrvg/",
-    "verified": "2026-10-16"
-  },
-  {
-    "id": "usccr-us",
-    "name": "U.S. Commission on Civil Rights — Complaint Referral",
-    "region": "United States",
-    "type": "Get Help",
-    "topics": [
-      "civil-rights",
-      "racial-justice",
-      "government-accountability",
-      "discrimination"
-    ],
-    "actions": [
-      "Find the right complaint office",
-      "Review civil-rights enforcement information"
-    ],
-    "description": "Independent federal civil-rights watchdog. Investigates and reports on civil-rights issues; its referral service helps locate complaint offices. It does not represent complainants or enforce remedies.",
-    "url": "https://www.usccr.gov/contact/complaints",
-    "verified": "2026-10-17"
-  },
-  {
-    "id": "doj-crt-us",
-    "name": "U.S. Department of Justice — Civil Rights Reporting",
-    "region": "United States",
-    "type": "Get Help",
-    "topics": [
-      "civil-rights",
-      "racial-justice",
-      "police-accountability",
-      "voting",
-      "discrimination"
-    ],
-    "actions": [
-      "Report possible civil-rights violations",
-      "Find an enforcement route"
-    ],
-    "description": "Official portal to report possible federal civil-rights violations, including discrimination and certain law-enforcement misconduct. Reporting does not guarantee investigation, representation, or compensation.",
-    "url": "https://civilrights.justice.gov/",
-    "verified": "2026-10-17"
-  },
-  {
-    "id": "oversight-us",
-    "name": "Oversight.gov — Federal Inspectors General",
-    "region": "United States",
-    "type": "Primary Sources",
-    "topics": [
-      "government-accountability",
-      "police-accountability",
-      "misconduct",
-      "whistleblower",
-      "records"
-    ],
-    "actions": [
-      "Search inspector-general reports",
-      "Find agency wrongdoing reporting routes"
-    ],
-    "description": "Search federal inspector-general audits and investigations and find reporting channels. Inspectors general can investigate and recommend action but generally cannot award individual damages.",
-    "url": "https://www.oversight.gov/",
-    "verified": "2026-10-17"
-  },
-  {
-    "id": "gao-fraudnet-us",
-    "name": "GAO FraudNet — Report Federal Waste or Abuse",
-    "region": "United States",
-    "type": "Get Help",
-    "topics": [
-      "government-accountability",
-      "fraud",
-      "mismanagement",
-      "public-spending"
-    ],
-    "actions": [
-      "Report suspected federal fraud or misuse",
-      "Read oversight findings"
-    ],
-    "description": "Receives allegations involving federal funds, waste, abuse and mismanagement, and refers appropriate matters. Not an individual civil-rights compensation or legal representation service.",
-    "url": "https://www.gao.gov/fraudnet",
-    "verified": "2026-10-17"
-  },
-  {
-    "id": "gao-reports-us",
-    "name": "Government Accountability Office — Reports",
-    "region": "United States",
-    "type": "Primary Sources",
-    "topics": [
-      "government-accountability",
-      "public-spending",
-      "civil-rights",
-      "research"
-    ],
-    "actions": [
-      "Search federal audits",
-      "Track recommendations"
-    ],
-    "description": "Congressional audit agency documenting federal program performance, failures and recommendations. Its reports are evidence for accountability, not binding awards of compensation.",
-    "url": "https://www.gao.gov/",
-    "verified": "2026-10-17"
-  },
-  {
-    "id": "brennancenter-us",
-    "name": "Brennan Center for Justice",
-    "region": "United States",
-    "type": "Learn & Research",
-    "topics": [
-      "voting",
-      "democracy",
-      "racial-justice",
-      "constitutional-rights"
-    ],
-    "actions": [
-      "Read voting-rights research",
-      "Review reform proposals"
-    ],
-    "description": "Nonpartisan law and policy institute researching democracy, voting rights, justice systems and government reform. Not a general individual complaint-resolution service.",
-    "url": "https://www.brennancenter.org/",
-    "verified": "2026-10-17"
-  },
-  {
-    "id": "pogo-us",
-    "name": "Project On Government Oversight (POGO)",
-    "region": "United States",
-    "type": "Organizations",
-    "topics": [
-      "government-accountability",
-      "whistleblower",
-      "oversight",
-      "public-spending"
-    ],
-    "actions": [
-      "Read independent investigations",
-      "Learn about oversight reform"
-    ],
-    "description": "Independent nonprofit watchdog investigating federal misconduct, waste, conflicts of interest and oversight failures. Not a court or compensation agency.",
-    "url": "https://www.pogo.org/",
-    "verified": "2026-10-17"
-  },
-  {
-    "id": "propublica-us",
-    "name": "ProPublica — Investigative Journalism",
-    "region": "United States",
-    "type": "Learn & Research",
-    "topics": [
-      "government-accountability",
-      "racial-justice",
-      "police-accountability",
-      "investigations"
-    ],
-    "actions": [
-      "Read investigations",
-      "Find documented public-interest reporting"
-    ],
-    "description": "Independent nonprofit newsroom investigating abuses of power and public-interest failures. Reporting can expose wrongdoing but cannot compel legal remedies.",
-    "url": "https://www.propublica.org/",
-    "verified": "2026-10-17"
-  },
-  {
-    "id": "civilrightsorg-us",
-    "name": "Leadership Conference on Civil and Human Rights",
-    "region": "United States",
-    "type": "Organizations",
-    "topics": [
-      "civil-rights",
-      "racial-justice",
-      "voting",
-      "government-accountability"
-    ],
-    "actions": [
-      "Follow civil-rights policy",
-      "Find advocacy coalitions"
-    ],
-    "description": "Coalition advocating for civil and human rights legislation, enforcement and accountability. Advocacy and policy work are not a substitute for legal representation.",
-    "url": "https://civilrights.org/",
-    "verified": "2026-10-17"
-  },
-  {
-    "id": "naacp-us",
-    "name": "NAACP — Civil Rights Advocacy",
-    "region": "United States",
-    "type": "Organizations",
-    "topics": [
-      "racial-justice",
-      "civil-rights",
-      "voting",
-      "police-accountability"
-    ],
-    "actions": [
-      "Find local branches",
-      "Explore advocacy and action"
-    ],
-    "description": "Civil-rights membership organization working on racial justice, voting, education and public accountability. Local assistance and legal referrals vary.",
-    "url": "https://naacp.org/",
-    "verified": "2026-10-17"
-  },
-  {
-    "id": "truevote-us",
-    "name": "TrueVote",
-    "region": "United States",
-    "type": "Learn & Research",
-    "topics": [
-      "democracy",
-      "elections",
-      "candidates",
-      "campaign-finance",
-      "government-accountability",
-      "congress"
-    ],
-    "actions": [
-      "Research candidates and elected officials",
-      "Review money, voting records and disclosures",
-      "Follow links to primary records"
-    ],
-    "description": "Independent third-party research resource for reviewing federal candidates and elected officials through campaign-finance information, congressional activity, voting records and financial disclosures. Verify important findings through the linked primary records.",
-    "url": "https://www.truevote.app/",
-    "verified": "2026-10-18"
-  },
-  {
-    "id": "dol-tipped-dualjobs-2026-us",
-    "name": "U.S. Wage and Hour Division: 2026-1 Tipped Dual Jobs Bulletin",
-    "region": "United States",
-    "type": "Primary Sources",
-    "topics": [
-      "work",
-      "wages",
-      "tipped-workers",
-      "restaurants",
-      "labor-rights"
-    ],
-    "actions": [
-      "Check tip-credit rules",
-      "Review dual jobs",
-      "Document hours"
-    ],
-    "description": "October 19, 2026 federal enforcement guidance withdraws three older opinion letters and confirms that the former 80/20 percentage guidance is not current WHD policy. State law may provide stronger protections.",
-    "url": "https://www.dol.gov/sites/dolgov/files/WHD/fab/fab2026-1.pdf",
-    "verified": "2026-10-26"
-  },
-  {
-    "id": "dol-tipped-state-wages-us",
-    "name": "U.S. Department of Labor: State Tipped Minimum Wages",
-    "region": "United States",
-    "type": "Know Your Rights",
-    "topics": [
-      "work",
-      "wages",
-      "tipped-workers",
-      "restaurants"
-    ],
-    "actions": [
-      "Check state cash wage",
-      "Compare state and federal protections"
-    ],
-    "description": "Official state-by-state tipped-wage table. Workers should check applicable state and local rules as well as federal tip-credit requirements.",
-    "url": "https://www.dol.gov/agencies/whd/state/minimum-wage/tipped",
-    "verified": "2026-10-26"
-  },
-  {
-    "id": "irs-adoption-carryforward-2026-us",
-    "name": "IRS: 2025 Adoption Credit Carryforward Adjustment and Penalty Review",
-    "region": "United States",
-    "type": "Know Your Rights",
-    "topics": [
-      "taxes",
-      "money",
-      "family",
-      "refunds",
-      "appeals"
-    ],
-    "actions": [
-      "Review IRS adjustment notice",
-      "Check estimated-tax penalty",
-      "Request abatement when appropriate"
-    ],
-    "description": "IRS FAQs explain automatic 2025 adoption-credit adjustments and why an estimated-tax penalty is not automatically recomputed; a separate request may be needed.",
-    "url": "https://www.irs.gov/faqs/questions-and-answers-about-adoption-tax-credit-carryforward",
-    "verified": "2026-10-26"
-  },
-  {
-    "id": "irs-ira-corrections-2027-us",
-    "name": "IRS: IRA Compliance Resolution System (Effective May 2027)",
-    "region": "United States",
-    "type": "Know Your Rights",
-    "topics": [
-      "retirement",
-      "money",
-      "taxes",
-      "appeals"
-    ],
-    "actions": [
-      "Check existing rollover waiver routes",
-      "Prepare for May 2027 correction system"
-    ],
-    "description": "IRS October 22, 2026 announcement of a future IRA correction system, with existing automatic waiver and self-certification options remaining available now for qualifying cases.",
-    "url": "https://www.irs.gov/newsroom/treasury-irs-update-retirement-plan-correction-program-and-establish-correction-program-for-individual-retirement-accounts",
-    "verified": "2026-10-26"
-  },
-  {
-    "id": "sgb2-38-jobsearch-release-de",
-    "name": "§§2, 38 SGB III: Arbeitsuchendmeldung und Freistellung",
-    "region": "Germany",
-    "type": "Know Your Rights",
-    "topics": [
-      "work",
-      "unemployment",
-      "deadlines",
-      "labor-rights",
-      "benefits"
-    ],
-    "actions": [
-      "Meet registration deadline",
-      "Ask employer for time for required appointments",
-      "Register unemployed separately"
-    ],
-    "description": "German law and Federal Employment Agency guidance on timely job-seeker registration, employer information/release responsibilities and avoiding an ALG I gap.",
-    "url": "https://www.arbeitsagentur.de/vor-ort/leipzig/presse/2026-26-rechtzeitig-arbeitsuchend-melden-neue-arbeit-finden-bevor-die-alte-endet",
-    "verified": "2026-10-26"
-  },
-  {
-    "id": "988-us",
-    "name": "988 Suicide & Crisis Lifeline",
-    "region": "United States",
-    "type": "Get Help",
-    "topics": [
-      "mental-health",
-      "crisis"
-    ],
-    "actions": [
-      "Call or text 988"
-    ],
-    "description": "Free, confidential support if you are in emotional distress or thinking about suicide. Call or text 988, any time. If someone is in immediate danger, call your local emergency number.",
-    "url": "https://988lifeline.org/",
-    "verified": "2026-10-28"
-  },
-  {
-    "id": "samhsa-helpline-us",
-    "name": "SAMHSA National Helpline",
-    "region": "United States",
-    "type": "Get Help",
-    "topics": [
-      "mental-health",
-      "addiction",
-      "drugs"
-    ],
-    "actions": [
-      "Call 1-800-662-HELP (4357)",
-      "Treatment referral"
-    ],
-    "description": "Free, confidential treatment referral and information for mental health and substance use, 24/7, 365 days a year, in English and Spanish. A referral service, not a crisis line.",
-    "url": "https://www.samhsa.gov/find-help/helplines/national-helpline",
-    "verified": "2026-10-28"
-  },
-  {
-    "id": "ncpg-helpline-us",
-    "name": "National Problem Gambling Helpline",
-    "region": "United States",
-    "type": "Get Help",
-    "topics": [
-      "gambling",
-      "addiction"
-    ],
-    "actions": [
-      "Call, text or chat, 24/7"
-    ],
-    "description": "Run by the National Council on Problem Gambling. Offers call, text and chat support around the clock. The current number is on the linked page; check it there before calling.",
-    "url": "https://ncpgambling.org/help-treatment/national-helpline-1-800-522-4700/",
-    "verified": "2026-10-28"
-  },
-  {
-    "id": "cdc-gettested-us",
-    "name": "CDC GetTested",
-    "region": "United States",
-    "type": "Get Help",
-    "topics": [
-      "sexual-health",
-      "hiv",
-      "sti",
-      "testing"
-    ],
-    "actions": [
-      "Find a testing site"
-    ],
-    "description": "CDC service for finding nearby places that offer HIV, STI and viral hepatitis testing, plus HPV and hepatitis vaccines, in the United States and its territories.",
-    "url": "https://gettested.cdc.gov/",
-    "verified": "2026-10-28"
-  },
-  {
-    "id": "211-us",
-    "name": "211 (local help line)",
-    "region": "United States",
-    "type": "Get Help",
-    "topics": [
-      "money",
-      "housing",
-      "food",
-      "utilities"
-    ],
-    "actions": [
-      "Dial 211"
-    ],
-    "description": "Free, confidential referrals to local help with rent or mortgage, utility bills, food, healthcare, childcare and crisis services. The linked page is Central Maryland's service, as an example; dial 211 to reach your local one.",
-    "url": "https://uwcm.org/211",
-    "verified": "2026-10-28"
-  },
-  {
-    "id": "info-depression-de",
-    "name": "Info-Telefon Depression",
-    "region": "Germany",
-    "type": "Get Help",
-    "topics": [
-      "mental-health",
-      "depression"
-    ],
-    "actions": [
-      "Call 0800 33 44 533",
-      "Mon, Tue, Thu 13:00-17:00; Wed, Fri 8:30-12:30"
-    ],
-    "description": "Deutsche Depressionshilfe phone line for people with depression, their relatives and anyone seeking information. Not a 24-hour crisis line.",
-    "url": "https://familienportal.de/familienportal/lebenslagen/krise-und-konflikt/krisetelefone-anlaufstellen",
-    "verified": "2026-10-28"
-  },
-  {
-    "id": "nummer-gegen-kummer-de",
-    "name": "Nummer gegen Kummer",
-    "region": "Germany",
-    "type": "Get Help",
-    "topics": [
-      "mental-health",
-      "children",
-      "families"
-    ],
-    "actions": [
-      "Children and teens: 116 111 (Mon-Sat 14:00-20:00)",
-      "Parents: 0800 111 0 550"
-    ],
-    "description": "Free, anonymous phone counselling for children and young people (116 111) and for parents and other adults worried about a child (0800 111 0 550).",
-    "url": "https://familienportal.de/familienportal/lebenslagen/krise-und-konflikt/krisetelefone-anlaufstellen",
-    "verified": "2026-10-28"
-  },
-  {
-    "id": "hilfetelefon-gewalt-de",
-    "name": "Hilfetelefon Gewalt gegen Frauen",
-    "region": "Germany",
-    "type": "Get Help",
-    "topics": [
-      "violence",
-      "women",
-      "safety"
-    ],
-    "actions": [
-      "Call 08000 116 016",
-      "365 days, around the clock"
-    ],
-    "description": "Free, anonymous support for women who have experienced or are experiencing violence or sexual harassment, and for relatives and professionals.",
-    "url": "https://familienportal.de/familienportal/lebenslagen/krise-und-konflikt/krisetelefone-anlaufstellen",
-    "verified": "2026-10-28"
-  },
-  {
-    "id": "weisser-ring-de",
-    "name": "Opfer-Telefon Weisser Ring",
-    "region": "Germany",
-    "type": "Get Help",
-    "topics": [
-      "crime-victims",
-      "safety"
-    ],
-    "actions": [
-      "Call 116 006",
-      "Daily 7:00-22:00"
-    ],
-    "description": "Free, anonymous phone help for crime victims and their relatives.",
-    "url": "https://familienportal.de/familienportal/lebenslagen/krise-und-konflikt/krisetelefone-anlaufstellen",
-    "verified": "2026-10-28"
-  },
-  {
-    "id": "aidshilfe-telefon-de",
-    "name": "Deutsche Aidshilfe telephone counselling",
-    "region": "Germany",
-    "type": "Get Help",
-    "topics": [
-      "sexual-health",
-      "hiv",
-      "sti",
-      "testing"
-    ],
-    "actions": [
-      "Call 0180 33 19411",
-      "Mon-Fri 9:00-21:00, Sun 12:00-14:00"
-    ],
-    "description": "Anonymous counselling on HIV and other sexually transmitted infections, where to get tested, and PEP. The counselling is free; the call costs 9 cents per minute from German landlines and up to 42 cents from mobiles.",
-    "url": "https://en.aidshilfe.de/node/879",
-    "verified": "2026-10-28"
-  },
-  {
-    "id": "schuldnerberatung-de",
-    "name": "Schuldnerberatung finden (BAG Schuldnerberatung)",
-    "region": "Germany",
-    "type": "Get Help",
-    "topics": [
-      "money",
-      "debt"
-    ],
-    "actions": [
-      "Find a debt counselling centre by state"
-    ],
-    "description": "Directory run by the Bundesarbeitsgemeinschaft Schuldnerberatung to find debt counselling centres in each German state. Check each centre for cost and contact details.",
-    "url": "https://www.meine-schulden.de/en/hilfe-finden/schuldnerberatungsstellen/bundesland",
-    "verified": "2026-10-28"
-  }
+ {
+  "id": "ads-de",
+  "name": "Antidiskriminierungsstelle des Bundes",
+  "region": "Germany",
+  "type": "Get Help",
+  "topics": [
+   "rights",
+   "racial-justice",
+   "work",
+   "health"
+  ],
+  "actions": [
+   "Know your rights",
+   "Get advice"
+  ],
+  "description": "Federal information and counselling resource for people experiencing discrimination or sexual harassment.",
+  "url": "https://www.antidiskriminierungsstelle.de/DE/startseite/startseite-node.html",
+  "verified": "2026-09-02"
+ },
+ {
+  "id": "lads-berlin-de",
+  "name": "Berlin State Office for Equal Treatment and Against Discrimination (LADS)",
+  "region": "Germany",
+  "type": "Get Help",
+  "topics": [
+   "discrimination",
+   "racial-justice",
+   "equal-treatment",
+   "human-rights",
+   "berlin"
+  ],
+  "actions": [
+   "Know your rights",
+   "Find anti-discrimination information",
+   "Contact the Berlin state office"
+  ],
+  "description": "Berlin's state anti-discrimination office. Provides information on equal-treatment law, discrimination, publications and Berlin's anti-discrimination work, and connects readers to contact and advisory infrastructure.",
+  "url": "https://www.berlin.de/sen/lads/en/",
+  "verified": "2026-10-17"
+ },
+ {
+  "id": "dimr-de",
+  "name": "Deutsches Institut für Menschenrechte",
+  "region": "Germany",
+  "type": "Learn & Research",
+  "topics": [
+   "human-rights",
+   "children-families",
+   "disability",
+   "democracy"
+  ],
+  "actions": [
+   "Research",
+   "Learn"
+  ],
+  "description": "Germany's independent national human rights institution, with research, monitoring, documentation and human-rights education.",
+  "url": "https://www.institut-fuer-menschenrechte.de/",
+  "verified": "2026-09-02"
+ },
+ {
+  "id": "bpb-de",
+  "name": "Bundeszentrale für politische Bildung",
+  "region": "Germany",
+  "type": "Learn & Research",
+  "topics": [
+   "democracy",
+   "human-rights",
+   "history",
+   "education"
+  ],
+  "actions": [
+   "Learn",
+   "Teach"
+  ],
+  "description": "Public political-education resources on democracy, government, fundamental rights, history and current political questions.",
+  "url": "https://www.bpb.de/",
+  "verified": "2026-09-02"
+ },
+ {
+  "id": "aas-de",
+  "name": "Amadeu Antonio Stiftung",
+  "region": "Germany",
+  "type": "Organizations",
+  "topics": [
+   "racial-justice",
+   "democracy",
+   "extremism",
+   "antisemitism"
+  ],
+  "actions": [
+   "Learn",
+   "Get support",
+   "Take action"
+  ],
+  "description": "Supports democratic civil society and people confronting racism, antisemitism and right-wing violence and extremism.",
+  "url": "https://www.amadeu-antonio-stiftung.de/",
+  "verified": "2026-09-02"
+ },
+ {
+  "id": "proasyl-de",
+  "name": "PRO ASYL",
+  "region": "Germany",
+  "type": "Get Help",
+  "topics": [
+   "immigration-asylum",
+   "human-rights"
+  ],
+  "actions": [
+   "Get advice",
+   "Learn",
+   "Take action"
+  ],
+  "description": "Information, advocacy and contact options concerning asylum and refugee rights in Germany and Europe.",
+  "url": "https://www.proasyl.de/",
+  "verified": "2026-09-02"
+ },
+ {
+  "id": "telefonseelsorge-de",
+  "name": "TelefonSeelsorge Deutschland",
+  "region": "Germany",
+  "type": "Get Help",
+  "topics": [
+   "mental-health",
+   "crisis"
+  ],
+  "actions": [
+   "Call 0800 111 0 111 or 0800 111 0 222",
+   "Around the clock",
+   "Volunteer"
+  ],
+  "description": "Free, anonymous crisis and emotional support by telephone, chat and email, available day and night. Phone numbers confirmed on the federal Familienportal on 28 Oct 2026.",
+  "url": "https://www.telefonseelsorge.de/",
+  "verified": "2026-10-28"
+ },
+ {
+  "id": "vz-de",
+  "name": "Verbraucherzentrale",
+  "region": "Germany",
+  "type": "Get Help",
+  "topics": [
+   "consumer-rights",
+   "money",
+   "housing"
+  ],
+  "actions": [
+   "Get advice",
+   "Know your rights"
+  ],
+  "description": "Consumer information and counselling through Germany's state consumer centres.",
+  "url": "https://www.verbraucherzentrale.de/beratung",
+  "verified": "2026-09-02"
+ },
+ {
+  "id": "ldf-us",
+  "name": "Legal Defense Fund",
+  "region": "United States",
+  "type": "Organizations",
+  "topics": [
+   "racial-justice",
+   "voting",
+   "democracy",
+   "education",
+   "criminal-justice"
+  ],
+  "actions": [
+   "Learn",
+   "Volunteer",
+   "Take action"
+  ],
+  "description": "Civil-rights legal organization advancing racial justice, voting rights, education equity, economic justice and criminal-justice reform.",
+  "url": "https://www.naacpldf.org/",
+  "verified": "2026-09-02"
+ },
+ {
+  "id": "aclu-us",
+  "name": "American Civil Liberties Union",
+  "region": "United States",
+  "type": "Know Your Rights",
+  "topics": [
+   "civil-rights",
+   "voting",
+   "racial-justice",
+   "free-speech"
+  ],
+  "actions": [
+   "Know your rights",
+   "Get voting help",
+   "Take action"
+  ],
+  "description": "Civil-liberties organization with practical Know Your Rights material, including voting and discrimination resources.",
+  "url": "https://www.aclu.org/know-your-rights",
+  "verified": "2026-09-02"
+ },
+ {
+  "id": "eji-us",
+  "name": "Equal Justice Initiative",
+  "region": "United States",
+  "type": "Organizations",
+  "topics": [
+   "racial-justice",
+   "criminal-justice",
+   "history",
+   "poverty"
+  ],
+  "actions": [
+   "Learn",
+   "Support",
+   "Take action"
+  ],
+  "description": "Works against racial and economic injustice, excessive punishment and mass incarceration while documenting America's history of racial injustice.",
+  "url": "https://eji.org/",
+  "verified": "2026-09-02"
+ },
+ {
+  "id": "loc-black-history-us",
+  "name": "Library of Congress: African American History Online",
+  "region": "United States",
+  "type": "Primary Sources",
+  "topics": [
+   "black-history",
+   "history",
+   "research"
+  ],
+  "actions": [
+   "Research",
+   "Read primary sources"
+  ],
+  "description": "Research guide connecting readers to digitized primary sources documenting more than 400 years of African American experience.",
+  "url": "https://guides.loc.gov/african-american-history-online",
+  "verified": "2026-09-02"
+ },
+ {
+  "id": "nara-black-history-us",
+  "name": "National Archives: African American Heritage",
+  "region": "United States",
+  "type": "Primary Sources",
+  "topics": [
+   "black-history",
+   "reconstruction",
+   "civil-rights",
+   "voting",
+   "history"
+  ],
+  "actions": [
+   "Research",
+   "Read primary sources"
+  ],
+  "description": "Federal archival records and research guides covering slavery, Reconstruction, civil rights, voting rights and the broader Black experience.",
+  "url": "https://www.archives.gov/research/african-americans",
+  "verified": "2026-09-02"
+ },
+ {
+  "id": "foia-us",
+  "name": "FOIA.gov",
+  "region": "United States",
+  "type": "Know Your Rights",
+  "topics": [
+   "government-accountability",
+   "records",
+   "democracy"
+  ],
+  "actions": [
+   "Request federal records",
+   "Appeal a denial"
+  ],
+  "description": "Official federal guide for requesting records from executive agencies under the Freedom of Information Act.",
+  "url": "https://www.foia.gov/",
+  "verified": "2026-10-16"
+ },
+ {
+  "id": "nlrb-us",
+  "name": "National Labor Relations Board: Employee Rights",
+  "region": "United States",
+  "type": "Know Your Rights",
+  "topics": [
+   "work",
+   "labor-rights",
+   "unions",
+   "wages"
+  ],
+  "actions": [
+   "Learn collective rights",
+   "File or research a labor charge"
+  ],
+  "description": "Official information about protected concerted activity, organizing and federal labor-law rights for covered employees.",
+  "url": "https://www.nlrb.gov/about-nlrb/rights-we-protect/the-law/employees",
+  "verified": "2026-10-16"
+ },
+ {
+  "id": "whd-us",
+  "name": "U.S. Department of Labor: Wage and Hour Division",
+  "region": "United States",
+  "type": "Get Help",
+  "topics": [
+   "work",
+   "wages",
+   "overtime",
+   "retaliation"
+  ],
+  "actions": [
+   "Check wage rights",
+   "Contact Wage and Hour Division"
+  ],
+  "description": "Official federal wage-and-hour enforcement resource, including minimum wage, overtime and retaliation information.",
+  "url": "https://www.dol.gov/agencies/whd",
+  "verified": "2026-10-16"
+ },
+ {
+  "id": "osha-whistle-us",
+  "name": "OSHA Whistleblower Protection Program",
+  "region": "United States",
+  "type": "Know Your Rights",
+  "topics": [
+   "work",
+   "safety",
+   "whistleblower",
+   "retaliation"
+  ],
+  "actions": [
+   "Check protection",
+   "Check filing deadline"
+  ],
+  "description": "Official information about retaliation protections administered by OSHA under multiple federal statutes.",
+  "url": "https://www.whistleblowers.gov/",
+  "verified": "2026-10-16"
+ },
+ {
+  "id": "sgb14-de",
+  "name": "§14 SGB I — Anspruch auf Beratung",
+  "region": "Germany",
+  "type": "Primary Sources",
+  "topics": [
+   "social-rights",
+   "benefits",
+   "government-accountability"
+  ],
+  "actions": [
+   "Ask for advice",
+   "Know your rights"
+  ],
+  "description": "German Social Code provision giving everyone a right to advice about rights and duties under the Social Code.",
+  "url": "https://www.gesetze-im-internet.de/sgb_1/__14.html",
+  "verified": "2026-10-16"
+ },
+ {
+  "id": "sgb25-de",
+  "name": "§25 SGB X — Akteneinsicht",
+  "region": "Germany",
+  "type": "Primary Sources",
+  "topics": [
+   "social-rights",
+   "administration",
+   "records"
+  ],
+  "actions": [
+   "Check file-inspection rights",
+   "Request relevant records"
+  ],
+  "description": "German social-administrative provision governing file inspection by participants in covered proceedings.",
+  "url": "https://www.gesetze-im-internet.de/sgb_10/__25.html",
+  "verified": "2026-10-16"
+ },
+ {
+  "id": "betrvg-de",
+  "name": "Betriebsverfassungsgesetz",
+  "region": "Germany",
+  "type": "Primary Sources",
+  "topics": [
+   "work",
+   "labor-rights",
+   "betriebsrat",
+   "complaints"
+  ],
+  "actions": [
+   "Check works-council rights",
+   "Use workplace complaint rights"
+  ],
+  "description": "Official text of Germany's Works Constitution Act, including works-council eligibility, complaint rights and co-determination provisions.",
+  "url": "https://www.gesetze-im-internet.de/betrvg/",
+  "verified": "2026-10-16"
+ },
+ {
+  "id": "usccr-us",
+  "name": "U.S. Commission on Civil Rights — Complaint Referral",
+  "region": "United States",
+  "type": "Get Help",
+  "topics": [
+   "civil-rights",
+   "racial-justice",
+   "government-accountability",
+   "discrimination"
+  ],
+  "actions": [
+   "Find the right complaint office",
+   "Review civil-rights enforcement information"
+  ],
+  "description": "Independent federal civil-rights watchdog. Investigates and reports on civil-rights issues; its referral service helps locate complaint offices. It does not represent complainants or enforce remedies.",
+  "url": "https://www.usccr.gov/contact/complaints",
+  "verified": "2026-10-17"
+ },
+ {
+  "id": "doj-crt-us",
+  "name": "U.S. Department of Justice — Civil Rights Reporting",
+  "region": "United States",
+  "type": "Get Help",
+  "topics": [
+   "civil-rights",
+   "racial-justice",
+   "police-accountability",
+   "voting",
+   "discrimination"
+  ],
+  "actions": [
+   "Report possible civil-rights violations",
+   "Find an enforcement route"
+  ],
+  "description": "Official portal to report possible federal civil-rights violations, including discrimination and certain law-enforcement misconduct. Reporting does not guarantee investigation, representation, or compensation.",
+  "url": "https://civilrights.justice.gov/",
+  "verified": "2026-10-17"
+ },
+ {
+  "id": "oversight-us",
+  "name": "Oversight.gov — Federal Inspectors General",
+  "region": "United States",
+  "type": "Primary Sources",
+  "topics": [
+   "government-accountability",
+   "police-accountability",
+   "misconduct",
+   "whistleblower",
+   "records"
+  ],
+  "actions": [
+   "Search inspector-general reports",
+   "Find agency wrongdoing reporting routes"
+  ],
+  "description": "Search federal inspector-general audits and investigations and find reporting channels. Inspectors general can investigate and recommend action but generally cannot award individual damages.",
+  "url": "https://www.oversight.gov/",
+  "verified": "2026-10-17"
+ },
+ {
+  "id": "gao-fraudnet-us",
+  "name": "GAO FraudNet — Report Federal Waste or Abuse",
+  "region": "United States",
+  "type": "Get Help",
+  "topics": [
+   "government-accountability",
+   "fraud",
+   "mismanagement",
+   "public-spending"
+  ],
+  "actions": [
+   "Report suspected federal fraud or misuse",
+   "Read oversight findings"
+  ],
+  "description": "Receives allegations involving federal funds, waste, abuse and mismanagement, and refers appropriate matters. Not an individual civil-rights compensation or legal representation service.",
+  "url": "https://www.gao.gov/fraudnet",
+  "verified": "2026-10-17"
+ },
+ {
+  "id": "gao-reports-us",
+  "name": "Government Accountability Office — Reports",
+  "region": "United States",
+  "type": "Primary Sources",
+  "topics": [
+   "government-accountability",
+   "public-spending",
+   "civil-rights",
+   "research"
+  ],
+  "actions": [
+   "Search federal audits",
+   "Track recommendations"
+  ],
+  "description": "Congressional audit agency documenting federal program performance, failures and recommendations. Its reports are evidence for accountability, not binding awards of compensation.",
+  "url": "https://www.gao.gov/",
+  "verified": "2026-10-17"
+ },
+ {
+  "id": "brennancenter-us",
+  "name": "Brennan Center for Justice",
+  "region": "United States",
+  "type": "Learn & Research",
+  "topics": [
+   "voting",
+   "democracy",
+   "racial-justice",
+   "constitutional-rights"
+  ],
+  "actions": [
+   "Read voting-rights research",
+   "Review reform proposals"
+  ],
+  "description": "Nonpartisan law and policy institute researching democracy, voting rights, justice systems and government reform. Not a general individual complaint-resolution service.",
+  "url": "https://www.brennancenter.org/",
+  "verified": "2026-10-17"
+ },
+ {
+  "id": "pogo-us",
+  "name": "Project On Government Oversight (POGO)",
+  "region": "United States",
+  "type": "Organizations",
+  "topics": [
+   "government-accountability",
+   "whistleblower",
+   "oversight",
+   "public-spending"
+  ],
+  "actions": [
+   "Read independent investigations",
+   "Learn about oversight reform"
+  ],
+  "description": "Independent nonprofit watchdog investigating federal misconduct, waste, conflicts of interest and oversight failures. Not a court or compensation agency.",
+  "url": "https://www.pogo.org/",
+  "verified": "2026-10-17"
+ },
+ {
+  "id": "propublica-us",
+  "name": "ProPublica — Investigative Journalism",
+  "region": "United States",
+  "type": "Learn & Research",
+  "topics": [
+   "government-accountability",
+   "racial-justice",
+   "police-accountability",
+   "investigations"
+  ],
+  "actions": [
+   "Read investigations",
+   "Find documented public-interest reporting"
+  ],
+  "description": "Independent nonprofit newsroom investigating abuses of power and public-interest failures. Reporting can expose wrongdoing but cannot compel legal remedies.",
+  "url": "https://www.propublica.org/",
+  "verified": "2026-10-17"
+ },
+ {
+  "id": "civilrightsorg-us",
+  "name": "Leadership Conference on Civil and Human Rights",
+  "region": "United States",
+  "type": "Organizations",
+  "topics": [
+   "civil-rights",
+   "racial-justice",
+   "voting",
+   "government-accountability"
+  ],
+  "actions": [
+   "Follow civil-rights policy",
+   "Find advocacy coalitions"
+  ],
+  "description": "Coalition advocating for civil and human rights legislation, enforcement and accountability. Advocacy and policy work are not a substitute for legal representation.",
+  "url": "https://civilrights.org/",
+  "verified": "2026-10-17"
+ },
+ {
+  "id": "naacp-us",
+  "name": "NAACP — Civil Rights Advocacy",
+  "region": "United States",
+  "type": "Organizations",
+  "topics": [
+   "racial-justice",
+   "civil-rights",
+   "voting",
+   "police-accountability"
+  ],
+  "actions": [
+   "Find local branches",
+   "Explore advocacy and action"
+  ],
+  "description": "Civil-rights membership organization working on racial justice, voting, education and public accountability. Local assistance and legal referrals vary.",
+  "url": "https://naacp.org/",
+  "verified": "2026-10-17"
+ },
+ {
+  "id": "truevote-us",
+  "name": "TrueVote",
+  "region": "United States",
+  "type": "Learn & Research",
+  "topics": [
+   "democracy",
+   "elections",
+   "candidates",
+   "campaign-finance",
+   "government-accountability",
+   "congress"
+  ],
+  "actions": [
+   "Research candidates and elected officials",
+   "Review money, voting records and disclosures",
+   "Follow links to primary records"
+  ],
+  "description": "Independent third-party research resource for reviewing federal candidates and elected officials through campaign-finance information, congressional activity, voting records and financial disclosures. Verify important findings through the linked primary records.",
+  "url": "https://www.truevote.app/",
+  "verified": "2026-10-18"
+ },
+ {
+  "id": "dol-tipped-dualjobs-2026-us",
+  "name": "U.S. Wage and Hour Division: 2026-1 Tipped Dual Jobs Bulletin",
+  "region": "United States",
+  "type": "Primary Sources",
+  "topics": [
+   "work",
+   "wages",
+   "tipped-workers",
+   "restaurants",
+   "labor-rights"
+  ],
+  "actions": [
+   "Check tip-credit rules",
+   "Review dual jobs",
+   "Document hours"
+  ],
+  "description": "October 19, 2026 federal enforcement guidance withdraws three older opinion letters and confirms that the former 80/20 percentage guidance is not current WHD policy. State law may provide stronger protections.",
+  "url": "https://www.dol.gov/sites/dolgov/files/WHD/fab/fab2026-1.pdf",
+  "verified": "2026-10-26"
+ },
+ {
+  "id": "dol-tipped-state-wages-us",
+  "name": "U.S. Department of Labor: State Tipped Minimum Wages",
+  "region": "United States",
+  "type": "Know Your Rights",
+  "topics": [
+   "work",
+   "wages",
+   "tipped-workers",
+   "restaurants"
+  ],
+  "actions": [
+   "Check state cash wage",
+   "Compare state and federal protections"
+  ],
+  "description": "Official state-by-state tipped-wage table. Workers should check applicable state and local rules as well as federal tip-credit requirements.",
+  "url": "https://www.dol.gov/agencies/whd/state/minimum-wage/tipped",
+  "verified": "2026-10-26"
+ },
+ {
+  "id": "irs-adoption-carryforward-2026-us",
+  "name": "IRS: 2025 Adoption Credit Carryforward Adjustment and Penalty Review",
+  "region": "United States",
+  "type": "Know Your Rights",
+  "topics": [
+   "taxes",
+   "money",
+   "family",
+   "refunds",
+   "appeals"
+  ],
+  "actions": [
+   "Review IRS adjustment notice",
+   "Check estimated-tax penalty",
+   "Request abatement when appropriate"
+  ],
+  "description": "IRS FAQs explain automatic 2025 adoption-credit adjustments and why an estimated-tax penalty is not automatically recomputed; a separate request may be needed.",
+  "url": "https://www.irs.gov/faqs/questions-and-answers-about-adoption-tax-credit-carryforward",
+  "verified": "2026-10-26"
+ },
+ {
+  "id": "irs-ira-corrections-2027-us",
+  "name": "IRS: IRA Compliance Resolution System (Effective May 2027)",
+  "region": "United States",
+  "type": "Know Your Rights",
+  "topics": [
+   "retirement",
+   "money",
+   "taxes",
+   "appeals"
+  ],
+  "actions": [
+   "Check existing rollover waiver routes",
+   "Prepare for May 2027 correction system"
+  ],
+  "description": "IRS October 22, 2026 announcement of a future IRA correction system, with existing automatic waiver and self-certification options remaining available now for qualifying cases.",
+  "url": "https://www.irs.gov/newsroom/treasury-irs-update-retirement-plan-correction-program-and-establish-correction-program-for-individual-retirement-accounts",
+  "verified": "2026-10-26"
+ },
+ {
+  "id": "sgb2-38-jobsearch-release-de",
+  "name": "§§2, 38 SGB III: Arbeitsuchendmeldung und Freistellung",
+  "region": "Germany",
+  "type": "Know Your Rights",
+  "topics": [
+   "work",
+   "unemployment",
+   "deadlines",
+   "labor-rights",
+   "benefits"
+  ],
+  "actions": [
+   "Meet registration deadline",
+   "Ask employer for time for required appointments",
+   "Register unemployed separately"
+  ],
+  "description": "German law and Federal Employment Agency guidance on timely job-seeker registration, employer information/release responsibilities and avoiding an ALG I gap.",
+  "url": "https://www.arbeitsagentur.de/vor-ort/leipzig/presse/2026-26-rechtzeitig-arbeitsuchend-melden-neue-arbeit-finden-bevor-die-alte-endet",
+  "verified": "2026-10-26"
+ },
+ {
+  "id": "988-us",
+  "name": "988 Suicide & Crisis Lifeline",
+  "region": "United States",
+  "type": "Get Help",
+  "topics": [
+   "mental-health",
+   "crisis"
+  ],
+  "actions": [
+   "Call or text 988"
+  ],
+  "description": "Free, confidential support if you are in emotional distress or thinking about suicide. Call or text 988, any time. If someone is in immediate danger, call your local emergency number.",
+  "url": "https://988lifeline.org/",
+  "verified": "2026-10-28"
+ },
+ {
+  "id": "samhsa-helpline-us",
+  "name": "SAMHSA National Helpline",
+  "region": "United States",
+  "type": "Get Help",
+  "topics": [
+   "mental-health",
+   "addiction",
+   "drugs"
+  ],
+  "actions": [
+   "Call 1-800-662-HELP (4357)",
+   "Treatment referral"
+  ],
+  "description": "Free, confidential treatment referral and information for mental health and substance use, 24/7, 365 days a year, in English and Spanish. A referral service, not a crisis line.",
+  "url": "https://www.samhsa.gov/find-help/helplines/national-helpline",
+  "verified": "2026-10-28"
+ },
+ {
+  "id": "ncpg-helpline-us",
+  "name": "National Problem Gambling Helpline",
+  "region": "United States",
+  "type": "Get Help",
+  "topics": [
+   "gambling",
+   "addiction"
+  ],
+  "actions": [
+   "Call, text or chat, 24/7"
+  ],
+  "description": "Run by the National Council on Problem Gambling. Offers call, text and chat support around the clock. The current number is on the linked page; check it there before calling.",
+  "url": "https://ncpgambling.org/help-treatment/national-helpline-1-800-522-4700/",
+  "verified": "2026-10-28"
+ },
+ {
+  "id": "cdc-gettested-us",
+  "name": "CDC GetTested",
+  "region": "United States",
+  "type": "Get Help",
+  "topics": [
+   "sexual-health",
+   "hiv",
+   "sti",
+   "testing"
+  ],
+  "actions": [
+   "Find a testing site"
+  ],
+  "description": "CDC service for finding nearby places that offer HIV, STI and viral hepatitis testing, plus HPV and hepatitis vaccines, in the United States and its territories.",
+  "url": "https://gettested.cdc.gov/",
+  "verified": "2026-10-28"
+ },
+ {
+  "id": "211-us",
+  "name": "211 (local help line)",
+  "region": "United States",
+  "type": "Get Help",
+  "topics": [
+   "money",
+   "housing",
+   "food",
+   "utilities"
+  ],
+  "actions": [
+   "Dial 211"
+  ],
+  "description": "Free, confidential referrals to local help with rent or mortgage, utility bills, food, healthcare, childcare and crisis services. The linked page is Central Maryland's service, as an example; dial 211 to reach your local one.",
+  "url": "https://uwcm.org/211",
+  "verified": "2026-10-28"
+ },
+ {
+  "id": "info-depression-de",
+  "name": "Info-Telefon Depression",
+  "region": "Germany",
+  "type": "Get Help",
+  "topics": [
+   "mental-health",
+   "depression"
+  ],
+  "actions": [
+   "Call 0800 33 44 533",
+   "Mon, Tue, Thu 13:00-17:00; Wed, Fri 8:30-12:30"
+  ],
+  "description": "Deutsche Depressionshilfe phone line for people with depression, their relatives and anyone seeking information. Not a 24-hour crisis line.",
+  "url": "https://familienportal.de/familienportal/lebenslagen/krise-und-konflikt/krisetelefone-anlaufstellen",
+  "verified": "2026-10-28"
+ },
+ {
+  "id": "nummer-gegen-kummer-de",
+  "name": "Nummer gegen Kummer",
+  "region": "Germany",
+  "type": "Get Help",
+  "topics": [
+   "mental-health",
+   "children",
+   "families"
+  ],
+  "actions": [
+   "Children and teens: 116 111 (Mon-Sat 14:00-20:00)",
+   "Parents: 0800 111 0 550"
+  ],
+  "description": "Free, anonymous phone counselling for children and young people (116 111) and for parents and other adults worried about a child (0800 111 0 550).",
+  "url": "https://familienportal.de/familienportal/lebenslagen/krise-und-konflikt/krisetelefone-anlaufstellen",
+  "verified": "2026-10-28"
+ },
+ {
+  "id": "hilfetelefon-gewalt-de",
+  "name": "Hilfetelefon Gewalt gegen Frauen",
+  "region": "Germany",
+  "type": "Get Help",
+  "topics": [
+   "violence",
+   "women",
+   "safety"
+  ],
+  "actions": [
+   "Call 08000 116 016",
+   "365 days, around the clock"
+  ],
+  "description": "Free, anonymous support for women who have experienced or are experiencing violence or sexual harassment, and for relatives and professionals.",
+  "url": "https://familienportal.de/familienportal/lebenslagen/krise-und-konflikt/krisetelefone-anlaufstellen",
+  "verified": "2026-10-28"
+ },
+ {
+  "id": "weisser-ring-de",
+  "name": "Opfer-Telefon Weisser Ring",
+  "region": "Germany",
+  "type": "Get Help",
+  "topics": [
+   "crime-victims",
+   "safety"
+  ],
+  "actions": [
+   "Call 116 006",
+   "Daily 7:00-22:00"
+  ],
+  "description": "Free, anonymous phone help for crime victims and their relatives.",
+  "url": "https://familienportal.de/familienportal/lebenslagen/krise-und-konflikt/krisetelefone-anlaufstellen",
+  "verified": "2026-10-28"
+ },
+ {
+  "id": "aidshilfe-telefon-de",
+  "name": "Deutsche Aidshilfe telephone counselling",
+  "region": "Germany",
+  "type": "Get Help",
+  "topics": [
+   "sexual-health",
+   "hiv",
+   "sti",
+   "testing"
+  ],
+  "actions": [
+   "Call 0180 33 19411",
+   "Mon-Fri 9:00-21:00, Sun 12:00-14:00"
+  ],
+  "description": "Anonymous counselling on HIV and other sexually transmitted infections, where to get tested, and PEP. The counselling is free; the call costs 9 cents per minute from German landlines and up to 42 cents from mobiles.",
+  "url": "https://en.aidshilfe.de/node/879",
+  "verified": "2026-10-28"
+ },
+ {
+  "id": "schuldnerberatung-de",
+  "name": "Schuldnerberatung finden (BAG Schuldnerberatung)",
+  "region": "Germany",
+  "type": "Get Help",
+  "topics": [
+   "money",
+   "debt"
+  ],
+  "actions": [
+   "Find a debt counselling centre by state"
+  ],
+  "description": "Directory run by the Bundesarbeitsgemeinschaft Schuldnerberatung to find debt counselling centres in each German state. Check each centre for cost and contact details.",
+  "url": "https://www.meine-schulden.de/en/hilfe-finden/schuldnerberatungsstellen/bundesland",
+  "verified": "2026-10-28"
+ },
+ {
+  "id": "regenbogenportal-de",
+  "name": "Regenbogenportal",
+  "region": "Germany",
+  "type": "Get Help",
+  "topics": [
+   "lgbtq",
+   "lsbtiq",
+   "discrimination",
+   "families",
+   "health"
+  ],
+  "actions": [
+   "Search counselling centres and groups across Germany",
+   "Read plain-language guides on law, health and family"
+  ],
+  "description": "Information portal of the German federal government on sexual and gender diversity, with a directory of contact points (counselling, groups, anti-discrimination help) across Germany. Run for the Federal Family Ministry; available in several languages. Listing completeness varies by region.",
+  "url": "https://www.regenbogenportal.de/anlaufstellen-in-ganz-deutschland-finden/",
+  "verified": "2026-10-28"
+ },
+ {
+  "id": "lsvd-plus-de",
+  "name": "LSVD+ – Verband Queere Vielfalt",
+  "region": "Germany",
+  "type": "Get Help",
+  "topics": [
+   "lgbtq",
+   "lsbtiq",
+   "rights",
+   "discrimination",
+   "immigration-asylum",
+   "families"
+  ],
+  "actions": [
+   "Request free legal orientation by email",
+   "Find counselling run by state associations",
+   "Become a member or volunteer"
+  ],
+  "description": "National LGBTIQ* civil rights association. Offers free first legal orientation by email only (family law, marriage, name and gender entry, asylum, residence; replies can take up to 14 days; no case representation and not for urgent matters). State associations run counselling in some states (e.g. Berlin-Brandenburg, Bavaria, Saxony-Anhalt, Saarland); not every state has it.",
+  "url": "https://www.lsvd.de/de/recht/beratung",
+  "verified": "2026-10-28"
+ },
+ {
+  "id": "lsvd-landesverbaende-de",
+  "name": "LSVD+ state associations: counselling overview",
+  "region": "Germany",
+  "type": "Get Help",
+  "topics": [
+   "lgbtq",
+   "lsbtiq",
+   "mental-health",
+   "violence"
+  ],
+  "actions": [
+   "Check which state offers counselling",
+   "Contact details listed per service"
+  ],
+  "description": "LSVD+ list of counselling and support services by state, with phone numbers and email for each. Coverage differs by state.",
+  "url": "https://www.lsvd.de/de/ct/16542-Beratungs-und-Unterstuetzungsangebote-der-LSVD-Landesverbaende",
+  "verified": "2026-10-28"
+ },
+ {
+  "id": "bundesverband-trans-de",
+  "name": "Bundesverband Trans*",
+  "region": "Germany",
+  "type": "Organizations",
+  "topics": [
+   "lgbtq",
+   "lsbtiq",
+   "health",
+   "rights"
+  ],
+  "actions": [
+   "Browse member organizations",
+   "Find community-based trans* counselling groups"
+  ],
+  "description": "National association of trans* organizations. It does not counsel individuals itself; it trains counsellors and connects member groups across Germany, listed in its member directory.",
+  "url": "https://www.bundesverband-trans.de/ueber-uns/mitgliedsorganisationen/",
+  "verified": "2026-10-28"
+ },
+ {
+  "id": "nrw-lsbtiq-beratung",
+  "name": "LSBTIQ* counselling centres in North Rhine-Westphalia",
+  "region": "Germany",
+  "type": "Get Help",
+  "topics": [
+   "lgbtq",
+   "lsbtiq",
+   "mental-health",
+   "violence",
+   "families"
+  ],
+  "actions": [
+   "Contact one of seven state-funded centres",
+   "Counselling for coming-out, violence, relatives, family planning"
+  ],
+  "description": "State-funded psychosocial counselling in Bielefeld, Bochum, Dortmund, Köln, Münster and Siegen plus a mobile service for the Niederrhein and western Ruhr. Page published by the NRW family ministry; only for people in NRW.",
+  "url": "https://www.mkjfgfi.nrw/Qualifizierte%20LSBTIQ%2A%20Beratungsstellen",
+  "verified": "2026-10-28"
+ }
 ]

@@ -334,3 +334,5 @@
   .resource-controls{gap:12px;margin-top:18px}
 }
 .resource-pointer{margin:26px 0 0;font-size:16px;color:var(--muted)}.resource-pointer a{color:var(--red);font-weight:700}
+
+.help-strip{margin:18px 0 0;padding:14px 16px;border:1px solid #8e1018;border-left-width:4px;border-radius:6px;background:#fff7f3;font:15px/1.5 Arial,sans-serif;display:flex;flex-direction:column;gap:6px}.help-strip strong{font-size:16px;color:#8e1018}.help-strip a{color:#8e1018;font-weight:700}.help-strip em{font-size:13px;color:#625b53;font-style:normal}

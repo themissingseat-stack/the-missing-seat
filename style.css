@@ -333,3 +333,4 @@
   .resource-hero .lead{font-size:16px;line-height:1.5;margin:0}
   .resource-controls{gap:12px;margin-top:18px}
 }
+.resource-pointer{margin:26px 0 0;font-size:16px;color:var(--muted)}.resource-pointer a{color:var(--red);font-weight:700}

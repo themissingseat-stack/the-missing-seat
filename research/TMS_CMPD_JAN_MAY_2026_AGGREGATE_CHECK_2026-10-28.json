@@ -1,0 +1,126 @@
+{
+  "retrieved_date": "2026-10-28",
+  "source": "https://gis.charlottenc.gov/arcgis/rest/services/CMPD/Officer_Traffic_Stop/MapServer/0/query?f=json&where=Month_of_Stop+%3E%3D+%272026%2F01%27+AND+Month_of_Stop+%3C%3D+%272026%2F05%27&groupByFieldsForStatistics=Driver_Race%2CWas_a_Search_Conducted&outStatistics=%5B%7B%22statisticType%22%3A+%22count%22%2C+%22onStatisticField%22%3A+%22OBJECTID%22%2C+%22outStatisticFieldName%22%3A+%22n%22%7D%5D&returnGeometry=false&orderByFields=Driver_Race%2CWas_a_Search_Conducted",
+  "parameters": {
+    "f": "json",
+    "where": "Month_of_Stop >= '2026/01' AND Month_of_Stop <= '2026/05'",
+    "groupByFieldsForStatistics": "Driver_Race,Was_a_Search_Conducted",
+    "outStatistics": "[{\"statisticType\": \"count\", \"onStatisticField\": \"OBJECTID\", \"outStatisticFieldName\": \"n\"}]",
+    "returnGeometry": "false",
+    "orderByFields": "Driver_Race,Was_a_Search_Conducted"
+  },
+  "response": {
+    "displayFieldName": "",
+    "fieldAliases": {
+      "Driver_Race": "Driver_Race",
+      "Was_a_Search_Conducted": "Was_a_Search_Conducted",
+      "n": "n"
+    },
+    "fields": [
+      {
+        "name": "Driver_Race",
+        "type": "esriFieldTypeString",
+        "alias": "Driver_Race",
+        "length": 20
+      },
+      {
+        "name": "Was_a_Search_Conducted",
+        "type": "esriFieldTypeString",
+        "alias": "Was_a_Search_Conducted",
+        "length": 3
+      },
+      {
+        "name": "n",
+        "type": "esriFieldTypeInteger",
+        "alias": "n"
+      }
+    ],
+    "features": [
+      {
+        "attributes": {
+          "Driver_Race": null,
+          "Was_a_Search_Conducted": "NO",
+          "n": 4
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Asian",
+          "Was_a_Search_Conducted": "NO",
+          "n": 998
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Asian",
+          "Was_a_Search_Conducted": "YES",
+          "n": 15
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Black",
+          "Was_a_Search_Conducted": "NO",
+          "n": 23326
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Black",
+          "Was_a_Search_Conducted": "YES",
+          "n": 2501
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Native American",
+          "Was_a_Search_Conducted": "NO",
+          "n": 60
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Native American",
+          "Was_a_Search_Conducted": "YES",
+          "n": 2
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Other/Unknown",
+          "Was_a_Search_Conducted": "NO",
+          "n": 2156
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "Other/Unknown",
+          "Was_a_Search_Conducted": "YES",
+          "n": 37
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "White",
+          "Was_a_Search_Conducted": "NO",
+          "n": 15883
+        }
+      },
+      {
+        "attributes": {
+          "Driver_Race": "White",
+          "Was_a_Search_Conducted": "YES",
+          "n": 414
+        }
+      }
+    ]
+  },
+  "calculation": {
+    "all_stop_rows_including_unknown_race": 45396,
+    "black_race_stop_rows": 25827,
+    "black_race_stop_share_percent": 56.89267776896643,
+    "all_search_yes_rows": 2969,
+    "black_race_search_yes_rows": 2501,
+    "black_race_search_share_percent": 84.23711687436847
+  }
+}

@@ -324,3 +324,12 @@
   .site-footer{padding:30px 20px;overflow-wrap:anywhere}
   .site-footer img{width:40px;height:auto}
 }
+.resource-caution{margin:14px 0 0;border:1px solid #cfc7bb;border-radius:8px;padding:0 14px;background:#faf7f1}
+.resource-caution summary{cursor:pointer;padding:12px 0;font:700 13px Arial,sans-serif;letter-spacing:.04em}
+.resource-caution p{font-size:16px;line-height:1.55;margin:0 0 12px}
+@media(max-width:620px){
+  .resource-page{padding:26px 20px 50px}
+  .resource-hero h1{font-size:clamp(30px,9vw,36px);margin:6px 0 10px}
+  .resource-hero .lead{font-size:16px;line-height:1.5;margin:0}
+  .resource-controls{gap:12px;margin-top:18px}
+}

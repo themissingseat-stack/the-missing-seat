@@ -1,10 +1,10 @@
-# TMS Daily Editorial Queue — Reconciled 2026-10-27
+# TMS Daily Editorial Queue — Reconciled 2026-10-28
 
 **Source of truth:** verified live pages and published HTML/commits take precedence over stale queue labels. The staged JSON on branch `tms-daily-queue-2026-09-01` is the machine-readable companion to this ledger.
 
-## Priority override — next eligible publication slot (October 17, 2026)
+## Priority override — fulfilled October 28, 2026
 
-**Release before queue position 1:** **Racism Is Over. So Why Are Black Drivers Still a Competition?** (`racism-is-over-charlotte-police-scandal`). **Status:** `approved_priority_staged_not_live`. Full Regular Joe editorial package: [Charlotte police racism publication package](editorial-packages/TMS_CHARLOTTE_RACISM_IS_OVER_PUBLICATION_PACKAGE_2026-10-17.md). Publish at the next available daily slot after factual refresh, final HTML/image/navigation/feed integration, and live URL verification. This is a special priority override, not a reorder or deletion of the approved numbered queue. After its publication, resume the numbered queue unchanged. Do not report the story as live before deployment and URL verification.
+**Racism Is Over. So Why Are Black Drivers Still a Competition?** is published and publicly verified. Its defined current-data calculation and dated personnel chronology passed both refreshed reviews. The override is closed; resume the numbered queue, beginning with the military-AI safety-check article. No second publication today.
 
 ## Mandatory Regular Joe comprehension and accountability test (added 2026-10-17)
 
@@ -35,23 +35,23 @@ Every **Full TMS Editorial Joe Package** must ensure that an ordinary reader fin
 
 | Ledger category | Count |
 |---|---:|
-| Full finished unpublished, eligible | 14 |
-| Full finished currently queued | 14 |
+| Full finished unpublished, eligible | 15 |
+| Full finished currently queued | 15 |
 | Retired/replaced finished editorials | 4 |
 | Requiring live/repository status verification | 0 |
 | Historical existing-website replacement versions, excluded from new inventory | 16 |
 | Replacements still awaiting installation | Not yet reconciled |
-| Unfinished/blocked including separate Charlotte priority release checks | 5 |
-| Follow-up research candidates | 3 |
+| Unfinished/blocked | 4 |
+| Follow-up research candidates | 4 |
 | Positive/solution research candidates, excluding completed packages | 4 |
 
 ## Approved finished queue
 
 | Position | Canonical title | Slug | Status | Closest comparator / material distinction | Source and remaining work |
 |---:|---|---|---|---|---|
-| 1 | The Military Wants AI Faster. Who Owns the Safety Check? | `the-military-wants-ai-faster-who-owns-the-safety-check` | approved_queued_full_finished |  | [Full package](editorial-packages/TMS_MILITARY_AI_SAFETY_CHECK_PUBLICATION_PACKAGE_2026-10-15.md). GAO survey covered 10 selected components and 10 selected use cases. Three-of-ten staffing figure was current as of February 2026. Refresh staffing, recommendation status and live uniqueness before publication. |
+| 1 | The Military Wants AI Faster. Who Owns the Safety Check? | `the-military-wants-ai-faster-who-owns-the-safety-check` | approved_queued_full_finished | Military AI governance, staffing and congressional oversight rather than human review of an individual AI accusation. | [Full package](editorial-packages/TMS_MILITARY_AI_SAFETY_CHECK_PUBLICATION_PACKAGE_2026-10-15.md). GAO survey covered 10 selected components and 10 selected use cases. Three-of-ten staffing figure was current as of February 2026. Refresh staffing, recommendation status and live uniqueness before publication. |
 | 2 | Raye Montague Helped Change Ship Design. Teach the Work Behind the Name. | `raye-montague-helped-change-ship-design-teach-the-work` | approved_queued_full_finished | They Trusted Black Women With Their Babies. Just Not With Power.: Black midwives and health authority versus named engineer's technical work, accurate recognition and practical skill/teaching access. | [Full package](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_RAYE_MONTAGUE_TEACH_THE_WORK_PUBLICATION_PACKAGE_2026-10-23.md). Historical explanatory piece; 2024 dedication/2025 coin not breaking news. No claim of sole finished-ship authorship, never-recognized history or calculated loss/savings. At release refresh source links, uniqueness and image credit/reuse; render and verify article/navigation. |
-| 3 | Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours. | `germany-raised-the-minimum-wage-the-paycheck-still-needs-the-hours` | approved_queued_full_finished |  | [Full package](editorial-packages/TMS_GERMANY_MINIMUM_WAGE_HOURS_PUBLICATION_PACKAGE_2026-10-16.md). Destatis figures are upper-limit estimates based on April 2025 data, not proof of individual raises or violations. Refresh rate, enforcement guidance and estimates before publication. |
+| 3 | Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours. | `germany-raised-the-minimum-wage-the-paycheck-still-needs-the-hours` | approved_queued_full_finished | Wages, recorded working time and labor enforcement rather than household energy debt and electricity disconnection. | [Full package](editorial-packages/TMS_GERMANY_MINIMUM_WAGE_HOURS_PUBLICATION_PACKAGE_2026-10-16.md). Destatis figures are upper-limit estimates based on April 2025 data, not proof of individual raises or violations. Refresh rate, enforcement guidance and estimates before publication. |
 | 4 | The Building Failed. The Children Lost the School Day. | `the-building-failed-the-children-lost-the-school-day` | approved_queued_full_finished | The Absence Rate Was Over 100%. The Oversight Had Already Stopped.: Physical facilities, instructional closures and local repair responsibility rather than federal absenteeism calculations and ESEA monitoring. | [Full package](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_SCHOOL_BUILDING_FAILED_CHILDREN_LOST_DAY_PUBLICATION_PACKAGE_2026-10-16.md). Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain. |
 | 5 | The Job Center Was Open. The Help Still Wasn't Accessible. | `the-job-center-was-open-the-help-still-wasnt-accessible` | approved_queued_full_finished | Two Agencies Fund the Support. The Worker Still Gets Left Waiting.: Access to job-center appointments and training rather than sequential VR/Medicaid support funding. | [Full package](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_JOB_CENTER_ACCESS_PUBLICATION_PACKAGE_2026-10-16.md). Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain. |
 | 6 | The Loan Rule Changed. Were the Instructions Ready? | `the-loan-rule-changed-were-the-instructions-ready` | approved_queued_full_finished | The College Took the Money. The Outcome Data Is Late.: Education's implementation instructions to loan servicers rather than institutions' outcome-data reporting. | [Full package](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_LOAN_RULE_CHANGED_INSTRUCTIONS_NOT_READY_PUBLICATION_PACKAGE_2026-10-16.md). Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain. |
@@ -63,8 +63,11 @@ Every **Full TMS Editorial Joe Package** must ensure that an ordinary reader fin
 | 12 | Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance. | `before-you-agree-to-a-hospital-payment-plan-ask-about-financial-assistance` | approved_queued_full_finished | Before You Cut Care, Did You Stop Paying More for the Same Care?: Medicare outpatient public spending versus patient's hospital-assistance eligibility, public policy access and separately billed providers. | [Full package](editorial-packages/TMS_HOSPITAL_ASSISTANCE_BEFORE_PAYMENT_PLAN_PUBLICATION_PACKAGE_2026-10-25.md). Evergreen service/accountability, not a new law or reported patient investigation. Refresh source/current example and live distinctness; render HTML and verify navigation at release. |
 | 13 | Wheelmap Helps People Plan. Now Track Which Barriers Come Down. | `wheelmap-helps-people-plan-now-track-which-barriers-come-down` | approved_queued_full_finished | The Apartment Was Available. Access Still Wasn't.: Specific housing accommodation dispute versus named German civic information initiative, local implementation and tracing physical repairs. | [Full package](editorial-packages/TMS_GERMANY_WHEELMAP_INFORMATION_TO_REPAIR_PUBLICATION_PACKAGE_2026-10-26.md). Evergreen positive/civic initiative, not October launch. Operator coverage not audited access outcome. Refresh roles/data wording, source links, distinctness and image reuse before HTML/public deployment. |
 | 14 | Theodor Wonja Michael Found a Second Route Into Education. Teach That Part Too. | `theodor-wonja-michael-found-a-second-route-into-education` | approved_queued_full_finished | When “Never Again” Does Not Include Everyone: Contemporary equality and FRA evidence versus a named educational route, archival preservation and practical admission/library action.; Germany Has to Decide What Kind of Country It Wants to Be: Current electoral democracy versus historical study access and full-life recognition. | [Full package](editorial-packages/TMS_THEODOR_WONJA_MICHAEL_SECOND_ROUTE_PUBLICATION_PACKAGE_2026-10-27.md). Historical/positive explanatory piece, not breaking acquisition news or measured program evaluation. Refresh sources/relevance/current arrangements at release; HTML/image rights/navigation/deployment work remain. |
+| 15 | Social Security Wants the Money Back. First, Check the Decision. | `social-security-wants-the-money-back-first-check-the-decision` | approved_queued_full_finished | Before You Cut Care, Did You Stop Paying More for the Same Care?: Medicare provider-payment policy versus individual SSA debt determinations, notice accuracy and reconsideration/waiver/rate routes. | [Full package](editorial-packages/TMS_SOCIAL_SECURITY_REPAYMENT_CHECK_DECISION_PUBLICATION_PACKAGE_2026-10-28.md). Not breaking policy news or an individual advice determination. FY2023 audit sample not a current invalid-debt rate. Refresh official guidance and relevance, HTML/image/navigation/deployment at release; space from other benefit/service pieces. |
 
 ## Published record — do not requeue
+
+- **October 28, 2026:** [Racism Is Over. So Why Are Black Drivers Still a Competition?](https://themissingseat.org/racism-is-over-charlotte-police-scandal.html). Priority release; article/home/archive/Justice & Law/RSS verified. Article commit `889a65119e326623c6f83983971e2d6a3d24c8ef`. Removed from blocked priority checks; no numbered reserve entry removed.
 
 - **October27,2026:** The Workers Were Teenagers. The Complaint System Was Built for Adults. Article/home/archive/Justice & Law/RSS live and exact blobs verified. Article commit `9abc4ff56116386c67777b9483b2d60a717e1393`. Removed from unpublished inventory.
 
@@ -126,11 +129,12 @@ No open live/repository discrepancies after October 26 checks. The college outco
 
 ## Today’s reconciliation
 
-- One publication, all five public surfaces verified: **The Workers Were Teenagers. The Complaint System Was Built for Adults.**
-- New complete double-reviewed Michael package approved and appended14; Germany2/2. Reserve14, with no title lost in the written-count correction from15.
-- Charlotte primary personnel source located and version discrepancy explained. Statistical definition/snapshot decision and final review remain; priority preserved.
-- Next numbered release: **The Military Wants AI Faster. Who Owns the Safety Check?**.
-- No existing website replacement installed. Counts and research detail: [October27 report](TMS_REPORTING_UPDATE_2026-10-27.md).
+- Charlotte priority published and verified across the article and four linked surfaces. Statistical and final-review gates cleared through a defined fresh city analysis, not forced agreement with older reported percentages.
+- New **Social Security Wants the Money Back. First, Check the Decision.** complete, twice reviewed, autoapproved and appended15.
+- Counts:15 finished unpublished/15 queued/4 retired/0 deployment discrepancies/4 unfinished/4 follow-up/4 positive research. Historical replacement inventory separate, installations remaining unknown.
+- Germany2/2 remains complete for this week; no new Germany package counted today. Raye Montague remains numbered2, between unrelated stories.
+- Next numbered release: **The Military Wants AI Faster. Who Owns the Safety Check?** after fresh checks. Today's one-publication slot used.
+- [October28 reporting update](TMS_REPORTING_UPDATE_2026-10-28.md) contains evidence, discovery briefs and count changes.
 
 ## October 16 editorial completion
 
@@ -274,4 +278,16 @@ Final October 22 reconciliation: all five public surfaces verified; the temporar
 - Charlotte primary personnel source located and version discrepancy explained. Statistical definition/snapshot decision and final review remain; priority preserved.
 - Next numbered release: **The Military Wants AI Faster. Who Owns the Safety Check?**.
 - No existing website replacement installed. Counts and research detail: [October27 report](TMS_REPORTING_UPDATE_2026-10-27.md).
+
+
+
+
+## October 28 priority release and new service package
+
+- Charlotte priority published and verified across the article and four linked surfaces. Statistical and final-review gates cleared through a defined fresh city analysis, not forced agreement with older reported percentages.
+- New **Social Security Wants the Money Back. First, Check the Decision.** complete, twice reviewed, autoapproved and appended15.
+- Counts:15 finished unpublished/15 queued/4 retired/0 deployment discrepancies/4 unfinished/4 follow-up/4 positive research. Historical replacement inventory separate, installations remaining unknown.
+- Germany2/2 remains complete for this week; no new Germany package counted today. Raye Montague remains numbered2, between unrelated stories.
+- Next numbered release: **The Military Wants AI Faster. Who Owns the Safety Check?** after fresh checks. Today's one-publication slot used.
+- [October28 reporting update](TMS_REPORTING_UPDATE_2026-10-28.md) contains evidence, discovery briefs and count changes.
 

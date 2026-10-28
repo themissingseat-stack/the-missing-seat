@@ -6,6 +6,14 @@
 
 **Racism Is Over. So Why Are Black Drivers Still a Competition?** is published and publicly verified. Its defined current-data calculation and dated personnel chronology passed both refreshed reviews. The override is closed; resume the numbered queue, beginning with the military-AI safety-check article. No second publication today.
 
+## Priority override — Jesse Lee Bond (approved; staged for next eligible daily slot)
+
+**His Death Was Called an Accident. His Great-Granddaughter Became a Supreme Court Justice.**
+Slug: `jesse-lee-bond-receipt`. Status: `approved_priority_staged_not_live`.
+Approved source package: user-supplied `TMS_Jesse_Lee_Bond_FOR_PUBLICATION(1).md`; exact prose must be preserved. Publish at the next eligible daily slot, no earlier than October 29, 2026, ahead of numbered position 1. The Charlotte override was fulfilled October 28. Do not renumber, delete, or reorder the numbered queue. No second editorial on October 28.
+
+**Release gates:** Save the complete approved package to `editorial-packages`; insert DOJ historical civil-rights-statutes URL as Receipt #10; verify NPS study status and every receipt URL; verify title/slug uniqueness and difference from “How Far Have We Come? Show Me the Receipt.”; render Short Version, homepage, archive, Race & Equal Humanity topic, RSS and sitemap; use actual publication date. If a factual or technical gate fails, block and report; do not rewrite prose. Call it live only after verifying the public URL and links. Social copy is held until publication.
+
 ## Mandatory Regular Joe comprehension and accountability test (added 2026-10-17)
 
 Every **Full TMS Editorial Joe Package** must ensure that an ordinary reader finishes the website editorial knowing:

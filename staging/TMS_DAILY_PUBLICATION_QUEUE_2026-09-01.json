@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-10-27",
+  "last_reconciled": "2026-10-28",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -23,9 +23,19 @@
   },
   "deployment": {
     "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "October27 preflight home/archive/RSS matched main; after publication all five linked public surfaces HTTP200 and exact blob matches, including new article6c8c0e184e79846ec2cc60e7aea658e960726f8c."
+    "status": "October28 preflight home/archive/RSS exactly matched main; new Charlotte article and four linked surfaces HTTP200 with exact committed blobs. Article1aaefa9098375443ab4fe2f5f89bb6848db9b748. RSS timestamp aligned to actual07:15:16Z publication commit; final propagation check recorded in report."
   },
   "published_record": [
+    {
+      "title": "Racism Is Over. So Why Are Black Drivers Still a Competition?",
+      "slug": "racism-is-over-charlotte-police-scandal.html",
+      "source": "editorial-packages/TMS_CHARLOTTE_RACISM_IS_OVER_PUBLICATION_PACKAGE_2026-10-17.md",
+      "publication_status": "published_live_verified",
+      "published_verified": "2026-10-28",
+      "article_commit": "889a65119e326623c6f83983971e2d6a3d24c8ef",
+      "publication_commit_timestamp": "2026-10-28T07:15:16Z",
+      "notes": "Standing Charlotte priority release; defined current city-data calculation replaces unreproduced older pair. Official dated personnel sequence, original reporting and counterevidence refreshed. Article/home/archive/Justice & Law/RSS HTTP200 and exact blobs verified; RSS timestamp subsequently aligned to actual commit. No original interview or visual browser QA claimed."
+    },
     {
       "title": "The Workers Were Teenagers. The Complaint System Was Built for Adults.",
       "slug": "the-workers-were-teenagers-the-complaint-system-was-built-for-adults.html",
@@ -605,17 +615,42 @@
       "review_1": "2026-10-27 original profile cross-checked against museum, DOMiD finding aid, dated acquisition record and publisher; limits documented",
       "review_2": "2026-10-27 complete TMS package, 1089-word prose, fairness, duplicates, action, source limitations; IG1003/DE599 characters",
       "notes": "Historical/positive explanatory piece, not breaking acquisition news or measured program evaluation. Refresh sources/relevance/current arrangements at release; HTML/image rights/navigation/deployment work remain."
+    },
+    {
+      "position": 15,
+      "title": "Social Security Wants the Money Back. First, Check the Decision.",
+      "canonical_title": "Social Security Wants the Money Back. First, Check the Decision.",
+      "slug": "social-security-wants-the-money-back-first-check-the-decision",
+      "source": "editorial-packages/TMS_SOCIAL_SECURITY_REPAYMENT_CHECK_DECISION_PUBLICATION_PACKAGE_2026-10-28.md",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "approval": "Standing automatic approval after sequential factual and editorial reviews",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "Before You Cut Care, Did You Stop Paying More for the Same Care?",
+          "slug": "before-you-cut-care-stop-paying-more-for-same-care.html",
+          "distinction": "Medicare provider-payment policy versus individual SSA debt determinations, notice accuracy and reconsideration/waiver/rate routes."
+        }
+      ],
+      "closest_queued_comparator": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
+      "material_distinction": "Hospital assistance/provider billing versus federal benefit-recovery decisions and distinct administrative requests.",
+      "review_1": "2026-10-28 actual audit case/sample checked against full report; current forms, reconsideration page, June2026 POMS and20CFR404.506 read; stale leaflet rates excluded",
+      "review_2": "2026-10-28 complete1031-word developed article, Short Version, seven receipts, disclosure, power/burden/counterargument, realistic action and870-character IG; live/repo/queue uniqueness and material difference checked",
+      "notes": "Not breaking policy news or an individual advice determination. FY2023 audit sample not a current invalid-debt rate. Refresh official guidance and relevance, HTML/image/navigation/deployment at release; space from other benefit/service pieces."
     }
   ],
   "counts": {
-    "full_finished_unpublished_eligible": 14,
-    "full_finished_currently_queued": 14,
+    "full_finished_unpublished_eligible": 15,
+    "full_finished_currently_queued": 15,
     "full_finished_retired_or_replaced": 4,
     "status_verification_required": 0,
     "historical_replacement_versions": 16,
     "replacements_still_pending_installation": null,
-    "unfinished_or_blocked": 5,
-    "follow_up_candidates": 3,
+    "unfinished_or_blocked": 4,
+    "follow_up_candidates": 4,
     "positive_solution_candidates": 4
   },
   "pending_priority_requests": [
@@ -635,15 +670,9 @@
     }
   ],
   "website_quality_status": {
-    "as_of": "2026-10-08",
-    "status": "release_held",
-    "finding": "Live archive accessible. Pallet hiring appears twice; Cloud is visible. Six approved finished stories remain queued. No publication attempted: exact FCC implementation date link inaccessible and current deployment configuration not independently recovered.",
-    "priority_order": [
-      "Verify FCC effective date and current deployment source before releasing first queued story",
-      "Remove duplicate pallet archive card without recreating article",
-      "Deliver second Germany full package by October 9",
-      "Preserve existing website reconciliation backlog and replacement work"
-    ]
+    "as_of": "2026-10-28",
+    "status": "publication_and_linked_surfaces_verified",
+    "finding": "Current production source confirmed by exact hashes; established responsive header, Short Version and full-story structure used. Article/RSS structural checks passed. No visual browser QA claimed. Historical October8 release-held note superseded; remaining historical replacement installation status still requires reconciliation."
   },
   "story_briefs_2026_09_28": [
     {
@@ -1124,6 +1153,31 @@
       "review_1": "2026-10-27 original profile cross-checked against museum, DOMiD finding aid, dated acquisition record and publisher; limits documented",
       "review_2": "2026-10-27 complete TMS package, 1089-word prose, fairness, duplicates, action, source limitations; IG1003/DE599 characters",
       "notes": "Historical/positive explanatory piece, not breaking acquisition news or measured program evaluation. Refresh sources/relevance/current arrangements at release; HTML/image rights/navigation/deployment work remain."
+    },
+    {
+      "position": 15,
+      "title": "Social Security Wants the Money Back. First, Check the Decision.",
+      "canonical_title": "Social Security Wants the Money Back. First, Check the Decision.",
+      "slug": "social-security-wants-the-money-back-first-check-the-decision",
+      "source": "editorial-packages/TMS_SOCIAL_SECURITY_REPAYMENT_CHECK_DECISION_PUBLICATION_PACKAGE_2026-10-28.md",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "approval": "Standing automatic approval after sequential factual and editorial reviews",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "Before You Cut Care, Did You Stop Paying More for the Same Care?",
+          "slug": "before-you-cut-care-stop-paying-more-for-same-care.html",
+          "distinction": "Medicare provider-payment policy versus individual SSA debt determinations, notice accuracy and reconsideration/waiver/rate routes."
+        }
+      ],
+      "closest_queued_comparator": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
+      "material_distinction": "Hospital assistance/provider billing versus federal benefit-recovery decisions and distinct administrative requests.",
+      "review_1": "2026-10-28 actual audit case/sample checked against full report; current forms, reconsideration page, June2026 POMS and20CFR404.506 read; stale leaflet rates excluded",
+      "review_2": "2026-10-28 complete1031-word developed article, Short Version, seven receipts, disclosure, power/burden/counterargument, realistic action and870-character IG; live/repo/queue uniqueness and material difference checked",
+      "notes": "Not breaking policy news or an individual advice determination. FY2023 audit sample not a current invalid-debt rate. Refresh official guidance and relevance, HTML/image/navigation/deployment at release; space from other benefit/service pieces."
     }
   ],
   "status_verification_ledger": [],
@@ -1744,6 +1798,11 @@
     {
       "original_slug": "he-asked-to-break-his-fast-he-allegedly-lost-his-job",
       "trigger": "Published decree implementation/compliance outcome"
+    },
+    {
+      "original_slug": "racism-is-over-charlotte-police-scandal",
+      "trigger": "Verified encounter/case-review method, aggregate outcomes, notifications, corrections, compensation or other delivered relief after publication; no new relief count certified.",
+      "source": "editorial-packages/TMS_CHARLOTTE_RACISM_IS_OVER_PUBLICATION_PACKAGE_2026-10-17.md"
     }
   ],
   "positive_solution_candidates": [
@@ -1773,16 +1832,16 @@
   "priority_override": {
     "title": "Racism Is Over. So Why Are Black Drivers Still a Competition?",
     "slug": "racism-is-over-charlotte-police-scandal",
-    "status": "approved_priority_pending_release_and_standalone_completeness_checks",
+    "status": "published_live_verified",
     "source": "editorial-packages/TMS_CHARLOTTE_RACISM_IS_OVER_PUBLICATION_PACKAGE_2026-10-17.md",
-    "blockers": [
-      "Reconcile reported56%/83% with city/state snapshot/category definitions, or fully adopt the defined current city analysis after review.",
-      "Final factual/legal/prose review, including refreshed personnel snapshot before release. Primary October19 personnel release now supplies a dated per-person sequence; do not use its stale four-resignation summary as a current total."
-    ],
+    "blockers": [],
     "research_update_2026_10_23": "Named DA report located; state reporting mandate repeal verified from legislature/SBI. See TMS_REPORTING_UPDATE_2026-10-23.md. Priority retained; not released.",
     "research_update_2026_10_25": "Direct named DA attribution integrated in article; standalone FB/IG present. Remains priority-approved but not release-cleared; no new finished count.",
     "research_update_2026_10_26": "Primary aggregate query responses saved in research/; current race-field shares56.9%/84.2%, non-Hispanic alternative56.5%/84.0% do not reproduce original pair. Canada comparator updated from official current index and October8 notice. Not release-cleared.",
-    "research_update_2026_10_27": "Official CMPD October19 source found; its Larsen update resolves the four-versus-five resignation discrepancy on that date. Dated per-person sequence and separate SBI/Flock charge added. Underlying Larsen PIR still lacks resignation; Todman PDF returned403, neither substituted for updated primary webpage. Statistical and final-review gate remains."
+    "research_update_2026_10_27": "Official CMPD October19 source found; its Larsen update resolves the four-versus-five resignation discrepancy on that date. Dated per-person sequence and separate SBI/Flock charge added. Underlying Larsen PIR still lacks resignation; Todman PDF returned403, neither substituted for updated primary webpage. Statistical and final-review gate remains.",
+    "active": false,
+    "published_verified": "2026-10-28",
+    "resolution": "Adopted reproducible current race-field analysis after review instead of forcing agreement with an old reported pair; dated official personnel snapshot and full two-review pass. Released under priority override; numbered queue unchanged."
   },
   "daily_editorial_completion_2026_10_18": {
     "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
@@ -2206,5 +2265,53 @@
     "full_completed": 1,
     "existing_priority_advanced": 1,
     "rural_research_advanced": 1
+  },
+  "website_quality_history": [
+    {
+      "as_of": "2026-10-08",
+      "status": "release_held",
+      "finding": "Live archive accessible. Pallet hiring appears twice; Cloud is visible. Six approved finished stories remain queued. No publication attempted: exact FCC implementation date link inaccessible and current deployment configuration not independently recovered.",
+      "priority_order": [
+        "Verify FCC effective date and current deployment source before releasing first queued story",
+        "Remove duplicate pallet archive card without recreating article",
+        "Deliver second Germany full package by October 9",
+        "Preserve existing website reconciliation backlog and replacement work"
+      ]
+    }
+  ],
+  "daily_editorial_completion_2026_10_28": {
+    "title": "Social Security Wants the Money Back. First, Check the Decision.",
+    "source": "editorial-packages/TMS_SOCIAL_SECURITY_REPAYMENT_CHECK_DECISION_PUBLICATION_PACKAGE_2026-10-28.md",
+    "reviews_completed": 2,
+    "status": "approved_queued_full_finished",
+    "position": 15
+  },
+  "reconciliation_notes_2026_10_28": {
+    "publication": "Racism Is Over. So Why Are Black Drivers Still a Competition?",
+    "release_count": 1,
+    "priority_resolved": true,
+    "new_full_editorial": "Social Security Wants the Money Back. First, Check the Decision.",
+    "counts": {
+      "full_finished_unpublished_eligible": 15,
+      "full_finished_currently_queued": 15,
+      "full_finished_retired_or_replaced": 4,
+      "status_verification_required": 0,
+      "historical_replacement_versions": 16,
+      "replacements_still_pending_installation": null,
+      "unfinished_or_blocked": 4,
+      "follow_up_candidates": 4,
+      "positive_solution_candidates": 4
+    },
+    "next_numbered_story": "The Military Wants AI Faster. Who Owns the Safety Check?",
+    "germany": "2/2 remains complete; no additional Germany production counted today",
+    "source": "TMS_REPORTING_UPDATE_2026-10-28.md",
+    "revisions": "No existing-website replacement installed; remaining installation count unknown."
+  },
+  "discovery_2026_10_28": {
+    "source": "TMS_REPORTING_UPDATE_2026-10-28.md",
+    "records": 3,
+    "new_full_completed": 1,
+    "existing_priority_released": 1,
+    "positive_research_advanced": 1
   }
 }

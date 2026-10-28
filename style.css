@@ -282,3 +282,17 @@
 .article-content .full-story[open]>summary{border-bottom:1px solid #d9cec0}
 .article-content .full-story-body{padding:24px clamp(18px,3vw,30px) 30px}
 @media(max-width:600px){.article-content .short-version{margin-top:20px;padding:18px}.article-content .short-version li{margin-bottom:10px}.article-content .full-story>summary{padding:16px 18px}.article-content .full-story-body{padding:18px}}
+
+/* Mobile review 2026-10-28: one navigation, readable outlined actions. */
+@media (max-width:1100px){
+  .site-header > nav.desktop-nav{display:none !important}
+  .site-header > details.mobile-menu{display:block;flex:0 0 auto;margin-left:auto}
+  .site-header{flex-wrap:nowrap}
+  .site-header .brand{max-width:calc(100% - 88px)}
+}
+@media (min-width:1101px){.site-header > details.mobile-menu{display:none}}
+/* The light-background outline button must not inherit the hero's white text. */
+.button.secondary{color:var(--ink)}
+.hero .button.secondary{color:#fff}
+.button.secondary:focus-visible,.button.secondary:hover{background:#efe3d0}
+.hero .button.secondary:focus-visible,.hero .button.secondary:hover{background:rgba(255,255,255,.12)}

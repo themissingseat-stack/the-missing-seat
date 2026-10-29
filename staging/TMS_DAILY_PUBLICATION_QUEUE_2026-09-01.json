@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-10-28",
+  "last_reconciled": "2026-10-29",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -23,9 +23,18 @@
   },
   "deployment": {
     "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "October28 preflight home/archive/RSS exactly matched main; new Charlotte article and four linked surfaces HTTP200 with exact committed blobs. Article1aaefa9098375443ab4fe2f5f89bb6848db9b748. RSS timestamp aligned to actual07:15:16Z publication commit; final propagation check recorded in report."
+    "status": "October29 preflight home/archive/RSS exactly matched main; post-release article, homepage, archive, Race & Equal Humanity, RSS, sitemap and PNG HTTP200 with correct links and exact current GitHub blobs. Homepage's current main SHA41716df9127679274946582c7bd8a823345282c6 reflects preserved external changes, not a rollback."
   },
   "published_record": [
+    {
+      "title": "His Death Was Called an Accident. His Great-Granddaughter Became a Supreme Court Justice.",
+      "slug": "jesse-lee-bond-receipt.html",
+      "source": "editorial-packages/TMS_JESSE_LEE_BOND_APPROVED_MASTER_2026-10-28.md",
+      "publication_status": "published_live_verified",
+      "published_verified": "2026-10-29",
+      "article_commit": "56e3d2dbab189e01280a0baba17e0b495c5b7ee3",
+      "notes": "Recovered complete user-approved master; exact1448-word article prose preserved (body SHA2567fe383813dbc0f25204c2b99cad880b60e621d87e548a4f79b0a299dad2ca763). Actual date and receipt links completed; both release reviews passed. Article, homepage, archive, Race & Equal Humanity, RSS, sitemap and PNG HTTP200; current main/public blobs matched. No visual browser QA claimed."
+    },
     {
       "title": "Racism Is Over. So Why Are Black Drivers Still a Competition?",
       "slug": "racism-is-over-charlotte-police-scandal.html",
@@ -640,17 +649,40 @@
       "review_1": "2026-10-28 actual audit case/sample checked against full report; current forms, reconsideration page, June2026 POMS and20CFR404.506 read; stale leaflet rates excluded",
       "review_2": "2026-10-28 complete1031-word developed article, Short Version, seven receipts, disclosure, power/burden/counterargument, realistic action and870-character IG; live/repo/queue uniqueness and material difference checked",
       "notes": "Not breaking policy news or an individual advice determination. FY2023 audit sample not a current invalid-debt rate. Refresh official guidance and relevance, HTML/image/navigation/deployment at release; space from other benefit/service pieces."
+    },
+    {
+      "position": 16,
+      "title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
+      "canonical_title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
+      "slug": "niger-stopped-river-blindness-transmission-one-programme-helped-another",
+      "source": "editorial-packages/TMS_NIGER_ONE_PROGRAMME_HELPED_ANOTHER_PUBLICATION_PACKAGE_2026-10-29.md",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "approval": "Standing automatic approval after two sequential reviews",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
+          "slug": "a-seat-was-made-timor-leste-kept-showing-up.html",
+          "distinction": "Niger vector control, lymphatic-filariasis programme contribution and defined verification surveys versus Timor-Leste's different diseases and delivery history."
+        }
+      ],
+      "review_1": "2026-10-29 WHO announcement, named-worker account, October9 country tables, March original research and correction checked independently against draft; chronology, defined survey and claim limits pass",
+      "review_2": "2026-10-29 complete985-word developed article, Short Version, power/burden/benefit, limitations, realistic action, six receipts, disclosure, excerpt, image concept, FB and769-character IG; actual live/repo/queue uniqueness checked",
+      "notes": "Established January2025 achievement, not new October verification. No global eradication, cure count or universal integration claim. Recheck current status/relevance/links at release; HTML, image rights and public navigation/deployment remain."
     }
   ],
   "counts": {
-    "full_finished_unpublished_eligible": 15,
-    "full_finished_currently_queued": 15,
+    "full_finished_unpublished_eligible": 16,
+    "full_finished_currently_queued": 16,
     "full_finished_retired_or_replaced": 4,
     "status_verification_required": 0,
     "historical_replacement_versions": 16,
     "replacements_still_pending_installation": null,
     "unfinished_or_blocked": 4,
-    "follow_up_candidates": 4,
+    "follow_up_candidates": 5,
     "positive_solution_candidates": 4
   },
   "pending_priority_requests": [
@@ -670,9 +702,9 @@
     }
   ],
   "website_quality_status": {
-    "as_of": "2026-10-28",
+    "as_of": "2026-10-29",
     "status": "publication_and_linked_surfaces_verified",
-    "finding": "Current production source confirmed by exact hashes; established responsive header, Short Version and full-story structure used. Article/RSS structural checks passed. No visual browser QA claimed. Historical October8 release-held note superseded; remaining historical replacement installation status still requires reconciliation."
+    "finding": "Established responsive header, Short Version, full-story and single disclosure preserved. HTML structure and XML parsed; neutral1200x630 PNG visually inspected. No visual browser QA claimed. No existing-website replacement installed; historical remaining-installations total unknown."
   },
   "story_briefs_2026_09_28": [
     {
@@ -1178,6 +1210,29 @@
       "review_1": "2026-10-28 actual audit case/sample checked against full report; current forms, reconsideration page, June2026 POMS and20CFR404.506 read; stale leaflet rates excluded",
       "review_2": "2026-10-28 complete1031-word developed article, Short Version, seven receipts, disclosure, power/burden/counterargument, realistic action and870-character IG; live/repo/queue uniqueness and material difference checked",
       "notes": "Not breaking policy news or an individual advice determination. FY2023 audit sample not a current invalid-debt rate. Refresh official guidance and relevance, HTML/image/navigation/deployment at release; space from other benefit/service pieces."
+    },
+    {
+      "position": 16,
+      "title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
+      "canonical_title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
+      "slug": "niger-stopped-river-blindness-transmission-one-programme-helped-another",
+      "source": "editorial-packages/TMS_NIGER_ONE_PROGRAMME_HELPED_ANOTHER_PUBLICATION_PACKAGE_2026-10-29.md",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "approval": "Standing automatic approval after two sequential reviews",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
+          "slug": "a-seat-was-made-timor-leste-kept-showing-up.html",
+          "distinction": "Niger vector control, lymphatic-filariasis programme contribution and defined verification surveys versus Timor-Leste's different diseases and delivery history."
+        }
+      ],
+      "review_1": "2026-10-29 WHO announcement, named-worker account, October9 country tables, March original research and correction checked independently against draft; chronology, defined survey and claim limits pass",
+      "review_2": "2026-10-29 complete985-word developed article, Short Version, power/burden/benefit, limitations, realistic action, six receipts, disclosure, excerpt, image concept, FB and769-character IG; actual live/repo/queue uniqueness checked",
+      "notes": "Established January2025 achievement, not new October verification. No global eradication, cure count or universal integration claim. Recheck current status/relevance/links at release; HTML, image rights and public navigation/deployment remain."
     }
   ],
   "status_verification_ledger": [],
@@ -1803,6 +1858,11 @@
       "original_slug": "racism-is-over-charlotte-police-scandal",
       "trigger": "Verified encounter/case-review method, aggregate outcomes, notifications, corrections, compensation or other delivered relief after publication; no new relief count certified.",
       "source": "editorial-packages/TMS_CHARLOTTE_RACISM_IS_OVER_PUBLICATION_PACKAGE_2026-10-17.md"
+    },
+    {
+      "original_slug": "jesse-lee-bond-receipt",
+      "source": "editorial-packages/TMS_JESSE_LEE_BOND_APPROVED_MASTER_2026-10-28.md",
+      "trigger": "Material documentary or remedial development: death-record correction, original coroner/trial evidence, grave marker or NPS study findings/recommendation; no new remedy asserted."
     }
   ],
   "positive_solution_candidates": [
@@ -1817,10 +1877,10 @@
       "status": "research_not_finished"
     },
     {
-      "title": "River-blindness elimination progress and remaining communities",
+      "title": "Yanomami cross-border river-blindness delivery: who remains outside sustained coverage?",
       "source": "https://www.who.int/publications/journals/weekly-epidemiological-record/wer101-40",
       "status": "research_only_not_finished",
-      "notes": "Read country tables, verify maintenance and seek frontline account; no country outcome claim made."
+      "notes": "Niger country mechanism completed separately; remaining Americas/Indigenous cross-border evidence and action materially distinct. Seek treatment/surveillance, funding and attributable frontline account; programme synthesis is not a causal evaluation."
     },
     {
       "title": "Tribal community health-aide expansion: did planning become paid local care?",
@@ -1830,18 +1890,14 @@
     }
   ],
   "priority_override": {
-    "title": "Racism Is Over. So Why Are Black Drivers Still a Competition?",
-    "slug": "racism-is-over-charlotte-police-scandal",
+    "title": "His Death Was Called an Accident. His Great-Granddaughter Became a Supreme Court Justice.",
+    "slug": "jesse-lee-bond-receipt",
+    "source": "editorial-packages/TMS_JESSE_LEE_BOND_APPROVED_MASTER_2026-10-28.md",
     "status": "published_live_verified",
-    "source": "editorial-packages/TMS_CHARLOTTE_RACISM_IS_OVER_PUBLICATION_PACKAGE_2026-10-17.md",
-    "blockers": [],
-    "research_update_2026_10_23": "Named DA report located; state reporting mandate repeal verified from legislature/SBI. See TMS_REPORTING_UPDATE_2026-10-23.md. Priority retained; not released.",
-    "research_update_2026_10_25": "Direct named DA attribution integrated in article; standalone FB/IG present. Remains priority-approved but not release-cleared; no new finished count.",
-    "research_update_2026_10_26": "Primary aggregate query responses saved in research/; current race-field shares56.9%/84.2%, non-Hispanic alternative56.5%/84.0% do not reproduce original pair. Canada comparator updated from official current index and October8 notice. Not release-cleared.",
-    "research_update_2026_10_27": "Official CMPD October19 source found; its Larsen update resolves the four-versus-five resignation discrepancy on that date. Dated per-person sequence and separate SBI/Flock charge added. Underlying Larsen PIR still lacks resignation; Todman PDF returned403, neither substituted for updated primary webpage. Statistical and final-review gate remains.",
     "active": false,
-    "published_verified": "2026-10-28",
-    "resolution": "Adopted reproducible current race-field analysis after review instead of forcing agreement with an old reported pair; dated official personnel snapshot and full two-review pass. Released under priority override; numbered queue unchanged."
+    "published_verified": "2026-10-29",
+    "blockers": [],
+    "resolution": "Fulfilled approved next-slot override ahead of numbered queue. Complete master recovered and registered as finished before publication; immediately moved to published record. Numbered fifteen retained in exact relative order; Niger appended16. No second editorial today."
   },
   "daily_editorial_completion_2026_10_18": {
     "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
@@ -2313,5 +2369,51 @@
     "new_full_completed": 1,
     "existing_priority_released": 1,
     "positive_research_advanced": 1
-  }
+  },
+  "priority_override_history": [
+    {
+      "title": "Racism Is Over. So Why Are Black Drivers Still a Competition?",
+      "slug": "racism-is-over-charlotte-police-scandal",
+      "status": "published_live_verified",
+      "source": "editorial-packages/TMS_CHARLOTTE_RACISM_IS_OVER_PUBLICATION_PACKAGE_2026-10-17.md",
+      "blockers": [],
+      "research_update_2026_10_23": "Named DA report located; state reporting mandate repeal verified from legislature/SBI. See TMS_REPORTING_UPDATE_2026-10-23.md. Priority retained; not released.",
+      "research_update_2026_10_25": "Direct named DA attribution integrated in article; standalone FB/IG present. Remains priority-approved but not release-cleared; no new finished count.",
+      "research_update_2026_10_26": "Primary aggregate query responses saved in research/; current race-field shares56.9%/84.2%, non-Hispanic alternative56.5%/84.0% do not reproduce original pair. Canada comparator updated from official current index and October8 notice. Not release-cleared.",
+      "research_update_2026_10_27": "Official CMPD October19 source found; its Larsen update resolves the four-versus-five resignation discrepancy on that date. Dated per-person sequence and separate SBI/Flock charge added. Underlying Larsen PIR still lacks resignation; Todman PDF returned403, neither substituted for updated primary webpage. Statistical and final-review gate remains.",
+      "active": false,
+      "published_verified": "2026-10-28",
+      "resolution": "Adopted reproducible current race-field analysis after review instead of forcing agreement with an old reported pair; dated official personnel snapshot and full two-review pass. Released under priority override; numbered queue unchanged."
+    }
+  ],
+  "daily_editorial_completion_2026_10_29": {
+    "title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
+    "source": "editorial-packages/TMS_NIGER_ONE_PROGRAMME_HELPED_ANOTHER_PUBLICATION_PACKAGE_2026-10-29.md",
+    "reviews_completed": 2,
+    "status": "approved_queued_full_finished",
+    "position": 16
+  },
+  "reconciliation_notes_2026_10_29": [
+    "Recovered approved Jesse Lee Bond priority master, registered full body and published after both release checks. This is not a newly authored editorial today.",
+    "Fifteen existing numbered reserve entries preserved; new Niger appended16; final16finished/16queued/4retired/0discrepancies/16historical replacements with remaining unknown/4unfinished/5follow-up/4positive research.",
+    "MilitaryAI read-only refresh: GAO recommendations remain open; three-of-ten staffing dated February2026, not a current census. Refresh and resolve all release checks when next due.",
+    "Germany weekOctober26–November1 already2/2 from Wheelmap and Michael, no extra delivery counted."
+  ],
+  "discovery_2026_10_29": [
+    {
+      "title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
+      "status": "completed_approved_queue16",
+      "source": "editorial-packages/TMS_NIGER_ONE_PROGRAMME_HELPED_ANOTHER_PUBLICATION_PACKAGE_2026-10-29.md"
+    },
+    {
+      "title": "His Death Was Called an Accident. His Great-Granddaughter Became a Supreme Court Justice.",
+      "status": "approved_master_recovered_published",
+      "source": "editorial-packages/TMS_JESSE_LEE_BOND_APPROVED_MASTER_2026-10-28.md"
+    },
+    {
+      "title": "Military AI: dated staffing evidence and open recommendations",
+      "status": "existing_queue_source_refresh_not_new_package",
+      "source": "https://www.gao.gov/products/gao-27-107837"
+    }
+  ]
 }

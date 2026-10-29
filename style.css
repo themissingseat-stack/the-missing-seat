@@ -452,3 +452,13 @@ main.participation .mission,main.participation .org small,main.participation .or
 .tp-btn:hover,.tp-btn:focus-visible{background:#6e0c13}
 .tp-note{margin:10px 0 0;color:var(--muted);font-size:14px}
 @media(min-width:860px){.take-part{grid-template-columns:repeat(3,1fr)}}
+
+/* Resources: routes into the directory */
+.resource-routes{margin-top:22px}
+.resource-routes .eyebrow{margin:0 0 8px}
+.resource-routes .route-links button{display:inline-flex;align-items:center;gap:6px;min-height:44px;border:1px solid #b9afa3;padding:8px 14px;font:700 14px Arial,sans-serif;letter-spacing:.03em;background:#fff;color:inherit;cursor:pointer}
+.resource-routes .route-links button span{font-weight:400;color:var(--muted)}
+.resource-routes .route-links button[aria-pressed="true"]{background:var(--red);border-color:var(--red);color:#fff}
+.resource-routes .route-links button[aria-pressed="true"] span{color:#f3d9d6}
+.resource-routes .route-links button:hover,.resource-routes .route-links button:focus-visible{border-color:var(--red)}
+.resource-routes .route-links a{display:inline-flex;align-items:center;min-height:44px;padding:8px 14px;font:700 14px Arial,sans-serif;color:var(--red);text-decoration:none}

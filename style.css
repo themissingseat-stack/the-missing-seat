@@ -421,6 +421,41 @@ main.participation .mission,main.participation .org small,main.participation .or
 .seat-filled a:focus-visible{outline:3px solid #1f1a14;outline-offset:3px}
 @media(max-width:760px){.seat-filled{grid-template-columns:1fr;margin:-20px 0 44px}}
 
+/* Density pass (Oct 29): smaller header and titles, tighter spacing, so real content
+   shows in the first screen on a laptop. Applies from 621px up; the phone layout is unchanged. */
+:root{--title:clamp(28px,2.8vw,38px)}
+html{scroll-padding-top:90px}
+@media(min-width:621px){
+  .site-header{padding-top:8px;padding-bottom:8px}
+  .brand img{width:46px;height:56px}
+  .brand span{padding-left:14px}
+  .brand b{font-size:24px}
+  main.participation,main.resource-page,main.archive-page,main.sharing-page,main.about{padding-top:20px}
+  main.participation h1,main.about h1,main.resource-page .resource-hero h1,main.archive-page .archive-intro h1,main.sharing-page h1{margin:4px 0 8px}
+  main.resource-page .lead,main.archive-page .archive-intro .lead,.sharing-page .sharing-lead,main.participation .intro,main.about .lead{font-size:17px;line-height:1.5}
+  main.archive-page .archive-intro{margin-bottom:14px}
+  main.resource-page .resource-note{font-size:15px;margin:8px 0 0}
+  main.resource-page>section{margin-top:22px}
+  main.resource-page h2,main.participation h2{font-size:clamp(21px,2vw,26px);margin:4px 0 8px}
+  main.participation h2{margin-top:24px}
+  .archive-tools{margin-bottom:.6rem}
+  .archive-tools input[type=search]{padding:.55rem .9rem}
+  .archive-search button{min-height:42px}
+  .archive-chips{margin:.5rem 0 .15rem}
+  .archive-chips button{min-height:34px;padding:.25rem .7rem;font-size:.85rem}
+  .about-section,.chair-section,.cards-section{padding-top:34px;padding-bottom:34px}
+  .about-section h2,.chair-section h2,.cards-section>h2{font-size:clamp(26px,2.6vw,34px);margin:6px 0 8px}
+  .topic-grid{margin:14px 0 36px}
+  .topic-grid a{padding:14px 18px 14px 0;gap:3px}
+  .topic-grid a strong{font-size:18px}
+  .topic-grid a span{font-size:15px;line-height:1.4}
+  .route-card,.tp-card{padding-top:14px;padding-bottom:14px}
+  main.about,main.sharing-page{max-width:1180px;margin-left:auto;margin-right:auto;padding-left:28px;padding-right:28px}
+  main.about>*{max-width:760px}
+  main.about h2{font-size:clamp(22px,2.2vw,28px);margin:30px 0 10px}
+  main.sharing-page .daily-entry{max-width:1000px;padding:clamp(20px,3vw,36px)}
+}
+
 /* Your Rights hub: two routes (practical guides / constitutional reference) */
 .rights-routes{display:grid;grid-template-columns:1fr;gap:16px;margin-top:22px}
 .route-card{border:1px solid #cfc7bb;border-top:3px solid var(--red);background:#fcfaf5;padding:18px 20px 16px}

@@ -16,8 +16,10 @@
   var bar = document.createElement('div');
   bar.className = 'archive-tools';
   bar.innerHTML =
+    '<form class="archive-search" role="search">' +
     '<label class="sr-only" for="archive-q">Search stories</label>' +
     '<input id="archive-q" type="search" placeholder="Search: housing, wages, Germany…" autocomplete="off">' +
+    '<button type="submit">Search</button></form>' +
     '<div class="archive-chips" role="group" aria-label="Filter by topic"></div>' +
     '<p class="archive-count" role="status" aria-live="polite"></p>';
   list.parentNode.insertBefore(bar, list);
@@ -50,5 +52,6 @@
     count.textContent = shown === data.length ? data.length + ' stories' : shown + ' of ' + data.length + ' stories' + (shown ? '' : ' — try fewer words or choose All');
   }
   q.addEventListener('input', update);
+  bar.querySelector('form').addEventListener('submit', function (e) { e.preventDefault(); update(); list.scrollIntoView({ behavior: 'smooth', block: 'start' }); });
   update();
 })();

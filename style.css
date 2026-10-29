@@ -394,3 +394,29 @@ main.participation .mission,main.participation .org small,main.participation .or
   .about-section,.chair-section,.cards-section{padding-top:56px;padding-bottom:56px}
   .about-section h2,.chair-section h2,.cards-section>h2{font-size:clamp(32px,3.4vw,46px)}
 }
+
+/* Editorials search button; Topics as described cards (Oct 29) */
+.archive-search{display:flex;gap:10px;align-items:stretch}
+.archive-search input[type=search]{flex:1;min-width:0}
+.archive-search button{flex:none;padding:0 24px;min-height:48px;border:0;border-radius:8px;background:var(--red);color:#fff;font:700 12px Arial,sans-serif;letter-spacing:.08em;text-transform:uppercase;cursor:pointer}
+.archive-search button:hover{background:#6f0c13}
+.archive-search button:focus-visible{outline:3px solid #1f1a14;outline-offset:3px}
+.topic-grid a{display:flex;flex-direction:column;gap:6px;padding:20px 22px 20px 0}
+.topic-grid a strong{font-size:20px;font-weight:700}
+.topic-grid a span{font-size:16px;line-height:1.45;color:var(--muted)}
+.topic-grid a:hover strong,.topic-grid a:focus-visible strong{color:var(--red);text-decoration:underline;text-underline-offset:4px}
+.topic-grid a:focus-visible{outline:3px solid #1f1a14;outline-offset:2px}
+@media(max-width:900px){.topic-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:620px){.topic-grid{grid-template-columns:1fr}.archive-search button{padding:0 16px}}
+@media(min-width:621px){.archive-tools{max-width:none;margin:0 0 1rem;padding:0}}
+
+/* Seat Filled: positive-news band on the home page */
+.seat-filled{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.5fr);gap:clamp(20px,4vw,56px);margin:-30px 0 64px;padding:clamp(22px,3vw,36px);background:#fffaf2;border:1px solid #d9cec0;border-left:4px solid var(--gold)}
+.seat-filled h3{font-size:clamp(24px,2.6vw,32px);line-height:1.2;margin:8px 0 16px}
+.seat-filled .sf-story h4{font-size:clamp(19px,1.8vw,23px);line-height:1.3;margin:6px 0 10px}
+.seat-filled .sf-story p:not(.story-meta){margin:0 0 12px;color:var(--muted)}
+.seat-filled .story-meta{margin:0;font:700 11px/1.4 Arial,sans-serif;letter-spacing:.1em;text-transform:uppercase;color:var(--red)}
+.seat-filled a{color:var(--red);font:800 12px Arial,sans-serif;letter-spacing:.04em;text-transform:uppercase;text-decoration:none}
+.seat-filled a:hover{text-decoration:underline;text-underline-offset:4px}
+.seat-filled a:focus-visible{outline:3px solid #1f1a14;outline-offset:3px}
+@media(max-width:760px){.seat-filled{grid-template-columns:1fr;margin:-20px 0 44px}}

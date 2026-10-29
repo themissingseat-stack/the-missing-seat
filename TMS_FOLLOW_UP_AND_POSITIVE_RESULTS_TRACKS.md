@@ -1,12 +1,14 @@
 # TMS follow-up and positive-results reporting tracks
-Updated October 28, 2026. Candidates are research leads, never finished inventory.
+Updated October 29, 2026. Candidates are research leads, never finished inventory.
 
-## Follow-up candidates: 4
+## Follow-up candidates: 5
 1. Germany police-complaints editorial: obtain subsequent Bundestag/commissioner reporting on complaint disposition, investigations completed, institutional action and individual relief. Baseline live slug: germany-created-a-seat-for-police-complaints-who-can-actually-use-it. Trigger: a verified later outcome, not the existing complaint count. No new outcome asserted.
 2. Tribal water-project maintenance: check whether IHS/federal funding rules and implementation changed after the documented oversight findings. Baseline live slug: the-water-project-was-built-the-missing-money-was-for-keeping-it-alive. Trigger: actual eligibility, operation/maintenance funding or service outcomes. No new remedy asserted.
 3. Religious accommodation at the coffee shop: track implementation of consent-decree policy review and training and any available compliance reports. Baseline slug: he-asked-to-break-his-fast-he-allegedly-lost-his-job. Trigger: a public compliance outcome or material legal development. Settlement itself does not demonstrate every future obligation was met.
 
 4. Charlotte police-text investigation: baseline `racism-is-over-charlotte-police-scandal`, published October28. Track preserved messages/encounters → audit method → cases reviewed → people notified → records/decisions corrected → compensation or other delivered relief. Publication establishes no relief total. A substantive outcome can support a cross-linked follow-up.
+
+5. Jesse Lee Bond: published October 29, baseline `jesse-lee-bond-receipt`. Track actual death-record correction, original coroner/trial documentation, grave marker and NPS study findings or recommendations. A current study is not a designated park or delivered remedy. No new correction or compensation asserted. Cross-link only a material development.
 
 For each: maintain finding → responsible authority → action after notice → concrete relief delivered → remaining burden. Do not publish another piece until evidence materially advances the original. Refresh original receipts and cross-link both pages at release.
 
@@ -14,7 +16,7 @@ For each: maintain finding → responsible authority → action after notice →
 1. Nepal care cooperatives: ILO describes training reaching 28 cooperatives and two domestic-worker groups after July 2026. Report on whether operating services, paid jobs, affordable places and worker voice followed. Training reach is not a measured care outcome. Seat: caregivers, women workers and families. Action: request operating/affordability/wage data from the implementing partners.
 2. Women agricultural producers in India: ILO describes April 2026 organizing and skills work with farmer-producer organizations and self-help groups. Obtain named participants with consent and independently check sales, bargaining access and net income rather than call attendance an economic result. Seat: small producers and informal women workers. Action: ask project partners for before/after results and costs.
 
-3. River-blindness elimination: WHO's October 9, 2026 Weekly Epidemiological Record includes a 2025–2026 progress report and an Americas report. Read the country tables and verify prevention, treatment coverage, maintenance funding and remaining communities before claiming a measured success. Seek a named frontline account. This is a research lead, not a full package or a national result asserted here. Source: https://www.who.int/publications/journals/weekly-epidemiological-record/wer101-40
+3. Yanomami cross-border river-blindness delivery: WHO's October 9, 2026 Americas report concerns remaining transmission and Indigenous health-agent participation. Obtain treatment/surveillance records, sustained funding and an attributable frontline account. Programme synthesis is not a measured causal evaluation. The distinct Niger mechanism package is now finished and queued, excluded from research-candidate totals. Source: https://www.who.int/publications/journals/weekly-epidemiological-record/wer101-40
 
 Primary starting receipt for the first two: https://www.ilo.org/resource/news/together-they-are-changing-their-communities-how-cooperatives-are-advancing
 These are separate leads under development; neither is a completed editorial or proven impact evaluation.
@@ -25,7 +27,7 @@ Source: editorial-packages/TMS_TIMOR_LESTE_A_SEAT_WAS_MADE_PUBLICATION_PACKAGE_2
 Full, finished and twice reviewed; published and publicly verified October24,2026. Excluded from unpublished and research-candidate counts.
 
 ## Priority release control
-Charlotte priority fulfilled October28 after both reviews and five-surface public verification. Dated current calculation replaces unreproduced older pair; personnel chronology and Canadian comparator refreshed. Now a follow-up outcome track, not blocked reserve. Resume numbered queue.
+Charlotte priority fulfilled October28 after both reviews and five-surface public verification. Dated current calculation replaces unreproduced older pair; personnel chronology and Canadian comparator refreshed. Now a follow-up outcome track, not blocked reserve. The later approved Jesse Lee Bond override was fulfilled October 29; resume numbered queue with military AI.
 
 ## Existing website replacements
 The historical 16 Regular Joe replacements remain a separate replacement-work record, excluded from new inventory. This run does not certify all 16 still await installation. Reconcile each replacement against current public text before reporting a remaining ready-to-replace total.
@@ -79,3 +81,10 @@ Standing research counts remain3follow-up/4positive. HRSA's FY26 cohort supplies
 Charlotte published and moved from release checks to the fourth follow-up research track. No resident remedy total certified. New Social Security repayment-decision package is complete, twice reviewed and queued15; not an unfinished candidate. Sources: editorial-packages/TMS_SOCIAL_SECURITY_REPAYMENT_CHECK_DECISION_PUBLICATION_PACKAGE_2026-10-28.md and TMS_REPORTING_UPDATE_2026-10-28.md.
 
 River-blindness lead advanced: WHO's October9 Americas report explains the remaining Yanomami cross-border focus, programme barriers and role of Indigenous health agents. A qualitative programme synthesis is not a measured causal evaluation of a new intervention. Seek treatment/surveillance records, sustained funding and an attributable consenting frontline account before full drafting. Existing positive research count remains4. Standing Germany police/Tribal water/coffee-shop follow-up tracks remain3 plus Charlotte; no new outcome for them certified today. Completed positive packages remain separate from research counts; Germany production this week remains2/2.
+
+
+## October 29 completed positive package and new follow-up
+
+**Niger Stopped River Blindness Transmission. One Health Programme Helped Another.** is complete, twice reviewed, automatically approved and queued 16. Source: editorial-packages/TMS_NIGER_ONE_PROGRAMME_HELPED_ANOTHER_PUBLICATION_PACKAGE_2026-10-29.md. Explains the documented vector-control/LF-programme contribution and testing rather than recycling Timor-Leste's delivery story. January 2025 milestone distinguished from October 2026 status report; no invented cure, economic gain or universal integration promise. New completion increases reserve to 16. The narrower Yanomami research lead remains distinct; positive research count stays 4.
+
+Recovered and published the complete approved Jesse Lee Bond package with exact prose preserved; fifth follow-up track added for concrete documentary/restoration developments. Publication establishes no new relief. Counts: 5 follow-up / 4 positive research. Germany production remains 2/2 this week. No existing website replacement installed. Full evidence and publication record: TMS_REPORTING_UPDATE_2026-10-29.md.

@@ -1,4 +1,4 @@
-# TMS Daily Editorial Queue — Reconciled 2026-10-28
+# TMS Daily Editorial Queue — Reconciled 2026-10-29
 
 **Source of truth:** verified live pages and published HTML/commits take precedence over stale queue labels. The staged JSON on branch `tms-daily-queue-2026-09-01` is the machine-readable companion to this ledger.
 
@@ -6,13 +6,9 @@
 
 **Racism Is Over. So Why Are Black Drivers Still a Competition?** is published and publicly verified. Its defined current-data calculation and dated personnel chronology passed both refreshed reviews. The override is closed; resume the numbered queue, beginning with the military-AI safety-check article. No second publication today.
 
-## Priority override — Jesse Lee Bond (approved; staged for next eligible daily slot)
+## Priority override — Jesse Lee Bond (fulfilled October 29, 2026)
 
-**His Death Was Called an Accident. His Great-Granddaughter Became a Supreme Court Justice.**
-Slug: `jesse-lee-bond-receipt`. Status: `approved_priority_staged_not_live`.
-Approved source package: user-supplied `TMS_Jesse_Lee_Bond_FOR_PUBLICATION(1).md`; exact prose must be preserved. Publish at the next eligible daily slot, no earlier than October 29, 2026, ahead of numbered position 1. The Charlotte override was fulfilled October 28. Do not renumber, delete, or reorder the numbered queue. No second editorial on October 28.
-
-**Release gates:** Save the complete approved package to `editorial-packages`; insert DOJ historical civil-rights-statutes URL as Receipt #10; verify NPS study status and every receipt URL; verify title/slug uniqueness and difference from “How Far Have We Come? Show Me the Receipt.”; render Short Version, homepage, archive, Race & Equal Humanity topic, RSS and sitemap; use actual publication date. If a factual or technical gate fails, block and report; do not rewrite prose. Call it live only after verifying the public URL and links. Social copy is held until publication.
+**[His Death Was Called an Accident. His Great-Granddaughter Became a Supreme Court Justice.](https://themissingseat.org/jesse-lee-bond-receipt.html)** is published and publicly verified. Recovered the complete user-approved master, saved it to [the publication package](editorial-packages/TMS_JESSE_LEE_BOND_APPROVED_MASTER_2026-10-28.md), preserved the exact article prose and completed the actual date and receipt URLs. Both release reviews passed. Article, homepage, archive, Race & Equal Humanity topic, RSS, sitemap and image returned HTTP 200; their bytes matched current main. The override is closed. The prior numbered fifteen retain their exact order; new Niger reserve is appended at 16. Today's one-publication slot is used.
 
 ## Mandatory Regular Joe comprehension and accountability test (added 2026-10-17)
 
@@ -43,14 +39,14 @@ Every **Full TMS Editorial Joe Package** must ensure that an ordinary reader fin
 
 | Ledger category | Count |
 |---|---:|
-| Full finished unpublished, eligible | 15 |
-| Full finished currently queued | 15 |
+| Full finished unpublished, eligible | 16 |
+| Full finished currently queued | 16 |
 | Retired/replaced finished editorials | 4 |
 | Requiring live/repository status verification | 0 |
 | Historical existing-website replacement versions, excluded from new inventory | 16 |
 | Replacements still awaiting installation | Not yet reconciled |
 | Unfinished/blocked | 4 |
-| Follow-up research candidates | 4 |
+| Follow-up research candidates | 5 |
 | Positive/solution research candidates, excluding completed packages | 4 |
 
 ## Approved finished queue
@@ -72,8 +68,11 @@ Every **Full TMS Editorial Joe Package** must ensure that an ordinary reader fin
 | 13 | Wheelmap Helps People Plan. Now Track Which Barriers Come Down. | `wheelmap-helps-people-plan-now-track-which-barriers-come-down` | approved_queued_full_finished | The Apartment Was Available. Access Still Wasn't.: Specific housing accommodation dispute versus named German civic information initiative, local implementation and tracing physical repairs. | [Full package](editorial-packages/TMS_GERMANY_WHEELMAP_INFORMATION_TO_REPAIR_PUBLICATION_PACKAGE_2026-10-26.md). Evergreen positive/civic initiative, not October launch. Operator coverage not audited access outcome. Refresh roles/data wording, source links, distinctness and image reuse before HTML/public deployment. |
 | 14 | Theodor Wonja Michael Found a Second Route Into Education. Teach That Part Too. | `theodor-wonja-michael-found-a-second-route-into-education` | approved_queued_full_finished | When “Never Again” Does Not Include Everyone: Contemporary equality and FRA evidence versus a named educational route, archival preservation and practical admission/library action.; Germany Has to Decide What Kind of Country It Wants to Be: Current electoral democracy versus historical study access and full-life recognition. | [Full package](editorial-packages/TMS_THEODOR_WONJA_MICHAEL_SECOND_ROUTE_PUBLICATION_PACKAGE_2026-10-27.md). Historical/positive explanatory piece, not breaking acquisition news or measured program evaluation. Refresh sources/relevance/current arrangements at release; HTML/image rights/navigation/deployment work remain. |
 | 15 | Social Security Wants the Money Back. First, Check the Decision. | `social-security-wants-the-money-back-first-check-the-decision` | approved_queued_full_finished | Before You Cut Care, Did You Stop Paying More for the Same Care?: Medicare provider-payment policy versus individual SSA debt determinations, notice accuracy and reconsideration/waiver/rate routes. | [Full package](editorial-packages/TMS_SOCIAL_SECURITY_REPAYMENT_CHECK_DECISION_PUBLICATION_PACKAGE_2026-10-28.md). Not breaking policy news or an individual advice determination. FY2023 audit sample not a current invalid-debt rate. Refresh official guidance and relevance, HTML/image/navigation/deployment at release; space from other benefit/service pieces. |
+| 16 | Niger Stopped River Blindness Transmission. One Health Programme Helped Another. | `niger-stopped-river-blindness-transmission-one-programme-helped-another` | approved_queued_full_finished | Timor-Leste: different country, diseases and evidence. Niger's vector-control/LF-programme contribution and defined verification surveys are the central explanation. | [Full package](editorial-packages/TMS_NIGER_ONE_PROGRAMME_HELPED_ANOTHER_PUBLICATION_PACKAGE_2026-10-29.md). Established January2025 achievement, not new October verification. No global eradication, cure count or universal integration claim. Recheck current status/relevance/links at release; HTML, image rights and public navigation/deployment remain. |
 
 ## Published record — do not requeue
+
+- **October 29, 2026:** [His Death Was Called an Accident. His Great-Granddaughter Became a Supreme Court Justice.](https://themissingseat.org/jesse-lee-bond-receipt.html). Approved priority fulfilled, exact prose preserved. Article and six supporting surfaces verified HTTP 200/current main. Commit `56e3d2dbab189e01280a0baba17e0b495c5b7ee3`. Immediately excluded from unpublished inventory; no numbered reserve removed.
 
 - **October 28, 2026:** [Racism Is Over. So Why Are Black Drivers Still a Competition?](https://themissingseat.org/racism-is-over-charlotte-police-scandal.html). Priority release; article/home/archive/Justice & Law/RSS verified. Article commit `889a65119e326623c6f83983971e2d6a3d24c8ef`. Removed from blocked priority checks; no numbered reserve entry removed.
 
@@ -125,7 +124,7 @@ The table records this workflow’s reconciled publication history, not every hi
 
 ## Status verification ledger
 
-No open live/repository discrepancies after October 26 checks. The college outcome-data article and homepage/archive/Democracy & Government topic/RSS all returned HTTP 200 with the correct slug. Before release, homepage/archive/RSS hashes matched GitHub main. Prior propagation issues remain closed.
+No open live/repository discrepancies after October 29 checks. Homepage, archive and RSS matched main before publication. After propagation, Bond article, homepage, archive, Race & Equal Humanity topic, RSS, sitemap and image all returned HTTP 200 and matched current main. A homepage change made outside this publication is preserved; no older homepage was restored. No visual browser QA claimed.
 
 ## Germany weekly package tracking
 
@@ -137,12 +136,12 @@ No open live/repository discrepancies after October 26 checks. The college outco
 
 ## Today’s reconciliation
 
-- Charlotte priority published and verified across the article and four linked surfaces. Statistical and final-review gates cleared through a defined fresh city analysis, not forced agreement with older reported percentages.
-- New **Social Security Wants the Money Back. First, Check the Decision.** complete, twice reviewed, autoapproved and appended15.
-- Counts:15 finished unpublished/15 queued/4 retired/0 deployment discrepancies/4 unfinished/4 follow-up/4 positive research. Historical replacement inventory separate, installations remaining unknown.
-- Germany2/2 remains complete for this week; no new Germany package counted today. Raye Montague remains numbered2, between unrelated stories.
-- Next numbered release: **The Military Wants AI Faster. Who Owns the Safety Check?** after fresh checks. Today's one-publication slot used.
-- [October28 reporting update](TMS_REPORTING_UPDATE_2026-10-28.md) contains evidence, discovery briefs and count changes.
+- Published and verified the approved Jesse Lee Bond priority package, preserving its exact prose and documentary limitations. Registered recovered full body before publication, then immediately moved it to published history. It is not counted as new authorship today.
+- New **Niger Stopped River Blindness Transmission. One Health Programme Helped Another.** complete, twice reviewed, autoapproved and appended at position 16. Full 985-word article, named-worker entry, six receipts, disclosure, power/burden/benefit, action, counterargument, FB and 769-character IG, excerpt and image concept.
+- Counts: **16 finished unpublished / 16 queued / 4 retired / 0 live discrepancies / 16 historical replacements, remaining installations unknown / 4 unfinished / 5 follow-up / 4 positive research**. No existing website replacement installed.
+- Germany's current weekly production remains **2/2**. Raye Montague remains numbered 2, keeping Black achievement and positive coverage visible.
+- Next numbered release: **The Military Wants AI Faster. Who Owns the Safety Check?**, subject to fresh release checks. GAO recommendations remain open; the staffing evidence is dated February 2026 rather than a current census.
+- [October 29 reporting update](TMS_REPORTING_UPDATE_2026-10-29.md) records receipts, reviews, publication verification and candidate changes. No second publication today.
 
 ## October 16 editorial completion
 
@@ -299,3 +298,13 @@ Final October 22 reconciliation: all five public surfaces verified; the temporar
 - Next numbered release: **The Military Wants AI Faster. Who Owns the Safety Check?** after fresh checks. Today's one-publication slot used.
 - [October28 reporting update](TMS_REPORTING_UPDATE_2026-10-28.md) contains evidence, discovery briefs and count changes.
 
+
+
+## October 29 priority publication and new positive reserve
+
+- Published and verified the approved Jesse Lee Bond priority package, preserving its exact prose and documentary limitations. Registered recovered full body before publication, then immediately moved it to published history. It is not counted as new authorship today.
+- New **Niger Stopped River Blindness Transmission. One Health Programme Helped Another.** complete, twice reviewed, autoapproved and appended at position 16. Full 985-word article, named-worker entry, six receipts, disclosure, power/burden/benefit, action, counterargument, FB and 769-character IG, excerpt and image concept.
+- Counts: **16 finished unpublished / 16 queued / 4 retired / 0 live discrepancies / 16 historical replacements, remaining installations unknown / 4 unfinished / 5 follow-up / 4 positive research**. No existing website replacement installed.
+- Germany's current weekly production remains **2/2**. Raye Montague remains numbered 2, keeping Black achievement and positive coverage visible.
+- Next numbered release: **The Military Wants AI Faster. Who Owns the Safety Check?**, subject to fresh release checks. GAO recommendations remain open; the staffing evidence is dated February 2026 rather than a current census.
+- [October 29 reporting update](TMS_REPORTING_UPDATE_2026-10-29.md) records receipts, reviews, publication verification and candidate changes. No second publication today.

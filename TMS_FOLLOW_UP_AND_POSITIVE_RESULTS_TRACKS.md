@@ -1,7 +1,7 @@
 # TMS follow-up and positive-results reporting tracks
-Updated October 29, 2026. Candidates are research leads, never finished inventory.
+Updated October 30, 2026. Candidates are research leads, never finished inventory.
 
-## Follow-up candidates: 5
+## Follow-up candidates: 6
 1. Germany police-complaints editorial: obtain subsequent Bundestag/commissioner reporting on complaint disposition, investigations completed, institutional action and individual relief. Baseline live slug: germany-created-a-seat-for-police-complaints-who-can-actually-use-it. Trigger: a verified later outcome, not the existing complaint count. No new outcome asserted.
 2. Tribal water-project maintenance: check whether IHS/federal funding rules and implementation changed after the documented oversight findings. Baseline live slug: the-water-project-was-built-the-missing-money-was-for-keeping-it-alive. Trigger: actual eligibility, operation/maintenance funding or service outcomes. No new remedy asserted.
 3. Religious accommodation at the coffee shop: track implementation of consent-decree policy review and training and any available compliance reports. Baseline slug: he-asked-to-break-his-fast-he-allegedly-lost-his-job. Trigger: a public compliance outcome or material legal development. Settlement itself does not demonstrate every future obligation was met.
@@ -10,16 +10,20 @@ Updated October 29, 2026. Candidates are research leads, never finished inventor
 
 5. Jesse Lee Bond: published October 29, baseline `jesse-lee-bond-receipt`. Track actual death-record correction, original coroner/trial documentation, grave marker and NPS study findings or recommendations. A current study is not a designated park or delivered remedy. No new correction or compensation asserted. Cross-link only a material development.
 
+6. Military AI: baseline `the-military-wants-ai-faster-who-owns-the-safety-check`, published October30. Seek a current staffing/responsibility account, adopted council charter, meeting evidence, assigned/resolved implementation issues and GAO disposition. Do not recycle the February2026 staffing number as current or infer no work from an open recommendation. A follow-up needs a material new documentary or implementation result.
+
 For each: maintain finding → responsible authority → action after notice → concrete relief delivered → remaining burden. Do not publish another piece until evidence materially advances the original. Refresh original receipts and cross-link both pages at release.
 
-## Positive / A Seat Was Made candidates: 4
+## Positive / A Seat Was Made candidates: 5
 1. Nepal care cooperatives: ILO describes training reaching 28 cooperatives and two domestic-worker groups after July 2026. Report on whether operating services, paid jobs, affordable places and worker voice followed. Training reach is not a measured care outcome. Seat: caregivers, women workers and families. Action: request operating/affordability/wage data from the implementing partners.
 2. Women agricultural producers in India: ILO describes April 2026 organizing and skills work with farmer-producer organizations and self-help groups. Obtain named participants with consent and independently check sales, bargaining access and net income rather than call attendance an economic result. Seat: small producers and informal women workers. Action: ask project partners for before/after results and costs.
 
 3. Yanomami cross-border river-blindness delivery: WHO's October 9, 2026 Americas report concerns remaining transmission and Indigenous health-agent participation. Obtain treatment/surveillance records, sustained funding and an attributable frontline account. Programme synthesis is not a measured causal evaluation. The distinct Niger mechanism package is now finished and queued, excluded from research-candidate totals. Source: https://www.who.int/publications/journals/weekly-epidemiological-record/wer101-40
 
 Primary starting receipt for the first two: https://www.ilo.org/resource/news/together-they-are-changing-their-communities-how-cooperatives-are-advancing
-These are separate leads under development; neither is a completed editorial or proven impact evaluation.
+These are separate leads under development; neither is a completed editorial or proven impact evaluation. The completed Kathmandu service-mapping/navigation package is distinct from the still-unverified cooperative operating-service, wage and affordability question.
+
+5. Tribal sepsis-care partnership: October27 AHRQ/IHS announcement funds a three-year toolkit/evaluation effort at $7.5million. Seek participating facilities, Tribal decision-making, baseline and implementation measures and attributable frontline accounts. Planned tools and funding are not measured patient improvement. Source: https://www.ahrq.gov/news/newsroom/press-releases/sepsis-initiative.html
 
 ## Completed positive package: current status
 A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.
@@ -88,3 +92,10 @@ River-blindness lead advanced: WHO's October9 Americas report explains the remai
 **Niger Stopped River Blindness Transmission. One Health Programme Helped Another.** is complete, twice reviewed, automatically approved and queued 16. Source: editorial-packages/TMS_NIGER_ONE_PROGRAMME_HELPED_ANOTHER_PUBLICATION_PACKAGE_2026-10-29.md. Explains the documented vector-control/LF-programme contribution and testing rather than recycling Timor-Leste's delivery story. January 2025 milestone distinguished from October 2026 status report; no invented cure, economic gain or universal integration promise. New completion increases reserve to 16. The narrower Yanomami research lead remains distinct; positive research count stays 4.
 
 Recovered and published the complete approved Jesse Lee Bond package with exact prose preserved; fifth follow-up track added for concrete documentary/restoration developments. Publication establishes no new relief. Counts: 5 follow-up / 4 positive research. Germany production remains 2/2 this week. No existing website replacement installed. Full evidence and publication record: TMS_REPORTING_UPDATE_2026-10-29.md.
+
+
+## October 30 completion and follow-up baseline
+
+Military-AI article published and verified once; sixth follow-up research track added. Completed and double-reviewed **Kathmandu Put Care on the Map. Can Families Find Their Way In?**, appended16. Full941-word article and692-character Instagram; named rural accounts separated from Kathmandu, July17 underlying version distinguished from October29 republication. Mapping/training/testimonials not represented as citywide measured access or time savings. Source: editorial-packages/TMS_KATHMANDU_CARE_MAP_ACCESS_PUBLICATION_PACKAGE_2026-10-30.md. Existing cooperative outcome research remains open; AHRQ/IHS sepsis initiative is fifth positive candidate, not a completed success story.
+
+Two complete packages found outside canonical inventory are held in TMS_COMPLETE_UNPUBLISHED_RELEASE_HOLDS_2026-10-30.md. Counts:18completeunpublished including2held;16eligiblequeued;4unfinisheddrafts;6follow-up/5positive research. Germany2/2. RayeMontague next, sustaining Black achievement/positive coverage. No existingwebsite replacement installed. Browser visualQA was blocked by cloud URL policy, while six public publication surfaces matched committed content. See TMS_REPORTING_UPDATE_2026-10-30.md.

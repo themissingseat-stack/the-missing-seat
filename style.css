@@ -537,3 +537,14 @@ main.participation .mission,main.participation .org small,main.participation .or
 @media(max-width:760px){.sharing-page{padding:18px 20px 70px}.sharing-page details.entry>summary{grid-template-columns:48px 1fr 22px;gap:8px}.sharing-page .ix-c{display:none}.sharing-page details.entry>.entry-body,.sharing-page details.entry>.lang-switch,.sharing-page details.entry>.entry-note{margin-left:0}.sharing-page .entry-body p:not(.eyebrow){font-size:18px}}
 @media(min-width:621px){main.sharing-page{max-width:860px}}
 .sharing-page .entry-meta{font:700 11px Arial,sans-serif;letter-spacing:.1em;text-transform:uppercase;color:var(--red);margin:4px 0 12px 70px}@media(max-width:760px){.sharing-page .entry-meta{margin-left:0}}
+
+/* Home: Something Worth Sharing tile in the front strip (Oct 30) */
+:root{--sws-gold:#b8860b;--gold-soft:#f6ecd2}
+.front-strip>div{display:flex;flex-direction:column}
+.front-strip>div>a:last-child,.front-strip>.sws-tile .sws-full>a{margin-top:auto;padding-top:14px}
+.front-strip>.sws-tile{background:var(--gold-soft);border-top:4px solid var(--sws-gold);border-right:0}
+.front-strip>.sws-tile .sws-full{display:flex;flex-direction:column;flex:1}
+.front-strip>.sws-tile .eyebrow{color:#7a5a05}
+.front-strip>.sws-tile a{color:#7a5a05}
+.sws-btn{display:none}
+@media(max-width:760px){.front-strip>.sws-tile{padding:0;border-bottom:0;background:none;border-top:0}.front-strip>.sws-tile .sws-full{display:none}.front-strip>.sws-tile .sws-btn{display:flex;align-items:center;justify-content:space-between;min-height:56px;padding:0 18px;margin:14px 0;background:var(--gold-soft);border-left:5px solid var(--sws-gold);color:#7a5a05;font:800 14px Arial,sans-serif;letter-spacing:.04em;text-transform:uppercase;text-decoration:none}.front-strip>div{display:block}}

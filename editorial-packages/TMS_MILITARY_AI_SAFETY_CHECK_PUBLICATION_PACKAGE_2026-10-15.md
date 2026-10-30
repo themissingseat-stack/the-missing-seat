@@ -2,7 +2,7 @@
 
 ## The Military Wants AI Faster. Who Owns the Safety Check?
 
-**Status:** Full finished; release reviews passed October 30, 2026; publication integration prepared
+**Status:** Full finished; release reviews passed October 30, 2026; published and publicly verified
 **Author:** Jansen / The Missing Seat
 **Original completion:** October 15, 2026
 **Release date:** October 30, 2026
@@ -121,3 +121,8 @@ Ally = Action. 🪑
 Review 1, factual/source review, October30: PASS. Reread report/tracker and full official PDF independently of the draft. Confirmed dated staffing, resumed meetings, selected sample, responsibilities, changed strategy/restructuring context, two open recommendations and concurrence. Replaced blocked legacy DOD receipt URLs with the working full official report. No current staffing inference or inactivity claim retained. Corrected choppy old wording and unsupported current vacancy implication. A current headcount is the requested oversight product, not an assertion supplied by this article.
 
 Review 2, after factual corrections: PASS. Read complete 1053-word developed body, Short Version, metadata, excerpt, power/benefit/burden, fair counterargument, concrete congressional request, receipts, one disclosure, socials and image concept. Instagram 767 characters including hashtags. No long dashes, stacked dramatic one-liners or collective blame. Title/slug unique on actual archive/repository, comparator and prior retirement decisions preserved. Prepared for today's sole release after exact current production-source preflight. Public confirmation must follow deployment.
+
+
+## Publication verification record
+
+Published October30,2026 at https://themissingseat.org/the-military-wants-ai-faster-who-owns-the-safety-check.html . Article/home/archive/Democracy&Government/RSS/sitemap all HTTP200 and exact expected GitHub blobs after propagation; current source preflight passed. Publication commit ffff3475045348503b3ee75263fb180fab0bf1a2. Today's sole release; removed from reserve. Cloud browser navigation/reload blocked by its URL policy, so no fresh desktop/mobile visual pass claimed. See TMS_REPORTING_UPDATE_2026-10-30.md. Prepared social copy not posted on Jansen's behalf.

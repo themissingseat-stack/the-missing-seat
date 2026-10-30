@@ -572,3 +572,4 @@ main.participation .mission,main.participation .org small,main.participation .or
 .sharing-page .daily-entry[data-cat="growth"] .ix-c{color:var(--blue)}.sharing-page .daily-entry[data-cat="perspective"] .ix-c{color:#7a5a05}.sharing-page .daily-entry[data-cat="practical"] .ix-c{color:var(--green)}
 @media(max-width:760px){.sharing-page .feature{padding:18px 16px 22px}}
 .sharing-page .feature .take-with-you .eyebrow{color:#f3d9d6}
+.sharing-page .feature .latest{display:table;margin:0 0 8px}

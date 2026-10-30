@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-10-29",
+  "last_reconciled": "2026-10-30",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -23,9 +23,18 @@
   },
   "deployment": {
     "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "October29 preflight home/archive/RSS exactly matched main; post-release article, homepage, archive, Race & Equal Humanity, RSS, sitemap and PNG HTTP200 with correct links and exact current GitHub blobs. Homepage's current main SHA41716df9127679274946582c7bd8a823345282c6 reflects preserved external changes, not a rollback."
+    "status": "October30 preflight home/archive/RSS matched currentmain; article/home/archive/Democracy&Government/RSS/sitemap HTTP200 and exact expected blobs after successful Pages propagation. Published commit ffff3475045348503b3ee75263fb180fab0bf1a2"
   },
   "published_record": [
+    {
+      "title": "The Military Wants AI Faster. Who Owns the Safety Check?",
+      "slug": "the-military-wants-ai-faster-who-owns-the-safety-check.html",
+      "source": "editorial-packages/TMS_MILITARY_AI_SAFETY_CHECK_PUBLICATION_PACKAGE_2026-10-15.md",
+      "publication_status": "published_live_verified",
+      "published_verified": "2026-10-30",
+      "article_commit": "ffff3475045348503b3ee75263fb180fab0bf1a2",
+      "notes": "Two refreshed release reviews; natural1053-word body, datedFebruary staffing, changed strategy/restructuring context and current open recommendations. Article/home/archive/Democracy&Government/RSS/sitemap allHTTP200 with exact expected blobs after propagation. Currentmain preflight exact. Browser visualQA attempted but cloud URL policy blocked navigation; no visual or mobile-rendering pass claimed."
+    },
     {
       "title": "His Death Was Called an Accident. His Great-Granddaughter Became a Supreme Court Justice.",
       "slug": "jesse-lee-bond-receipt.html",
@@ -288,27 +297,6 @@
   ],
   "queue": [
     {
-      "position": 1,
-      "canonical_title": "The Military Wants AI Faster. Who Owns the Safety Check?",
-      "slug": "the-military-wants-ai-faster-who-owns-the-safety-check",
-      "status": "approved_queued_full_finished",
-      "approval": "Jansen standing two-review instruction",
-      "review_1": "2026-10-15 facts, sources, scope and claim posture",
-      "review_2": "2026-10-15 TMS format, Regular Joe clarity, fairness, duplication and action",
-      "source": "editorial-packages/TMS_MILITARY_AI_SAFETY_CHECK_PUBLICATION_PACKAGE_2026-10-15.md",
-      "scheduled_date": null,
-      "closest_live_comparator": "When AI Accuses You, Who Checks the Machine?",
-      "material_distinction": "Military AI governance, staffing and congressional oversight rather than human review of an individual AI accusation.",
-      "notes": "GAO survey covered 10 selected components and 10 selected use cases. Three-of-ten staffing figure was current as of February 2026. Refresh staffing, recommendation status and live uniqueness before publication.",
-      "release_checks": [
-        "refresh GAO recommendation and staffing status",
-        "independent live title/slug check",
-        "confirm deployment source",
-        "HTML/image and navigation integration"
-      ],
-      "title": "The Military Wants AI Faster. Who Owns the Safety Check?"
-    },
-    {
       "title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.",
       "slug": "raye-montague-helped-change-ship-design-teach-the-work",
       "completion_status": "full_finished",
@@ -333,10 +321,10 @@
       "review_1": "2026-10-23 Navy/DVIDS, university and Mint factual check; draft versus completed ship, chronology, qualifications and source limits checked.",
       "review_2": "2026-10-23 complete TMS package, voice, fairness, prior-work credit, action and 912-character Instagram check.",
       "notes": "Historical explanatory piece; 2024 dedication/2025 coin not breaking news. No claim of sole finished-ship authorship, never-recognized history or calculated loss/savings. At release refresh source links, uniqueness and image credit/reuse; render and verify article/navigation.",
-      "position": 2
+      "position": 1
     },
     {
-      "position": 3,
+      "position": 2,
       "canonical_title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
       "slug": "germany-raised-the-minimum-wage-the-paycheck-still-needs-the-hours",
       "status": "approved_queued_full_finished",
@@ -357,7 +345,7 @@
       "title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours."
     },
     {
-      "position": 4,
+      "position": 3,
       "title": "The Building Failed. The Children Lost the School Day.",
       "canonical_title": "The Building Failed. The Children Lost the School Day.",
       "slug": "the-building-failed-the-children-lost-the-school-day",
@@ -385,7 +373,7 @@
       "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 5,
+      "position": 4,
       "title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
       "canonical_title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
       "slug": "the-job-center-was-open-the-help-still-wasnt-accessible",
@@ -413,7 +401,7 @@
       "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 6,
+      "position": 5,
       "title": "The Loan Rule Changed. Were the Instructions Ready?",
       "canonical_title": "The Loan Rule Changed. Were the Instructions Ready?",
       "slug": "the-loan-rule-changed-were-the-instructions-ready",
@@ -441,7 +429,7 @@
       "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 7,
+      "position": 6,
       "title": "The House Was Full. The Homelessness Definition Still Had an Empty Seat.",
       "slug": "the-house-was-full-the-homelessness-definition-still-had-an-empty-seat",
       "completion_status": "full_finished",
@@ -462,7 +450,7 @@
       "notes": "GAO evidence is preliminary and interviews are nongeneralizable. No national count or universal doubled-up eligibility claim. Refresh for final GAO work and HUD guidance; complete live uniqueness, HTML/image/navigation and deployment checks."
     },
     {
-      "position": 8,
+      "position": 7,
       "title": "Germany Gives Workers a Complaint Route. The Compensation Clock Still Runs.",
       "canonical_title": "Germany Gives Workers a Complaint Route. The Compensation Clock Still Runs.",
       "slug": "germany-gives-workers-a-complaint-route-the-compensation-clock-still-runs",
@@ -484,7 +472,7 @@
       "notes": "Final law/live uniqueness, HTML/image/navigation and deployment checks required."
     },
     {
-      "position": 9,
+      "position": 8,
       "title": "Germany Raised the Volunteer Allowance. Now Show Who Can Actually Use It.",
       "slug": "germany-raised-the-volunteer-allowance-now-show-who-can-use-it",
       "completion_status": "full_finished",
@@ -506,7 +494,7 @@
       "notes": "Direct official §3 numbers 26 and 26a read October 22: amounts, activities, organizations, annual personal limits and non-stacking rule checked. Legal hold cleared. Refresh law at release; render and verify HTML/navigation."
     },
     {
-      "position": 10,
+      "position": 9,
       "title": "The Job Was Online. The Application Had to Go in the Mail.",
       "slug": "the-job-was-online-the-application-had-to-go-in-the-mail",
       "completion_status": "full_finished",
@@ -527,7 +515,7 @@
       "notes": "No implemented compliance or claimant payment claimed. Refresh interim claims address, fund status and company/legal developments at release; render HTML and verify public links."
     },
     {
-      "position": 11,
+      "position": 10,
       "title": "A Child Can Have a Credit File Before They Have a Job.",
       "canonical_title": "A Child Can Have a Credit File Before They Have a Job.",
       "slug": "a-child-can-have-a-credit-file-before-they-have-a-job",
@@ -549,7 +537,7 @@
       "notes": "Evergreen service/accountability piece, not new law. Refresh official procedures/links and uniqueness, render and verify public links at release."
     },
     {
-      "position": 12,
+      "position": 11,
       "title": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
       "canonical_title": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
       "slug": "before-you-agree-to-a-hospital-payment-plan-ask-about-financial-assistance",
@@ -596,10 +584,10 @@
       "review_1": "2026-10-26 operator FAQ/overview, founder profile, Olpe primary implementation and German tourism cross-check; output/impact distinction.",
       "review_2": "2026-10-26 natural prose, human contribution, full TMS package, fairness, action, distinctness and English/German social length.",
       "notes": "Evergreen positive/civic initiative, not October launch. Operator coverage not audited access outcome. Refresh roles/data wording, source links, distinctness and image reuse before HTML/public deployment.",
-      "position": 13
+      "position": 12
     },
     {
-      "position": 14,
+      "position": 13,
       "title": "Theodor Wonja Michael Found a Second Route Into Education. Teach That Part Too.",
       "slug": "theodor-wonja-michael-found-a-second-route-into-education",
       "source": "editorial-packages/TMS_THEODOR_WONJA_MICHAEL_SECOND_ROUTE_PUBLICATION_PACKAGE_2026-10-27.md",
@@ -626,7 +614,7 @@
       "notes": "Historical/positive explanatory piece, not breaking acquisition news or measured program evaluation. Refresh sources/relevance/current arrangements at release; HTML/image rights/navigation/deployment work remain."
     },
     {
-      "position": 15,
+      "position": 14,
       "title": "Social Security Wants the Money Back. First, Check the Decision.",
       "canonical_title": "Social Security Wants the Money Back. First, Check the Decision.",
       "slug": "social-security-wants-the-money-back-first-check-the-decision",
@@ -651,7 +639,7 @@
       "notes": "Not breaking policy news or an individual advice determination. FY2023 audit sample not a current invalid-debt rate. Refresh official guidance and relevance, HTML/image/navigation/deployment at release; space from other benefit/service pieces."
     },
     {
-      "position": 16,
+      "position": 15,
       "title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
       "canonical_title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
       "slug": "niger-stopped-river-blindness-transmission-one-programme-helped-another",
@@ -672,6 +660,34 @@
       "review_1": "2026-10-29 WHO announcement, named-worker account, October9 country tables, March original research and correction checked independently against draft; chronology, defined survey and claim limits pass",
       "review_2": "2026-10-29 complete985-word developed article, Short Version, power/burden/benefit, limitations, realistic action, six receipts, disclosure, excerpt, image concept, FB and769-character IG; actual live/repo/queue uniqueness checked",
       "notes": "Established January2025 achievement, not new October verification. No global eradication, cure count or universal integration claim. Recheck current status/relevance/links at release; HTML, image rights and public navigation/deployment remain."
+    },
+    {
+      "position": 16,
+      "title": "Kathmandu Put Care on the Map. Can Families Find Their Way In?",
+      "canonical_title": "Kathmandu Put Care on the Map. Can Families Find Their Way In?",
+      "slug": "kathmandu-put-care-on-the-map-can-families-find-their-way-in",
+      "source": "editorial-packages/TMS_KATHMANDU_CARE_MAP_ACCESS_PUBLICATION_PACKAGE_2026-10-30.md",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "approval": "Standing automatic approval after two sequential reviews",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.",
+          "slug": "the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power.html",
+          "distinction": "Broad labor/time/pay distribution versus named Nepal mapping, the route into municipal care, successful referrals and worker conditions."
+        },
+        {
+          "title": "Germany Promised a Full School Day. Families Need the Hours to Match.",
+          "slug": "germany-promised-a-full-school-day-families-need-the-hours-to-match.html",
+          "distinction": "Statutory school-care timetable entitlement versus municipal information/navigation approach across care needs."
+        }
+      ],
+      "review_1": "2026-10-30 original accessible July17 account compared with October29 republication; named locations separated; ILO July3 and WHO October20 overview read; no measured citywide outcome asserted",
+      "review_2": "2026-10-30 complete941-word natural body, Short Version, metadata/excerpt, evidence/power/benefit/burden, counterargument, realistic action, three receipts, disclosure, image concept, FB and692-character IG; actual live/repo/queue comparison pass",
+      "notes": "Older reported model, not October launch. Personal accounts not Kathmandu outcome evaluation. Recheck later relevance, programme status, links, HTML/image/navigation and deployment before release; interleave care stories."
     }
   ],
   "counts": {
@@ -681,9 +697,12 @@
     "status_verification_required": 0,
     "historical_replacement_versions": 16,
     "replacements_still_pending_installation": null,
-    "unfinished_or_blocked": 4,
-    "follow_up_candidates": 5,
-    "positive_solution_candidates": 4
+    "unfinished_or_blocked": 6,
+    "follow_up_candidates": 6,
+    "positive_solution_candidates": 5,
+    "full_finished_unpublished_total": 18,
+    "full_finished_held_for_release": 2,
+    "unfinished_drafts": 4
   },
   "pending_priority_requests": [
     {
@@ -702,9 +721,9 @@
     }
   ],
   "website_quality_status": {
-    "as_of": "2026-10-29",
-    "status": "publication_and_linked_surfaces_verified",
-    "finding": "Established responsive header, Short Version, full-story and single disclosure preserved. HTML structure and XML parsed; neutral1200x630 PNG visually inspected. No visual browser QA claimed. No existing-website replacement installed; historical remaining-installations total unknown."
+    "as_of": "2026-10-30",
+    "status": "content_and_navigation_verified_visual_check_blocked",
+    "finding": "Established responsive template with ShortVersion and one disclosure; HTML structure/RSS/sitemap parsed, cards correctly linked. Cloud browser initial navigation failed during propagation; reload subsequently rejected by URL policy. No workaround attempted, no fresh desktop/mobile visual pass claimed. No existingwebsite replacement installed."
   },
   "story_briefs_2026_09_28": [
     {
@@ -849,27 +868,6 @@
   ],
   "unpublished_ledger": [
     {
-      "position": 1,
-      "canonical_title": "The Military Wants AI Faster. Who Owns the Safety Check?",
-      "slug": "the-military-wants-ai-faster-who-owns-the-safety-check",
-      "status": "approved_queued_full_finished",
-      "approval": "Jansen standing two-review instruction",
-      "review_1": "2026-10-15 facts, sources, scope and claim posture",
-      "review_2": "2026-10-15 TMS format, Regular Joe clarity, fairness, duplication and action",
-      "source": "editorial-packages/TMS_MILITARY_AI_SAFETY_CHECK_PUBLICATION_PACKAGE_2026-10-15.md",
-      "scheduled_date": null,
-      "closest_live_comparator": "When AI Accuses You, Who Checks the Machine?",
-      "material_distinction": "Military AI governance, staffing and congressional oversight rather than human review of an individual AI accusation.",
-      "notes": "GAO survey covered 10 selected components and 10 selected use cases. Three-of-ten staffing figure was current as of February 2026. Refresh staffing, recommendation status and live uniqueness before publication.",
-      "release_checks": [
-        "refresh GAO recommendation and staffing status",
-        "independent live title/slug check",
-        "confirm deployment source",
-        "HTML/image and navigation integration"
-      ],
-      "title": "The Military Wants AI Faster. Who Owns the Safety Check?"
-    },
-    {
       "title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.",
       "slug": "raye-montague-helped-change-ship-design-teach-the-work",
       "completion_status": "full_finished",
@@ -894,10 +892,10 @@
       "review_1": "2026-10-23 Navy/DVIDS, university and Mint factual check; draft versus completed ship, chronology, qualifications and source limits checked.",
       "review_2": "2026-10-23 complete TMS package, voice, fairness, prior-work credit, action and 912-character Instagram check.",
       "notes": "Historical explanatory piece; 2024 dedication/2025 coin not breaking news. No claim of sole finished-ship authorship, never-recognized history or calculated loss/savings. At release refresh source links, uniqueness and image credit/reuse; render and verify article/navigation.",
-      "position": 2
+      "position": 1
     },
     {
-      "position": 3,
+      "position": 2,
       "canonical_title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
       "slug": "germany-raised-the-minimum-wage-the-paycheck-still-needs-the-hours",
       "status": "approved_queued_full_finished",
@@ -918,7 +916,7 @@
       "title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours."
     },
     {
-      "position": 4,
+      "position": 3,
       "title": "The Building Failed. The Children Lost the School Day.",
       "canonical_title": "The Building Failed. The Children Lost the School Day.",
       "slug": "the-building-failed-the-children-lost-the-school-day",
@@ -946,7 +944,7 @@
       "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 5,
+      "position": 4,
       "title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
       "canonical_title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
       "slug": "the-job-center-was-open-the-help-still-wasnt-accessible",
@@ -974,7 +972,7 @@
       "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 6,
+      "position": 5,
       "title": "The Loan Rule Changed. Were the Instructions Ready?",
       "canonical_title": "The Loan Rule Changed. Were the Instructions Ready?",
       "slug": "the-loan-rule-changed-were-the-instructions-ready",
@@ -1002,7 +1000,7 @@
       "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
     },
     {
-      "position": 7,
+      "position": 6,
       "title": "The House Was Full. The Homelessness Definition Still Had an Empty Seat.",
       "slug": "the-house-was-full-the-homelessness-definition-still-had-an-empty-seat",
       "completion_status": "full_finished",
@@ -1023,7 +1021,7 @@
       "notes": "GAO evidence is preliminary and interviews are nongeneralizable. No national count or universal doubled-up eligibility claim. Refresh for final GAO work and HUD guidance; complete live uniqueness, HTML/image/navigation and deployment checks."
     },
     {
-      "position": 8,
+      "position": 7,
       "title": "Germany Gives Workers a Complaint Route. The Compensation Clock Still Runs.",
       "canonical_title": "Germany Gives Workers a Complaint Route. The Compensation Clock Still Runs.",
       "slug": "germany-gives-workers-a-complaint-route-the-compensation-clock-still-runs",
@@ -1045,7 +1043,7 @@
       "notes": "Final law/live uniqueness, HTML/image/navigation and deployment checks required."
     },
     {
-      "position": 9,
+      "position": 8,
       "title": "Germany Raised the Volunteer Allowance. Now Show Who Can Actually Use It.",
       "slug": "germany-raised-the-volunteer-allowance-now-show-who-can-use-it",
       "completion_status": "full_finished",
@@ -1067,7 +1065,7 @@
       "notes": "Direct official §3 numbers 26 and 26a read October 22: amounts, activities, organizations, annual personal limits and non-stacking rule checked. Legal hold cleared. Refresh law at release; render and verify HTML/navigation."
     },
     {
-      "position": 10,
+      "position": 9,
       "title": "The Job Was Online. The Application Had to Go in the Mail.",
       "slug": "the-job-was-online-the-application-had-to-go-in-the-mail",
       "completion_status": "full_finished",
@@ -1088,7 +1086,7 @@
       "notes": "No implemented compliance or claimant payment claimed. Refresh interim claims address, fund status and company/legal developments at release; render HTML and verify public links."
     },
     {
-      "position": 11,
+      "position": 10,
       "title": "A Child Can Have a Credit File Before They Have a Job.",
       "canonical_title": "A Child Can Have a Credit File Before They Have a Job.",
       "slug": "a-child-can-have-a-credit-file-before-they-have-a-job",
@@ -1110,7 +1108,7 @@
       "notes": "Evergreen service/accountability piece, not new law. Refresh official procedures/links and uniqueness, render and verify public links at release."
     },
     {
-      "position": 12,
+      "position": 11,
       "title": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
       "canonical_title": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
       "slug": "before-you-agree-to-a-hospital-payment-plan-ask-about-financial-assistance",
@@ -1157,10 +1155,10 @@
       "review_1": "2026-10-26 operator FAQ/overview, founder profile, Olpe primary implementation and German tourism cross-check; output/impact distinction.",
       "review_2": "2026-10-26 natural prose, human contribution, full TMS package, fairness, action, distinctness and English/German social length.",
       "notes": "Evergreen positive/civic initiative, not October launch. Operator coverage not audited access outcome. Refresh roles/data wording, source links, distinctness and image reuse before HTML/public deployment.",
-      "position": 13
+      "position": 12
     },
     {
-      "position": 14,
+      "position": 13,
       "title": "Theodor Wonja Michael Found a Second Route Into Education. Teach That Part Too.",
       "slug": "theodor-wonja-michael-found-a-second-route-into-education",
       "source": "editorial-packages/TMS_THEODOR_WONJA_MICHAEL_SECOND_ROUTE_PUBLICATION_PACKAGE_2026-10-27.md",
@@ -1187,7 +1185,7 @@
       "notes": "Historical/positive explanatory piece, not breaking acquisition news or measured program evaluation. Refresh sources/relevance/current arrangements at release; HTML/image rights/navigation/deployment work remain."
     },
     {
-      "position": 15,
+      "position": 14,
       "title": "Social Security Wants the Money Back. First, Check the Decision.",
       "canonical_title": "Social Security Wants the Money Back. First, Check the Decision.",
       "slug": "social-security-wants-the-money-back-first-check-the-decision",
@@ -1212,7 +1210,7 @@
       "notes": "Not breaking policy news or an individual advice determination. FY2023 audit sample not a current invalid-debt rate. Refresh official guidance and relevance, HTML/image/navigation/deployment at release; space from other benefit/service pieces."
     },
     {
-      "position": 16,
+      "position": 15,
       "title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
       "canonical_title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
       "slug": "niger-stopped-river-blindness-transmission-one-programme-helped-another",
@@ -1233,6 +1231,34 @@
       "review_1": "2026-10-29 WHO announcement, named-worker account, October9 country tables, March original research and correction checked independently against draft; chronology, defined survey and claim limits pass",
       "review_2": "2026-10-29 complete985-word developed article, Short Version, power/burden/benefit, limitations, realistic action, six receipts, disclosure, excerpt, image concept, FB and769-character IG; actual live/repo/queue uniqueness checked",
       "notes": "Established January2025 achievement, not new October verification. No global eradication, cure count or universal integration claim. Recheck current status/relevance/links at release; HTML, image rights and public navigation/deployment remain."
+    },
+    {
+      "position": 16,
+      "title": "Kathmandu Put Care on the Map. Can Families Find Their Way In?",
+      "canonical_title": "Kathmandu Put Care on the Map. Can Families Find Their Way In?",
+      "slug": "kathmandu-put-care-on-the-map-can-families-find-their-way-in",
+      "source": "editorial-packages/TMS_KATHMANDU_CARE_MAP_ACCESS_PUBLICATION_PACKAGE_2026-10-30.md",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "approval": "Standing automatic approval after two sequential reviews",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.",
+          "slug": "the-gap-is-not-just-pay-it-is-who-gets-time-care-and-power.html",
+          "distinction": "Broad labor/time/pay distribution versus named Nepal mapping, the route into municipal care, successful referrals and worker conditions."
+        },
+        {
+          "title": "Germany Promised a Full School Day. Families Need the Hours to Match.",
+          "slug": "germany-promised-a-full-school-day-families-need-the-hours-to-match.html",
+          "distinction": "Statutory school-care timetable entitlement versus municipal information/navigation approach across care needs."
+        }
+      ],
+      "review_1": "2026-10-30 original accessible July17 account compared with October29 republication; named locations separated; ILO July3 and WHO October20 overview read; no measured citywide outcome asserted",
+      "review_2": "2026-10-30 complete941-word natural body, Short Version, metadata/excerpt, evidence/power/benefit/burden, counterargument, realistic action, three receipts, disclosure, image concept, FB and692-character IG; actual live/repo/queue comparison pass",
+      "notes": "Older reported model, not October launch. Personal accounts not Kathmandu outcome evaluation. Recheck later relevance, programme status, links, HTML/image/navigation and deployment before release; interleave care stories."
     }
   ],
   "status_verification_ledger": [],
@@ -1863,13 +1889,19 @@
       "original_slug": "jesse-lee-bond-receipt",
       "source": "editorial-packages/TMS_JESSE_LEE_BOND_APPROVED_MASTER_2026-10-28.md",
       "trigger": "Material documentary or remedial development: death-record correction, original coroner/trial evidence, grave marker or NPS study findings/recommendation; no new remedy asserted."
+    },
+    {
+      "original_slug": "the-military-wants-ai-faster-who-owns-the-safety-check",
+      "source": "editorial-packages/TMS_MILITARY_AI_SAFETY_CHECK_PUBLICATION_PACKAGE_2026-10-15.md",
+      "trigger": "Current staffing/responsibility account, adopted council charter, resumed meeting evidence, assignment and closure of implementation gaps or GAO recommendation disposition. February2026 headcount is not current. No delivered safeguard outcome inferred."
     }
   ],
   "positive_solution_candidates": [
     {
       "title": "Nepal care cooperatives: did training become paid care and affordable places?",
       "source": "https://www.ilo.org/resource/news/together-they-are-changing-their-communities-how-cooperatives-are-advancing",
-      "status": "research_not_finished"
+      "status": "research_not_finished",
+      "notes": "Existing cooperative operating-service/wage/affordability question remains research. Completed Kathmandu mapping/referral package is a distinct explanation, not proof cooperatives delivered paid care or affordable places."
     },
     {
       "title": "Women agricultural producers: did organizing change bargaining power and net income?",
@@ -1887,6 +1919,12 @@
       "source": "https://www.ihs.gov/newsroom/pressreleases/2026-press-releases/indian-health-service-awards-2-3-million-to-support-national-expansion-of-the-community-health-aide-program/",
       "status": "research_only_not_finished",
       "notes": "Award is not delivered care. Obtain recipient-level operations, paid/certified workforce, services, costs and attributable human accounts."
+    },
+    {
+      "title": "Tribal sepsis-care partnership: did tools and evaluation change frontline response?",
+      "source": "https://www.ahrq.gov/news/newsroom/press-releases/sepsis-initiative.html",
+      "status": "research_only_not_finished",
+      "notes": "October27 announcement: three-year partnership,$7.5million and planned toolkit/evaluation. Not a measured improvement. Seek participating facilities, Tribal participation, baseline/implementation measures and attributable frontline accounts before a full positive-results claim."
     }
   ],
   "priority_override": {
@@ -2414,6 +2452,88 @@
       "title": "Military AI: dated staffing evidence and open recommendations",
       "status": "existing_queue_source_refresh_not_new_package",
       "source": "https://www.gao.gov/products/gao-27-107837"
+    }
+  ],
+  "finished_unpublished_release_holds": [
+    {
+      "canonical_title": "Breast Cancer Survival Has Improved. Black Women Are Still Dying More Often.",
+      "slug": "breast-cancer-survival-has-improved-black-women-are-still-dying-more-often",
+      "source": "editorial-packages/TMS_BREAST_CANCER_BLACK_WOMEN_SURVIVAL_GAP_PUBLICATION_PACKAGE_2026-10-17.md",
+      "completion_status": "full_body_and_package_exists",
+      "publication_status": "unpublished",
+      "queue_status": "held_not_in_publishable_queue",
+      "scheduled_date": null,
+      "duplication_status": "materially_distinct_pending_final_comparison",
+      "related_live_comparators": [
+        {
+          "title": "They Trusted Black Women With Their Babies. Just Not With Power.",
+          "distinction": "Breast-cancer post-screening pathway, subtype and survival outcomes versus historical midwifery authority; shared Black women's health is not duplication."
+        }
+      ],
+      "prior_approval": "Source package says two reviews passed/autoqueued October17; absent from canonical and machine ledgers at October30 reconciliation.",
+      "blockers": [
+        "Repeated one-line questions and stacked fragments fail current natural-prose/Regular Joe format; repair full body and socials",
+        "Refresh every medical statistic, treatment/screening statement, source link and current relevance before renewed two-review pass",
+        "Final actual-live comparator check and technical HTML/image/navigation/deployment work"
+      ],
+      "verification": "Full body, receipts, action/notice and socials read. No public article filename or archive card in actual current repo/archive; proposed public URL404 October30. Not treated as new writing, revision or retired duplicate."
+    },
+    {
+      "canonical_title": "The Server Still Cleans the Tables. The Federal 80/20 Guide Is Gone.",
+      "slug": "the-server-still-cleans-the-tables-the-federal-80-20-guide-is-gone",
+      "source": "editorial-packages/TMS_TIPPED_WORK_8020_GUIDANCE_WITHDRAWN_PUBLICATION_PACKAGE_2026-10-26.md",
+      "completion_status": "full_body_and_package_exists",
+      "publication_status": "unpublished",
+      "queue_status": "held_not_in_publishable_queue",
+      "scheduled_date": null,
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Company Organizes. Why Are Workers Expected to Stand Alone?",
+          "distinction": "U.S. tipped dual-occupation regulation and withdrawn percentage guidance versus collective worker power."
+        }
+      ],
+      "closest_queued_comparator": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
+      "material_distinction": "U.S. tip-credit/occupation mechanism versus German statutory wage and time recording.",
+      "prior_approval": "Source package says full finished/two reviews passed/queued October26; absent from canonical and machine ledgers at October30 reconciliation.",
+      "blockers": [
+        "Add the mandatory Short Version above the full website article",
+        "October30 central FAB2026-1 PDF, state table and complaint/FAQ URLs returned403 to automated lookup; reread central bulletin and working routes before release review",
+        "Refresh legal chronology, claim/time limits and all EN/DE social counts, then record renewed sequential reviews and technical integration"
+      ],
+      "verification": "Read complete body, current prior review notice and socials. Live archive and repo contain no public article/card; proposed URL404. DOL current FactSheet15 confirms cash-wage/shortfall and separate-occupation discussion but does not alone verify October19 withdrawal chronology."
+    }
+  ],
+  "finished_unpublished_release_holds_source": "TMS_COMPLETE_UNPUBLISHED_RELEASE_HOLDS_2026-10-30.md",
+  "unpublished_ledger_scope": "Eligible queue only; two other complete unpublished bodies are separately preserved in finished_unpublished_release_holds. Total18=16eligible+2held, excluding4unfinished drafts and16historical replacements.",
+  "daily_editorial_completion_2026_10_30": {
+    "title": "Kathmandu Put Care on the Map. Can Families Find Their Way In?",
+    "source": "editorial-packages/TMS_KATHMANDU_CARE_MAP_ACCESS_PUBLICATION_PACKAGE_2026-10-30.md",
+    "reviews_completed": 2,
+    "status": "approved_queued_full_finished",
+    "position": 16
+  },
+  "reconciliation_notes_2026_10_30": [
+    "MilitaryAI published once and verified across six surfaces; removed from reserve. RayeMontague next1, Germanminimumwage2.",
+    "New Kathmandu full package approved and appended16. October29 republication dates toJuly17 underlying source, not a new launch.",
+    "Found complete breast-cancer and tipped-work packages absent from master and machine. Registered both as held, excluded from eligible queue: medical/prose refresh; central legal-source403/ShortVersion refresh. No retirement or duplication assumption.",
+    "18completeunpublished total=16eligiblequeued+2held;4unfinisheddrafts separately. Existing16website replacements not new inventory, remaining installations unknown. Followup6/positive research5; Germany2/2 unchanged."
+  ],
+  "discovery_2026_10_30": [
+    {
+      "title": "Kathmandu Put Care on the Map. Can Families Find Their Way In?",
+      "status": "new_full_package_approved",
+      "source": "editorial-packages/TMS_KATHMANDU_CARE_MAP_ACCESS_PUBLICATION_PACKAGE_2026-10-30.md"
+    },
+    {
+      "title": "Care workers belong in the service capacity account",
+      "status": "fresh_WHO_October20_guidance_used_in_new_package_not_separate_completion",
+      "source": "https://www.who.int/publications/i/item/9789240124011"
+    },
+    {
+      "title": "Tribal sepsis-care partnership",
+      "status": "new_research_candidate_only",
+      "source": "https://www.ahrq.gov/news/newsroom/press-releases/sepsis-initiative.html"
     }
   ]
 }

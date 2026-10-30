@@ -550,7 +550,7 @@ main.participation .mission,main.participation .org small,main.participation .or
 @media(max-width:760px){.front-strip>.sws-tile{padding:0;border-bottom:0;background:none;border-top:0}.front-strip>.sws-tile .sws-full{display:none}.front-strip>.sws-tile .sws-btn{display:flex;align-items:center;justify-content:space-between;min-height:56px;padding:0 18px;margin:14px 0;background:var(--gold-soft);border-left:5px solid var(--sws-gold);color:#7a5a05;font:800 14px Arial,sans-serif;letter-spacing:.04em;text-transform:uppercase;text-decoration:none}.front-strip>div{display:block}}
 
 /* Worth Sharing: intro band, gold/cream rhythm, category colors, label note (Oct 30) */
-:root{--sws-gold:#b8860b;--gold-soft:#f6ecd2;--blue:#1f4e79;--green:#3d6b4a}
+:root{--sws-gold:#b8860b;--gold-soft:#f6ecd2;--sws-blue:#1f4e79;--sws-green:#3d6b4a}
 .sharing-page .feature{background:var(--gold-soft);border-top:4px solid var(--sws-gold);padding:22px 24px 26px}
 .sharing-page .feature .latest{background:var(--sws-gold);color:#fff}
 .sharing-page .feature .eyebrow{color:#7a5a05}
@@ -562,14 +562,14 @@ main.participation .mission,main.participation .org small,main.participation .or
 .sharing-page .cat-filter button{font:700 12px Arial,sans-serif;letter-spacing:.06em;text-transform:uppercase;min-height:44px;padding:0 14px;border:1px solid #cfc4b5;background:#fff;color:var(--ink);cursor:pointer;display:inline-flex;align-items:center;gap:8px}
 .sharing-page .cat-filter button[aria-pressed="true"]{background:var(--ink);color:#fff;border-color:var(--ink)}
 .sharing-page .dot{width:10px;height:10px;border-radius:50%;display:inline-block}
-.sharing-page .dot.growth{background:var(--blue)}.sharing-page .dot.perspective{background:var(--sws-gold)}.sharing-page .dot.practical{background:var(--green)}.sharing-page .dot.poetry{background:var(--red)}
+.sharing-page .dot.growth{background:var(--sws-blue)}.sharing-page .dot.perspective{background:var(--sws-gold)}.sharing-page .dot.practical{background:var(--sws-green)}.sharing-page .dot.poetry{background:var(--red)}
 .sharing-page .daily-entry[data-cat]{border-left:4px solid transparent;padding-left:12px}
-.sharing-page .daily-entry[data-cat="growth"]{border-left-color:var(--blue)}
+.sharing-page .daily-entry[data-cat="growth"]{border-left-color:var(--sws-blue)}
 .sharing-page .daily-entry[data-cat="perspective"]{border-left-color:var(--sws-gold)}
-.sharing-page .daily-entry[data-cat="practical"]{border-left-color:var(--green)}
+.sharing-page .daily-entry[data-cat="practical"]{border-left-color:var(--sws-green)}
 .sharing-page .daily-entry[data-cat="poetry"]{border-left-color:var(--red)}
 .sharing-page .entry-list .daily-entry[hidden]{display:none}
-.sharing-page .daily-entry[data-cat="growth"] .ix-c{color:var(--blue)}.sharing-page .daily-entry[data-cat="perspective"] .ix-c{color:#7a5a05}.sharing-page .daily-entry[data-cat="practical"] .ix-c{color:var(--green)}
+.sharing-page .daily-entry[data-cat="growth"] .ix-c{color:var(--sws-blue)}.sharing-page .daily-entry[data-cat="perspective"] .ix-c{color:#7a5a05}.sharing-page .daily-entry[data-cat="practical"] .ix-c{color:var(--sws-green)}
 @media(max-width:760px){.sharing-page .feature{padding:18px 16px 22px}}
 .sharing-page .feature .take-with-you .eyebrow{color:#f3d9d6}
 .sharing-page .feature .latest{display:table;margin:0 0 8px}

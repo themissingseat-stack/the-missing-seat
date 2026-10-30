@@ -573,3 +573,13 @@ main.participation .mission,main.participation .org small,main.participation .or
 @media(max-width:760px){.sharing-page .feature{padding:18px 16px 22px}}
 .sharing-page .feature .take-with-you .eyebrow{color:#f3d9d6}
 .sharing-page .feature .latest{display:table;margin:0 0 8px}
+
+/* Worth Sharing: invitation (Oct 30) */
+.sharing-page .sws-invite{margin-top:34px;border-top:4px solid var(--sws-blue);background:#eaf0f6;padding:24px 26px 28px}
+.sharing-page .sws-invite .eyebrow{color:var(--sws-blue)}
+.sharing-page .sws-invite h2{font-size:clamp(26px,3vw,36px);line-height:1.15;font-weight:500;margin:6px 0 10px}
+.sharing-page .sws-invite p{max-width:66ch;font-size:18px;line-height:1.55;margin:0 0 12px}
+.sharing-page .sws-invite ul{max-width:66ch;margin:0 0 14px;padding-left:20px}
+.sharing-page .sws-invite li{font-size:17px;line-height:1.55;margin:0 0 8px}
+.sharing-page .sws-invite-btn{display:inline-flex;align-items:center;min-height:48px;padding:0 22px;background:var(--sws-blue);color:#fff;font:800 12px Arial,sans-serif;letter-spacing:.08em;text-transform:uppercase;text-decoration:none}
+.sharing-page .sws-invite-btn:hover,.sharing-page .sws-invite-btn:focus-visible{background:#163b5c}

@@ -57,6 +57,28 @@ The Georgia Constitution vests the state's chief executive powers in the governo
 
 That is the office voters are choosing.
 
+
+### How Georgia's power actually works
+
+Georgia has a strong governor, but not a governor who controls every part of the executive branch.
+
+The state Constitution puts the "chief executive powers" in the governor. That gives the office real weight: enforcing state law, vetoing legislation, making authorized appointments, filling certain vacancies and calling the General Assembly into special session. The General Assembly remains powerful in its own right. It writes state law, controls the budget, draws legislative and congressional districts and can override a gubernatorial veto with a two-thirds vote in each chamber.
+
+Then there is a third layer that matters here: Georgia separately elects several other constitutional executive officers. The secretary of state, attorney general, state school superintendent, and commissioners of agriculture, insurance and labor are elected independently for the same four-year cycle as the governor. The lieutenant governor is separately elected as well.
+
+That means Georgia does not operate like a company where one CEO can simply order every executive officer to follow the same political line.
+
+The attorney general is a particularly useful example. Georgia legal authority has recognized circumstances in which the attorney general could exercise statutory authority even contrary to the governor's preference. In other words, executive power in Georgia is both strong and fragmented.
+
+For an ordinary voter, the simplest picture is this:
+
+- **Governor:** leads the executive branch, enforces laws, vetoes bills, makes authorized appointments and can call special sessions.
+- **General Assembly:** writes laws, controls appropriations, draws districts and can override vetoes with the required supermajority.
+- **Independently elected executive officers:** control important constitutional offices of their own and do not simply become employees of the governor.
+- **Courts:** decide whether challenged laws or exercises of power comply with the Constitution and other law.
+
+That is why any proposal to "reduce the governor's power" has to be read closely. The real question is not whether Georgia should have checks and balances; it already does. The question is **which specific power would move, who would receive it, whether the change would apply to every future governor, and why the change is being made at that particular moment.**
+
 ## Before the governor's race, there was Atlanta
 
 Bottoms is not arriving in this race without a record.

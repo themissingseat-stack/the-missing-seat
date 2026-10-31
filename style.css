@@ -538,16 +538,8 @@ main.participation .mission,main.participation .org small,main.participation .or
 @media(min-width:621px){main.sharing-page{max-width:860px}}
 .sharing-page .entry-meta{font:700 11px Arial,sans-serif;letter-spacing:.1em;text-transform:uppercase;color:var(--red);margin:4px 0 12px 70px}@media(max-width:760px){.sharing-page .entry-meta{margin-left:0}}
 
-/* Home: Something Worth Sharing tile in the front strip (Oct 30) */
+/* Shared Something Worth Sharing colours */
 :root{--sws-gold:#b8860b;--gold-soft:#f6ecd2}
-.front-strip>div{display:flex;flex-direction:column}
-.front-strip>div>a:last-child,.front-strip>.sws-tile .sws-full>a{margin-top:auto;padding-top:14px}
-.front-strip>.sws-tile{background:var(--gold-soft);border-top:4px solid var(--sws-gold);border-right:0}
-.front-strip>.sws-tile .sws-full{display:flex;flex-direction:column;flex:1}
-.front-strip>.sws-tile .eyebrow{color:#7a5a05}
-.front-strip>.sws-tile a{color:#7a5a05}
-.sws-btn{display:none}
-@media(max-width:760px){.front-strip>.sws-tile{padding:0;border-bottom:0;background:none;border-top:0}.front-strip>.sws-tile .sws-full{display:none}.front-strip>.sws-tile .sws-btn{display:flex;align-items:center;justify-content:space-between;min-height:56px;padding:0 18px;margin:14px 0;background:var(--gold-soft);border-left:5px solid var(--sws-gold);color:#7a5a05;font:800 14px Arial,sans-serif;letter-spacing:.04em;text-transform:uppercase;text-decoration:none}.front-strip>div{display:block}}
 
 /* Worth Sharing: intro band, gold/cream rhythm, category colors, label note (Oct 30) */
 :root{--sws-gold:#b8860b;--gold-soft:#f6ecd2;--sws-blue:#1f4e79;--sws-green:#3d6b4a}
@@ -583,3 +575,7 @@ main.participation .mission,main.participation .org small,main.participation .or
 .sharing-page .sws-invite li{font-size:17px;line-height:1.55;margin:0 0 8px}
 .sharing-page .sws-invite-btn{display:inline-flex;align-items:center;min-height:48px;padding:0 22px;background:var(--sws-blue);color:#fff;font:800 12px Arial,sans-serif;letter-spacing:.08em;text-transform:uppercase;text-decoration:none}
 .sharing-page .sws-invite-btn:hover,.sharing-page .sws-invite-btn:focus-visible{background:#163b5c}
+
+/* Home hero: three actions, wrap on laptop, stack on phones */
+.hero-actions{flex-wrap:wrap}
+@media(max-width:760px){.hero-actions{flex-direction:column;align-items:stretch}.hero-actions .button{text-align:center;justify-content:center}}

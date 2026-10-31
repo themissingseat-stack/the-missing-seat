@@ -35,6 +35,45 @@ Every **Full TMS Editorial Joe Package** must ensure that an ordinary reader fin
 
 **Writing and QA:** Full developed paragraphs, flowing editorial prose, restrained headings, Regular Joe clarity on first reading. No choppy stacked one-liners, performative mic drops, generic AI rhetoric, or repetition. Verify factual/legal claims and links; perform a second editorial and comprehension review; test for duplicates and distinguish developments; correct all flagged issues before publication. Only mark double-reviewed once both passes are complete. The website article, receipts, recipes/action, accountability ledger, and separate correctly sized Facebook and Instagram texts form one Full Package. Publication must obey the existing daily limit and deployment verification.
 
+## Permanent Black Political Champions discovery lane — added October 31, 2026
+
+Every Full TMS Regular Joe Editorial Package workflow must actively consider whether there is a **Black political champion** whose record warrants a separate evidence-based profile or accountability story.
+
+For TMS, "champion" is a discovery label, not an endorsement. A subject qualifies for research when there is a documented combination of public service, barrier-breaking representation, institution-building, civic leadership, legislative achievement, community impact, or a historically significant path into political power. The finished editorial must still apply the same scrutiny used for every other political figure.
+
+### Required editorial treatment
+
+A Black Political Champions package must include:
+
+1. **Background and path to office** — family/community roots, education or professional path, prior public service, and the historical context of the office.
+2. **What they actually did** — legislation, executive action, institution-building, constituent work, oversight, organizing, appointments, budget decisions, or other verifiable public acts. Do not substitute speeches or branding for outcomes.
+3. **What barrier was broken, if any** — firsts and representation claims must be verified from official or primary sources and placed in historical context.
+4. **Who benefited and who paid** — identify documented constituencies, material effects, tradeoffs, unresolved harms, and opposition.
+5. **The hard part of the record** — serious criticism, failures, contested decisions, reversals, ethical concerns, implementation gaps, or counterevidence must not be omitted merely because the subject is being profiled positively.
+6. **What made the achievement possible** — voters, organizers, prior civil-rights work, institutions, coalitions, laws, predecessors, and historical openings. Do not turn individual success into a lone-hero story when the record shows collective work.
+7. **What remains unfinished** — separate milestone from structural change. Representation alone is not proof that the underlying racial, economic, voting, health, education, labor, or justice gap has closed.
+8. **What readers can do** — provide a concrete civic route tied to the subject matter: track a bill, read a voting record, attend a hearing, contact an office, request records, register for testimony, follow implementation, or support relevant nonpartisan civic infrastructure.
+
+### Evidence and neutrality rule
+
+TMS may celebrate a verified milestone without becoming campaign material. Do not endorse or oppose the politician, tell readers how to vote, hide contrary evidence, or treat identity as proof of good governance. For active candidates, distinguish campaign proposals from enacted achievements and refresh all election facts immediately before publication.
+
+### Standing discovery examples
+
+Current or recent figures worth **researching when there is a distinct, non-duplicative story** include:
+
+- **Keisha Lance Bottoms** — 2026 Georgia gubernatorial nominee; potential first Black woman elected governor in U.S. history if elected. Current priority package already completed.
+- **Wes Moore** — Maryland's first Black governor and the third Black person elected governor in U.S. history.
+- **Hakeem Jeffries** — first Black person to lead a major political party in Congress; currently House Democratic Leader.
+- **Lisa Blunt Rochester** — first woman and first Black person to represent Delaware in the U.S. Senate; also the first Black woman to have served in both the U.S. House and Senate.
+- **Raphael Warnock** — Georgia's first Black U.S. senator; profile opportunities should focus on specific legislative or constituent outcomes rather than biography alone.
+- **Terri Sewell** — first Black woman in Alabama's congressional delegation and, in the 119th Congress, first Black woman in House Ways and Means subcommittee leadership; major voting-rights and Black Belt accountability lane.
+- **Maxwell Frost** — first Gen Z member of Congress; a useful youth-representation and organizing-to-office track when tied to a concrete legislative or civic outcome.
+
+This list is illustrative, not exclusive. Discovery should include Black Republicans, Democrats, independents, local officials, state legislators, judges where appropriate, mayors, county officials, election administrators, organizers who moved into public office, and historical figures whose political work is materially missing from common public knowledge.
+
+The governing test remains: **What did they actually change, who gained, what resistance did they face, what did the record cost, and what can an ordinary reader learn or do because of it?**
+
 ## Permanent publication standards
 
 - Publish no more than one editorial per calendar day.

@@ -86,9 +86,9 @@ The governing test remains: **What did they actually change, who gained, what re
 
 | Ledger category | Count |
 |---|---:|
-| Full finished unpublished, total including release holds | 19 |
-| Full finished unpublished, eligible | 17 |
-| Full finished currently queued | 17 |
+| Full finished unpublished, total including release holds | 20 |
+| Full finished unpublished, eligible | 18 |
+| Full finished currently queued | 18 |
 | Complete unpublished packages held outside eligible queue | 2 |
 | Retired/replaced finished editorials | 4 |
 | Requiring live/repository status verification | 0 |
@@ -121,6 +121,8 @@ The two recovered complete packages are not new authorship or existing-website r
 | 14 | Social Security Wants the Money Back. First, Check the Decision. | `social-security-wants-the-money-back-first-check-the-decision` | approved_queued_full_finished | Hospital assistance/provider billing versus federal benefit-recovery decisions and distinct administrative requests. | [Full package](editorial-packages/TMS_SOCIAL_SECURITY_REPAYMENT_CHECK_DECISION_PUBLICATION_PACKAGE_2026-10-28.md). Not breaking policy news or an individual advice determination. FY2023 audit sample not a current invalid-debt rate. Refresh official guidance and relevance, HTML/image/navigation/deployment at release; space from other benefit/service pieces. |
 | 15 | Niger Stopped River Blindness Transmission. One Health Programme Helped Another. | `niger-stopped-river-blindness-transmission-one-programme-helped-another` | approved_queued_full_finished | A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.: Niger vector control, lymphatic-filariasis programme contribution and defined verification surveys versus Timor-Leste's different diseases and delivery history. | [Full package](editorial-packages/TMS_NIGER_ONE_PROGRAMME_HELPED_ANOTHER_PUBLICATION_PACKAGE_2026-10-29.md). Established January2025 achievement, not new October verification. No global eradication, cure count or universal integration claim. Recheck current status/relevance/links at release; HTML, image rights and public navigation/deployment remain. |
 | 16 | Kathmandu Put Care on the Map. Can Families Find Their Way In? | `kathmandu-put-care-on-the-map-can-families-find-their-way-in` | approved_queued_full_finished | The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.: Broad labor/time/pay distribution versus named Nepal mapping, the route into municipal care, successful referrals and worker conditions.; Germany Promised a Full School Day. Families Need the Hours to Match.: Statutory school-care timetable entitlement versus municipal information/navigation approach across care needs. | [Full package](editorial-packages/TMS_KATHMANDU_CARE_MAP_ACCESS_PUBLICATION_PACKAGE_2026-10-30.md). Older reported model, not October launch. Personal accounts not Kathmandu outcome evaluation. Recheck later relevance, programme status, links, HTML/image/navigation and deployment before release; interleave care stories. |
+
+| 17 | The Civil Rights Act Already Protected White Men. So What Exactly Is Being “Restored”? | `the-civil-rights-act-already-protected-white-men` | approved_queued_full_finished | Individual equal-protection claims versus the political reframing of civil-rights enforcement around white men, with structural privilege, current disparities and EEOC data-policy tension. | [Full package](editorial-packages/TMS_WHITE_MEN_CIVIL_RIGHTS_PRIVILEGE_PUBLICATION_PACKAGE_2026-10-31.md). Refresh EEOC EEO-reporting proposal, DEI litigation outcomes and any administration clarification before publication. Does not displace the Bottoms election-timing priority. |
 
 ## Complete unpublished release holds: recovered October 30
 

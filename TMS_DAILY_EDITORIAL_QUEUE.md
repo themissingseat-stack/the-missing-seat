@@ -10,6 +10,14 @@
 
 **[His Death Was Called an Accident. His Great-Granddaughter Became a Supreme Court Justice.](https://themissingseat.org/jesse-lee-bond-receipt.html)** is published and publicly verified. Recovered the complete user-approved master, saved it to [the publication package](editorial-packages/TMS_JESSE_LEE_BOND_APPROVED_MASTER_2026-10-28.md), preserved the exact article prose and completed the actual date and receipt URLs. Both release reviews passed. Article, homepage, archive, Race & Equal Humanity topic, RSS, sitemap and image returned HTTP 200; their bytes matched current main. The override is closed. The prior numbered fifteen retain their exact order; new Niger reserve is appended at 16. Today's one-publication slot is used.
 
+## Priority override — Keisha Lance Bottoms / Georgia governor powers (approved October 31, 2026)
+
+**Georgia Is Choosing a Governor. Will the Winner Get the Office Voters Chose?** is complete, double-reviewed and temporarily placed ahead of the numbered queue because the governing facts are election-timed. The package profiles Keisha Lance Bottoms' verified background and contested Atlanta mayoral record, then examines the reported possibility of a post-election special session that could alter gubernatorial power if she wins. It does **not** claim such a session or power-curtailment bill is certain, and it does not endorse either candidate.
+
+[Full package](editorial-packages/TMS_KEISHA_LANCE_BOTTOMS_GEORGIA_GOVERNOR_POWER_PUBLICATION_PACKAGE_2026-10-31.md)
+
+**Release gate:** refresh the November 3 election status, any special-session proclamation, introduced legislation, and the Bottoms/Jackson status immediately before publication. If the election result overtakes the future-tense framing, revise the article before release. No stale campaign language.
+
 ## Mandatory Regular Joe comprehension and accountability test (added 2026-10-17)
 
 Every **Full TMS Editorial Joe Package** must ensure that an ordinary reader finishes the website editorial knowing:
@@ -39,9 +47,9 @@ Every **Full TMS Editorial Joe Package** must ensure that an ordinary reader fin
 
 | Ledger category | Count |
 |---|---:|
-| Full finished unpublished, total including release holds | 18 |
-| Full finished unpublished, eligible | 16 |
-| Full finished currently queued | 16 |
+| Full finished unpublished, total including release holds | 19 |
+| Full finished unpublished, eligible | 17 |
+| Full finished currently queued | 17 |
 | Complete unpublished packages held outside eligible queue | 2 |
 | Retired/replaced finished editorials | 4 |
 | Requiring live/repository status verification | 0 |

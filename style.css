@@ -579,3 +579,14 @@ main.participation .mission,main.participation .org small,main.participation .or
 /* Home hero: three actions, wrap on laptop, stack on phones */
 .hero-actions{flex-wrap:wrap}
 @media(max-width:760px){.hero-actions{flex-direction:column;align-items:stretch}.hero-actions .button{text-align:center;justify-content:center}}
+
+/* Home hero on short laptop screens: keep all three buttons in the first view */
+@media(min-width:761px) and (max-height:760px){
+.opening-hero{padding-top:28px;padding-bottom:28px;min-height:0}
+.hero .opening-hero .eyebrow,.opening-hero .eyebrow{margin:0 0 6px}
+.hero h1{font-size:clamp(44px,4.5vw,60px);margin-bottom:12px}
+.hero .lead{max-width:760px;font-size:16px;line-height:1.4}
+.opening-hero .lead[style]{margin-top:10px!important}
+.hero-actions{margin-top:14px}
+}
+.opening-hero .eyebrow{color:#e1ad4d}

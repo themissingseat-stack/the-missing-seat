@@ -2,6 +2,8 @@
 
 **Source of truth:** verified live pages and published HTML/commits take precedence over stale queue labels. The staged JSON on branch `tms-daily-queue-2026-09-01` is the machine-readable companion to this ledger.
 
+**Standing rules:** see [TMS_EDITORIAL_STANDARD.md](TMS_EDITORIAL_STANDARD.md), including the 2026-11-04 brand and article-endings standard. It supersedes conflicting generic-signoff instructions anywhere in this ledger.
+
 ## Priority override — fulfilled October 28, 2026
 
 **Racism Is Over. So Why Are Black Drivers Still a Competition?** is published and publicly verified. Its defined current-data calculation and dated personnel chronology passed both refreshed reviews. The override is closed; resume the numbered queue, beginning with the military-AI safety-check article. No second publication today.

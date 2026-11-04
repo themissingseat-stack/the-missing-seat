@@ -601,3 +601,6 @@ main.participation .mission,main.participation .org small,main.participation .or
 .bbb-question{text-align:center}.bbb-question p{max-width:720px;margin:0 auto 24px;font-size:18px;color:var(--muted)}
 .bbb-home-band{background:#201614;color:#fff;padding:36px max(28px,calc((100vw - var(--max))/2));display:grid;grid-template-columns:1fr auto;gap:30px;align-items:center;border-bottom:4px solid #e6b85c}.bbb-home-band .eyebrow{color:#e6b85c;margin:0}.bbb-home-band h2{font-size:clamp(28px,3vw,42px);line-height:1.1;margin:5px 0}.bbb-home-band p:not(.eyebrow){margin:0;color:#e9ddd3}.bbb-home-band .button{white-space:nowrap}
 @media(max-width:760px){.bbb-grid,.bbb-ledger,.bbb-home-band{grid-template-columns:1fr}.bbb-home-band .button{justify-self:start}.bbb-hero{padding-top:52px;padding-bottom:58px}.bbb-intro{font-size:18px}}
+
+/* Buttons inside articles keep white text on the red fill */
+.article-content a.button.primary{color:#fff;text-decoration:none}

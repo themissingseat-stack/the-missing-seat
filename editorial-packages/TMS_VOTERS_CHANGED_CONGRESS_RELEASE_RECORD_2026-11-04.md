@@ -32,4 +32,5 @@ GP hostile review (8 points) applied: vote thresholds ("simple majority" / "60 t
 ## Gate 3: publication
 - Article replaced at canonical URL; homepage card (index.html) and archive card (stories.html) retitled. Sitemap unchanged (same URL).
 - Editor's note added at the end disclosing the replacement.
-- Live verification: see commit/PR record; report **COMMITTED / LIVE UNVERIFIED** until the production URL is checked.
+- Merged via PR #41 (squash commit 0eb891c).
+- **LIVE VERIFIED** (Nov. 4, 2026): https://themissingseat.org/the-blue-wave-won-congress-now-show-america-what-that-victory-is-worth returns HTTP 200 with the new title, H.Con.Res. 113 table, grant-rule section and editor's note; stories.html and the homepage show the new headline; the old headline no longer appears on the homepage.

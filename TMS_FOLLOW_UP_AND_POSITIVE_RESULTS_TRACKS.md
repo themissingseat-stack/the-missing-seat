@@ -1,5 +1,5 @@
 # TMS follow-up and positive-results reporting tracks
-Updated October 30, 2026. Candidates are research leads, never finished inventory.
+Updated November 5, 2026. Candidates are research leads, never finished inventory.
 
 ## Follow-up candidates: 6
 1. Germany police-complaints editorial: obtain subsequent Bundestag/commissioner reporting on complaint disposition, investigations completed, institutional action and individual relief. Baseline live slug: germany-created-a-seat-for-police-complaints-who-can-actually-use-it. Trigger: a verified later outcome, not the existing complaint count. No new outcome asserted.
@@ -99,3 +99,14 @@ Recovered and published the complete approved Jesse Lee Bond package with exact 
 Military-AI article published and verified once; sixth follow-up research track added. Completed and double-reviewed **Kathmandu Put Care on the Map. Can Families Find Their Way In?**, appended16. Full941-word article and692-character Instagram; named rural accounts separated from Kathmandu, July17 underlying version distinguished from October29 republication. Mapping/training/testimonials not represented as citywide measured access or time savings. Source: editorial-packages/TMS_KATHMANDU_CARE_MAP_ACCESS_PUBLICATION_PACKAGE_2026-10-30.md. Existing cooperative outcome research remains open; AHRQ/IHS sepsis initiative is fifth positive candidate, not a completed success story.
 
 Two complete packages found outside canonical inventory are held in TMS_COMPLETE_UNPUBLISHED_RELEASE_HOLDS_2026-10-30.md. Counts:18completeunpublished including2held;16eligiblequeued;4unfinisheddrafts;6follow-up/5positive research. Germany2/2. RayeMontague next, sustaining Black achievement/positive coverage. No existingwebsite replacement installed. Browser visualQA was blocked by cloud URL policy, while six public publication surfaces matched committed content. See TMS_REPORTING_UPDATE_2026-10-30.md.
+
+
+## November5 current gates, history release and German completion
+
+Raye Montague published after current Gate1/Gate2PASS. Follow-up check dueFebruary3,2027: seek an actual teaching/training development or accurate-credit outcome before proposing a substantive follow-up. A monitoring date is not an invented programme outcome or a new completed editorial. Existing6active follow-up and5positive research candidates remain; no new delivered remedy certified today.
+
+Germany's debt-advice package is newly complete and Gate1/Gate2PASS. Actual enacted law main startNovember20; the earlier research handoff's premature commencement claim is corrected, not recycled. Germany weekNovember2–8 is1/2, not last week's2/2. Source: editorial-packages/TMS_GERMANY_DEBT_ADVICE_NOVEMBER20_PUBLICATION_PACKAGE_2026-11-05.md.
+
+Bottoms remains priority butHOLD after November3 changed the campaign premise. AP/CBS/Reuters calls are not certification or proof of a power-curtailment law. The external November4 blue-wave replacement is observed live and its release record preserved; this run does not relabel that external review as its own full factual pass. A separately located SCOTUS Library manuscript has not been fully inspected and is not counted as finished reserve.
+
+SWS has its own TMS_SWS_LEDGER.json: today's exact Jansen quote plus labeled new reflection; all6October18–23 entries already public and preserved. No fabricated backdated entries for the page's October31–November4 gap. The Black, Brilliant & Beyond page is verified live, with Raye linked under Give Them Their Flowers. No existing-website replacement installed. Full proof and readiness counts: TMS_REPORTING_UPDATE_2026-11-05.md.

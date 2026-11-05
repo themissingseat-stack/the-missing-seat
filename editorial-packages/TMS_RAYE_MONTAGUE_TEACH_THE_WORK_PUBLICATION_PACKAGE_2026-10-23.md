@@ -2,8 +2,8 @@
 
 ## Publication metadata
 
-- **Status:** Full, finished, two reviews passed; approved, queued, unpublished.
-- **Completed:** October 23, 2026.
+- **Status:** Full finished; both current release gates PASS; prepared for November5 publication.
+- **Completed:** October 23, 2026; release review November5,2026.
 - **Author:** Jansen, The Missing Seat.
 - **Slug:** `raye-montague-helped-change-ship-design-teach-the-work`
 - **Topic:** Missing History · Race & Equal Humanity · Women · Science & Innovation.
@@ -14,25 +14,30 @@
 - **Story type:** Historical explanatory editorial, newly completed. The 2024 building dedication and 2025 coin are dated recognition events, not breaking 2026 news.
 - **Excerpt:** Raye Montague helped make computer-generated naval ship design possible. A building and a U.S. coin now carry her name. Her work gives schools and employers a useful lesson about technical skill, opportunity and accurate credit.
 
+
+## The Short Version · 20-second read
+
+What happened: Raye Montague helped move naval ship drafting into computing. The Navy credits her with an initial frigate draft in 1971; later recognition includes a named technical centre and Arkansas's 2025 American Innovation dollar.
+
+Who it affects: Readers learning how engineering changed, Black girls and women seeking full accounts of technical achievement, and workers whose ability may exceed their current job title.
+
+What you can do: Teach the documented contribution, distinguish an initial draft from a finished ship, and offer paid, supported opportunities for people to demonstrate technical skills.
+
+Based on: Navy/DVIDS historical descriptions, UA Little Rock's March2024 dedication report and U.S.Mint records.
+
 ## Editorial
 
 Raye Montague began her civilian Navy career as a clerk typist. She went on to do work that helped change how the Navy designed ships. That is a career worth knowing in enough detail to understand the achievement, instead of meeting her only as an inspiring name beneath a photograph.
 
-A 2024 account from the University of Arkansas at Little Rock describes her early work at the David Taylor Model Basin, now the Naval Surface Warfare Center's Carderock Division. Her aptitude led to work with a UNIVAC I computer. The Navy's own historical account describes a business graduate who learned computer operation on the job and took engineering and programming classes at night.
-
-A person hired into one kind of work was capable of much more. Her story gives us a practical reason to examine how institutions recognize ability before deciding where someone belongs.
+A 2024 account from the University of Arkansas at Little Rock describes her early work at the David Taylor Model Basin, now the Naval Surface Warfare Center's Carderock Division. Her aptitude led to work with a UNIVAC I computer. The Navy's own historical account describes a business graduate who learned computer operation on the job and took engineering and programming classes at night. A person hired into one kind of work was capable of much more. Her story gives us a practical reason to examine how institutions recognize ability before deciding where someone belongs.
 
 ## The work deserves a clear explanation
 
-The Naval History and Heritage Command credits Montague with a computer-generated draft for the Oliver Hazard Perry-class frigate in 1971. Its published account gives a completion time of 18 hours and 26 minutes. UA Little Rock's account also describes the initial draft as taking less than 19 hours.
-
-That is the remarkable receipt. It also needs an honest description.
+The Naval History and Heritage Command credits Montague with a computer-generated draft for the Oliver Hazard Perry-class frigate in 1971. Its published account gives a completion time of 18 hours and 26 minutes. UA Little Rock's account also describes the initial draft as taking less than 19 hours. That is the remarkable receipt. It also needs an honest description.
 
 A draft establishes an early design that can be developed, tested and refined. A finished warship requires extensive engineering, construction and many people's work. Describing Montague's contribution accurately makes it easier to appreciate what she accomplished. The sources reviewed here establish the draft-design breakthrough; they do not make her the sole author of every detail in a completed frigate.
 
-For a reader unfamiliar with engineering, the useful point is straightforward. Montague helped move important ship-design work into computing. That changed what could be attempted and how quickly an initial result could be produced. This editorial does not calculate a modern cost saving or claim that today's ships can be designed from start to finish in 19 hours.
-
-Her technical contribution can stand on its own without an inflated claim attached to it.
+For a reader unfamiliar with engineering, the useful point is straightforward. Montague helped move important ship-design work into computing. That changed what could be attempted and how quickly an initial result could be produced. This editorial does not calculate a modern cost saving or claim that today's ships can be designed from start to finish in 19 hours. Her technical contribution can stand on its own without an inflated claim attached to it.
 
 ## Recognition happened, and it matters
 
@@ -42,9 +47,7 @@ The recognition is concrete. In February 2024, Carderock dedicated the Raye Mont
 
 In 2025, the U.S. Mint's Arkansas American Innovation dollar honored her. The design shows Montague visualizing a frigate, with a grid over the sea representing the drafting techniques she brought into computing. The Mint's announcement says sales began on January 7, 2025.
 
-These are things institutions got right. Naming a technical center for her puts her contribution inside the professional setting where it belongs. Showing her thinking about a ship on a national coin presents her as an innovator doing intellectual work.
-
-The record also prevents an easy but inaccurate claim that nobody ever recognized her. She received recognition during her life and afterward. The question for us is what we do with the recognition now.
+These are things institutions got right. Naming a technical center for her puts her contribution inside the professional setting where it belongs. Showing her thinking about a ship on a national coin presents her as an innovator doing intellectual work. The record also prevents an easy but inaccurate claim that nobody ever recognized her. She received recognition during her life and afterward. The question for us is what we do with the recognition now.
 
 ## Who is missing?
 
@@ -52,9 +55,7 @@ The missing seat belongs to the student who knows computers changed the world bu
 
 Montague's story is useful to boys, white students and people outside engineering too. History becomes more accurate when the people who made something possible are present in the explanation. Knowing who contributed enlarges the record available to everyone.
 
-The Navy benefited from her technical work. Colleagues and later practitioners benefited from advances in the field. Montague carried the work of developing her skills and building a career within the racial and gender conditions of her time. The sources checked for this piece do not quantify lost pay, delayed promotion or the cost of particular discriminatory decisions. Those would require employment and decision records. They should not be invented to make her achievement meaningful.
-
-Employers control access to equipment, training, assignments and advancement. Schools and museums decide which examples become part of an ordinary lesson. Those decisions affect whose ability is noticed and whose contribution becomes familiar.
+The Navy benefited from her technical work. Colleagues and later practitioners benefited from advances in the field. Montague carried the work of developing her skills and building a career within the racial and gender conditions of her time. The sources checked for this piece do not quantify lost pay, delayed promotion or the cost of particular discriminatory decisions. Those would require employment and decision records. They should not be invented to make her achievement meaningful. Employers control access to equipment, training, assignments and advancement. Schools and museums decide which examples become part of an ordinary lesson. Those decisions affect whose ability is noticed and whose contribution becomes familiar.
 
 ## The lesson is larger than determination
 
@@ -64,21 +65,27 @@ A more useful lesson is to create opportunities for people to demonstrate skill,
 
 These are recommendations drawn from the story. This editorial does not claim that one program has already solved unequal access or that formal qualifications are unnecessary. Engineering standards protect people. The task is to make the route to meeting those standards visible and usable.
 
-There is a fair counterargument about recognition too. A building name or commemorative coin cannot tell the whole history, and every school has limited teaching time. That supports careful selection and useful teaching materials. It does not require turning a substantial technical contribution into a decorative mention.
+There is a fair counterargument about recognition too. A building name or commemorative coin cannot tell the whole history, and every school has limited teaching time. That supports careful selection and useful teaching materials. It does not require turning a substantial technical contribution into a decorative mention. A good lesson can be small and specific: who the person was, what problem they worked on, what the evidence establishes, and what came next.
 
-A good lesson can be small and specific: who the person was, what problem they worked on, what the evidence establishes, and what came next.
-
-## Something readers can actually do
+## Pull Up A Chair
 
 If you teach, run a youth group or help at a library, use Montague's story in a short session about how computers entered engineering. Pair the Navy historical account with the Mint's description of the coin. Ask students to explain the difference between an initial draft and a finished ship. They should leave knowing what she did and how we know it.
 
-If you manage people, give a worker outside the usual technical pipeline a paid, supported opportunity to demonstrate a relevant skill. Set the requirements in advance, provide the tools and feedback, and make the next step explicit. An invitation without time or support is difficult to use.
+If you manage people, give a worker outside the usual technical pipeline a paid, supported opportunity to demonstrate a relevant skill. Set the requirements in advance, provide the tools and feedback, and make the next step explicit. An invitation without time or support is difficult to use. For readers sharing her story, keep the contribution precise and credit the sources. There is no need to invent a quote or turn her into a person who built a warship alone.
 
-For readers sharing her story, keep the contribution precise and credit the sources. There is no need to invent a quote or turn her into a person who built a warship alone.
+## Resources: United States
+
+- Navy historical episode description: https://www.dvidshub.net/audio/82737/anchored-history-stories-americas-navy-ep-8-navy-innovator-raye-montague-pt-1
+- University dedication and family account: https://ualr.edu/news/2024/03/26/raye-montague/
+- Mint recognition and design: https://www.usmint.gov/news/press-releases/united-states-mint-arkansas-american-innovation-dollar-coin-products-available-on-january-7
+
+## Seat Summary
+
+Montague's contribution belongs in technical history as work that can be explained and checked. Recognition is already documented; the next useful step is to teach the contribution accurately and make supported skills opportunities available.
+
+## Final Thought
 
 Montague's name is on a building and a coin. We can help ensure that the work behind the name is understood, and that another capable person has a clearer way to show what they can do.
-
-**Ally = Action. 🪑**
 
 ## Receipts
 
@@ -94,21 +101,21 @@ Montague's name is on a building and a coin. We can help ensure that the work be
 4. **All Hands Magazine, “The Raye Montague Story,” filmed February 27, posted April 13, 2017.** Official Navy description of Montague's segregated Arkansas upbringing and role. Page description checked; inaccessible transcript download was not treated as read evidence and no interview quote is invented.
    https://www.dvidshub.net/video/515278/raye-montague-story
 
-## Verification notice
 
-Checked October 23, 2026 against the working DVIDS pages, UA Little Rock report and U.S. Mint announcement. The 1971 achievement is consistently described here as an initial computer-generated naval ship draft. The Navy episode description gives 18 hours 26 minutes; the university account says less than 19 hours. No modern cost-saving estimate or sole authorship of a completed ship is asserted. The 2024 dedication and 2025 coin are explicitly historical. No claim is made that Montague never received recognition. No particular school's admission decision, workplace misconduct, unpaid sum or promotion loss is asserted without the underlying record. The Navy's legacy biography URL and one NAVSEA gallery page were unavailable to direct retrieval; the working DVIDS and university accounts support the limited claims used. Review archive uniqueness and current source links again at publication.
+5. U.S. Mint, 2025 Annual Report. Direct official PDF downloaded and read November5. Its short biographical summary gives18hours56minutes; the Navy description gives18hours26minutes. Both fall below19hours. The article attributes the exact Navy figure and does not claim uniform minute-level agreement.
+https://www.usmint.gov/content/dam/usmint/reports/2025-annual-report.pdf
 
-## Duplication and prior-work comparison
+## Accountability ledger
 
-The live archive and homepage, current GitHub repository tree, approved queue, published record, reserved priorities and retired decisions were checked October 23. No Montague title, slug or full package was found. Closest published comparator: **They Trusted Black Women With Their Babies. Just Not With Power.** That concerns Black midwives, health authority and exclusion from power. This piece concerns a named engineer, computer-assisted ship drafting, later institutional recognition and a practical educational/skills opportunity. Closest positive package: **A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.** That concerns verified disease-control results rather than technical history. The biography is established prior work, credited to the Navy, university and Mint; no claim of original historical discovery is made.
+| Decision/work | Evidence/date | Significance | Limits/next step |
+|---|---|---|---|
+| Initial computer-assisted frigate draft | Navy historical account,1971 | Technical achievement rather than decorative recognition | Not a finished ship; minute figures differ |
+| Building40 renamed | Carderock,February15,2024; university reportMarch26 | Contribution recognized in a technical workplace | Recognition is not a measured training outcome |
+| Arkansas innovation dollar | Mint,January7,2025 release | Montague represented as an innovator | Use accurate teaching materials; no current sales claim |
 
-## Review 1: factual and interpretive review
+## How we checked this
 
-Passed October 23. Checked source dates, 1971 event, draft versus completed ship, timing consistency, career-role attribution, recognition chronology and source limitations. Removed an unverified engineering-admission claim and avoided a precise account of individual discrimination without records. Distinguished documented biography from present-day recommendations. No factual or legal blocker remains.
-
-## Review 2: complete TMS and reader review
-
-Passed October 23. Complete prose, metadata, named human story, missing seat, benefit/power/burden, counterargument, ordinary-reader relevance and realistic action included. Broad reader relevance without collective blame; no implication that success excuses exclusion. Facebook, Instagram and image concept included. No long dashes, invented quotations or dramatic paragraph stacking. Automatically approved under the standing two-review instruction.
+Checked November5,2026. The four dated primary/institutional sources and the Mint annual report were opened and read. Navy episode and video descriptions were read, not independently transcribed full audio/video. UA Little Rock's full HTML confirms the clerk-typist/UNIVAC sequence. The 1971 achievement is an initial draft, not sole authorship of a completed warship. Minute figures differ: Navy18h26; Mint annual report18h56; university less than19hours. The body attributes the Navy's exact number; the shared under19-hour draft achievement is the supported conclusion. The 2024 centre and2025 coin are historical recognition, not new launches. No original interview, unverified admission decision, employment loss or quantified modern saving claimed. Education/training recommendations are editorial interpretation. Existing approved achievement-status wording is retained, not replaced by an invented category.
 
 ## Facebook version
 
@@ -121,8 +128,6 @@ A technical center now bears her name, and the U.S. Mint honored her on Arkansas
 The useful next step is to teach the work. Show students what problem she helped solve and what the evidence actually says. Give people outside the usual technical pathway a supported chance to demonstrate ability.
 
 A building name becomes more useful when people understand the contribution behind it.
-
-Ally = Action. 🪑
 
 ## Instagram version
 
@@ -138,14 +143,18 @@ If you manage people, give someone outside the usual technical pathway a paid, s
 
 An accurate story can widen both our history and our sense of what someone might be capable of doing.
 
-Ally = Action. 🪑
+## Image concept
 
-#RayeMontague #BlackHistory #WomenInSTEM #MissingHistory #TheMissingSeat
+Use the existing TMS chair mark as neutral branding. For a later authentic photograph, verify its exact caption, credit and reuse terms; no generated archival likeness.
 
-## Image concept and provenance
+## Release gates: November5,2026
 
-Prefer an authentic historical photograph of Montague at her desk, paired with a restrained TMS title treatment and a caption identifying the approximate date. Working source: the Navy's DVIDS historical-photo collection, https://www.dvidshub.net/image/8225557/raye-montague . Confirm the individual image caption, credit and reuse terms before deployment. Alternative: use an explicitly illustrative desk-and-drafting image without a fabricated likeness. Do not synthesize a fake archival portrait, claim a computer screen shows her actual program, or imply Navy/Mint endorsement.
+Central standard: TMS_EDITORIAL_STANDARD.md main SHA d04822465babaf48e5be937da2ecb2923af57ae1, fetched before work and unchanged on recheck.
 
-## Future reporting trigger
+Gate0: PASS. Historical explanatory/Black excellence package, not breaking recognition news. No election result or pending vote needed for its thesis. Actual archive/repository and prior duplication decisions checked; no Raye article or title/slug. The Georgia priority is separately HOLD because November3 has overtaken its campaign framing; it is not silently discarded.
 
-A materially useful follow-up would obtain training or educational results connected to the recognition: which programs used the materials, who participated and what access or skill outcomes followed. This is a proposed reporting question, not a new counted follow-up candidate until evidence identifies an actual program or development.
+Gate1: PASS, 2026-11-05T07:15:21.431364+00:00; reviewer Codex, independent evidence pass. Opened DVIDS82737 and515278, UA Little Rock March26,2024 HTML, Mint January10,2025 announcement and2025 annual report. Confirmed career sequence, business education/night study, draft/finished distinction, dated recognition, role attribution and original-source limits. Found the Mint's18h56 versus Navy18h26 minute discrepancy and documented it; the article's exact figure remains expressly attributed, while shared under19-hour draft result is not contradicted. No unsupported claim depends on selecting one minute value. No new harm, contract amount, lost promotion or school admission conclusion. Sources are usable links; no known missing material primary source.
+
+Gate2: PASS after Gate1, 2026-11-05T07:15:21.431364+00:00; reviewer Codex, separate hostile-reader/Regular Joe pass. Complete developed prose and named contribution; existing approved Seat Status retained verbatim; Short Version What happened/Who it affects/What you can do/Based on added. Pull Up A Chair, country resources, Seat Summary, accountability ledger, linked receipts and one disclosure present. Original topic-specific final paragraph retained; stock signoff and hashtag/social decoration removed. Hostile checks: no lone-warship-author myth, no unrecognized-forever myth, no invented injury and no qualification-free engineering claim. FB/IG copy-ready, IG818characters. Shared Black women's history is not duplicate of the midwife article. Practical teaching and paid-skills actions fit a positive achievement; no grievance forced onto it.
+
+Gate3: prepared; must verify production after commit. This is today's sole new editorial release. Follow-up due February3,2027; no fabricated later result. Production uses the neutral existing TMS chair mark, not an archival-photo likeness with uncertain date.

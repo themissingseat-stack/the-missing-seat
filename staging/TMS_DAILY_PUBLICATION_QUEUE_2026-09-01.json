@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-10-30",
+  "last_reconciled": "2026-11-05",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -22,10 +22,23 @@
     ]
   },
   "deployment": {
-    "source": "GitHub main: themissingseat-stack/the-missing-seat",
-    "status": "October30 preflight home/archive/RSS matched currentmain; article/home/archive/Democracy&Government/RSS/sitemap HTTP200 and exact expected blobs after successful Pages propagation. Published commit ffff3475045348503b3ee75263fb180fab0bf1a2"
+    "source": "GitHub main themissingseat-stack/the-missing-seat; exact public/main preflight and post-deployment blob match",
+    "status": "November5 article,home,archive,MissingHistory,BBB,RSS,sitemap,SWS allHTTP200 expected exact content after propagation; publication commit c0629084bcf5edbc5d97baf8e62f2d716a211ff2"
   },
   "published_record": [
+    {
+      "title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.",
+      "slug": "raye-montague-helped-change-ship-design-teach-the-work.html",
+      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_RAYE_MONTAGUE_TEACH_THE_WORK_PUBLICATION_PACKAGE_2026-10-23.md",
+      "publication_status": "published_live_verified",
+      "published_verified": "2026-11-05",
+      "article_commit": "c0629084bcf5edbc5d97baf8e62f2d716a211ff2",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "review_record": "editorial-packages/TMS_RAYE_MONTAGUE_TEACH_THE_WORK_PUBLICATION_PACKAGE_2026-10-23.md",
+      "follow_up_date": "2027-02-03",
+      "notes": "Current historical-source and hostile-reader/template reviews. Eight public surfaces includingSWS allHTTP200 exact expected blobs after propagation. Exact minute-source disagreement disclosed; first draft not finished warship. Neutral chair mark. Structural checks only; fresh browser visual QA unavailable."
+    },
     {
       "title": "The Military Wants AI Faster. Who Owns the Safety Check?",
       "slug": "the-military-wants-ai-faster-who-owns-the-safety-check.html",
@@ -297,34 +310,7 @@
   ],
   "queue": [
     {
-      "title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.",
-      "slug": "raye-montague-helped-change-ship-design-teach-the-work",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "approval": "Jansen standing two-review instruction",
-      "scheduled_date": null,
-      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_RAYE_MONTAGUE_TEACH_THE_WORK_PUBLICATION_PACKAGE_2026-10-23.md",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "They Trusted Black Women With Their Babies. Just Not With Power.",
-          "distinction": "Black midwives and health authority versus named engineer's technical work, accurate recognition and practical skill/teaching access."
-        }
-      ],
-      "related_unpublished_comparators": [
-        {
-          "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
-          "distinction": "Public-health elimination outcomes versus technical history and accurate credit."
-        }
-      ],
-      "review_1": "2026-10-23 Navy/DVIDS, university and Mint factual check; draft versus completed ship, chronology, qualifications and source limits checked.",
-      "review_2": "2026-10-23 complete TMS package, voice, fairness, prior-work credit, action and 912-character Instagram check.",
-      "notes": "Historical explanatory piece; 2024 dedication/2025 coin not breaking news. No claim of sole finished-ship authorship, never-recognized history or calculated loss/savings. At release refresh source links, uniqueness and image credit/reuse; render and verify article/navigation.",
-      "position": 1
-    },
-    {
-      "position": 2,
+      "position": 1,
       "canonical_title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
       "slug": "germany-raised-the-minimum-wage-the-paycheck-still-needs-the-hours",
       "status": "approved_queued_full_finished",
@@ -342,10 +328,15 @@
         "confirm deployment source",
         "HTML/image and navigation integration"
       ],
-      "title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours."
+      "title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 3,
+      "position": 2,
       "title": "The Building Failed. The Children Lost the School Day.",
       "canonical_title": "The Building Failed. The Children Lost the School Day.",
       "slug": "the-building-failed-the-children-lost-the-school-day",
@@ -370,10 +361,15 @@
         "confirm deployment source",
         "HTML/image/navigation and public URL verification"
       ],
-      "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
+      "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 4,
+      "position": 3,
       "title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
       "canonical_title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
       "slug": "the-job-center-was-open-the-help-still-wasnt-accessible",
@@ -398,10 +394,15 @@
         "confirm deployment source",
         "HTML/image/navigation and public URL verification"
       ],
-      "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
+      "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 5,
+      "position": 4,
       "title": "The Loan Rule Changed. Were the Instructions Ready?",
       "canonical_title": "The Loan Rule Changed. Were the Instructions Ready?",
       "slug": "the-loan-rule-changed-were-the-instructions-ready",
@@ -426,10 +427,15 @@
         "confirm deployment source",
         "HTML/image/navigation and public URL verification"
       ],
-      "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
+      "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 6,
+      "position": 5,
       "title": "The House Was Full. The Homelessness Definition Still Had an Empty Seat.",
       "slug": "the-house-was-full-the-homelessness-definition-still-had-an-empty-seat",
       "completion_status": "full_finished",
@@ -447,10 +453,15 @@
       ],
       "review_1": "2026-10-17 GAO methodology, program definition, attribution and preliminary-status audit",
       "review_2": "2026-10-17 Regular Joe clarity, respectful framing, counterargument, action, metadata and social audit",
-      "notes": "GAO evidence is preliminary and interviews are nongeneralizable. No national count or universal doubled-up eligibility claim. Refresh for final GAO work and HUD guidance; complete live uniqueness, HTML/image/navigation and deployment checks."
+      "notes": "GAO evidence is preliminary and interviews are nongeneralizable. No national count or universal doubled-up eligibility claim. Refresh for final GAO work and HUD guidance; complete live uniqueness, HTML/image/navigation and deployment checks.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 7,
+      "position": 6,
       "title": "Germany Gives Workers a Complaint Route. The Compensation Clock Still Runs.",
       "canonical_title": "Germany Gives Workers a Complaint Route. The Compensation Clock Still Runs.",
       "slug": "germany-gives-workers-a-complaint-route-the-compensation-clock-still-runs",
@@ -469,10 +480,15 @@
       ],
       "review_1": "2026-10-20 four current statutes, timing, exceptions and evidence",
       "review_2": "2026-10-20 complete TMS format, Regular Joe, fairness, action, social and duplication",
-      "notes": "Final law/live uniqueness, HTML/image/navigation and deployment checks required."
+      "notes": "Final law/live uniqueness, HTML/image/navigation and deployment checks required.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 8,
+      "position": 7,
       "title": "Germany Raised the Volunteer Allowance. Now Show Who Can Actually Use It.",
       "slug": "germany-raised-the-volunteer-allowance-now-show-who-can-use-it",
       "completion_status": "full_finished",
@@ -491,10 +507,15 @@
       ],
       "review_1": "2026-10-22 final direct consolidated-law check passed; prior timeout resolved.",
       "review_2": "2026-10-21 Regular Joe clarity, complete TMS elements, social copies, German copy, fairness and duplication audit",
-      "notes": "Direct official §3 numbers 26 and 26a read October 22: amounts, activities, organizations, annual personal limits and non-stacking rule checked. Legal hold cleared. Refresh law at release; render and verify HTML/navigation."
+      "notes": "Direct official §3 numbers 26 and 26a read October 22: amounts, activities, organizations, annual personal limits and non-stacking rule checked. Legal hold cleared. Refresh law at release; render and verify HTML/navigation.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 9,
+      "position": 8,
       "title": "The Job Was Online. The Application Had to Go in the Mail.",
       "slug": "the-job-was-online-the-application-had-to-go-in-the-mail",
       "completion_status": "full_finished",
@@ -512,10 +533,15 @@
       ],
       "review_1": "2026-10-22 EEOC/DOJ original record cross-check, chronology, claim/settlement distinction and Reuters company response",
       "review_2": "2026-10-22 package, prose, fairness, action, duplicate comparison and 917-character Instagram review",
-      "notes": "No implemented compliance or claimant payment claimed. Refresh interim claims address, fund status and company/legal developments at release; render HTML and verify public links."
+      "notes": "No implemented compliance or claimant payment claimed. Refresh interim claims address, fund status and company/legal developments at release; render HTML and verify public links.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 10,
+      "position": 9,
       "title": "A Child Can Have a Credit File Before They Have a Job.",
       "canonical_title": "A Child Can Have a Credit File Before They Have a Job.",
       "slug": "a-child-can-have-a-credit-file-before-they-have-a-job",
@@ -534,10 +560,15 @@
       ],
       "review_1": "2026-10-24 FTC/CFPB current guidance cross-check and TransUnion procedure, eligibility, counterevidence and limits.",
       "review_2": "2026-10-24 full package, developed prose, fairness, action, distinctness and 841-character Instagram audit.",
-      "notes": "Evergreen service/accountability piece, not new law. Refresh official procedures/links and uniqueness, render and verify public links at release."
+      "notes": "Evergreen service/accountability piece, not new law. Refresh official procedures/links and uniqueness, render and verify public links at release.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 11,
+      "position": 10,
       "title": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
       "canonical_title": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
       "slug": "before-you-agree-to-a-hospital-payment-plan-ask-about-financial-assistance",
@@ -556,7 +587,12 @@
       ],
       "review_1": "2026-10-25 current IRS/eCFR rules and Stanford public page plus policy cross-check; scope, insured example, provider coverage and collection limits.",
       "review_2": "2026-10-25 complete package, 1148-word natural-prose body, fairness, action, distinctness and 901-character Instagram check.",
-      "notes": "Evergreen service/accountability, not a new law or reported patient investigation. Refresh source/current example and live distinctness; render HTML and verify navigation at release."
+      "notes": "Evergreen service/accountability, not a new law or reported patient investigation. Refresh source/current example and live distinctness; render HTML and verify navigation at release.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
       "title": "Wheelmap Helps People Plan. Now Track Which Barriers Come Down.",
@@ -584,10 +620,15 @@
       "review_1": "2026-10-26 operator FAQ/overview, founder profile, Olpe primary implementation and German tourism cross-check; output/impact distinction.",
       "review_2": "2026-10-26 natural prose, human contribution, full TMS package, fairness, action, distinctness and English/German social length.",
       "notes": "Evergreen positive/civic initiative, not October launch. Operator coverage not audited access outcome. Refresh roles/data wording, source links, distinctness and image reuse before HTML/public deployment.",
-      "position": 12
+      "position": 11,
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 13,
+      "position": 12,
       "title": "Theodor Wonja Michael Found a Second Route Into Education. Teach That Part Too.",
       "slug": "theodor-wonja-michael-found-a-second-route-into-education",
       "source": "editorial-packages/TMS_THEODOR_WONJA_MICHAEL_SECOND_ROUTE_PUBLICATION_PACKAGE_2026-10-27.md",
@@ -611,10 +652,15 @@
       ],
       "review_1": "2026-10-27 original profile cross-checked against museum, DOMiD finding aid, dated acquisition record and publisher; limits documented",
       "review_2": "2026-10-27 complete TMS package, 1089-word prose, fairness, duplicates, action, source limitations; IG1003/DE599 characters",
-      "notes": "Historical/positive explanatory piece, not breaking acquisition news or measured program evaluation. Refresh sources/relevance/current arrangements at release; HTML/image rights/navigation/deployment work remain."
+      "notes": "Historical/positive explanatory piece, not breaking acquisition news or measured program evaluation. Refresh sources/relevance/current arrangements at release; HTML/image rights/navigation/deployment work remain.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 14,
+      "position": 13,
       "title": "Social Security Wants the Money Back. First, Check the Decision.",
       "canonical_title": "Social Security Wants the Money Back. First, Check the Decision.",
       "slug": "social-security-wants-the-money-back-first-check-the-decision",
@@ -636,10 +682,15 @@
       "material_distinction": "Hospital assistance/provider billing versus federal benefit-recovery decisions and distinct administrative requests.",
       "review_1": "2026-10-28 actual audit case/sample checked against full report; current forms, reconsideration page, June2026 POMS and20CFR404.506 read; stale leaflet rates excluded",
       "review_2": "2026-10-28 complete1031-word developed article, Short Version, seven receipts, disclosure, power/burden/counterargument, realistic action and870-character IG; live/repo/queue uniqueness and material difference checked",
-      "notes": "Not breaking policy news or an individual advice determination. FY2023 audit sample not a current invalid-debt rate. Refresh official guidance and relevance, HTML/image/navigation/deployment at release; space from other benefit/service pieces."
+      "notes": "Not breaking policy news or an individual advice determination. FY2023 audit sample not a current invalid-debt rate. Refresh official guidance and relevance, HTML/image/navigation/deployment at release; space from other benefit/service pieces.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 15,
+      "position": 14,
       "title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
       "canonical_title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
       "slug": "niger-stopped-river-blindness-transmission-one-programme-helped-another",
@@ -659,10 +710,15 @@
       ],
       "review_1": "2026-10-29 WHO announcement, named-worker account, October9 country tables, March original research and correction checked independently against draft; chronology, defined survey and claim limits pass",
       "review_2": "2026-10-29 complete985-word developed article, Short Version, power/burden/benefit, limitations, realistic action, six receipts, disclosure, excerpt, image concept, FB and769-character IG; actual live/repo/queue uniqueness checked",
-      "notes": "Established January2025 achievement, not new October verification. No global eradication, cure count or universal integration claim. Recheck current status/relevance/links at release; HTML, image rights and public navigation/deployment remain."
+      "notes": "Established January2025 achievement, not new October verification. No global eradication, cure count or universal integration claim. Recheck current status/relevance/links at release; HTML, image rights and public navigation/deployment remain.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 16,
+      "position": 15,
       "title": "Kathmandu Put Care on the Map. Can Families Find Their Way In?",
       "canonical_title": "Kathmandu Put Care on the Map. Can Families Find Their Way In?",
       "slug": "kathmandu-put-care-on-the-map-can-families-find-their-way-in",
@@ -687,22 +743,62 @@
       ],
       "review_1": "2026-10-30 original accessible July17 account compared with October29 republication; named locations separated; ILO July3 and WHO October20 overview read; no measured citywide outcome asserted",
       "review_2": "2026-10-30 complete941-word natural body, Short Version, metadata/excerpt, evidence/power/benefit/burden, counterargument, realistic action, three receipts, disclosure, image concept, FB and692-character IG; actual live/repo/queue comparison pass",
-      "notes": "Older reported model, not October launch. Personal accounts not Kathmandu outcome evaluation. Recheck later relevance, programme status, links, HTML/image/navigation and deployment before release; interleave care stories."
+      "notes": "Older reported model, not October launch. Personal accounts not Kathmandu outcome evaluation. Recheck later relevance, programme status, links, HTML/image/navigation and deployment before release; interleave care stories.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
+    },
+    {
+      "position": 16,
+      "title": "Germany's New Debt-Advice Law Starts November 20. Ask What Help You Can Actually Get.",
+      "canonical_title": "Germany's New Debt-Advice Law Starts November 20. Ask What Help You Can Actually Get.",
+      "slug": "germany-new-debt-advice-law-starts-november-20",
+      "source": "editorial-packages/TMS_GERMANY_DEBT_ADVICE_NOVEMBER20_PUBLICATION_PACKAGE_2026-11-05.md",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "approval": "Automatic approval after current Gate1 and Gate2 PASS",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Price They Don't Call Interest",
+          "slug": "the-price-they-dont-call-interest.html",
+          "distinction": "U.S. high-cost consumer products versus enacted German independent debt-advice access, fee rules and November20 commencement."
+        }
+      ],
+      "related_queued_comparators": [
+        {
+          "title": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
+          "distinction": "U.S. hospital financial-assistance rules versus German independent debt advice."
+        }
+      ],
+      "review_1": "2026-11-05 Gate1 PASS: actual official BGBl293 PDF §§1–6, consolidated statute, final mediation text and current provider information; premature implementation claim corrected.",
+      "review_2": "2026-11-05 Gate2 PASS after Gate1: complete1053-word template, SeatAtRisk, PullUpAChair, country resources, SeatSummary, topic ending, EN/DE clean socials IG419/431, fairness/action/originality.",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "release_gate_status": "content_gates_passed_technical_release_pending",
+      "notes": "Time-sensitive November20 main start. Must refresh legal tense/current implementation if released on or afterNovember20; local provider conditions/links and later relevance also need release-day check. HTML/image/navigation/deployment work remains. No universal free/immediate advice or enforcement stay claimed."
     }
   ],
   "counts": {
-    "full_finished_unpublished_eligible": 16,
+    "full_finished_unpublished_eligible": 1,
     "full_finished_currently_queued": 16,
     "full_finished_retired_or_replaced": 4,
     "status_verification_required": 0,
     "historical_replacement_versions": 16,
     "replacements_still_pending_installation": null,
-    "unfinished_or_blocked": 6,
+    "unfinished_or_blocked": 22,
     "follow_up_candidates": 6,
     "positive_solution_candidates": 5,
-    "full_finished_unpublished_total": 18,
-    "full_finished_held_for_release": 2,
-    "unfinished_drafts": 4
+    "full_finished_unpublished_total": 19,
+    "full_finished_held_for_release": 18,
+    "unfinished_drafts": 4,
+    "queued_pending_current_release_gates": 15,
+    "full_finished_held_outside_numbered_queue": 3,
+    "external_manuscript_status_unverified": 1
   },
   "pending_priority_requests": [
     {
@@ -721,9 +817,9 @@
     }
   ],
   "website_quality_status": {
-    "as_of": "2026-10-30",
-    "status": "content_and_navigation_verified_visual_check_blocked",
-    "finding": "Established responsive template with ShortVersion and one disclosure; HTML structure/RSS/sitemap parsed, cards correctly linked. Cloud browser initial navigation failed during propagation; reload subsequently rejected by URL policy. No workaround attempted, no fresh desktop/mobile visual pass claimed. No existingwebsite replacement installed."
+    "as_of": "2026-11-05",
+    "status": "content_navigation_and_structure_verified_browser_unavailable",
+    "finding": "Preserved currentCSS/nav/full-story closed-by-default span toggle. HTML/XML structural checks; no newdesktop/mobile screenshot test claimed. Available Browser js service returnedUnknowntool. No workaround or localbrowser session assumed."
   },
   "story_briefs_2026_09_28": [
     {
@@ -868,34 +964,7 @@
   ],
   "unpublished_ledger": [
     {
-      "title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.",
-      "slug": "raye-montague-helped-change-ship-design-teach-the-work",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "approval": "Jansen standing two-review instruction",
-      "scheduled_date": null,
-      "source": "https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_RAYE_MONTAGUE_TEACH_THE_WORK_PUBLICATION_PACKAGE_2026-10-23.md",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "They Trusted Black Women With Their Babies. Just Not With Power.",
-          "distinction": "Black midwives and health authority versus named engineer's technical work, accurate recognition and practical skill/teaching access."
-        }
-      ],
-      "related_unpublished_comparators": [
-        {
-          "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
-          "distinction": "Public-health elimination outcomes versus technical history and accurate credit."
-        }
-      ],
-      "review_1": "2026-10-23 Navy/DVIDS, university and Mint factual check; draft versus completed ship, chronology, qualifications and source limits checked.",
-      "review_2": "2026-10-23 complete TMS package, voice, fairness, prior-work credit, action and 912-character Instagram check.",
-      "notes": "Historical explanatory piece; 2024 dedication/2025 coin not breaking news. No claim of sole finished-ship authorship, never-recognized history or calculated loss/savings. At release refresh source links, uniqueness and image credit/reuse; render and verify article/navigation.",
-      "position": 1
-    },
-    {
-      "position": 2,
+      "position": 1,
       "canonical_title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
       "slug": "germany-raised-the-minimum-wage-the-paycheck-still-needs-the-hours",
       "status": "approved_queued_full_finished",
@@ -913,10 +982,15 @@
         "confirm deployment source",
         "HTML/image and navigation integration"
       ],
-      "title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours."
+      "title": "Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 3,
+      "position": 2,
       "title": "The Building Failed. The Children Lost the School Day.",
       "canonical_title": "The Building Failed. The Children Lost the School Day.",
       "slug": "the-building-failed-the-children-lost-the-school-day",
@@ -941,10 +1015,15 @@
         "confirm deployment source",
         "HTML/image/navigation and public URL verification"
       ],
-      "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
+      "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 4,
+      "position": 3,
       "title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
       "canonical_title": "The Job Center Was Open. The Help Still Wasn't Accessible.",
       "slug": "the-job-center-was-open-the-help-still-wasnt-accessible",
@@ -969,10 +1048,15 @@
         "confirm deployment source",
         "HTML/image/navigation and public URL verification"
       ],
-      "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
+      "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 5,
+      "position": 4,
       "title": "The Loan Rule Changed. Were the Instructions Ready?",
       "canonical_title": "The Loan Rule Changed. Were the Instructions Ready?",
       "slug": "the-loan-rule-changed-were-the-instructions-ready",
@@ -997,10 +1081,15 @@
         "confirm deployment source",
         "HTML/image/navigation and public URL verification"
       ],
-      "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain."
+      "notes": "Final source refresh, live uniqueness, HTML/image/navigation and deployment checks remain.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 6,
+      "position": 5,
       "title": "The House Was Full. The Homelessness Definition Still Had an Empty Seat.",
       "slug": "the-house-was-full-the-homelessness-definition-still-had-an-empty-seat",
       "completion_status": "full_finished",
@@ -1018,10 +1107,15 @@
       ],
       "review_1": "2026-10-17 GAO methodology, program definition, attribution and preliminary-status audit",
       "review_2": "2026-10-17 Regular Joe clarity, respectful framing, counterargument, action, metadata and social audit",
-      "notes": "GAO evidence is preliminary and interviews are nongeneralizable. No national count or universal doubled-up eligibility claim. Refresh for final GAO work and HUD guidance; complete live uniqueness, HTML/image/navigation and deployment checks."
+      "notes": "GAO evidence is preliminary and interviews are nongeneralizable. No national count or universal doubled-up eligibility claim. Refresh for final GAO work and HUD guidance; complete live uniqueness, HTML/image/navigation and deployment checks.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 7,
+      "position": 6,
       "title": "Germany Gives Workers a Complaint Route. The Compensation Clock Still Runs.",
       "canonical_title": "Germany Gives Workers a Complaint Route. The Compensation Clock Still Runs.",
       "slug": "germany-gives-workers-a-complaint-route-the-compensation-clock-still-runs",
@@ -1040,10 +1134,15 @@
       ],
       "review_1": "2026-10-20 four current statutes, timing, exceptions and evidence",
       "review_2": "2026-10-20 complete TMS format, Regular Joe, fairness, action, social and duplication",
-      "notes": "Final law/live uniqueness, HTML/image/navigation and deployment checks required."
+      "notes": "Final law/live uniqueness, HTML/image/navigation and deployment checks required.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 8,
+      "position": 7,
       "title": "Germany Raised the Volunteer Allowance. Now Show Who Can Actually Use It.",
       "slug": "germany-raised-the-volunteer-allowance-now-show-who-can-use-it",
       "completion_status": "full_finished",
@@ -1062,10 +1161,15 @@
       ],
       "review_1": "2026-10-22 final direct consolidated-law check passed; prior timeout resolved.",
       "review_2": "2026-10-21 Regular Joe clarity, complete TMS elements, social copies, German copy, fairness and duplication audit",
-      "notes": "Direct official §3 numbers 26 and 26a read October 22: amounts, activities, organizations, annual personal limits and non-stacking rule checked. Legal hold cleared. Refresh law at release; render and verify HTML/navigation."
+      "notes": "Direct official §3 numbers 26 and 26a read October 22: amounts, activities, organizations, annual personal limits and non-stacking rule checked. Legal hold cleared. Refresh law at release; render and verify HTML/navigation.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 9,
+      "position": 8,
       "title": "The Job Was Online. The Application Had to Go in the Mail.",
       "slug": "the-job-was-online-the-application-had-to-go-in-the-mail",
       "completion_status": "full_finished",
@@ -1083,10 +1187,15 @@
       ],
       "review_1": "2026-10-22 EEOC/DOJ original record cross-check, chronology, claim/settlement distinction and Reuters company response",
       "review_2": "2026-10-22 package, prose, fairness, action, duplicate comparison and 917-character Instagram review",
-      "notes": "No implemented compliance or claimant payment claimed. Refresh interim claims address, fund status and company/legal developments at release; render HTML and verify public links."
+      "notes": "No implemented compliance or claimant payment claimed. Refresh interim claims address, fund status and company/legal developments at release; render HTML and verify public links.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 10,
+      "position": 9,
       "title": "A Child Can Have a Credit File Before They Have a Job.",
       "canonical_title": "A Child Can Have a Credit File Before They Have a Job.",
       "slug": "a-child-can-have-a-credit-file-before-they-have-a-job",
@@ -1105,10 +1214,15 @@
       ],
       "review_1": "2026-10-24 FTC/CFPB current guidance cross-check and TransUnion procedure, eligibility, counterevidence and limits.",
       "review_2": "2026-10-24 full package, developed prose, fairness, action, distinctness and 841-character Instagram audit.",
-      "notes": "Evergreen service/accountability piece, not new law. Refresh official procedures/links and uniqueness, render and verify public links at release."
+      "notes": "Evergreen service/accountability piece, not new law. Refresh official procedures/links and uniqueness, render and verify public links at release.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 11,
+      "position": 10,
       "title": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
       "canonical_title": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
       "slug": "before-you-agree-to-a-hospital-payment-plan-ask-about-financial-assistance",
@@ -1127,7 +1241,12 @@
       ],
       "review_1": "2026-10-25 current IRS/eCFR rules and Stanford public page plus policy cross-check; scope, insured example, provider coverage and collection limits.",
       "review_2": "2026-10-25 complete package, 1148-word natural-prose body, fairness, action, distinctness and 901-character Instagram check.",
-      "notes": "Evergreen service/accountability, not a new law or reported patient investigation. Refresh source/current example and live distinctness; render HTML and verify navigation at release."
+      "notes": "Evergreen service/accountability, not a new law or reported patient investigation. Refresh source/current example and live distinctness; render HTML and verify navigation at release.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
       "title": "Wheelmap Helps People Plan. Now Track Which Barriers Come Down.",
@@ -1155,10 +1274,15 @@
       "review_1": "2026-10-26 operator FAQ/overview, founder profile, Olpe primary implementation and German tourism cross-check; output/impact distinction.",
       "review_2": "2026-10-26 natural prose, human contribution, full TMS package, fairness, action, distinctness and English/German social length.",
       "notes": "Evergreen positive/civic initiative, not October launch. Operator coverage not audited access outcome. Refresh roles/data wording, source links, distinctness and image reuse before HTML/public deployment.",
-      "position": 12
+      "position": 11,
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 13,
+      "position": 12,
       "title": "Theodor Wonja Michael Found a Second Route Into Education. Teach That Part Too.",
       "slug": "theodor-wonja-michael-found-a-second-route-into-education",
       "source": "editorial-packages/TMS_THEODOR_WONJA_MICHAEL_SECOND_ROUTE_PUBLICATION_PACKAGE_2026-10-27.md",
@@ -1182,10 +1306,15 @@
       ],
       "review_1": "2026-10-27 original profile cross-checked against museum, DOMiD finding aid, dated acquisition record and publisher; limits documented",
       "review_2": "2026-10-27 complete TMS package, 1089-word prose, fairness, duplicates, action, source limitations; IG1003/DE599 characters",
-      "notes": "Historical/positive explanatory piece, not breaking acquisition news or measured program evaluation. Refresh sources/relevance/current arrangements at release; HTML/image rights/navigation/deployment work remain."
+      "notes": "Historical/positive explanatory piece, not breaking acquisition news or measured program evaluation. Refresh sources/relevance/current arrangements at release; HTML/image rights/navigation/deployment work remain.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 14,
+      "position": 13,
       "title": "Social Security Wants the Money Back. First, Check the Decision.",
       "canonical_title": "Social Security Wants the Money Back. First, Check the Decision.",
       "slug": "social-security-wants-the-money-back-first-check-the-decision",
@@ -1207,10 +1336,15 @@
       "material_distinction": "Hospital assistance/provider billing versus federal benefit-recovery decisions and distinct administrative requests.",
       "review_1": "2026-10-28 actual audit case/sample checked against full report; current forms, reconsideration page, June2026 POMS and20CFR404.506 read; stale leaflet rates excluded",
       "review_2": "2026-10-28 complete1031-word developed article, Short Version, seven receipts, disclosure, power/burden/counterargument, realistic action and870-character IG; live/repo/queue uniqueness and material difference checked",
-      "notes": "Not breaking policy news or an individual advice determination. FY2023 audit sample not a current invalid-debt rate. Refresh official guidance and relevance, HTML/image/navigation/deployment at release; space from other benefit/service pieces."
+      "notes": "Not breaking policy news or an individual advice determination. FY2023 audit sample not a current invalid-debt rate. Refresh official guidance and relevance, HTML/image/navigation/deployment at release; space from other benefit/service pieces.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 15,
+      "position": 14,
       "title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
       "canonical_title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
       "slug": "niger-stopped-river-blindness-transmission-one-programme-helped-another",
@@ -1230,10 +1364,15 @@
       ],
       "review_1": "2026-10-29 WHO announcement, named-worker account, October9 country tables, March original research and correction checked independently against draft; chronology, defined survey and claim limits pass",
       "review_2": "2026-10-29 complete985-word developed article, Short Version, power/burden/benefit, limitations, realistic action, six receipts, disclosure, excerpt, image concept, FB and769-character IG; actual live/repo/queue uniqueness checked",
-      "notes": "Established January2025 achievement, not new October verification. No global eradication, cure count or universal integration claim. Recheck current status/relevance/links at release; HTML, image rights and public navigation/deployment remain."
+      "notes": "Established January2025 achievement, not new October verification. No global eradication, cure count or universal integration claim. Recheck current status/relevance/links at release; HTML, image rights and public navigation/deployment remain.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 16,
+      "position": 15,
       "title": "Kathmandu Put Care on the Map. Can Families Find Their Way In?",
       "canonical_title": "Kathmandu Put Care on the Map. Can Families Find Their Way In?",
       "slug": "kathmandu-put-care-on-the-map-can-families-find-their-way-in",
@@ -1258,7 +1397,44 @@
       ],
       "review_1": "2026-10-30 original accessible July17 account compared with October29 republication; named locations separated; ILO July3 and WHO October20 overview read; no measured citywide outcome asserted",
       "review_2": "2026-10-30 complete941-word natural body, Short Version, metadata/excerpt, evidence/power/benefit/burden, counterargument, realistic action, three receipts, disclosure, image concept, FB and692-character IG; actual live/repo/queue comparison pass",
-      "notes": "Older reported model, not October launch. Personal accounts not Kathmandu outcome evaluation. Recheck later relevance, programme status, links, HTML/image/navigation and deployment before release; interleave care stories."
+      "notes": "Older reported model, not October launch. Personal accounts not Kathmandu outcome evaluation. Recheck later relevance, programme status, links, HTML/image/navigation and deployment before release; interleave care stories.",
+      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "prior_review_record_preserved": true,
+      "current_gate_1": "NOT_RUN",
+      "current_gate_2": "NOT_RUN",
+      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
+    },
+    {
+      "position": 16,
+      "title": "Germany's New Debt-Advice Law Starts November 20. Ask What Help You Can Actually Get.",
+      "canonical_title": "Germany's New Debt-Advice Law Starts November 20. Ask What Help You Can Actually Get.",
+      "slug": "germany-new-debt-advice-law-starts-november-20",
+      "source": "editorial-packages/TMS_GERMANY_DEBT_ADVICE_NOVEMBER20_PUBLICATION_PACKAGE_2026-11-05.md",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "approval": "Automatic approval after current Gate1 and Gate2 PASS",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Price They Don't Call Interest",
+          "slug": "the-price-they-dont-call-interest.html",
+          "distinction": "U.S. high-cost consumer products versus enacted German independent debt-advice access, fee rules and November20 commencement."
+        }
+      ],
+      "related_queued_comparators": [
+        {
+          "title": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
+          "distinction": "U.S. hospital financial-assistance rules versus German independent debt advice."
+        }
+      ],
+      "review_1": "2026-11-05 Gate1 PASS: actual official BGBl293 PDF §§1–6, consolidated statute, final mediation text and current provider information; premature implementation claim corrected.",
+      "review_2": "2026-11-05 Gate2 PASS after Gate1: complete1053-word template, SeatAtRisk, PullUpAChair, country resources, SeatSummary, topic ending, EN/DE clean socials IG419/431, fairness/action/originality.",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "release_gate_status": "content_gates_passed_technical_release_pending",
+      "notes": "Time-sensitive November20 main start. Must refresh legal tense/current implementation if released on or afterNovember20; local provider conditions/links and later relevance also need release-day check. HTML/image/navigation/deployment work remains. No universal free/immediate advice or enforcement stay claimed."
     }
   ],
   "status_verification_ledger": [],
@@ -1283,29 +1459,21 @@
     }
   ],
   "germany_weekly_delivery": {
-    "week": "2026-10-26/2026-11-01",
+    "week": "2026-11-02/2026-11-08",
     "target_packages": 2,
-    "completed_packages": 2,
-    "remaining_packages": 0,
-    "target_days": [
-      "2026-10-27",
-      "2026-10-30"
-    ],
+    "completed_packages": 1,
+    "remaining_packages": 1,
     "delivered": [
       {
-        "date": "2026-10-26",
-        "title": "Wheelmap Helps People Plan. Now Track Which Barriers Come Down.",
-        "source": "editorial-packages/TMS_GERMANY_WHEELMAP_INFORMATION_TO_REPAIR_PUBLICATION_PACKAGE_2026-10-26.md",
-        "status": "approved_queued_full_finished"
-      },
-      {
-        "date": "2026-10-27",
-        "title": "Theodor Wonja Michael Found a Second Route Into Education. Teach That Part Too.",
-        "source": "editorial-packages/TMS_THEODOR_WONJA_MICHAEL_SECOND_ROUTE_PUBLICATION_PACKAGE_2026-10-27.md",
-        "status": "approved_queued_full_finished"
+        "date": "2026-11-05",
+        "title": "Germany's New Debt-Advice Law Starts November 20. Ask What Help You Can Actually Get.",
+        "source": "editorial-packages/TMS_GERMANY_DEBT_ADVICE_NOVEMBER20_PUBLICATION_PACKAGE_2026-11-05.md",
+        "status": "approved_queued_full_finished",
+        "gate_1": "PASS",
+        "gate_2": "PASS"
       }
     ],
-    "notes": "Weekly target2/2 reached through distinct Wheelmap and Theodor Wonja Michael packages. Prior school-day publication excluded from this week's new production."
+    "notes": "Current repository contains no other verified new full Germany package this week. Rights handoff is research, not a full editorial. Do not carry October26–November1 target2/2 into this week."
   },
   "story_briefs_2026_10_06": [
     {
@@ -1928,14 +2096,18 @@
     }
   ],
   "priority_override": {
-    "title": "His Death Was Called an Accident. His Great-Granddaughter Became a Supreme Court Justice.",
-    "slug": "jesse-lee-bond-receipt",
-    "source": "editorial-packages/TMS_JESSE_LEE_BOND_APPROVED_MASTER_2026-10-28.md",
-    "status": "published_live_verified",
-    "active": false,
-    "published_verified": "2026-10-29",
-    "blockers": [],
-    "resolution": "Fulfilled approved next-slot override ahead of numbered queue. Complete master recovered and registered as finished before publication; immediately moved to published record. Numbered fifteen retained in exact relative order; Niger appended16. No second editorial today."
+    "title": "Georgia Is Choosing a Governor. Will the Winner Get the Office Voters Chose?",
+    "slug": "georgia-is-choosing-a-governor-will-the-winner-get-the-office-voters-chose",
+    "source": "editorial-packages/TMS_KEISHA_LANCE_BOTTOMS_GEORGIA_GOVERNOR_POWER_PUBLICATION_PACKAGE_2026-10-31.md",
+    "status": "HOLD",
+    "active": true,
+    "original_approval_date": "2026-10-31",
+    "blockers": [
+      "November3 election overtook campaign/future-tense frame. AP/CBS/Reuters now call Bottoms winner; distinguish call from certification.",
+      "Check current proclamation, actual bill text and executive-authority changes; no power-curtailment session or law inferred.",
+      "Repair current template/ending/socials and perform new Gate1/Gate2; keep priority ahead of numbered queue when cleared."
+    ],
+    "notes": "Preserved priority but skipped today because stale framing and current legislative review unresolved. Numbered order retained."
   },
   "daily_editorial_completion_2026_10_18": {
     "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
@@ -2016,6 +2188,31 @@
         }
       ],
       "notes": "Weekly target completed with distinct employment-discrimination deadline and civic-participation tax-relief packages."
+    },
+    {
+      "week": "2026-10-26/2026-11-01",
+      "target_packages": 2,
+      "completed_packages": 2,
+      "remaining_packages": 0,
+      "target_days": [
+        "2026-10-27",
+        "2026-10-30"
+      ],
+      "delivered": [
+        {
+          "date": "2026-10-26",
+          "title": "Wheelmap Helps People Plan. Now Track Which Barriers Come Down.",
+          "source": "editorial-packages/TMS_GERMANY_WHEELMAP_INFORMATION_TO_REPAIR_PUBLICATION_PACKAGE_2026-10-26.md",
+          "status": "approved_queued_full_finished"
+        },
+        {
+          "date": "2026-10-27",
+          "title": "Theodor Wonja Michael Found a Second Route Into Education. Teach That Part Too.",
+          "source": "editorial-packages/TMS_THEODOR_WONJA_MICHAEL_SECOND_ROUTE_PUBLICATION_PACKAGE_2026-10-27.md",
+          "status": "approved_queued_full_finished"
+        }
+      ],
+      "notes": "Weekly target2/2 reached through distinct Wheelmap and Theodor Wonja Michael packages. Prior school-day publication excluded from this week's new production."
     }
   ],
   "daily_editorial_completion_2026_10_20": {
@@ -2422,6 +2619,16 @@
       "active": false,
       "published_verified": "2026-10-28",
       "resolution": "Adopted reproducible current race-field analysis after review instead of forcing agreement with an old reported pair; dated official personnel snapshot and full two-review pass. Released under priority override; numbered queue unchanged."
+    },
+    {
+      "title": "His Death Was Called an Accident. His Great-Granddaughter Became a Supreme Court Justice.",
+      "slug": "jesse-lee-bond-receipt",
+      "source": "editorial-packages/TMS_JESSE_LEE_BOND_APPROVED_MASTER_2026-10-28.md",
+      "status": "published_live_verified",
+      "active": false,
+      "published_verified": "2026-10-29",
+      "blockers": [],
+      "resolution": "Fulfilled approved next-slot override ahead of numbered queue. Complete master recovered and registered as finished before publication; immediately moved to published record. Numbered fifteen retained in exact relative order; Niger appended16. No second editorial today."
     }
   ],
   "daily_editorial_completion_2026_10_29": {
@@ -2502,6 +2709,23 @@
         "Refresh legal chronology, claim/time limits and all EN/DE social counts, then record renewed sequential reviews and technical integration"
       ],
       "verification": "Read complete body, current prior review notice and socials. Live archive and repo contain no public article/card; proposed URL404. DOL current FactSheet15 confirms cash-wage/shortfall and separate-occupation discussion but does not alone verify October19 withdrawal chronology."
+    },
+    {
+      "canonical_title": "Georgia Is Choosing a Governor. Will the Winner Get the Office Voters Chose?",
+      "slug": "georgia-is-choosing-a-governor-will-the-winner-get-the-office-voters-chose",
+      "source": "editorial-packages/TMS_KEISHA_LANCE_BOTTOMS_GEORGIA_GOVERNOR_POWER_PUBLICATION_PACKAGE_2026-10-31.md",
+      "completion_status": "full_body_and_package_exists",
+      "publication_status": "unpublished",
+      "queue_status": "priority_override_HOLD",
+      "scheduled_date": null,
+      "duplication_status": "materially_distinct_pending_current_review",
+      "prior_approval": "Main ledger October31 priority/full package approval preserved; absent from staged machine inventory before November5 reconciliation.",
+      "blockers": [
+        "November3 election overtook campaign/future-tense frame. AP/CBS/Reuters now call Bottoms winner; distinguish call from certification.",
+        "Check current proclamation, actual bill text and executive-authority changes; no power-curtailment session or law inferred.",
+        "Repair current template/ending/socials and perform new Gate1/Gate2; keep priority ahead of numbered queue when cleared."
+      ],
+      "verification": "Full website body and receipts read in existing33,845-character package. No public article file or archive item; candidateURL404 November5. Current media calls are a material development, not certification or proof of a legislative response."
     }
   ],
   "finished_unpublished_release_holds_source": "TMS_COMPLETE_UNPUBLISHED_RELEASE_HOLDS_2026-10-30.md",
@@ -2535,5 +2759,59 @@
       "status": "new_research_candidate_only",
       "source": "https://www.ahrq.gov/news/newsroom/press-releases/sepsis-initiative.html"
     }
+  ],
+  "count_explanation": "19completeunpublished=16numberedqueue+3offqueueholds. Only1numbered item has both current content gatesPASS;15legacy entries require current gates. 18complete releaseholds=15legacy+3offqueue. Combinedunfinished/blocked22=18completeholds+4unfinisheddrafts. ExternalSCOTUSmanuscript partial-read status remains uncounted.",
+  "published_revision_records": [
+    {
+      "title": "Voters Changed Congress. The Old Majority Still Has Eight Weeks.",
+      "slug": "the-blue-wave-won-congress-now-show-america-what-that-victory-is-worth.html",
+      "source": "editorial-packages/TMS_VOTERS_CHANGED_CONGRESS_RELEASE_RECORD_2026-11-04.md",
+      "revision_date": "2026-11-04",
+      "observed_live": "2026-11-05",
+      "status": "external_revision_live_content_verified",
+      "notes": "External Gate1/Gate2 PASS record andPR41 noted, not relabeled as our independent fact review. Currentheadline,lame-duck section, HConRes113 andeditor note are live. No new revision performed today; no endorsement of every source claim without fresh independent recheck. Original failed version's PASS remains withdrawn."
+    }
+  ],
+  "daily_editorial_completion_2026_11_05": {
+    "title": "Germany's New Debt-Advice Law Starts November 20. Ask What Help You Can Actually Get.",
+    "source": "editorial-packages/TMS_GERMANY_DEBT_ADVICE_NOVEMBER20_PUBLICATION_PACKAGE_2026-11-05.md",
+    "gates": {
+      "gate1": "PASS",
+      "gate2": "PASS"
+    },
+    "status": "approved_queued_full_finished",
+    "position": 16,
+    "country": "Germany"
+  },
+  "sws_track": {
+    "source": "TMS_SWS_LEDGER.json",
+    "date": "2026-11-05",
+    "status": "published_live_verified",
+    "url": "https://themissingseat.org/something-worth-sharing.html#change-has-a-direction-2026-11-05",
+    "title": "Change Has a Direction",
+    "editorial_inventory_excluded": true,
+    "backlog_oct18_23": {
+      "verified_present": 6,
+      "unpublished_remaining": 0
+    },
+    "older_entries_preserved": 14
+  },
+  "external_manuscripts_pending_status_verification": [
+    {
+      "title": "The Nine Seats Above the People",
+      "library_file_id": "libfile_6b37e4457a80819199d3bb3d632231d7",
+      "version": "1",
+      "source_read_scope": "Lines1–60of476 read; rest not assessed",
+      "status": "not_counted_finished_or_queued",
+      "reason": "Must inspect full latest body, sources and template and perform both gates; no review claim from filename or sample."
+    }
+  ],
+  "reconciliation_notes_2026_11_05": [
+    "PublishedRaye once; currentgatesPASS; followup90daysFeb3.",
+    "NewGermanydebtadvicepackage currentgatesPASS; actualenactedlaw mainstartNovember20. Correctedresearchhandoff'sprematureclaim;1/2weeklyGermanycomplete.",
+    "RecoveredBottomspriorityascompleteheldpackage; mediareportswinner,notcertification. Keeppriority,nostalepublication.",
+    "19completeunpublished total,16queue,1currentgate-cleared,15legacygaterefreshpending,3offqueueholds;4unfinisheddrafts. No existingwebsite replacement installed.",
+    "DailySWS quoteverbatimfromvisibleJansencontext,newreflectionlabeled;allOct18–23preserved;SWSnotfullreserve.",
+    "VerifiedexternalNovember4bluewavelive replacement withoutinventingourindependentrecertification. SCOTUSLibrarydraftpartialreadunverified."
   ]
 }

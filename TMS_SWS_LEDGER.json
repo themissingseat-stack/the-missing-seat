@@ -1,0 +1,138 @@
+{
+  "updated": "2026-11-05",
+  "track": "SWS; excluded from full editorial inventory",
+  "entries": [
+    {
+      "id": "change-has-a-direction-2026-11-05",
+      "date": "2026-11-05",
+      "source": "something-worth-sharing.html#change-has-a-direction-2026-11-05",
+      "content_sha256": "1ac94848a13f7c83d43ae05958d4a8d67ce90008897a8eb84a8dfd8a2cebc624",
+      "publication_status": "published_live_verified"
+    },
+    {
+      "id": "all-three-can-be-true-2026-10-30",
+      "date": "2026-10-30",
+      "source": "something-worth-sharing.html#all-three-can-be-true-2026-10-30",
+      "content_sha256": "3a6c440cfbc067460e0155e096601844617761f5e49807f2d8e98be888590cc1",
+      "publication_status": "published_live_verified"
+    },
+    {
+      "id": "more-than-one-way-to-be-you-2026-10-29",
+      "date": "2026-10-29",
+      "source": "something-worth-sharing.html#more-than-one-way-to-be-you-2026-10-29",
+      "content_sha256": "e723f8aa23a353abb96a45dde0adfbb3560059d389545667454e38f8c9f32996",
+      "publication_status": "published_live_verified"
+    },
+    {
+      "id": "the-part-we-skip-2026-10-28",
+      "date": "2026-10-28",
+      "source": "something-worth-sharing.html#the-part-we-skip-2026-10-28",
+      "content_sha256": "53e15f049f83237fcad3925b0cdafed2b3dff85d9036475542e655862e1195a9",
+      "publication_status": "published_live_verified"
+    },
+    {
+      "id": "dont-invite-every-ghost-2026-10-27",
+      "date": "2026-10-27",
+      "source": "something-worth-sharing.html#dont-invite-every-ghost-2026-10-27",
+      "content_sha256": "263bea5d7496e8f690d99d6dbe673923e3659f5ecaf9a47cb41515415bdbed1d",
+      "publication_status": "published_live_verified"
+    },
+    {
+      "id": "you-dont-have-to-earn-it-2026-10-26",
+      "date": "2026-10-26",
+      "source": "something-worth-sharing.html#you-dont-have-to-earn-it-2026-10-26",
+      "content_sha256": "8528b7f807e40e72cc0ccf902925ab4ab0d4074c0f2c333941f0ea077771aa0f",
+      "publication_status": "published_live_verified"
+    },
+    {
+      "id": "joy-is-a-mountain-2026-10-25",
+      "date": "2026-10-25",
+      "source": "something-worth-sharing.html#joy-is-a-mountain-2026-10-25",
+      "content_sha256": "b3ab28cb63dbd4586939a0d057fd2e3431af6993249deb4e2f72e7da1e78e63f",
+      "publication_status": "published_live_verified"
+    },
+    {
+      "id": "you-are-doing-better-2026-10-24",
+      "date": "2026-10-24",
+      "source": "something-worth-sharing.html#you-are-doing-better-2026-10-24",
+      "content_sha256": "3ebe253ae0c9879afbea77111bd2d54431b8dbd4ac2462dfe0c172bceecdc7a1",
+      "publication_status": "published_live_verified"
+    },
+    {
+      "id": "the-impossible-expectation-2026-10-23",
+      "date": "2026-10-23",
+      "source": "something-worth-sharing.html#the-impossible-expectation-2026-10-23",
+      "content_sha256": "5ebe157aad0254ad46a6bc9bdd825d4ee22313b27de60d4b1e0e3883c992798c",
+      "publication_status": "published_live_verified"
+    },
+    {
+      "id": "entry-2026-10-22",
+      "date": "2026-10-22",
+      "source": "something-worth-sharing.html#entry-2026-10-22",
+      "content_sha256": "e77ccbbb615f003eea21a8f7e5848f66fc6d495a8bf54595bd053465ec9ae319",
+      "publication_status": "published_live_verified"
+    },
+    {
+      "id": "entry-2026-10-21",
+      "date": "2026-10-21",
+      "source": "something-worth-sharing.html#entry-2026-10-21",
+      "content_sha256": "50082f1677cc70b98766c0e9c67ce16194093a6dae67b4773b4530f0f819c032",
+      "publication_status": "published_live_verified"
+    },
+    {
+      "id": "entry-2026-10-20",
+      "date": "2026-10-20",
+      "source": "something-worth-sharing.html#entry-2026-10-20",
+      "content_sha256": "5f2dcdbb72311accb97484eceab9af0050237558f9553167379fe74f1b47b202",
+      "publication_status": "published_live_verified"
+    },
+    {
+      "id": "entry-2026-10-19",
+      "date": "2026-10-19",
+      "source": "something-worth-sharing.html#entry-2026-10-19",
+      "content_sha256": "94ccd3d960be2efe2033a61d74d0735904b01fa73e85900b7bf0173d26f89558",
+      "publication_status": "published_live_verified"
+    },
+    {
+      "id": "entry-2026-10-18",
+      "date": "2026-10-18",
+      "source": "something-worth-sharing.html#entry-2026-10-18",
+      "content_sha256": "eae7041ad7c4707cb054f47180c22517250678f3261f12579c578cb92f6a8df1",
+      "publication_status": "published_live_verified"
+    },
+    {
+      "id": "hello-self-2026-10-17",
+      "date": "2026-10-17",
+      "source": "something-worth-sharing.html#hello-self-2026-10-17",
+      "content_sha256": "936bc92c8e31a120d34a2c105f32502fb10626e65b257e060df94b8f259a0c73",
+      "publication_status": "published_live_verified"
+    }
+  ],
+  "legacy_oct18_23": {
+    "expected_dates": [
+      "2026-10-18",
+      "2026-10-19",
+      "2026-10-20",
+      "2026-10-21",
+      "2026-10-22",
+      "2026-10-23"
+    ],
+    "present_count": 6,
+    "unpublished_remaining": 0,
+    "note": "All six already in live archive before this write; preserved, not republished as six new items."
+  },
+  "today": {
+    "quote": "Change is inevitable. How and why we change matters.",
+    "provenance": "Opening two sentences reproduced unchanged from Jansen’s earlier reflection in supplied conversation context. Title and following reflection newly written; no Poetry-project access claimed.",
+    "date": "2026-11-05"
+  },
+  "missing_page_dates": [
+    "2026-10-31",
+    "2026-11-01",
+    "2026-11-02",
+    "2026-11-03",
+    "2026-11-04"
+  ],
+  "missing_page_dates_note": "No entries with these dates in current page; does not prove drafts never existed. No invented or backdated content added.",
+  "unpublished_queue": []
+}

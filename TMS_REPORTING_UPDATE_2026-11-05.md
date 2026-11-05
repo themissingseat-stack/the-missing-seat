@@ -89,3 +89,12 @@ All fourteen prior entries preserved. All six October 18–23 entries were alrea
 Narrowly corrected the existing debt-advice entry and preserved the November 2 research handoff with a visible correction note. Most enacted provisions start November 20, not an already-open nationwide service. Final fee safeguards and advance disclosure replace the loose universal-free implication. The earlier November roundup has no debt-advice section and is not a valid source for that item. Added the enacted-law link, leaving unrelated resource entries intact. Public correction commit 82a8f835c5e66c97557b6d07f23b8248ba20cc88; public propagation verification is recorded below.
 
 No automation created, paused or disabled.
+
+
+## Final verification addendum
+
+Final Raye and SWS cleanup versions were independently fetched with HTTP 200 and exact blob matches as recorded above. Current-main central standard was re-fetched unchanged before the review work; after publication, commit 75ef546303f21efe1921ebc34261f5f24cfe3e47 persisted the user's existing founding-purpose, public-section and SWS consolidation directions without changing either release gate. New central-standard blob: 475e242edbb96f9097cd9266b97db9b80ad1135f.
+
+The rights correction is **COMMITTED / CURRENT PUBLIC CONTENT NOT YET VERIFIED**. Pages build 41987565383 completed successfully at 07:30:08 UTC, but the subsequent production GET still returned HTTP 200 with the earlier rights-page blob 9827837691f6bee35cb34b1f8ea41173d1bfd2df. Expected corrected blob: 1f3f73442887980fa7190b04a786c18073666743. This is a resource-page propagation/status item, separate from the confirmed Raye/SWS releases and editorial inventory counts. Do not claim that public correction is visible until its actual text or blob is checked. No rollback or replacement of unrelated live content attempted.
+
+Master, hold, SWS and full German package were read back from GitHub after writing. Numbered queue has sixteen distinct entries; Raye removed, debt advice at sixteen. Historical records and retirement decisions preserved.

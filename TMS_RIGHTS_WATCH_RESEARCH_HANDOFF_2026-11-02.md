@@ -1,3 +1,7 @@
+# Correction recorded November 5, 2026
+
+The debt-advice item below is superseded on commencement and sourcing: the enacted Schuldnerberatungsdienstegesetz, BGBl. 2026 I No. 293, mostly takes effect November 20, 2026; §4 took effect October 16. The November roundup does not contain a debt-advice section and must not be cited as its basis. Final law permits fees subject to the statutory burden, nonprofit and advance-disclosure conditions. See the November 5 full package and the corrected public rights entry. The original dated research follows for audit continuity.
+
 # TMS Rights Watch — verified handoff — 2 November 2026
 
 **Status:** research and Civic Navigator rights/entitlements handoff only. **NOT a completed Full TMS Editorial Package; NOT double-reviewed; NOT approved, queued or published.** Do not count this file toward the full editorial reserve. This is an additive source and workflow record. Preserve the TMS Editorials & Daily Queue's sole authority to conduct both editorial reviews, queue and publish at most one full editorial per calendar day after independent live verification.

@@ -1,7 +1,14 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "track": "SWS; excluded from full editorial inventory",
   "entries": [
+    {
+      "id": "before-you-judge-a-decision-2026-11-06",
+      "date": "2026-11-06",
+      "source": "something-worth-sharing.html#before-you-judge-a-decision-2026-11-06",
+      "publication_status": "published_live_verified",
+      "commit": "9ab138f469d2c7e00c8668f8f79f08fd162de415"
+    },
     {
       "id": "change-has-a-direction-2026-11-05",
       "date": "2026-11-05",
@@ -122,9 +129,10 @@
     "note": "All six already in live archive before this write; preserved, not republished as six new items."
   },
   "today": {
-    "quote": "Change is inevitable. How and why we change matters.",
-    "provenance": "Opening two sentences reproduced unchanged from Jansen’s earlier reflection in supplied conversation context. Title and following reflection newly written; no Poetry-project access claimed.",
-    "date": "2026-11-05"
+    "quote": "A decision is more than its outcome. Ask what someone knew, what they wanted, what they feared, and what alternatives they believed they had.",
+    "translation_de": "Eine Entscheidung ist mehr als ihr Ergebnis. Frag, was jemand wusste, was die Person wollte, wovor sie Angst hatte und welche anderen Möglichkeiten sie für realistisch hielt.",
+    "provenance": "Exact English text shared by Jansen in the Original Motivational Reflections conversation. Title and translation prepared for this entry. No claim of original authorship or Poetry-project access.",
+    "date": "2026-11-06"
   },
   "missing_page_dates": [
     "2026-10-31",

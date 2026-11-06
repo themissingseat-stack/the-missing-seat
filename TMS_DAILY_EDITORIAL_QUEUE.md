@@ -1,4 +1,4 @@
-# TMS Daily Editorial Queue — Reconciled 2026-11-05
+# TMS Daily Editorial Queue — Reconciled 2026-11-06
 
 **Source of truth:** verified live pages and published HTML/commits take precedence over stale queue labels. The staged JSON on branch `tms-daily-queue-2026-09-01` is the machine-readable companion to this ledger.
 
@@ -103,10 +103,10 @@ The governing test remains: **What did they actually change, who gained, what re
 | Unfinished priority drafts | 4 |
 | Combined unfinished or release-blocked | 22 |
 | External manuscript status not yet fully verified | 1 |
-| Active follow-up research candidates | 6 |
+| Active follow-up research candidates | 8 |
 | Positive/solution research candidates | 5 |
 
-The higher release-hold count reflects the binding November4 standard, not newly lost manuscripts. Historical approvals remain recorded; none is silently promoted to a current PASS. The full unpublished total is16queued +3offqueue holds. Only the new German debt-advice package currently has both content gates explicitly PASS; technical integration and release-day refresh remain required. The external SCOTUS manuscript was read only in part and is not counted as finished.
+The higher release-hold count reflects the binding November4 standard, not newly lost manuscripts. Historical approvals remain recorded; none is silently promoted to a current PASS. The full unpublished total is16queued +3offqueue holds. Only the new German repair-rebate package currently has both content gates explicitly PASS; technical integration and release-day refresh remain required. The external SCOTUS manuscript was read only in part and is not counted as finished.
 
 ## Finished numbered queue — current release status explicit
 
@@ -127,7 +127,7 @@ The higher release-hold count reflects the binding November4 standard, not newly
 | 13 | Social Security Wants the Money Back. First, Check the Decision. | `social-security-wants-the-money-back-first-check-the-decision` | Paused: current gates required; prior approval preserved | Hospital assistance/provider billing versus federal benefit-recovery decisions and distinct administrative requests. | [Full package](editorial-packages/TMS_SOCIAL_SECURITY_REPAYMENT_CHECK_DECISION_PUBLICATION_PACKAGE_2026-10-28.md). Not breaking policy news or an individual advice determination. FY2023 audit sample not a current invalid-debt rate. Refresh official guidance and relevance, HTML/image/navigation/deployment at release; space from other benefit/service pieces. |
 | 14 | Niger Stopped River Blindness Transmission. One Health Programme Helped Another. | `niger-stopped-river-blindness-transmission-one-programme-helped-another` | Paused: current gates required; prior approval preserved | A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.: Niger vector control, lymphatic-filariasis programme contribution and defined verification surveys versus Timor-Leste's different diseases and delivery history. | [Full package](editorial-packages/TMS_NIGER_ONE_PROGRAMME_HELPED_ANOTHER_PUBLICATION_PACKAGE_2026-10-29.md). Established January2025 achievement, not new October verification. No global eradication, cure count or universal integration claim. Recheck current status/relevance/links at release; HTML, image rights and public navigation/deployment remain. |
 | 15 | Kathmandu Put Care on the Map. Can Families Find Their Way In? | `kathmandu-put-care-on-the-map-can-families-find-their-way-in` | Paused: current gates required; prior approval preserved | The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.: Broad labor/time/pay distribution versus named Nepal mapping, the route into municipal care, successful referrals and worker conditions.; Germany Promised a Full School Day. Families Need the Hours to Match.: Statutory school-care timetable entitlement versus municipal information/navigation approach across care needs. | [Full package](editorial-packages/TMS_KATHMANDU_CARE_MAP_ACCESS_PUBLICATION_PACKAGE_2026-10-30.md). Older reported model, not October launch. Personal accounts not Kathmandu outcome evaluation. Recheck later relevance, programme status, links, HTML/image/navigation and deployment before release; interleave care stories. |
-| 16 | Germany's New Debt-Advice Law Starts November 20. Ask What Help You Can Actually Get. | `germany-new-debt-advice-law-starts-november-20` | Current Gate1/2 PASS | The Price They Don't Call Interest: U.S. high-cost consumer products versus enacted German independent debt-advice access, fee rules and November20 commencement. | [Full package](editorial-packages/TMS_GERMANY_DEBT_ADVICE_NOVEMBER20_PUBLICATION_PACKAGE_2026-11-05.md). Time-sensitive November20 main start. Must refresh legal tense/current implementation if released on or afterNovember20; local provider conditions/links and later relevance also need release-day check. HTML/image/navigation/deployment work remains. No universal free/immediate advice or enforcement stay claimed. |
+| 16 | A Repair Rebate Helps. First, You Have to Pay the Repair Bill. | `a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill` | Current Gate 1/2 PASS | German energy-disconnection editorial: service continuity versus repair reimbursement and who can afford to pay before claiming. | [Full package](editorial-packages/TMS_GERMANY_REPAIR_REBATE_UPFRONT_COST_PUBLICATION_PACKAGE_2026-11-06.md). Refresh the November 9 SAB list update, December 1 filing window and availability; render HTML and integrate links. |
 
 ## Complete unpublished release holds outside numbered queue
 
@@ -139,6 +139,8 @@ The higher release-hold count reflects the binding November4 standard, not newly
 These are not duplicates, replacements for live stories or new authorship today. Fifteen legacy queued packages additionally require current gate/template refresh; the four unfinished priority drafts remain separate.
 
 ## Published record — do not requeue
+
+- **November 6, 2026:** [Germany's New Debt-Advice Law Starts November 20. Ask What Help You Can Actually Get.](https://themissingseat.org/germany-new-debt-advice-law-starts-november-20.html). Release-day Gate 1 and Gate 2 PASS. [Package and receipts](editorial-packages/TMS_GERMANY_DEBT_ADVICE_NOVEMBER20_PUBLICATION_PACKAGE_2026-11-05.md). Production article, homepage, archive, topic, RSS, sitemap and SWS returned HTTP 200 with exact current-main bytes. Commit 9ab138f469d2c7e00c8668f8f79f08fd162de415. November 23 follow-up on the first reporting deadline and usable local access.
 
 - **November5,2026:** [Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.](https://themissingseat.org/raye-montague-helped-change-ship-design-teach-the-work.html). Both current gatesPASS. Eight public surfaces including separate SWS verified; publication commit `c0629084bcf5edbc5d97baf8e62f2d716a211ff2`. Removed from reserve. Follow-up dueFebruary3,2027.
 - **November4 revision observed November5:** [Voters Changed Congress. The Old Majority Still Has Eight Weeks.](https://themissingseat.org/the-blue-wave-won-congress-now-show-america-what-that-victory-is-worth.html). Current external replacement is live with lame-duck section and editor note; external release record preserved. No new revision or independent re-certification of every political claim performed in this run. Initial failed-version PASS remains withdrawn. This observation uses no new daily publication slot.
@@ -198,24 +200,22 @@ The table records this workflow’s reconciled publication history, not every hi
 
 ## Status verification ledger
 
-No open production/repository content discrepancy after November5 checks. Current main/public bytes matched before release; article,home,archive,MissingHistory,BBB,RSS,sitemap,SWS then matched expected new blobs after propagation. Public provenance/verification notes received a small reader-facing cleanup, with final verification recorded in the run report. Browser service returned Unknowntool; no fresh screenshot or mobile-rendering test claimed. An external SCOTUS manuscript has separate incomplete inventory verification and is not treated as a deployment mismatch.
+No open editorial production/repository mismatch as of November 6. Today's seven public pages and navigation surfaces match main; November 5's corrected rights entry now matches blob 1f3f73442887980fa7190b04a786c18073666743. No fresh visual browser test claimed. External SCOTUS manuscript inventory verification remains separate and incomplete.
 
 ## Germany weekly package tracking
 
-- Week: November2–8,2026.
-- Target2; verified new complete packages1; remaining1.
-- November5: **Germany's New Debt-Advice Law Starts November20. Ask What Help You Can Actually Get.** Both current gatesPASS, English full prose and clean English/German social copies.
-- October26–November1 remains a separate historical2/2 week; it is not carried forward.
-- November2 Rights Watch handoff is research, not a full package. The enacted debt-advice law corrected its premature commencement statement.
+- November 2–8, 2026: **2 of 2 complete**.
+- November 5: Debt-advice law package; both content gates passed, published and verified November 6.
+- November 6: [Repair rebate and upfront cost](editorial-packages/TMS_GERMANY_REPAIR_REBATE_UPFRONT_COST_PUBLICATION_PACKAGE_2026-11-06.md); both content gates passed, queued.
+- Prior weeks and research-only handoffs are excluded from this week's count.
 
 ## Today’s reconciliation
 
-- Published and publicly verified Raye Montague, today's sole new full-editorial release, after current Gate1/Gate2PASS. Preserved the exact historical contribution rather than claiming sole authorship of a completed ship; minute-source variation is disclosed.
-- New full German debt-advice package completed with both gatesPASS; appended16. Enacted main start isNovember20, with earlier reporting duty. Full template, evidence, action, EN/DE socials and topic-specific ending; no stock slogans.
-- Reconciled Bottoms as a complete held priority package. Media calls now establish a material development; certification and current power-transfer legislation are not assumed. Its old future-tense frame cannot be published.
-- Counts:19complete unpublished;16queued, of which15need currentgate refresh and1hasPASS/PASS;3separate completeholds;4unfinished drafts. Retired4 unchanged,0live/repo discrepancy,6follow-up research,5positive research. Historical16website replacements remain separate; none installed.
-- SWS: **Change Has a Direction**, exact opening words from Jansen plus a transparently new reflection, live with homepage link. All October18–23 entries preserved; no short item counted toward full-editorial production.
-- [November5 report](TMS_REPORTING_UPDATE_2026-11-05.md) records gates, sources, production proof and limits. Next numbered article remains Germany's minimum-wage/hours piece, subject to both current gates; Bottoms priority resumes only when cleared.
+- Debt-advice editorial is today's sole new full release. It was the only current-gate-cleared reserve article at preflight and readers can act before November 20. Older approvals and Bottoms priority are preserved subject to their holds.
+- New German repair-rebate editorial completed with both gates PASS; appended at position 16.
+- Counts unchanged: 19 complete unpublished, 16 queued (1 content-cleared and 15 awaiting refreshed reviews), 3 separate complete holds, 4 unfinished drafts, 4 retired, 16 historical website replacements. None installed today. Follow-up research increases from 6 to 8; positive research remains 5.
+- [Before You Judge a Decision](https://themissingseat.org/something-worth-sharing.html#before-you-judge-a-decision-2026-11-06) published and verified separately, with all 15 earlier entries intact. No October 18–23 backlog.
+- [November 6 full report](TMS_REPORTING_UPDATE_2026-11-06.md).
 
 ## October 16 editorial completion
 

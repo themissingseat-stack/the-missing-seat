@@ -1,7 +1,7 @@
 # TMS follow-up and positive-results reporting tracks
 Updated November 5, 2026. Candidates are research leads, never finished inventory.
 
-## Follow-up candidates: 6
+## Follow-up candidates: 8
 1. Germany police-complaints editorial: obtain subsequent Bundestag/commissioner reporting on complaint disposition, investigations completed, institutional action and individual relief. Baseline live slug: germany-created-a-seat-for-police-complaints-who-can-actually-use-it. Trigger: a verified later outcome, not the existing complaint count. No new outcome asserted.
 2. Tribal water-project maintenance: check whether IHS/federal funding rules and implementation changed after the documented oversight findings. Baseline live slug: the-water-project-was-built-the-missing-money-was-for-keeping-it-alive. Trigger: actual eligibility, operation/maintenance funding or service outcomes. No new remedy asserted.
 3. Religious accommodation at the coffee shop: track implementation of consent-decree policy review and training and any available compliance reports. Baseline slug: he-asked-to-break-his-fast-he-allegedly-lost-his-job. Trigger: a public compliance outcome or material legal development. Settlement itself does not demonstrate every future obligation was met.
@@ -110,3 +110,10 @@ Germany's debt-advice package is newly complete and Gate1/Gate2PASS. Actual enac
 Bottoms remains priority butHOLD after November3 changed the campaign premise. AP/CBS/Reuters calls are not certification or proof of a power-curtailment law. The external November4 blue-wave replacement is observed live and its release record preserved; this run does not relabel that external review as its own full factual pass. A separately located SCOTUS Library manuscript has not been fully inspected and is not counted as finished reserve.
 
 SWS has its own TMS_SWS_LEDGER.json: today's exact Jansen quote plus labeled new reflection; all6October18–23 entries already public and preserved. No fabricated backdated entries for the page's October31–November4 gap. The Black, Brilliant & Beyond page is verified live, with Raye linked under Give Them Their Flowers. No existing-website replacement installed. Full proof and readiness counts: TMS_REPORTING_UPDATE_2026-11-05.md.
+
+
+## November 6: new verified release and reporting follow-ups
+
+- **Debt advice in Germany:** After the November 20 start and first federal report deadline, look for the actual report, public access to fee information and local urgent routes. Review November 23. Verify delivery before asserting a changed outcome.
+- **Veterans and SNAP:** [GAO-27-108111](https://www.gao.gov/products/gao-27-108111) lists all four recommendations open on November 6. USDA reported work on eligibility guidance, which is not proof of completion. The original TMS editorial already covers this audit. Track new USDA materials, VA/USDA coordination and real access or participation evidence. No duplicate release.
+- **Positive results package completed:** [A Repair Rebate Helps. First, You Have to Pay the Repair Bill.](editorial-packages/TMS_GERMANY_REPAIR_REBATE_UPFRONT_COST_PUBLICATION_PACKAGE_2026-11-06.md). Thuringia's participant counts, Fraunhofer's estimates and their limits; Saxony's separate paid-invoice terms. Both gates passed; new reserve, not one of the five research-only candidates. Ask who could not pay before reimbursement.

@@ -4,8 +4,8 @@
 
 Author: Jansen / The Missing Seat
 Completed: November 5, 2026
-Publication: Unscheduled
-Status: Full finished; Gate1 PASS and Gate2 PASS; automatically approved for queue
+Publication: November 6, 2026; production verification recorded separately
+Status: Full finished; release-day reviews below
 Slug: germany-new-debt-advice-law-starts-november-20
 Country: Germany
 Territories: People & Opportunity; Solutions & Participation
@@ -32,7 +32,7 @@ The letter on the kitchen table does not become easier to deal with because some
 
 There is a useful real example of the distance between an offer and an appointment. Verbraucherzentrale Hamburg's registration page, updated October 30, says its usual waiting time is currently almost four months once the documents are complete. It also lists shorter advice routes for urgent problems. That is one provider's account, not a national waiting-time estimate. It shows why people need to ask about both ordinary appointments and immediate help.
 
-The new federal law is dated October 12 and was published on October 15. Its main provisions take effect on November 20, 2026. Section 4, requiring federal reporting on available advice centres, took effect earlier. Calling this simply a new November rule can hide a date that matters to someone trying to understand which provisions apply today.
+The new federal law is dated October 12 and was published on October 15. Its main provisions take effect on November 20, 2026. Section 4, requiring federal reporting on available advice centres, took effect on October 16. The first report to the European Commission is due November 20, the same day the main provisions begin. Calling this simply a new November rule can hide a date that matters to someone trying to understand which provisions apply today.
 
 ## What the law actually provides
 
@@ -97,7 +97,7 @@ Do not wait for November 20 to find out where help is available. Make the first 
 
 ## How we checked this
 
-Checked November 5,2026. Read the actual enacted official PDF and cross-checked the current federal-law page and final parliamentary text. The official PDF worked through direct retrieval although the search reader returned403; its full text was extracted and read. The November 2 internal handoff incorrectly treated the access rules as already in force and attributed them to a November roundup that contains no debt-advice section. That handoff is research, not evidence, and was corrected for this package. The official statute's dates control. No nationwide wait, universal fee waiver, immediate appointment, new debt cancellation or automatic enforcement stay claimed. Hamburg's facts are attributed provider information with local eligibility, not audited national outcomes. No invented client or interview. The opening describes a familiar situation, not a reported individual case. Recheck law, provider terms, later relevance and all links before release, especially after November 20.
+Checked November 6, 2026. We read the enacted law, the final parliamentary compromise and the current federal law page, and checked the provider and referral pages. The statutory dates and fee rules apply nationally; the waiting time and funding conditions described here come from one Hamburg provider. The opening describes a familiar situation, not an interview or reported individual case.
 
 ## Originality and selection rubric
 
@@ -137,3 +137,12 @@ Gate0: current law's impending November 20 start and concrete October 30 provide
 
 Gate1: PASS, 2026-11-05T07:13:46.303626+00:00. Reviewer: Codex, evidence pass separate from prose pass. Opened and read official promulgated PDF §§1–6 by direct retrieval, current federal consolidated page, final mediation PDF21/8160, Bundestag final decision, Hamburg provider page and BAG-SB route. Confirmed October12/15 enactment/publication, November20 main start and earlier §4. Final fee text replaces earlier no-fee assumptions. Found and corrected the internal November2 handoff's premature implementation claim and unsupported roundup attribution; official statute controls. Provider waiting time and residence/cost conditions are local and attributed. No stay, debt cancellation or national wait inferred. No known missing primary source for the package's material claims; full official law read despite search-reader403.
 Gate2: PASS after Gate1, 2026-11-05T07:16:39.781240+00:00. Reviewer: Codex, separate hostile-reader and Regular Joe pass. Confirmed complete1053-word full article including Pull Up A Chair, Germany-only resources, Seat Summary and topic-specific Final Thought; Short Version has all three required labels and Based on; uses existing approved Seat At Risk label. Metadata, excerpt, receipts, accountability ledger, one disclosure and image concept present. EN/DE FB and IG are plain text, country-specific and within platform limits (IG EN419, DE431). Hostile findings resolved: do not claim November1 commencement, universal free service, a national appointment deadline, a stay or all-new local services. Independent advice distinguished from creditor discussions. Real funding counterargument and existing subsidized provision included; local provider evidence is not a national outcome. No invented client, causal harm or partisan blame. Actual archive/repo/queue title and subject comparison found no duplicate full German debt-advice package; research handoff not counted as finished. New package automatically approved for reserve; after November20 recheck tense and implementation rather than publish mechanically. No forced slogan, emojis, hashtags or long dashes.
+
+
+## November 6 release-day review
+
+Standard: main blob 475e242edbb96f9097cd9266b97db9b80ad1135f. Gate 0 PASS: November 20 statutory start and first reporting deadline make this useful before the law takes effect. The short rights-page entry is a related explainer; this full article adds an independent-advice definition, the funding counterargument, local wait evidence and concrete deadline handling. Repo and live archive contain no full duplicate; candidate public URL returned 404. Georgia priority remains held; positions 1–15 still require current reviews.
+
+Gate 1 PASS, 2026-11-06T07:07:51.392Z, Codex evidence review. Reopened all five receipt routes (including both Bundestag destinations) and extracted the complete BGBl 293 PDF. Sections 1–3 verify existing-centre scope, independence and bounded fees; section 4 specifies first federal report due November 20; section 6 separates October 16 reporting commencement and November 20 general commencement. Added the reporting deadline to the body. Current statutory text and legislative search show no superseding development. Hamburg's October 30 page still describes almost four months as its usual wait with complete documents, subsidized local access and urgent routes; BAG-SB does not give direct advice. No unsupported national wait, automatic suspension, universal free service or appointment guarantee.
+
+Gate 2 PASS, 2026-11-06T07:07:51.392Z, Codex separate prose and hostile-reader review. Read the full candidate after source checking. The local example is explicitly provider-specific, not a nationwide statistic or invented interview. Funding counterargument and powers/responsibilities are explained without blaming people in debt. The reader can contact a named directory, check fees and time, and preserve an independent deadline. Approved Seat At Risk, three-part Short Version and Based on, Pull Up A Chair, German Resources, Seat Summary, topic ending, working receipts, accountability ledger and one reader disclosure present. English/German Facebook and Instagram retained within limits, plain text. Removed internal research/tool details from the public disclosure. Same date-specific release window and unique slug as checked in Gate 0.

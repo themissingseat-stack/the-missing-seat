@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-11-05",
+  "last_reconciled": "2026-11-06",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -22,10 +22,32 @@
     ]
   },
   "deployment": {
-    "source": "GitHub main themissingseat-stack/the-missing-seat; exact public/main preflight and post-deployment blob match",
-    "status": "November5 article,home,archive,MissingHistory,BBB,RSS,sitemap,SWS allHTTP200 expected exact content after propagation; publication commit c0629084bcf5edbc5d97baf8e62f2d716a211ff2"
+    "source": "GitHub main, verified by current production byte comparison",
+    "status": "November 6 debt advice and SWS HTTP 200; article, index, archive, topic, RSS, sitemap and SWS matched deployed main",
+    "commit": "9ab138f469d2c7e00c8668f8f79f08fd162de415",
+    "verified_blobs": {
+      "something-worth-sharing.html": "700283513dbfc6734e6be719081c7ee12bed69b9",
+      "sitemap.xml": "9050cdbc991829c0b5b0ae642e25fc0e015b6516",
+      "germany-new-debt-advice-law-starts-november-20.html": "914949b855f8063c99d09444f4a060f862049e7a",
+      "index.html": "39ec99bdf317953766ac6c570aa4f28a835c8ea8",
+      "stories.html": "341e5f2ecf86f8440be2fa31f26f685840c89746",
+      "topics/work-economic-fairness.html": "1fdc04dc0fdc725934f9d46ba267af74fe9fa335",
+      "feed.xml": "4ab1ff96a803a6fdf462190b00135584d3f79c4a"
+    }
   },
   "published_record": [
+    {
+      "title": "Germany's New Debt-Advice Law Starts November 20. Ask What Help You Can Actually Get.",
+      "slug": "germany-new-debt-advice-law-starts-november-20.html",
+      "source": "editorial-packages/TMS_GERMANY_DEBT_ADVICE_NOVEMBER20_PUBLICATION_PACKAGE_2026-11-05.md",
+      "publication_status": "published_live_verified",
+      "published_verified": "2026-11-06",
+      "article_commit": "9ab138f469d2c7e00c8668f8f79f08fd162de415",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "follow_up_date": "2026-11-23",
+      "notes": "Production HTTP 200 and exact main matches for seven public surfaces. First federal report due November 20; recheck availability and delivery."
+    },
     {
       "title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.",
       "slug": "raye-montague-helped-change-ship-design-teach-the-work.html",
@@ -752,35 +774,28 @@
     },
     {
       "position": 16,
-      "title": "Germany's New Debt-Advice Law Starts November 20. Ask What Help You Can Actually Get.",
-      "canonical_title": "Germany's New Debt-Advice Law Starts November 20. Ask What Help You Can Actually Get.",
-      "slug": "germany-new-debt-advice-law-starts-november-20",
-      "source": "editorial-packages/TMS_GERMANY_DEBT_ADVICE_NOVEMBER20_PUBLICATION_PACKAGE_2026-11-05.md",
+      "title": "A Repair Rebate Helps. First, You Have to Pay the Repair Bill.",
+      "canonical_title": "A Repair Rebate Helps. First, You Have to Pay the Repair Bill.",
+      "slug": "a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill",
+      "source": "editorial-packages/TMS_GERMANY_REPAIR_REBATE_UPFRONT_COST_PUBLICATION_PACKAGE_2026-11-06.md",
       "completion_status": "full_finished",
       "status": "approved_queued_full_finished",
       "publication_status": "unpublished",
       "scheduled_date": null,
-      "approval": "Automatic approval after current Gate1 and Gate2 PASS",
+      "approval": "Automatic after current Gate 1 and Gate 2 PASS",
       "duplication_status": "materially_distinct",
       "related_live_comparators": [
         {
-          "title": "The Price They Don't Call Interest",
-          "slug": "the-price-they-dont-call-interest.html",
-          "distinction": "U.S. high-cost consumer products versus enacted German independent debt-advice access, fee rules and November20 commencement."
+          "title": "Germany Has a Way to Keep the Power On. Can People Use It?",
+          "distinction": "Continuity of electricity service versus paid-invoice repair rebate and the upfront cost of claiming it."
         }
       ],
-      "related_queued_comparators": [
-        {
-          "title": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
-          "distinction": "U.S. hospital financial-assistance rules versus German independent debt advice."
-        }
-      ],
-      "review_1": "2026-11-05 Gate1 PASS: actual official BGBl293 PDF §§1–6, consolidated statute, final mediation text and current provider information; premature implementation claim corrected.",
-      "review_2": "2026-11-05 Gate2 PASS after Gate1: complete1053-word template, SeatAtRisk, PullUpAChair, country resources, SeatSummary, topic ending, EN/DE clean socials IG419/431, fairness/action/originality.",
+      "review_1": "2026-11-06T07:10:22.453Z: PASS, Saxon funding directive and current SAB process; Thuringia operator counts and Fraunhofer estimates independently bounded.",
+      "review_2": "2026-11-06 PASS: template, cash-flow example, named sources, concrete action, counterargument and clean EN/DE socials; full findings in package.",
       "gate_1": "PASS",
       "gate_2": "PASS",
       "release_gate_status": "content_gates_passed_technical_release_pending",
-      "notes": "Time-sensitive November20 main start. Must refresh legal tense/current implementation if released on or afterNovember20; local provider conditions/links and later relevance also need release-day check. HTML/image/navigation/deployment work remains. No universal free/immediate advice or enforcement stay claimed."
+      "notes": "Refresh SAB November 9 list update, available funds, and December 1 filing window at release. Render article/image and integrate navigation, RSS and sitemap."
     }
   ],
   "counts": {
@@ -791,7 +806,7 @@
     "historical_replacement_versions": 16,
     "replacements_still_pending_installation": null,
     "unfinished_or_blocked": 22,
-    "follow_up_candidates": 6,
+    "follow_up_candidates": 8,
     "positive_solution_candidates": 5,
     "full_finished_unpublished_total": 19,
     "full_finished_held_for_release": 18,
@@ -1406,35 +1421,28 @@
     },
     {
       "position": 16,
-      "title": "Germany's New Debt-Advice Law Starts November 20. Ask What Help You Can Actually Get.",
-      "canonical_title": "Germany's New Debt-Advice Law Starts November 20. Ask What Help You Can Actually Get.",
-      "slug": "germany-new-debt-advice-law-starts-november-20",
-      "source": "editorial-packages/TMS_GERMANY_DEBT_ADVICE_NOVEMBER20_PUBLICATION_PACKAGE_2026-11-05.md",
+      "title": "A Repair Rebate Helps. First, You Have to Pay the Repair Bill.",
+      "canonical_title": "A Repair Rebate Helps. First, You Have to Pay the Repair Bill.",
+      "slug": "a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill",
+      "source": "editorial-packages/TMS_GERMANY_REPAIR_REBATE_UPFRONT_COST_PUBLICATION_PACKAGE_2026-11-06.md",
       "completion_status": "full_finished",
       "status": "approved_queued_full_finished",
       "publication_status": "unpublished",
       "scheduled_date": null,
-      "approval": "Automatic approval after current Gate1 and Gate2 PASS",
+      "approval": "Automatic after current Gate 1 and Gate 2 PASS",
       "duplication_status": "materially_distinct",
       "related_live_comparators": [
         {
-          "title": "The Price They Don't Call Interest",
-          "slug": "the-price-they-dont-call-interest.html",
-          "distinction": "U.S. high-cost consumer products versus enacted German independent debt-advice access, fee rules and November20 commencement."
+          "title": "Germany Has a Way to Keep the Power On. Can People Use It?",
+          "distinction": "Continuity of electricity service versus paid-invoice repair rebate and the upfront cost of claiming it."
         }
       ],
-      "related_queued_comparators": [
-        {
-          "title": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
-          "distinction": "U.S. hospital financial-assistance rules versus German independent debt advice."
-        }
-      ],
-      "review_1": "2026-11-05 Gate1 PASS: actual official BGBl293 PDF §§1–6, consolidated statute, final mediation text and current provider information; premature implementation claim corrected.",
-      "review_2": "2026-11-05 Gate2 PASS after Gate1: complete1053-word template, SeatAtRisk, PullUpAChair, country resources, SeatSummary, topic ending, EN/DE clean socials IG419/431, fairness/action/originality.",
+      "review_1": "2026-11-06T07:10:22.453Z: PASS, Saxon funding directive and current SAB process; Thuringia operator counts and Fraunhofer estimates independently bounded.",
+      "review_2": "2026-11-06 PASS: template, cash-flow example, named sources, concrete action, counterargument and clean EN/DE socials; full findings in package.",
       "gate_1": "PASS",
       "gate_2": "PASS",
       "release_gate_status": "content_gates_passed_technical_release_pending",
-      "notes": "Time-sensitive November20 main start. Must refresh legal tense/current implementation if released on or afterNovember20; local provider conditions/links and later relevance also need release-day check. HTML/image/navigation/deployment work remains. No universal free/immediate advice or enforcement stay claimed."
+      "notes": "Refresh SAB November 9 list update, available funds, and December 1 filing window at release. Render article/image and integrate navigation, RSS and sitemap."
     }
   ],
   "status_verification_ledger": [],
@@ -1461,19 +1469,27 @@
   "germany_weekly_delivery": {
     "week": "2026-11-02/2026-11-08",
     "target_packages": 2,
-    "completed_packages": 1,
-    "remaining_packages": 1,
+    "completed_packages": 2,
+    "remaining_packages": 0,
     "delivered": [
       {
         "date": "2026-11-05",
         "title": "Germany's New Debt-Advice Law Starts November 20. Ask What Help You Can Actually Get.",
         "source": "editorial-packages/TMS_GERMANY_DEBT_ADVICE_NOVEMBER20_PUBLICATION_PACKAGE_2026-11-05.md",
+        "status": "published_live_verified",
+        "gate_1": "PASS",
+        "gate_2": "PASS"
+      },
+      {
+        "date": "2026-11-06",
+        "title": "A Repair Rebate Helps. First, You Have to Pay the Repair Bill.",
+        "source": "editorial-packages/TMS_GERMANY_REPAIR_REBATE_UPFRONT_COST_PUBLICATION_PACKAGE_2026-11-06.md",
         "status": "approved_queued_full_finished",
         "gate_1": "PASS",
         "gate_2": "PASS"
       }
     ],
-    "notes": "Current repository contains no other verified new full Germany package this week. Rights handoff is research, not a full editorial. Do not carry October26–November1 target2/2 into this week."
+    "notes": "Two distinct full packages, November 5 debt advice and November 6 repair rebate. No carryover or partial research counted."
   },
   "story_briefs_2026_10_06": [
     {
@@ -2062,6 +2078,16 @@
       "original_slug": "the-military-wants-ai-faster-who-owns-the-safety-check",
       "source": "editorial-packages/TMS_MILITARY_AI_SAFETY_CHECK_PUBLICATION_PACKAGE_2026-10-15.md",
       "trigger": "Current staffing/responsibility account, adopted council charter, resumed meeting evidence, assignment and closure of implementation gaps or GAO recommendation disposition. February2026 headcount is not current. No delivered safeguard outcome inferred."
+    },
+    {
+      "original_slug": "germany-new-debt-advice-law-starts-november-20",
+      "source": "editorial-packages/TMS_GERMANY_DEBT_ADVICE_NOVEMBER20_PUBLICATION_PACKAGE_2026-11-05.md",
+      "trigger": "After November 20, verify first federal report, practical provider access, published fee terms and whether urgent appointments reach people. Review November 23; no outcome claimed."
+    },
+    {
+      "original_slug": "they-served-the-country-the-food-benefit-still-missed-them",
+      "source": "https://www.gao.gov/products/gao-27-108111",
+      "trigger": "November 6 check: all four GAO recommendations remain open. Look for changed federal eligibility guidance, materials disseminated through trusted messengers, renewed VA/USDA agreement or take-up evidence. No material new outcome; do not duplicate existing editorial."
     }
   ],
   "positive_solution_candidates": [
@@ -2785,16 +2811,16 @@
   },
   "sws_track": {
     "source": "TMS_SWS_LEDGER.json",
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "status": "published_live_verified",
-    "url": "https://themissingseat.org/something-worth-sharing.html#change-has-a-direction-2026-11-05",
-    "title": "Change Has a Direction",
+    "url": "https://themissingseat.org/something-worth-sharing.html#before-you-judge-a-decision-2026-11-06",
+    "title": "Before You Judge a Decision",
     "editorial_inventory_excluded": true,
     "backlog_oct18_23": {
       "verified_present": 6,
       "unpublished_remaining": 0
     },
-    "older_entries_preserved": 14
+    "older_entries_preserved": 15
   },
   "external_manuscripts_pending_status_verification": [
     {
@@ -2813,5 +2839,46 @@
     "19completeunpublished total,16queue,1currentgate-cleared,15legacygaterefreshpending,3offqueueholds;4unfinisheddrafts. No existingwebsite replacement installed.",
     "DailySWS quoteverbatimfromvisibleJansencontext,newreflectionlabeled;allOct18–23preserved;SWSnotfullreserve.",
     "VerifiedexternalNovember4bluewavelive replacement withoutinventingourindependentrecertification. SCOTUSLibrarydraftpartialreadunverified."
+  ],
+  "daily_editorial_completion_2026_11_06": {
+    "new_full_finished": 1,
+    "title": "A Repair Rebate Helps. First, You Have to Pay the Repair Bill.",
+    "source": "editorial-packages/TMS_GERMANY_REPAIR_REBATE_UPFRONT_COST_PUBLICATION_PACKAGE_2026-11-06.md",
+    "gate_1": "PASS",
+    "gate_2": "PASS",
+    "publication": {
+      "title": "Germany's New Debt-Advice Law Starts November 20. Ask What Help You Can Actually Get.",
+      "slug": "germany-new-debt-advice-law-starts-november-20.html",
+      "source": "editorial-packages/TMS_GERMANY_DEBT_ADVICE_NOVEMBER20_PUBLICATION_PACKAGE_2026-11-05.md",
+      "publication_status": "published_live_verified",
+      "published_verified": "2026-11-06",
+      "article_commit": "9ab138f469d2c7e00c8668f8f79f08fd162de415",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "follow_up_date": "2026-11-23",
+      "notes": "Production HTTP 200 and exact main matches for seven public surfaces. First federal report due November 20; recheck availability and delivery."
+    }
+  },
+  "discovery_2026_11_06": [
+    {
+      "title": "A Repair Rebate Helps. First, You Have to Pay the Repair Bill.",
+      "status": "queued_full_package",
+      "source": "editorial-packages/TMS_GERMANY_REPAIR_REBATE_UPFRONT_COST_PUBLICATION_PACKAGE_2026-11-06.md"
+    },
+    {
+      "title": "Germany's New Debt-Advice Law Starts November 20. Ask What Help You Can Actually Get.",
+      "status": "published_full_editorial",
+      "source": "editorial-packages/TMS_GERMANY_DEBT_ADVICE_NOVEMBER20_PUBLICATION_PACKAGE_2026-11-05.md"
+    },
+    {
+      "title": "Veterans' SNAP outreach after GAO",
+      "status": "follow_up_research_only",
+      "source": "https://www.gao.gov/products/gao-27-108111"
+    }
+  ],
+  "reconciliation_notes_2026_11_06": [
+    "Debt advice removed only after exact production verification; repair rebate added to end of queue after both gates. Total remains 19 complete unpublished, 16 queued, one current content-gate-cleared.",
+    "November 5 rights correction now HTTP 200 exact main blob.",
+    "Bottoms and other prior holds preserved; no existing-site replacement installed."
   ]
 }

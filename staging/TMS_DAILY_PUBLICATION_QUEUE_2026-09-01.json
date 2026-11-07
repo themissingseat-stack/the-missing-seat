@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-11-06",
+  "last_reconciled": "2026-11-07",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -22,20 +22,32 @@
     ]
   },
   "deployment": {
-    "source": "GitHub main, verified by current production byte comparison",
-    "status": "November 6 debt advice and SWS HTTP 200; article, index, archive, topic, RSS, sitemap and SWS matched deployed main",
-    "commit": "9ab138f469d2c7e00c8668f8f79f08fd162de415",
+    "source": "GitHub main; exact production/main preflight and seven-surface postflight",
+    "status": "published_live_verified",
+    "commit": "def316ce3882ab3b7486b1e4886b0afe5d407272",
     "verified_blobs": {
-      "something-worth-sharing.html": "700283513dbfc6734e6be719081c7ee12bed69b9",
-      "sitemap.xml": "9050cdbc991829c0b5b0ae642e25fc0e015b6516",
-      "germany-new-debt-advice-law-starts-november-20.html": "914949b855f8063c99d09444f4a060f862049e7a",
-      "index.html": "39ec99bdf317953766ac6c570aa4f28a835c8ea8",
-      "stories.html": "341e5f2ecf86f8440be2fa31f26f685840c89746",
-      "topics/work-economic-fairness.html": "1fdc04dc0fdc725934f9d46ba267af74fe9fa335",
-      "feed.xml": "4ab1ff96a803a6fdf462190b00135584d3f79c4a"
+      "feed.xml": "fceefbb673772ca8bef7ca01051e93007a3cb2cd",
+      "stories.html": "b2317a83d251c156f7f3b86bc9fb8251249d2eae",
+      "topics/positive-change.html": "08ee82d5f0b4e3d1d7d54da7f935e533f7d4e97d",
+      "sitemap.xml": "e1abfe7462478c9bdf77688335c7bbc5cdbd5473",
+      "niger-stopped-river-blindness-transmission-one-programme-helped-another.html": "b34572e1c9ec4e7e40895dddf4d8f7529938a276",
+      "index.html": "44a7faf790da9506089274f4c345aa5e8da5032c",
+      "something-worth-sharing.html": "5a5e0fd2b443420129d826c4b6066d603f168da5"
     }
   },
   "published_record": [
+    {
+      "title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
+      "slug": "niger-stopped-river-blindness-transmission-one-programme-helped-another.html",
+      "source": "editorial-packages/TMS_NIGER_ONE_PROGRAMME_HELPED_ANOTHER_PUBLICATION_PACKAGE_2026-10-29.md",
+      "publication_status": "published_live_verified",
+      "published_verified": "2026-11-07",
+      "article_commit": "def316ce3882ab3b7486b1e4886b0afe5d407272",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "review_record": "editorial-packages/TMS_NIGER_ONE_PROGRAMME_HELPED_ANOTHER_PUBLICATION_PACKAGE_2026-10-29.md",
+      "notes": "Current source and full-template refresh; October 2026 report verifies retained status. Seven production surfaces HTTP 200 exact main content. Existing complete body updated and released, not today's new production."
+    },
     {
       "title": "Germany's New Debt-Advice Law Starts November 20. Ask What Help You Can Actually Get.",
       "slug": "germany-new-debt-advice-law-starts-november-20.html",
@@ -713,34 +725,6 @@
     },
     {
       "position": 14,
-      "title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
-      "canonical_title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
-      "slug": "niger-stopped-river-blindness-transmission-one-programme-helped-another",
-      "source": "editorial-packages/TMS_NIGER_ONE_PROGRAMME_HELPED_ANOTHER_PUBLICATION_PACKAGE_2026-10-29.md",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "scheduled_date": null,
-      "approval": "Standing automatic approval after two sequential reviews",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
-          "slug": "a-seat-was-made-timor-leste-kept-showing-up.html",
-          "distinction": "Niger vector control, lymphatic-filariasis programme contribution and defined verification surveys versus Timor-Leste's different diseases and delivery history."
-        }
-      ],
-      "review_1": "2026-10-29 WHO announcement, named-worker account, October9 country tables, March original research and correction checked independently against draft; chronology, defined survey and claim limits pass",
-      "review_2": "2026-10-29 complete985-word developed article, Short Version, power/burden/benefit, limitations, realistic action, six receipts, disclosure, excerpt, image concept, FB and769-character IG; actual live/repo/queue uniqueness checked",
-      "notes": "Established January2025 achievement, not new October verification. No global eradication, cure count or universal integration claim. Recheck current status/relevance/links at release; HTML, image rights and public navigation/deployment remain.",
-      "release_gate_status": "HOLD_current_standard_refresh_required",
-      "prior_review_record_preserved": true,
-      "current_gate_1": "NOT_RUN",
-      "current_gate_2": "NOT_RUN",
-      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
-    },
-    {
-      "position": 15,
       "title": "Kathmandu Put Care on the Map. Can Families Find Their Way In?",
       "canonical_title": "Kathmandu Put Care on the Map. Can Families Find Their Way In?",
       "slug": "kathmandu-put-care-on-the-map-can-families-find-their-way-in",
@@ -773,7 +757,7 @@
       "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 16,
+      "position": 15,
       "title": "A Repair Rebate Helps. First, You Have to Pay the Repair Bill.",
       "canonical_title": "A Repair Rebate Helps. First, You Have to Pay the Repair Bill.",
       "slug": "a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill",
@@ -796,22 +780,45 @@
       "gate_2": "PASS",
       "release_gate_status": "content_gates_passed_technical_release_pending",
       "notes": "Refresh SAB November 9 list update, available funds, and December 1 filing window at release. Render article/image and integrate navigation, RSS and sitemap."
+    },
+    {
+      "title": "Alice Coachman Was a Champion Before the Olympic Medal.",
+      "canonical_title": "Alice Coachman Was a Champion Before the Olympic Medal.",
+      "slug": "alice-coachman-was-a-champion-before-the-olympic-medal",
+      "source": "editorial-packages/TMS_ALICE_COACHMAN_CHAMPION_BEFORE_MEDAL_PUBLICATION_PACKAGE_2026-11-07.md",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "approval": "Automatic after November 7 Gate 1 and Gate 2 PASS",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "release_gate_status": "content_gates_passed_technical_release_pending",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.",
+          "distinction": "National and Olympic sport performance, tie-break and educational life versus naval computer drafting and technical opportunity."
+        }
+      ],
+      "notes": "Historical excellence, not newly discovered record. Refresh birthday language and later relevance if released after November 9; technical HTML/image rights/navigation and live checks required. Conflicting all-event title totals, first-title age and exact August day excluded.",
+      "position": 16
     }
   ],
   "counts": {
-    "full_finished_unpublished_eligible": 1,
+    "full_finished_unpublished_eligible": 2,
     "full_finished_currently_queued": 16,
     "full_finished_retired_or_replaced": 4,
     "status_verification_required": 0,
     "historical_replacement_versions": 16,
     "replacements_still_pending_installation": null,
-    "unfinished_or_blocked": 22,
-    "follow_up_candidates": 8,
+    "unfinished_or_blocked": 21,
+    "follow_up_candidates": 9,
     "positive_solution_candidates": 5,
     "full_finished_unpublished_total": 19,
-    "full_finished_held_for_release": 18,
+    "full_finished_held_for_release": 17,
     "unfinished_drafts": 4,
-    "queued_pending_current_release_gates": 15,
+    "queued_pending_current_release_gates": 14,
     "full_finished_held_outside_numbered_queue": 3,
     "external_manuscript_status_unverified": 1
   },
@@ -1360,34 +1367,6 @@
     },
     {
       "position": 14,
-      "title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
-      "canonical_title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
-      "slug": "niger-stopped-river-blindness-transmission-one-programme-helped-another",
-      "source": "editorial-packages/TMS_NIGER_ONE_PROGRAMME_HELPED_ANOTHER_PUBLICATION_PACKAGE_2026-10-29.md",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "scheduled_date": null,
-      "approval": "Standing automatic approval after two sequential reviews",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.",
-          "slug": "a-seat-was-made-timor-leste-kept-showing-up.html",
-          "distinction": "Niger vector control, lymphatic-filariasis programme contribution and defined verification surveys versus Timor-Leste's different diseases and delivery history."
-        }
-      ],
-      "review_1": "2026-10-29 WHO announcement, named-worker account, October9 country tables, March original research and correction checked independently against draft; chronology, defined survey and claim limits pass",
-      "review_2": "2026-10-29 complete985-word developed article, Short Version, power/burden/benefit, limitations, realistic action, six receipts, disclosure, excerpt, image concept, FB and769-character IG; actual live/repo/queue uniqueness checked",
-      "notes": "Established January2025 achievement, not new October verification. No global eradication, cure count or universal integration claim. Recheck current status/relevance/links at release; HTML, image rights and public navigation/deployment remain.",
-      "release_gate_status": "HOLD_current_standard_refresh_required",
-      "prior_review_record_preserved": true,
-      "current_gate_1": "NOT_RUN",
-      "current_gate_2": "NOT_RUN",
-      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
-    },
-    {
-      "position": 15,
       "title": "Kathmandu Put Care on the Map. Can Families Find Their Way In?",
       "canonical_title": "Kathmandu Put Care on the Map. Can Families Find Their Way In?",
       "slug": "kathmandu-put-care-on-the-map-can-families-find-their-way-in",
@@ -1420,7 +1399,7 @@
       "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 16,
+      "position": 15,
       "title": "A Repair Rebate Helps. First, You Have to Pay the Repair Bill.",
       "canonical_title": "A Repair Rebate Helps. First, You Have to Pay the Repair Bill.",
       "slug": "a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill",
@@ -1443,6 +1422,29 @@
       "gate_2": "PASS",
       "release_gate_status": "content_gates_passed_technical_release_pending",
       "notes": "Refresh SAB November 9 list update, available funds, and December 1 filing window at release. Render article/image and integrate navigation, RSS and sitemap."
+    },
+    {
+      "title": "Alice Coachman Was a Champion Before the Olympic Medal.",
+      "canonical_title": "Alice Coachman Was a Champion Before the Olympic Medal.",
+      "slug": "alice-coachman-was-a-champion-before-the-olympic-medal",
+      "source": "editorial-packages/TMS_ALICE_COACHMAN_CHAMPION_BEFORE_MEDAL_PUBLICATION_PACKAGE_2026-11-07.md",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "approval": "Automatic after November 7 Gate 1 and Gate 2 PASS",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "release_gate_status": "content_gates_passed_technical_release_pending",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.",
+          "distinction": "National and Olympic sport performance, tie-break and educational life versus naval computer drafting and technical opportunity."
+        }
+      ],
+      "notes": "Historical excellence, not newly discovered record. Refresh birthday language and later relevance if released after November 9; technical HTML/image rights/navigation and live checks required. Conflicting all-event title totals, first-title age and exact August day excluded.",
+      "position": 16
     }
   ],
   "status_verification_ledger": [],
@@ -2088,6 +2090,11 @@
       "original_slug": "they-served-the-country-the-food-benefit-still-missed-them",
       "source": "https://www.gao.gov/products/gao-27-108111",
       "trigger": "November 6 check: all four GAO recommendations remain open. Look for changed federal eligibility guidance, materials disseminated through trusted messengers, renewed VA/USDA agreement or take-up evidence. No material new outcome; do not duplicate existing editorial."
+    },
+    {
+      "original_slug": "niger-stopped-river-blindness-transmission-one-programme-helped-another",
+      "source": "editorial-packages/TMS_NIGER_ONE_PROGRAMME_HELPED_ANOTHER_PUBLICATION_PACKAGE_2026-10-29.md",
+      "trigger": "Material new surveillance, verified status, financing or service-delivery evidence; actual disability support and local-worker continuity. No new outcome asserted."
     }
   ],
   "positive_solution_candidates": [
@@ -2811,16 +2818,16 @@
   },
   "sws_track": {
     "source": "TMS_SWS_LEDGER.json",
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "status": "published_live_verified",
-    "url": "https://themissingseat.org/something-worth-sharing.html#before-you-judge-a-decision-2026-11-06",
-    "title": "Before You Judge a Decision",
+    "url": "https://themissingseat.org/something-worth-sharing.html#keep-one-promise-to-yourself-2026-11-07",
+    "title": "Keep One Promise to Yourself",
     "editorial_inventory_excluded": true,
     "backlog_oct18_23": {
       "verified_present": 6,
       "unpublished_remaining": 0
     },
-    "older_entries_preserved": 15
+    "older_entries_preserved": 16
   },
   "external_manuscripts_pending_status_verification": [
     {
@@ -2880,5 +2887,49 @@
     "Debt advice removed only after exact production verification; repair rebate added to end of queue after both gates. Total remains 19 complete unpublished, 16 queued, one current content-gate-cleared.",
     "November 5 rights correction now HTTP 200 exact main blob.",
     "Bottoms and other prior holds preserved; no existing-site replacement installed."
+  ],
+  "daily_editorial_completion_2026_11_07": {
+    "title": "Alice Coachman Was a Champion Before the Olympic Medal.",
+    "source": "editorial-packages/TMS_ALICE_COACHMAN_CHAMPION_BEFORE_MEDAL_PUBLICATION_PACKAGE_2026-11-07.md",
+    "status": "full_finished_approved_queued",
+    "gate_1": "PASS",
+    "gate_2": "PASS",
+    "new_full_finished": 1,
+    "publication": {
+      "title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
+      "slug": "niger-stopped-river-blindness-transmission-one-programme-helped-another.html",
+      "source": "editorial-packages/TMS_NIGER_ONE_PROGRAMME_HELPED_ANOTHER_PUBLICATION_PACKAGE_2026-10-29.md",
+      "publication_status": "published_live_verified",
+      "published_verified": "2026-11-07",
+      "article_commit": "def316ce3882ab3b7486b1e4886b0afe5d407272",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "review_record": "editorial-packages/TMS_NIGER_ONE_PROGRAMME_HELPED_ANOTHER_PUBLICATION_PACKAGE_2026-10-29.md",
+      "notes": "Current source and full-template refresh; October 2026 report verifies retained status. Seven production surfaces HTTP 200 exact main content. Existing complete body updated and released, not today's new production."
+    }
+  },
+  "discovery_2026_11_07": [
+    {
+      "title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
+      "outcome": "existing_full_package_refreshed_and_published",
+      "source": "editorial-packages/TMS_NIGER_ONE_PROGRAMME_HELPED_ANOTHER_PUBLICATION_PACKAGE_2026-10-29.md"
+    },
+    {
+      "title": "Alice Coachman Was a Champion Before the Olympic Medal.",
+      "outcome": "new_full_package_approved_queued",
+      "source": "editorial-packages/TMS_ALICE_COACHMAN_CHAMPION_BEFORE_MEDAL_PUBLICATION_PACKAGE_2026-11-07.md"
+    },
+    {
+      "title": "Cameroon's planned treatment round and the late-arriving funds",
+      "outcome": "research_required_not_finished",
+      "source": "https://www.who.int/publications/i/item/who-wer10140-290-297",
+      "note": "WHO October 2026 report attributes low 2025 delivery to suspended support and funds arriving too late; seek current government/partner records and frontline accounts. Not an asserted Niger reversal."
+    }
+  ],
+  "reconciliation_notes_2026_11_07": [
+    "Niger removed only after seven exact production matches. Its older HOLD cleared after current factual and full-template reviews.",
+    "New Alice Coachman package appended at 16 after both gates. Nineteen complete unpublished unchanged; two cleared, fourteen queued current-gate holds, three separate complete holds and four unfinished drafts.",
+    "Repair-rebate reserve remains cleared; unrelated Niger publication interleaves it from German debt advice. Germany weekly full production stays2/2.",
+    "Sixteen earlier SWS entries preserved; no existing-site replacement installed; retirements and priority holds preserved."
   ]
 }

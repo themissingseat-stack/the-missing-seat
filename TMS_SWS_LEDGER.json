@@ -1,7 +1,14 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "track": "SWS; excluded from full editorial inventory",
   "entries": [
+    {
+      "id": "keep-one-promise-to-yourself-2026-11-07",
+      "date": "2026-11-07",
+      "source": "something-worth-sharing.html#keep-one-promise-to-yourself-2026-11-07",
+      "publication_status": "published_live_verified",
+      "commit": "def316ce3882ab3b7486b1e4886b0afe5d407272"
+    },
     {
       "id": "before-you-judge-a-decision-2026-11-06",
       "date": "2026-11-06",
@@ -129,10 +136,10 @@
     "note": "All six already in live archive before this write; preserved, not republished as six new items."
   },
   "today": {
-    "quote": "A decision is more than its outcome. Ask what someone knew, what they wanted, what they feared, and what alternatives they believed they had.",
-    "translation_de": "Eine Entscheidung ist mehr als ihr Ergebnis. Frag, was jemand wusste, was die Person wollte, wovor sie Angst hatte und welche anderen Möglichkeiten sie für realistisch hielt.",
-    "provenance": "Exact English text shared by Jansen in the Original Motivational Reflections conversation. Title and translation prepared for this entry. No claim of original authorship or Poetry-project access.",
-    "date": "2026-11-06"
+    "quote": "Every time you keep a promise to yourself, learn something new, or do the hard thing instead of the easy thing, you’re building a life you’ll one day be grateful for. Make one decision today that your future self will thank you for.",
+    "translation_de": "Jedes Mal, wenn du ein Versprechen an dich selbst hältst, etwas Neues lernst oder das Schwierige statt des Einfachen tust, baust du an einem Leben, für das du eines Tages dankbar sein wirst. Triff heute eine Entscheidung, für die dein zukünftiges Ich dir danken wird.",
+    "provenance": "English wording supplied in Jansen's October 22 request for a series of motivational thoughts. Shared wording is preserved; no assertion that Jansen originated it. Title and German translation newly prepared. No inaccessible Poetry thread claimed.",
+    "date": "2026-11-07"
   },
   "missing_page_dates": [
     "2026-10-31",

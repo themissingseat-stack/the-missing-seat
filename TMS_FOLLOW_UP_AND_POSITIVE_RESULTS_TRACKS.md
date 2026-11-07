@@ -1,7 +1,7 @@
 # TMS follow-up and positive-results reporting tracks
 Updated November 5, 2026. Candidates are research leads, never finished inventory.
 
-## Follow-up candidates: 8
+## Follow-up candidates: 9
 1. Germany police-complaints editorial: obtain subsequent Bundestag/commissioner reporting on complaint disposition, investigations completed, institutional action and individual relief. Baseline live slug: germany-created-a-seat-for-police-complaints-who-can-actually-use-it. Trigger: a verified later outcome, not the existing complaint count. No new outcome asserted.
 2. Tribal water-project maintenance: check whether IHS/federal funding rules and implementation changed after the documented oversight findings. Baseline live slug: the-water-project-was-built-the-missing-money-was-for-keeping-it-alive. Trigger: actual eligibility, operation/maintenance funding or service outcomes. No new remedy asserted.
 3. Religious accommodation at the coffee shop: track implementation of consent-decree policy review and training and any available compliance reports. Baseline slug: he-asked-to-break-his-fast-he-allegedly-lost-his-job. Trigger: a public compliance outcome or material legal development. Settlement itself does not demonstrate every future obligation was met.
@@ -117,3 +117,10 @@ SWS has its own TMS_SWS_LEDGER.json: today's exact Jansen quote plus labeled new
 - **Debt advice in Germany:** After the November 20 start and first federal report deadline, look for the actual report, public access to fee information and local urgent routes. Review November 23. Verify delivery before asserting a changed outcome.
 - **Veterans and SNAP:** [GAO-27-108111](https://www.gao.gov/products/gao-27-108111) lists all four recommendations open on November 6. USDA reported work on eligibility guidance, which is not proof of completion. The original TMS editorial already covers this audit. Track new USDA materials, VA/USDA coordination and real access or participation evidence. No duplicate release.
 - **Positive results package completed:** [A Repair Rebate Helps. First, You Have to Pay the Repair Bill.](editorial-packages/TMS_GERMANY_REPAIR_REBATE_UPFRONT_COST_PUBLICATION_PACKAGE_2026-11-06.md). Thuringia's participant counts, Fraunhofer's estimates and their limits; Saxony's separate paid-invoice terms. Both gates passed; new reserve, not one of the five research-only candidates. Ask who could not pay before reimbursement.
+
+
+## November 7: Niger release and Black achievement reserve
+
+- [Niger's verified public-health result](https://themissingseat.org/niger-stopped-river-blindness-transmission-one-programme-helped-another.html) published after current source/template reviews. Follow-up only for material new status, surveillance, financing/service continuity or delivered support for existing disability. No later outcome inferred.
+- [Alice Coachman Was a Champion Before the Olympic Medal.](editorial-packages/TMS_ALICE_COACHMAN_CHAMPION_BEFORE_MEDAL_PUBLICATION_PACKAGE_2026-11-07.md) is full, newly completed and approved. It is not one of the five research-only positive leads. Birth-anniversary wording must be refreshed at release.
+- Cameroon delivery and funding: WHO's October 9 report says late 2025 funding and suspended support disrupted planned treatment. Seek current primary government/partner evidence and actual community/worker accounts before a separate full piece. It is neither a measured reversal in Niger nor a reason to repeat the same achievement article.

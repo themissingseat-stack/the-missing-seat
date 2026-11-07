@@ -7,7 +7,7 @@
 - Author: Jansen Bowden / The Missing Seat
 - Production date: October 29, 2026
 - Publication date: November 7, 2026
-- Status: Complete; November 7 release-day reviews below
+- Status: Published and publicly verified November 7, 2026
 - Territories: Solutions & Participation; People & Opportunity
 - Topics: A Seat Was Made; global health; rural communities; disability prevention
 - Location: Niger, West Africa
@@ -156,3 +156,7 @@ Established achievement, not breaking verification news. Current report explicit
 ## Gate 2: PASS
 
 2026-11-07T07:07:28.861Z, Codex separate hostile-reader/template review after Gate 1. Read the refreshed article and social versions. No one-medicine, sole-benefactor or blanket integration claim; current Cameroon funding problem is explicitly not a Niger reversal. Existing disability needs and worker workload remain visible. Clear named example, explanatory chronology, fair limits/counterargument and three-part action survive the edit. Completed required Short Version What happened/Who it affects/What you can do and Based on; preserved the previously approved Seat status verbatim; added Pull Up A Chair, country/global resources, Seat Summary and accountability ledger. Receipts work and one disclosure separates research and interpretation. Final body paragraph remains about understanding the specific achievement; retired signoff removed from body and platform copy. EN-only Facebook and Instagram are appropriate to the country; IG 752 characters. No invented field report, modern benefit total or gratuitous blame. Timor-Leste comparison checked against actual archive; intervention chain, evidence and teaching purpose are distinct. Today’s one full-editorial publication slot is unused.
+
+## Gate 3: PASS — public release verified
+
+November 7, 2026; publication commit def316ce3882ab3b7486b1e4886b0afe5d407272. https://themissingseat.org/niger-stopped-river-blindness-transmission-one-programme-helped-another.html returned HTTP 200, exact blob b34572e1c9ec4e7e40895dddf4d8f7529938a276. Homepage, archive, Positive Change topic, RSS, sitemap and SWS also returned HTTP 200 with exact main content. Links appeared once in each relevant listing; XML parsed, all prior SWS IDs preserved. Structural/HTTP checks, not a claimed visual browser test. Today's only new full editorial; removed from finished-unpublished ledger after verification.

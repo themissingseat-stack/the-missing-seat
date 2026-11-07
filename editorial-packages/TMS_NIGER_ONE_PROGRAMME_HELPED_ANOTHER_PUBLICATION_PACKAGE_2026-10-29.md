@@ -1,4 +1,4 @@
-# The Missing Seat publication package
+# Niger Stopped River Blindness Transmission. One Health Programme Helped Another.
 
 ## Publication metadata
 
@@ -6,8 +6,8 @@
 - Slug: `niger-stopped-river-blindness-transmission-one-programme-helped-another`
 - Author: Jansen Bowden / The Missing Seat
 - Production date: October 29, 2026
-- Publication date: Unscheduled
-- Status: Full finished; both sequential reviews passed; automatically approved for queue position 16
+- Publication date: November 7, 2026
+- Status: Complete; November 7 release-day reviews below
 - Territories: Solutions & Participation; People & Opportunity
 - Topics: A Seat Was Made; global health; rural communities; disability prevention
 - Location: Niger, West Africa
@@ -17,11 +17,16 @@
 - Excerpt: Niger's river-blindness achievement came from years of vector control, surveillance and help from a programme targeting another disease. The result deserves recognition, and the people doing the routine work deserve the credit.
 - Image concept: A clearly labeled editorial illustration of a river, a health worker's notebook and an empty community-meeting chair. Avoid implying that a pictured person has a disease, inventing a patient or reproducing copyrighted WHO photographs without permission. Do not use a generic image of suffering to represent an entire country.
 
+
 ## The Short Version
 
-- What happened: WHO verified elimination of river-blindness transmission in Niger in January 2025. Its October 2026 progress report continues to list that achievement.
-- What helped: Earlier control of the flies that spread the parasite, later treatment targeting another disease and extensive testing contributed to the result.
-- What to do: Ask public-health programmes to explain delivery, verification and what continues afterward. Give local workers and communities credit alongside institutions and funders.
+What happened: WHO verified elimination of river-blindness transmission in Niger in January 2025. Its October 2026 report continues to list the result and explains how earlier vector control and a programme targeting another disease contributed.
+
+Who it affects: Communities in formerly affected river areas, local health workers and volunteers, and readers asking what makes a public-health programme work.
+
+What you can do: Ask a programme you follow what it delivered, how the result was verified and what continues afterward. Look for named local responsibilities and support for the people carrying out the work.
+
+Based on: WHO's January 2025 accounts and October 2026 epidemiological report, original programme research published in March 2026 and its correction.
 
 ## Website editorial
 
@@ -41,7 +46,7 @@ That is a useful institutional lesson. A programme built around one disease can 
 
 The sequence matters. Controlling the flies reduced transmission; later treatment contributed; surveillance tested what remained. Saying that one programme helped another is supported by WHO's account. Saying that combining any two health programmes will automatically produce the same result would go far beyond it.
 
-A March 2026 scientific paper by Salissou Adamou and colleagues makes the evidence-gathering work more visible. Its abstract reports testing blackflies and children for signs of continuing transmission. It describes negative blood-test results in 16,406 children aged five to nine in 2018–2019 and further negative fly testing in 2024. These are results from defined surveys, not proof that researchers examined every resident or every fly in Niger.
+A March 2026 scientific paper by Salissou Adamou and colleagues makes the evidence-gathering work more visible. It reports testing blackflies and children for signs of continuing transmission. It describes negative blood-test results in 16,406 children aged five to nine in 2018–2019 and further negative fly testing in 2024. These are results from defined surveys, not proof that researchers examined every resident or every fly in Niger.
 
 The achievement therefore includes the capacity to check. An announcement that treatment was delivered would show an activity. Evidence reviewed against elimination criteria supports a different conclusion: transmission had been interrupted sufficiently to meet the verification standard.
 
@@ -59,15 +64,28 @@ The power sits with national health authorities deciding how programmes are orga
 
 There is a fair objection to turning a successful country example into a universal prescription. Places differ in transmission patterns, geography, health systems and treatment requirements. A method that fits one setting may not fit another. Integration can also become an excuse to load additional duties onto staff without giving them the resources to do them well.
 
+The October 2026 WHO report makes that warning current. It describes treatment disruptions in Cameroon after external funding was suspended, with national funds arriving too late for the planned 2025 round. This is not evidence that Niger has lost its verified status. It is evidence that integration needs planning, money and continuity, rather than extra expectations placed on the same people.
+
 Those limits make the lesson more practical. Before announcing that programmes should be combined, identify the compatible work, the responsible people, the resources and the evidence needed to assess the result. Preserve the specialist knowledge and safety requirements. Ask workers and communities whether the arrangement is actually usable.
 
 For an ordinary reader, this is a different way to judge public spending. Success is not only the new building or new programme with a name on it. It can also be the existing work that serves another purpose, followed by careful testing that establishes what changed. Ending a programme's publicity should not mean forgetting the people who made its result possible.
+
+## Pull Up A Chair
 
 The action is to ask a public-health agency or programme you follow for three connected accounts: what it delivered, how it verified the result and what continues afterward. Ask who performs the local work and how that work is supported. Read the current WHO country status rather than treating a general regional success as proof that every community has reached the same point.
 
 Niger's achievement deserves a place in the news because something substantial worked. Understanding how it worked gives the public more than a reassuring story. It gives us decisions to examine, people to credit and a clearer standard for the next promised result.
 
-Ally = Action. 🪑
+
+## Resources: Niger and global health
+
+- WHO country achievement and explanation: https://www.who.int/news/item/30-01-2025-who-verifies-niger-as-the-first-country-in-the-african-region-to-eliminate-onchocerciasis
+- Current global report: https://www.who.int/publications/i/item/who-wer10140-290-297
+- WHO disease and elimination explanation: https://www.who.int/news-room/fact-sheets/detail/onchocerciasis
+
+## Seat Summary
+
+Niger's verified result came from sustained work across programmes and the testing needed to establish what changed. Recognizing workers and communities belongs alongside recognizing institutions. Other settings still need their own evidence, resources and safeguards.
 
 ## Sources and receipts
 
@@ -76,24 +94,26 @@ Ally = Action. 🪑
 2. WHO, January 30, 2025 feature: named national coordinator, programme partners and community volunteers. It is an institutional account, not an independent impact evaluation. We do not repeat its economic-benefit or unit-cost claims without the underlying analysis.
    https://www.who.int/news-room/feature-stories/detail/a-historic-milestone!-who-verifies-niger-free-of-onchocerciasis-as-the-first-country-on-the-african-continent
 3. WHO, Weekly Epidemiological Record, October 9, 2026, tables 3 and 4: Niger verified in 2025; distinguishes verification from stopping treatment in part of a country.
-   https://www.who.int/publications/journals/weekly-epidemiological-record/wer101-40
+   https://www.who.int/publications/i/item/who-wer10140-290-297
 4. Adamou and colleagues, International Health, March 10, 2026, DOI 10.1093/inthealth/ihag013. Original programme research; surveyed populations and testing findings, not a randomised trial assigning credit to each intervention.
-   https://pubmed.ncbi.nlm.nih.gov/41804793/
    https://academic.oup.com/inthealth/advance-article/doi/10.1093/inthealth/ihag013/8512702
 5. Journal correction, March 23, 2026: corrected a co-author's surname to Susan D'Souza; did not announce a change to the transmission result or the survey number used here.
    https://academic.oup.com/inthealth/advance-article/doi/10.1093/inthealth/ihag034/8537398
 6. WHO current onchocerciasis fact sheet: disease basics and distinction between countries verified and areas with treatment stopped.
    https://www.who.int/news-room/fact-sheets/detail/onchocerciasis
 
+
+## Accountability ledger
+
+| Decision or work | Responsible actors | Established result | What to watch |
+|---|---|---|---|
+| Vector control, 1976–1989 | Niger and the regional programme | Reduced transmission | Preserve accurate institutional and local credit |
+| LF treatment, 2008–2019 | National programme and delivery partners | Also contributed to interrupting onchocerciasis transmission | Transfer this lesson only where biology and delivery fit |
+| Defined surveys and WHO verification | National investigators, partners and WHO | Transmission elimination verified in 2025, retained in October 2026 tables | Surveillance, service continuity and support for existing disability |
+
 ## Verification and disclosure
 
-Verified October 29, 2026 against WHO's dated announcement, feature, current fact sheet and October 2026 report, plus the March 2026 original research record and its published correction. The verification is a national transmission-elimination finding, not global eradication, an assurance against every future case or proof that existing impairments were reversed. No original interview, field visit or patient vignette invented. The national coordinator's role is attributed to WHO's January 2025 profile, not asserted as a checked present office. Study authors include programme and partner personnel; these are not wholly independent evaluations. The paper's correction concerns a name. No unverified prevalence denominator, economic-benefit total, cure count or volunteer-pay claim is used. Expected everyday benefits and institutional lessons are editorial analysis. This is not advice to take medicines or copy a treatment protocol. Refresh country status, sources and relevance at publication.
-
-## Power, benefit, burden and duplication review
-
-Seat: people in affected river communities, health workers and volunteers. Power: Niger's national programme and health authorities, supporting partners, and verification institutions. Benefit: interrupted transmission and opportunities protected against future harm; no individual income gain quantified. Burden: affected communities and people with lasting needs; staff and volunteer workload should be accounted for rather than assumed.
-
-Closest live comparator: *A Seat Was Made: Timor-Leste Kept Showing Up Until Disease Lost Ground.* Different national evidence, diseases and intervention chain. This piece explains Niger's earlier vector control, a lymphatic-filariasis programme's contribution to another disease and the subsequent testing required to establish elimination. It is not a retelling of Timor-Leste's delivery story. The remaining Yanomami research lead concerns cross-border delivery and Indigenous participation in the Americas, a materially different evidence/action question. No Niger title/slug found in current live archive, repository or active queue. Interleave related pieces and recheck relevance later.
+Checked November 7, 2026 against WHO's dated accounts, the October 2026 full report, the original journal article and its correction. The named coordinator's role is attributed to the January 2025 feature, not asserted as his current office. Programme and partner personnel contributed to the research; this is not an independent trial assigning a percentage of success to each intervention. Defined negative surveys do not mean every resident or fly was tested. Elimination of transmission is not global eradication, reversal of existing impairment or a guarantee against future transmission. No original interview, field visit, cure count, economic-benefit total or volunteer-pay finding claimed. Institutional lessons are editorial analysis, not instructions to take medication.
 
 ## Facebook version
 
@@ -109,7 +129,6 @@ The practical lesson is to ask what a programme delivered, how it checked the re
 
 A real success deserves attention, with enough detail to learn from it.
 
-Ally = Action. 🪑
 
 ## Instagram version
 
@@ -123,16 +142,17 @@ This is elimination of transmission in Niger, not global eradication or a claim 
 
 Ask a public-health programme three things: what did it deliver, how did it verify the result and what continues afterward? Ask who does the local work and how that work is supported.
 
-Ally = Action. 🪑
-
 #TheMissingSeat #ASeatWasMade #Niger #PublicHealth
 
-## Reviews
 
-### Review 1: factual and source review, October 29, 2026: PASS
+## Originality and release selection
 
-Checked the complete draft against the January 2025 WHO announcement and named-worker feature, the October 9, 2026 country-status tables, the March 10 original research abstract and full publisher record, the March 23 correction and WHO's disease fact sheet. Confirmed 1976–1989 vector control, 2008–2019 LF treatment contribution, defined survey of 16,406 children aged five to nine in 2018–2019, and negative 2024 fly testing. The correction changes a co-author's surname, not these results. Read sources independently of draft assertions; no unsupported economic total, prevalence denominator, cure count, current office-holder assertion or global-eradication claim retained. Programme-authored evidence and institutional accounts are identified as such. Chronology, current relevance and link destinations checked. This is an explanation of an established achievement, not breaking verification news.
+Established achievement, not breaking verification news. Current report explicitly preserves Niger's status and warns about financing disruptions elsewhere. This is a materially distinct delivery-and-verification chain from the Timor-Leste article, published October 24. Today's release spaces the two Germany consumer pieces apart with African public-health achievement. Historical body preserved with source refresh and required structural additions; not counted as newly authored production today. Candidate URL 404 and actual main/archive have no article/card.
 
-### Review 2: editorial, fairness and duplication review: PASS after Review 1
+## Gate 1: PASS
 
-Read the full package for developed paragraphs, ordinary-reader comprehension, named human entry point without an invented vignette, power/benefit/burden, fair limitations and a realistic action. Short Version, metadata, excerpt, receipts, one disclosure, image concept, Facebook and Instagram versions are present. No long dashes, collective blame or assumed intent. Compared the live archive, repository, active queue and prior decisions: no Niger title/slug found; the Timor-Leste comparator and Yanomami research lead differ materially in evidence, explanation and action. Historical replacement versions remain separate. Instagram character count is below 2,200 including hashtags. Automatically approved under the standing instruction; append at position 16, with no second publication today. Source status, relevance, HTML, image rights and deployment must be checked at release.
+2026-11-07T07:06:53.180Z, Codex evidence review separate from prose review. Central standard main blob 475e242edbb96f9097cd9266b97db9b80ad1135f. Reopened six receipt destinations; replaced the old issue URL with WHO's working October 9 publication page and removed the unhelpful PubMed route. Read the complete downloaded WHO PDF, tables 3/4 and Niger footnote, and current fact sheet. Read the journal article and March 23 correction: 16,406 children aged 5–9 tested negative in the defined 2018–2019 survey; correction concerns a surname. WHO feature supports named coordinator and volunteers; January release supports insecticide/LF-treatment chronology. October report supports the new bounded Cameroon financing context without asserting a reversal in Niger. Search for later status found no superseding verification change. No unsupported money, cure, current-office or national-survey claim. Current main and production bytes match; proposed URL 404; no November 7 RSS release.
+
+## Gate 2: PASS
+
+2026-11-07T07:07:28.861Z, Codex separate hostile-reader/template review after Gate 1. Read the refreshed article and social versions. No one-medicine, sole-benefactor or blanket integration claim; current Cameroon funding problem is explicitly not a Niger reversal. Existing disability needs and worker workload remain visible. Clear named example, explanatory chronology, fair limits/counterargument and three-part action survive the edit. Completed required Short Version What happened/Who it affects/What you can do and Based on; preserved the previously approved Seat status verbatim; added Pull Up A Chair, country/global resources, Seat Summary and accountability ledger. Receipts work and one disclosure separates research and interpretation. Final body paragraph remains about understanding the specific achievement; retired signoff removed from body and platform copy. EN-only Facebook and Instagram are appropriate to the country; IG 752 characters. No invented field report, modern benefit total or gratuitous blame. Timor-Leste comparison checked against actual archive; intervention chain, evidence and teaching purpose are distinct. Today’s one full-editorial publication slot is unused.

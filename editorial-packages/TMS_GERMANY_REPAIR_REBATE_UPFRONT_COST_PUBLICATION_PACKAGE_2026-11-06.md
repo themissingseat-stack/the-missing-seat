@@ -4,7 +4,7 @@
 
 Author: Jansen / The Missing Seat  
 Completed: November 6, 2026  
-Publication date: Unscheduled  
+Publication date: Unscheduled; release HOLD November 8  
 Slug: a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill  
 Topic: Positive Change / Work, Money & Economic Fairness  
 Territories: Solutions & Participation; People & Opportunity  
@@ -124,3 +124,8 @@ Publication candidate. Distinct from the live Germany energy-disconnection story
 ## Gate 2: PASS
 
 2026-11-06T07:10:39.623Z, Codex, separate hostile-reader and Regular Joe review after Gate 1. Central standard main blob 475e242edbb96f9097cd9266b97db9b80ad1135f. Read the full article and four platform versions. An objection that paying after verified work prevents waste is addressed by the invoice rationale and the bank's own threshold explanation. The article asks for a test of upfront-cost barriers rather than claiming they caused a measured drop in take-up. The rebate example clearly requires approval and does not give the reader a guarantee. Two states, distinct evidence and two time periods are kept separate. The who-pays and who-decides paragraphs, dated filing step, approved Seat At Risk, Short Version with Based on, Pull Up A Chair, country resources, Seat Summary, specific ending, receipts, disclosure, excerpt and image concept are complete. No forced slogan, generic blame, false interview or cross-country social copy. Plain-text IG counts: English 393, German 483. Repo and live archive show no equivalent editorial; the closest comparisons are noted above. Status: approved for queue; recheck date-sensitive details and complete HTML/image/navigation before release.
+
+
+## November 8 release review: HOLD
+
+Gate 1 HOLD, 2026-11-08T07:55:19.621Z, Codex. Official REVOSax directive VII.4 states applications are to be submitted electronically by December 1 of each year: https://www.recht.sachsen.de/vorschrift/21483 . SAB's current FAQ asks whether there is a submission deadline and answers “Grundsätzlich nicht”, then describes December 1 as an ideal date for prompt payment: https://sab.sachsen.de/reparaturbonus . The bank page also contains legacy template text; today's direct HTML inspection finds the FAQ in a collapsible content section, not an explicit discarded draft. Do not silently treat either interpretation as a safely established filing deadline for readers. Obtain current authoritative clarification, assess the package's timing paragraph and social/action implications, then renew independent factual and prose reviews. Prior November 6 PASS records remain audit history and do not authorize release. Gate 2 NOT RERUN after factual HOLD. Full body retained in the existing numbered queue as paused, not retired, not published. This is an unpublished editorial source issue, not site downtime.

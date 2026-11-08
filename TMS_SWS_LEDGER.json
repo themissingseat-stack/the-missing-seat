@@ -1,7 +1,14 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "track": "SWS; excluded from full editorial inventory",
   "entries": [
+    {
+      "id": "patience-with-a-plan-2026-11-08",
+      "date": "2026-11-08",
+      "source": "something-worth-sharing.html#patience-with-a-plan-2026-11-08",
+      "publication_status": "published_live_verified",
+      "commit": "dbb7540ad097f6e561ec3c1df166533240f43884"
+    },
     {
       "id": "keep-one-promise-to-yourself-2026-11-07",
       "date": "2026-11-07",
@@ -136,10 +143,10 @@
     "note": "All six already in live archive before this write; preserved, not republished as six new items."
   },
   "today": {
-    "quote": "Every time you keep a promise to yourself, learn something new, or do the hard thing instead of the easy thing, you’re building a life you’ll one day be grateful for. Make one decision today that your future self will thank you for.",
-    "translation_de": "Jedes Mal, wenn du ein Versprechen an dich selbst hältst, etwas Neues lernst oder das Schwierige statt des Einfachen tust, baust du an einem Leben, für das du eines Tages dankbar sein wirst. Triff heute eine Entscheidung, für die dein zukünftiges Ich dir danken wird.",
-    "provenance": "English wording supplied in Jansen's October 22 request for a series of motivational thoughts. Shared wording is preserved; no assertion that Jansen originated it. Title and German translation newly prepared. No inaccessible Poetry thread claimed.",
-    "date": "2026-11-07"
+    "text": "Patience works better with a plan. Decide what you can give time to, what you need to know, and when you will check in again. While you wait, keep doing the parts of your life that are still yours to move.",
+    "translation_de": "Geduld funktioniert besser mit einem Plan. Entscheide, wofür du dir Zeit nehmen kannst, was du wissen musst und wann du wieder nachfragen wirst. Während du wartest, kümmere dich weiter um die Bereiche deines Lebens, die du selbst voranbringen kannst.",
+    "date": "2026-11-08",
+    "provenance": "New reflection and translation prepared for TMS in response to Jansen's requested themes of patience and personal responsibility. Not attributed as his original wording or an archival quotation; no inaccessible Poetry project claimed."
   },
   "missing_page_dates": [
     "2026-10-31",

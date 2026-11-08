@@ -1,6 +1,6 @@
 # Complete unpublished packages: release holds
 
-Reconciled November7,2026. Three complete bodies outside the numbered queue;14additional legacy queued packages are paused for current-standard gate/template refresh. These categories are distinct. Preserve original approvals and actual bodies; no new publication or retirement implied. The19complete unpublished total comprises16numbered +3below. Full gate-readiness accounting is in TMS_DAILY_EDITORIAL_QUEUE.md.
+Reconciled November8,2026. Three complete bodies outside the numbered queue;14additional legacy queued packages are paused for current-standard gate/template refresh. A fifteenth queued release hold, repair rebate, was added November8 for conflicting official filing instructions. It remains a full body in the numbered ledger and is not one of the three off-queue holds below. These categories are distinct. Preserve original approvals and actual bodies; no new publication or retirement implied. The19complete unpublished total comprises16numbered +3below. Full gate-readiness accounting is in TMS_DAILY_EDITORIAL_QUEUE.md.
 
 ## Breast Cancer Survival Has Improved. Black Women Are Still Dying More Often.
 

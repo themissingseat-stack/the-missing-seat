@@ -4,7 +4,7 @@
 
 Author: Jansen Bowden / The Missing Seat
 Completed: November 7, 2026
-Publication: Unscheduled
+Publication: November 8, 2026; public verification recorded separately
 Status: Full finished; Gate 1 PASS and Gate 2 PASS; automatically approved and queued
 Slug: alice-coachman-was-a-champion-before-the-olympic-medal
 Country: United States
@@ -132,3 +132,11 @@ Publication candidate for Give Them Their Flowers. Birthday anniversary is the c
 ## Gate 2: PASS
 
 2026-11-07T07:09:46.413Z, Codex, separate hostile-reader and Regular Joe review after Gate 1. Read the complete 894-word body and social versions. Headline supported by a pre-1948 record; the story is not a newly discovered medal or claim that Coachman jumped higher than Tyler. Close competition and attempt order included. Cancelled Games do not become imaginary medals. Segregation is stated as documented access restriction without collective blame; talent, joy, training, named supporters and later education remain the focus. The lesson does not excuse unsafe facilities or imply one champion disproves exclusion. Museum/university discrepancies resolved as recorded by the factual review. Complete approved template, existing documented-achievement Seat Status, Based on line, dated Short Version, Pull Up A Chair, U.S. resources, Seat Summary, specific final thought, receipts, accountability ledger, one disclosure, excerpt and image concept. No invented interview, current foundation/donation route, vulgarity, stock ending, hashtags or decorative emoji. EN-only copy matches U.S. focus; Instagram 466 characters. Actual archive and queue comparison finds a distinct sporting-performance story, not a duplicate of Raye's technical contribution. Automatically approved; append to reserve, update birthday phrasing when release date is known.
+
+## November 8 release-day Gate 1: PASS
+
+2026-11-08T07:48:58.966Z, Codex evidence review separate from prose review. Standard main blob 475e242edbb96f9097cd9266b97db9b80ad1135f fetched before review. Reopened USATF, World Athletics, U.S. Olympic & Paralympic Museum, Albany State Athletics and Olympedia. Direct retrieval resolves USATF's reader timeout; result and ten-title sequence remain unchanged. Existing source discrepancies remain omitted and disclosed: all-event total, age of first title, exact August day and degree designation. The supported month/year, 1.68m and attempt order, named teacher/aunt, graduation year/subject and historical foundation creation are intact. November 9 birthday peg current. No newly discovered result, hypothetical medal or current charitable-service claim. Live candidate URL404; actual main/archive/queue comparison no duplicate. Public/main preflight matched. No November 8 RSS item. Repair-rebate alternative HOLD after conflicting deadline instructions found; this approved distinct article supplies today's safe eligible release.
+
+## November 8 release-day Gate 2: PASS
+
+2026-11-08T07:49:40.997Z, Codex separate hostile-reader, Regular Joe and full-template pass after evidence review. Complete body reread; ten national titles explain championship rather than treating a historic first as the whole story. Shared height/attempt order not rewritten as a higher jump. Segregation documented without collective blame or imaginary counterfactual medals; talent, supporters, education and realistic teaching/local-cost action retained. Historical foundation is not a current donation recommendation. Every mandatory section, existing approved achievement Seat Status, receipt, one disclosure, English Facebook/Instagram and image concept present. Platform copy clean; Instagram 466 characters. No slogan, forced question, long-dash cadence or unrelated political conclusion. Distinct from Raye's technical contribution, with German consumer and Niger health stories between. Today’s sole release slot remains unused; publish only after deployment-source preflight.

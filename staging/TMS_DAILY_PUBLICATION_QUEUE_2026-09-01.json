@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-11-07",
+  "last_reconciled": "2026-11-08",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -22,20 +22,32 @@
     ]
   },
   "deployment": {
-    "source": "GitHub main; exact production/main preflight and seven-surface postflight",
+    "source": "GitHub main verified against live preflight and eight post-publication surfaces",
     "status": "published_live_verified",
-    "commit": "def316ce3882ab3b7486b1e4886b0afe5d407272",
+    "commit": "dbb7540ad097f6e561ec3c1df166533240f43884",
     "verified_blobs": {
-      "feed.xml": "fceefbb673772ca8bef7ca01051e93007a3cb2cd",
-      "stories.html": "b2317a83d251c156f7f3b86bc9fb8251249d2eae",
-      "topics/positive-change.html": "08ee82d5f0b4e3d1d7d54da7f935e533f7d4e97d",
-      "sitemap.xml": "e1abfe7462478c9bdf77688335c7bbc5cdbd5473",
-      "niger-stopped-river-blindness-transmission-one-programme-helped-another.html": "b34572e1c9ec4e7e40895dddf4d8f7529938a276",
-      "index.html": "44a7faf790da9506089274f4c345aa5e8da5032c",
-      "something-worth-sharing.html": "5a5e0fd2b443420129d826c4b6066d603f168da5"
+      "sitemap.xml": "dc1f9106753ce8ab21f76e3b2a7843129b601be6",
+      "feed.xml": "4624acc3f97ac26bed6b15e560f06aeddb978610",
+      "topics/missing-history.html": "c6e51057e8f7823a2a3a2759e13fff57c61e4ce5",
+      "black-brilliant-beyond.html": "c203752e3d8d3d28e83b1a8f96812005a14d8329",
+      "something-worth-sharing.html": "e98f1db462558c4e79b193fdf83c878909564a1e",
+      "index.html": "641aebd2e958edfd5d9e239900a68a592f15f3a5",
+      "stories.html": "0b9d1d58e73f72220e58daf1d76e08944dbd1cd6",
+      "alice-coachman-was-a-champion-before-the-olympic-medal.html": "4b26f003ed6d0e158626bdcfa7408ccab42f992f"
     }
   },
   "published_record": [
+    {
+      "title": "Alice Coachman Was a Champion Before the Olympic Medal.",
+      "slug": "alice-coachman-was-a-champion-before-the-olympic-medal.html",
+      "source": "editorial-packages/TMS_ALICE_COACHMAN_CHAMPION_BEFORE_MEDAL_PUBLICATION_PACKAGE_2026-11-07.md",
+      "publication_status": "published_live_verified",
+      "published_verified": "2026-11-08",
+      "article_commit": "dbb7540ad097f6e561ec3c1df166533240f43884",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "notes": "Eight public surfaces HTTP200 exact main content. Current source limits preserved; 1948 height/attempt sequence and November9 birth anniversary verified. Sole new full publication today."
+    },
     {
       "title": "Niger Stopped River Blindness Transmission. One Health Programme Helped Another.",
       "slug": "niger-stopped-river-blindness-transmission-one-programme-helped-another.html",
@@ -776,21 +788,23 @@
       ],
       "review_1": "2026-11-06T07:10:22.453Z: PASS, Saxon funding directive and current SAB process; Thuringia operator counts and Fraunhofer estimates independently bounded.",
       "review_2": "2026-11-06 PASS: template, cash-flow example, named sources, concrete action, counterargument and clean EN/DE socials; full findings in package.",
-      "gate_1": "PASS",
-      "gate_2": "PASS",
-      "release_gate_status": "content_gates_passed_technical_release_pending",
-      "notes": "Refresh SAB November 9 list update, available funds, and December 1 filing window at release. Render article/image and integrate navigation, RSS and sitemap."
+      "gate_1": "HOLD",
+      "gate_2": "NOT_RERUN_AFTER_HOLD",
+      "release_gate_status": "HOLD_official_filing_guidance_conflict",
+      "notes": "Refresh SAB November 9 list update, available funds, and December 1 filing window at release. Render article/image and integrate navigation, RSS and sitemap. Source conflict discovered November 8; do not release until clarified. Full body retained; not retired.",
+      "prior_gate_records_preserved": true,
+      "current_release_blocker": "November 8: directive VII.4 requires December 1 electronic filing; SAB FAQ says no strict deadline, ideally December 1. Resolve applicable current filing rule and revise package before renewed Gate 1/2. Prior PASS is not current approval."
     },
     {
-      "title": "Alice Coachman Was a Champion Before the Olympic Medal.",
-      "canonical_title": "Alice Coachman Was a Champion Before the Olympic Medal.",
-      "slug": "alice-coachman-was-a-champion-before-the-olympic-medal",
-      "source": "editorial-packages/TMS_ALICE_COACHMAN_CHAMPION_BEFORE_MEDAL_PUBLICATION_PACKAGE_2026-11-07.md",
+      "title": "Charles Drew Helped Build a Blood System. He Also Challenged Its Rules.",
+      "canonical_title": "Charles Drew Helped Build a Blood System. He Also Challenged Its Rules.",
+      "slug": "charles-drew-helped-build-a-blood-system-and-challenged-its-rules",
+      "source": "editorial-packages/TMS_CHARLES_DREW_BLOOD_SYSTEM_RULES_PUBLICATION_PACKAGE_2026-11-08.md",
       "completion_status": "full_finished",
       "status": "approved_queued_full_finished",
       "publication_status": "unpublished",
       "scheduled_date": null,
-      "approval": "Automatic after November 7 Gate 1 and Gate 2 PASS",
+      "approval": "Automatic after November 8 factual and separate template/hostile-reader PASS",
       "gate_1": "PASS",
       "gate_2": "PASS",
       "release_gate_status": "content_gates_passed_technical_release_pending",
@@ -798,29 +812,34 @@
       "related_live_comparators": [
         {
           "title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.",
-          "distinction": "National and Olympic sport performance, tie-break and educational life versus naval computer drafting and technical opportunity."
+          "distinction": "Different blood service, organizing standards, documented racial donor rule and correction of false death story rather than naval drafting and paid technical access."
+        },
+        {
+          "title": "Alice Coachman Was a Champion Before the Olympic Medal.",
+          "distinction": "Medical service and donor policy rather than sport performance and Olympic tie-break."
         }
       ],
-      "notes": "Historical excellence, not newly discovered record. Refresh birthday language and later relevance if released after November 9; technical HTML/image rights/navigation and live checks required. Conflicting all-event title totals, first-title age and exact August day excluded.",
+      "notes": "September 2026 institutional film account is a discovery peg, not breaking invention news or measured programme outcome. Interleave Black-history stories. Refresh sources, future relevance and technical HTML/image/links at release.",
       "position": 16
     }
   ],
   "counts": {
-    "full_finished_unpublished_eligible": 2,
+    "full_finished_unpublished_eligible": 1,
     "full_finished_currently_queued": 16,
     "full_finished_retired_or_replaced": 4,
     "status_verification_required": 0,
     "historical_replacement_versions": 16,
     "replacements_still_pending_installation": null,
-    "unfinished_or_blocked": 21,
-    "follow_up_candidates": 9,
+    "unfinished_or_blocked": 22,
+    "follow_up_candidates": 10,
     "positive_solution_candidates": 5,
     "full_finished_unpublished_total": 19,
-    "full_finished_held_for_release": 17,
+    "full_finished_held_for_release": 18,
     "unfinished_drafts": 4,
     "queued_pending_current_release_gates": 14,
     "full_finished_held_outside_numbered_queue": 3,
-    "external_manuscript_status_unverified": 1
+    "external_manuscript_status_unverified": 1,
+    "queued_current_source_conflict": 1
   },
   "pending_priority_requests": [
     {
@@ -1418,21 +1437,23 @@
       ],
       "review_1": "2026-11-06T07:10:22.453Z: PASS, Saxon funding directive and current SAB process; Thuringia operator counts and Fraunhofer estimates independently bounded.",
       "review_2": "2026-11-06 PASS: template, cash-flow example, named sources, concrete action, counterargument and clean EN/DE socials; full findings in package.",
-      "gate_1": "PASS",
-      "gate_2": "PASS",
-      "release_gate_status": "content_gates_passed_technical_release_pending",
-      "notes": "Refresh SAB November 9 list update, available funds, and December 1 filing window at release. Render article/image and integrate navigation, RSS and sitemap."
+      "gate_1": "HOLD",
+      "gate_2": "NOT_RERUN_AFTER_HOLD",
+      "release_gate_status": "HOLD_official_filing_guidance_conflict",
+      "notes": "Refresh SAB November 9 list update, available funds, and December 1 filing window at release. Render article/image and integrate navigation, RSS and sitemap. Source conflict discovered November 8; do not release until clarified. Full body retained; not retired.",
+      "prior_gate_records_preserved": true,
+      "current_release_blocker": "November 8: directive VII.4 requires December 1 electronic filing; SAB FAQ says no strict deadline, ideally December 1. Resolve applicable current filing rule and revise package before renewed Gate 1/2. Prior PASS is not current approval."
     },
     {
-      "title": "Alice Coachman Was a Champion Before the Olympic Medal.",
-      "canonical_title": "Alice Coachman Was a Champion Before the Olympic Medal.",
-      "slug": "alice-coachman-was-a-champion-before-the-olympic-medal",
-      "source": "editorial-packages/TMS_ALICE_COACHMAN_CHAMPION_BEFORE_MEDAL_PUBLICATION_PACKAGE_2026-11-07.md",
+      "title": "Charles Drew Helped Build a Blood System. He Also Challenged Its Rules.",
+      "canonical_title": "Charles Drew Helped Build a Blood System. He Also Challenged Its Rules.",
+      "slug": "charles-drew-helped-build-a-blood-system-and-challenged-its-rules",
+      "source": "editorial-packages/TMS_CHARLES_DREW_BLOOD_SYSTEM_RULES_PUBLICATION_PACKAGE_2026-11-08.md",
       "completion_status": "full_finished",
       "status": "approved_queued_full_finished",
       "publication_status": "unpublished",
       "scheduled_date": null,
-      "approval": "Automatic after November 7 Gate 1 and Gate 2 PASS",
+      "approval": "Automatic after November 8 factual and separate template/hostile-reader PASS",
       "gate_1": "PASS",
       "gate_2": "PASS",
       "release_gate_status": "content_gates_passed_technical_release_pending",
@@ -1440,10 +1461,14 @@
       "related_live_comparators": [
         {
           "title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.",
-          "distinction": "National and Olympic sport performance, tie-break and educational life versus naval computer drafting and technical opportunity."
+          "distinction": "Different blood service, organizing standards, documented racial donor rule and correction of false death story rather than naval drafting and paid technical access."
+        },
+        {
+          "title": "Alice Coachman Was a Champion Before the Olympic Medal.",
+          "distinction": "Medical service and donor policy rather than sport performance and Olympic tie-break."
         }
       ],
-      "notes": "Historical excellence, not newly discovered record. Refresh birthday language and later relevance if released after November 9; technical HTML/image rights/navigation and live checks required. Conflicting all-event title totals, first-title age and exact August day excluded.",
+      "notes": "September 2026 institutional film account is a discovery peg, not breaking invention news or measured programme outcome. Interleave Black-history stories. Refresh sources, future relevance and technical HTML/image/links at release.",
       "position": 16
     }
   ],
@@ -1486,12 +1511,17 @@
         "date": "2026-11-06",
         "title": "A Repair Rebate Helps. First, You Have to Pay the Repair Bill.",
         "source": "editorial-packages/TMS_GERMANY_REPAIR_REBATE_UPFRONT_COST_PUBLICATION_PACKAGE_2026-11-06.md",
-        "status": "approved_queued_full_finished",
+        "status": "full_body_retained_release_HOLD",
         "gate_1": "PASS",
-        "gate_2": "PASS"
+        "gate_2": "PASS",
+        "current_gate_1": "HOLD",
+        "current_gate_2": "NOT_RERUN_AFTER_HOLD",
+        "hold": "Official filing instructions conflict; prior gate pass not current clearance"
       }
     ],
-    "notes": "Two distinct full packages, November 5 debt advice and November 6 repair rebate. No carryover or partial research counted."
+    "notes": "Two distinct full bodies delivered this week; November 8 source refresh puts repair package on HOLD. Only debt-advice package remains current-gate-cleared (and published). Report the hold, not two currently ready packages. No new Germany full body completed November 8.",
+    "current_content_cleared_packages": 1,
+    "current_release_holds": 1
   },
   "story_briefs_2026_10_06": [
     {
@@ -2095,6 +2125,11 @@
       "original_slug": "niger-stopped-river-blindness-transmission-one-programme-helped-another",
       "source": "editorial-packages/TMS_NIGER_ONE_PROGRAMME_HELPED_ANOTHER_PUBLICATION_PACKAGE_2026-10-29.md",
       "trigger": "Material new surveillance, verified status, financing or service-delivery evidence; actual disability support and local-worker continuity. No new outcome asserted."
+    },
+    {
+      "original_slug": "alice-coachman-was-a-champion-before-the-olympic-medal",
+      "source": "editorial-packages/TMS_ALICE_COACHMAN_CHAMPION_BEFORE_MEDAL_PUBLICATION_PACKAGE_2026-11-07.md",
+      "trigger": "Material new archival, educational or access/recognition evidence; no repetitive anniversary retelling or claimed modern impact without evidence."
     }
   ],
   "positive_solution_candidates": [
@@ -2818,16 +2853,16 @@
   },
   "sws_track": {
     "source": "TMS_SWS_LEDGER.json",
-    "date": "2026-11-07",
+    "date": "2026-11-08",
     "status": "published_live_verified",
-    "url": "https://themissingseat.org/something-worth-sharing.html#keep-one-promise-to-yourself-2026-11-07",
-    "title": "Keep One Promise to Yourself",
+    "url": "https://themissingseat.org/something-worth-sharing.html#patience-with-a-plan-2026-11-08",
+    "title": "Patience With a Plan",
     "editorial_inventory_excluded": true,
     "backlog_oct18_23": {
       "verified_present": 6,
       "unpublished_remaining": 0
     },
-    "older_entries_preserved": 16
+    "older_entries_preserved": 17
   },
   "external_manuscripts_pending_status_verification": [
     {
@@ -2931,5 +2966,49 @@
     "New Alice Coachman package appended at 16 after both gates. Nineteen complete unpublished unchanged; two cleared, fourteen queued current-gate holds, three separate complete holds and four unfinished drafts.",
     "Repair-rebate reserve remains cleared; unrelated Niger publication interleaves it from German debt advice. Germany weekly full production stays2/2.",
     "Sixteen earlier SWS entries preserved; no existing-site replacement installed; retirements and priority holds preserved."
+  ],
+  "daily_editorial_completion_2026_11_08": {
+    "title": "Charles Drew Helped Build a Blood System. He Also Challenged Its Rules.",
+    "source": "editorial-packages/TMS_CHARLES_DREW_BLOOD_SYSTEM_RULES_PUBLICATION_PACKAGE_2026-11-08.md",
+    "status": "full_finished_approved_queued",
+    "gate_1": "PASS",
+    "gate_2": "PASS",
+    "new_full_finished": 1,
+    "publication": {
+      "title": "Alice Coachman Was a Champion Before the Olympic Medal.",
+      "slug": "alice-coachman-was-a-champion-before-the-olympic-medal.html",
+      "source": "editorial-packages/TMS_ALICE_COACHMAN_CHAMPION_BEFORE_MEDAL_PUBLICATION_PACKAGE_2026-11-07.md",
+      "publication_status": "published_live_verified",
+      "published_verified": "2026-11-08",
+      "article_commit": "dbb7540ad097f6e561ec3c1df166533240f43884",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "notes": "Eight public surfaces HTTP200 exact main content. Current source limits preserved; 1948 height/attempt sequence and November9 birth anniversary verified. Sole new full publication today."
+    }
+  },
+  "discovery_2026_11_08": [
+    {
+      "title": "Charles Drew Helped Build a Blood System. He Also Challenged Its Rules.",
+      "outcome": "new_full_approved_package",
+      "source": "editorial-packages/TMS_CHARLES_DREW_BLOOD_SYSTEM_RULES_PUBLICATION_PACKAGE_2026-11-08.md"
+    },
+    {
+      "title": "Saxony repair rebate filing dates conflict",
+      "outcome": "existing_package_HOLD_research_required",
+      "sources": [
+        "https://www.recht.sachsen.de/vorschrift/21483",
+        "https://sab.sachsen.de/reparaturbonus"
+      ]
+    },
+    {
+      "title": "Alice Coachman Was a Champion Before the Olympic Medal.",
+      "outcome": "release_day_refreshed_and_published",
+      "source": "editorial-packages/TMS_ALICE_COACHMAN_CHAMPION_BEFORE_MEDAL_PUBLICATION_PACKAGE_2026-11-07.md"
+    }
+  ],
+  "reconciliation_notes_2026_11_08": [
+    "Alice removed only after eight exact live/main matches; Charles Drew new full body approved and appended.",
+    "Repair retained as full body, but factual release hold added; no retired duplicates restored.",
+    "19 complete unpublished,16queued,1current gate cleared,14legacy review holds,1new source-conflict hold,3offqueue holds;4unfinished;Germany2delivered but1current hold."
   ]
 }

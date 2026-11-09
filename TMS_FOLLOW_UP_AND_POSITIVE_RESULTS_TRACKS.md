@@ -1,5 +1,5 @@
 # TMS follow-up and positive-results reporting tracks
-Updated November 5, 2026. Candidates are research leads, never finished inventory.
+Updated November 9, 2026. Candidates are research leads, never finished inventory.
 
 ## Follow-up candidates: 10
 1. Germany police-complaints editorial: obtain subsequent Bundestag/commissioner reporting on complaint disposition, investigations completed, institutional action and individual relief. Baseline live slug: germany-created-a-seat-for-police-complaints-who-can-actually-use-it. Trigger: a verified later outcome, not the existing complaint count. No new outcome asserted.
@@ -14,7 +14,7 @@ Updated November 5, 2026. Candidates are research leads, never finished inventor
 
 For each: maintain finding → responsible authority → action after notice → concrete relief delivered → remaining burden. Do not publish another piece until evidence materially advances the original. Refresh original receipts and cross-link both pages at release.
 
-## Positive / A Seat Was Made candidates: 5
+## Positive / A Seat Was Made candidates: 6
 1. Nepal care cooperatives: ILO describes training reaching 28 cooperatives and two domestic-worker groups after July 2026. Report on whether operating services, paid jobs, affordable places and worker voice followed. Training reach is not a measured care outcome. Seat: caregivers, women workers and families. Action: request operating/affordability/wage data from the implementing partners.
 2. Women agricultural producers in India: ILO describes April 2026 organizing and skills work with farmer-producer organizations and self-help groups. Obtain named participants with consent and independently check sales, bargaining access and net income rather than call attendance an economic result. Seat: small producers and informal women workers. Action: ask project partners for before/after results and costs.
 
@@ -131,3 +131,10 @@ SWS has its own TMS_SWS_LEDGER.json: today's exact Jansen quote plus labeled new
 - [Alice Coachman](https://themissingseat.org/alice-coachman-was-a-champion-before-the-olympic-medal.html) published. Follow-up only for materially new archival, educational or access/recognition evidence, not a repeat of the birthday or an invented modern outcome.
 - [Charles Drew package](editorial-packages/TMS_CHARLES_DREW_BLOOD_SYSTEM_RULES_PUBLICATION_PACKAGE_2026-11-08.md) complete, both gates PASS and queued. New historical/achievement/accountability reserve, excluded from the five research-only positive leads. No independent review of Red Cross's film or claimed donor-service outcome.
 - Repair rebate: current source HOLD. Read directive VII.4 and SAB FAQ conflicting filing text; live HTML includes the FAQ under a collapsible section. Clarify current filing effect before revised Gate 1/2. Germany delivery history retained, current readiness corrected to one cleared and one held.
+
+## November 9
+
+- [Bornholmer Straße](editorial-packages/TMS_GERMANY_BORNHOLMER_BORDER_OPENING_PUBLICATION_PACKAGE_2026-11-09.md) is completed and queued; excluded from positive research counts.
+- Positive lead 6: [Miriam Benjamin’s signaling patent](https://www.uspto.gov/learning-and-resources/journeys-innovation/historical-stories/district-determination). Verify patent and adoption records; do not infer licensing, payment or influence from the patent alone.
+- The [House calendar](https://www.house.gov/legislative-activity/2026-11-09) and [Senate order](https://www.govinfo.gov/content/pkg/CREC-2026-11-05/pdf/CREC-2026-11-05.pdf) establish the November 9 lame-duck window, no legislative or nomination outcome. No new correction or repeat publication of blue-wave; initial review failure preserved.
+- [Saxony directive](https://www.recht.sachsen.de/vorschrift/21483) and [bank FAQ](https://sab.sachsen.de/reparaturbonus) still conflict about December 1 filing. Retain HOLD.

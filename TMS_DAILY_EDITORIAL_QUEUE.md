@@ -1,4 +1,4 @@
-# TMS Daily Editorial Queue — Reconciled 2026-11-08
+# TMS Daily Editorial Queue — Reconciled 2026-11-09
 
 **Source of truth:** verified live pages and published HTML/commits take precedence over stale queue labels. The staged JSON on branch `tms-daily-queue-2026-09-01` is the machine-readable companion to this ledger.
 
@@ -90,24 +90,25 @@ The governing test remains: **What did they actually change, who gained, what re
 
 | Category | Count |
 |---|---:|
-| Complete unpublished bodies, total | 19 |
-| Numbered queue, including paused legacy approvals | 16 |
-| Current-standard content gates both PASS | 1 |
-| Legacy queued packages needing current gates/template refresh | 14 |
+| Complete bodies awaiting confirmed public release | 20 |
+| Numbered queue, including one committed release pending public verification | 17 |
+| Reserve with current Gate 1 and Gate 2 PASS, available for future release | 2 |
+| Committed release awaiting public verification | 1 |
+| Legacy queued packages needing current gates/template refresh | 13 |
 | Additional queued source-conflict hold | 1 |
 | Separate complete-package holds outside numbered queue | 3 |
-| Complete packages currently on release hold, including queued holds | 18 |
+| Complete packages on editorial hold, excluding the committed release | 17 |
 | Retired/replaced finished editorials | 4 |
-| Live/repository content discrepancies | 0 |
+| Editorial live/repository discrepancies | 1 |
 | Historical website replacement versions, not new reserve | 16 |
 | Remaining replacement installations | Unknown, not individually reconciled |
 | Unfinished priority drafts | 4 |
-| Combined unfinished or release-blocked | 22 |
+| Combined unfinished or editorially release-blocked | 21 |
 | External manuscript status not yet fully verified | 1 |
 | Active follow-up research candidates | 10 |
-| Positive/solution research candidates | 5 |
+| Positive/solution research candidates | 6 |
 
-The higher release-hold count reflects the binding November4 standard, not newly lost manuscripts. Historical approvals remain recorded; none is silently promoted to a current PASS. The full unpublished total is16queued +3offqueue holds. Only the Charles Drew reserve package has both current content gates PASS. Alice Coachman has been published. Repair-rebate release is HOLD pending clarification of conflicting filing instructions. Technical integration and release-day refresh remain required for any reserve publication. The external SCOTUS manuscript was read only in part and is not counted as finished.
+Drew and Bornholmer Straße are cleared reserve. The separate child-credit release is committed and locked against a repeat release until public verification. Repair remains on factual HOLD. Historical approvals and 16 revisions are preserved separately. No revision installed today.
 
 ## Finished numbered queue — current release status explicit
 
@@ -121,7 +122,7 @@ The higher release-hold count reflects the binding November4 standard, not newly
 | 6 | Germany Gives Workers a Complaint Route. The Compensation Clock Still Runs. | `germany-gives-workers-a-complaint-route-the-compensation-clock-still-runs` | HOLD: current reviews required | Germany Created a Seat for Police Complaints. Who Can Actually Use It?: Employment discrimination money-claim preservation and labour-court timing rather than federal police complaints. | [Full package](editorial-packages/TMS_GERMANY_DISCRIMINATION_COMPLAINT_CLAIM_CLOCK_PUBLICATION_PACKAGE_2026-10-20.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
 | 7 | Germany Raised the Volunteer Allowance. Now Show Who Can Actually Use It. | `germany-raised-the-volunteer-allowance-now-show-who-can-use-it` | HOLD: current reviews required | Prior distinction retained in machine ledger | [Full package](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_GERMANY_VOLUNTEER_ALLOWANCE_USE_PUBLICATION_PACKAGE_2026-10-21.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
 | 8 | The Job Was Online. The Application Had to Go in the Mail. | `the-job-was-online-the-application-had-to-go-in-the-mail` | HOLD: current reviews required | She Was Qualified to Repair the Pallets. The Company Allegedly Only Hired Men.: Alleged sex exclusion in pallet-repair hiring versus unequal application channels in PERM recruitment, citizenship/national-origin allegations and delivered settlement relief. | [Full package](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_INSTACART_APPLICATION_ROUTE_PUBLICATION_PACKAGE_2026-10-22.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
-| 9 | A Child Can Have a Credit File Before They Have a Job. | `a-child-can-have-a-credit-file-before-they-have-a-job` | HOLD: current reviews required | The College Took the Money. The Outcome Data Is Late.: Institutional program reporting versus child protected-consumer records, prevention and separate correction routes. | [Full package](editorial-packages/TMS_CHILD_CREDIT_FILE_FREEZE_PUBLICATION_PACKAGE_2026-10-24.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
+| 9 | A Child Can Have a Credit File Before They Have a Job. | `a-child-can-have-a-credit-file-before-they-have-a-job` | COMMITTED / LIVE UNVERIFIED; do not re-release | Existing full package refreshed; prevention and correction routes. | [Release and reviews](editorial-packages/TMS_CHILD_CREDIT_FILE_FREEZE_PUBLICATION_PACKAGE_2026-10-24.md). Public article HTTP 404; related public content stale. |
 | 10 | Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance. | `before-you-agree-to-a-hospital-payment-plan-ask-about-financial-assistance` | HOLD: current reviews required | Before You Cut Care, Did You Stop Paying More for the Same Care?: Medicare outpatient public spending versus patient's hospital-assistance eligibility, public policy access and separately billed providers. | [Full package](editorial-packages/TMS_HOSPITAL_ASSISTANCE_BEFORE_PAYMENT_PLAN_PUBLICATION_PACKAGE_2026-10-25.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
 | 11 | Wheelmap Helps People Plan. Now Track Which Barriers Come Down. | `wheelmap-helps-people-plan-now-track-which-barriers-come-down` | HOLD: current reviews required | The Apartment Was Available. Access Still Wasn't.: Specific housing accommodation dispute versus named German civic information initiative, local implementation and tracing physical repairs. | [Full package](editorial-packages/TMS_GERMANY_WHEELMAP_INFORMATION_TO_REPAIR_PUBLICATION_PACKAGE_2026-10-26.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
 | 12 | Theodor Wonja Michael Found a Second Route Into Education. Teach That Part Too. | `theodor-wonja-michael-found-a-second-route-into-education` | HOLD: current reviews required | When “Never Again” Does Not Include Everyone: Contemporary equality and FRA evidence versus a named educational route, archival preservation and practical admission/library action.; Germany Has to Decide What Kind of Country It Wants to Be: Current electoral democracy versus historical study access and full-life recognition. | [Full package](editorial-packages/TMS_THEODOR_WONJA_MICHAEL_SECOND_ROUTE_PUBLICATION_PACKAGE_2026-10-27.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
@@ -129,6 +130,7 @@ The higher release-hold count reflects the binding November4 standard, not newly
 | 14 | Kathmandu Put Care on the Map. Can Families Find Their Way In? | `kathmandu-put-care-on-the-map-can-families-find-their-way-in` | HOLD: current reviews required | The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.: Broad labor/time/pay distribution versus named Nepal mapping, the route into municipal care, successful referrals and worker conditions.; Germany Promised a Full School Day. Families Need the Hours to Match.: Statutory school-care timetable entitlement versus municipal information/navigation approach across care needs. | [Full package](editorial-packages/TMS_KATHMANDU_CARE_MAP_ACCESS_PUBLICATION_PACKAGE_2026-10-30.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
 | 15 | A Repair Rebate Helps. First, You Have to Pay the Repair Bill. | `a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill` | HOLD: filing guidance conflict | Germany Has a Way to Keep the Power On. Can People Use It?: Continuity of electricity service versus paid-invoice repair rebate and the upfront cost of claiming it. | [Full package](editorial-packages/TMS_GERMANY_REPAIR_REBATE_UPFRONT_COST_PUBLICATION_PACKAGE_2026-11-06.md). November 8: directive VII.4 requires December 1 electronic filing; SAB FAQ says no strict deadline, ideally December 1. Resolve applicable current filing rule and revise package before renewed Gate 1/2. Prior PASS is not current approval. |
 | 16 | Charles Drew Helped Build a Blood System. He Also Challenged Its Rules. | `charles-drew-helped-build-a-blood-system-and-challenged-its-rules` | Current Gate 1/2 PASS | Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.: Different blood service, organizing standards, documented racial donor rule and correction of false death story rather than naval drafting and paid technical access.; Alice Coachman Was a Champion Before the Olympic Medal.: Medical service and donor policy rather than sport performance and Olympic tie-break. | [Full package](editorial-packages/TMS_CHARLES_DREW_BLOOD_SYSTEM_RULES_PUBLICATION_PACKAGE_2026-11-08.md). September 2026 institutional film account is a discovery peg, not breaking invention news or measured programme outcome. Interleave Black-history stories. Refresh sources, future relevance and technical HTML/image/links at release. |
+| 17 | The Berlin Wall Opened When People Went to the Border. | `the-berlin-wall-opened-when-people-went-to-the-border` | Gate 1 and Gate 2 PASS; unpublished | Border opening, local decisions and the residents at the crossing. | [Full package](editorial-packages/TMS_GERMANY_BORNHOLMER_BORDER_OPENING_PUBLICATION_PACKAGE_2026-11-09.md); refresh anniversary context and render before release. |
 
 ## Complete unpublished release holds outside numbered queue
 
@@ -137,7 +139,7 @@ The higher release-hold count reflects the binding November4 standard, not newly
 - Tipped-work80/20 package: central legal-source refresh and current template/gates.
 - Keisha Lance Bottoms priority package: election overtook future-tense framing; current special-session/bill record and full gate review required. Priority preserved.
 
-These are not duplicates, replacements for live stories or new authorship today. Fifteen legacy queued packages additionally require current gate/template refresh; the four unfinished priority drafts remain separate.
+These are not duplicates, replacements for live stories or new authorship today. Thirteen legacy queued packages additionally require current gate/template refresh; the four unfinished priority drafts remain separate.
 
 ## Published record — do not requeue
 
@@ -209,12 +211,20 @@ No open editorial public/main mismatch after November 8 checks. Article, homepag
 
 ## Germany weekly package tracking
 
+- November 9–15: 1 of 2 complete, [Bornholmer Straße](editorial-packages/TMS_GERMANY_BORNHOLMER_BORDER_OPENING_PUBLICATION_PACKAGE_2026-11-09.md). Both content gates PASS.
+
 - November 2–8: two distinct full bodies delivered (debt advice November 5; repair rebate November 6).
 - Debt advice is published and current-gate-cleared. The November 8 check puts the repair package on factual HOLD: directive VII.4 and bank FAQ give conflicting December 1 instructions. Its prior PASS is not current release clearance.
-- Current cleared Germany packages from this week's deliveries: 1; current hold: 1. No additional Germany body produced today. Do not report two currently ready packages.
+- For November 2–8: one cleared package and one current hold. Do not report two ready packages for that week.
 - Preserve the full repair body and investigate clarification; do not retire or publish mechanically.
 
 ## Today’s reconciliation
+
+- Child-credit editorial: both content gates PASS. Committed once with the sharing entry; custom-domain verification pending. No second full release attempted.
+- [New Berlin package](editorial-packages/TMS_GERMANY_BORNHOLMER_BORDER_OPENING_PUBLICATION_PACKAGE_2026-11-09.md) completed and appended at position 17.
+- [November 9 reporting and deployment evidence](TMS_REPORTING_UPDATE_2026-11-09.md).
+
+## November 8 reconciliation
 
 - Alice Coachman published once after release-day current Gate 1 and Gate 2. Source limits and November 9 birthday context checked.
 - New [Charles Drew full package](editorial-packages/TMS_CHARLES_DREW_BLOOD_SYSTEM_RULES_PUBLICATION_PACKAGE_2026-11-08.md) completed; both gates PASS; appended at 16.

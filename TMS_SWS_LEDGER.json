@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "track": "SWS; excluded from full editorial inventory",
   "entries": [
+    {
+      "id": "say-what-needs-saying-2026-11-09",
+      "date": "2026-11-09",
+      "title": "Say What Needs Saying",
+      "source": "something-worth-sharing.html#say-what-needs-saying-2026-11-09",
+      "publication_status": "committed_live_unverified",
+      "commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35"
+    },
     {
       "id": "patience-with-a-plan-2026-11-08",
       "date": "2026-11-08",
@@ -140,13 +148,15 @@
     ],
     "present_count": 6,
     "unpublished_remaining": 0,
-    "note": "All six already in live archive before this write; preserved, not republished as six new items."
+    "note": "All six dates remain in the existing public archive and are preserved in the new GitHub Pages origin."
   },
   "today": {
-    "text": "Patience works better with a plan. Decide what you can give time to, what you need to know, and when you will check in again. While you wait, keep doing the parts of your life that are still yours to move.",
-    "translation_de": "Geduld funktioniert besser mit einem Plan. Entscheide, wofür du dir Zeit nehmen kannst, was du wissen musst und wann du wieder nachfragen wirst. Während du wartest, kümmere dich weiter um die Bereiche deines Lebens, die du selbst voranbringen kannst.",
-    "date": "2026-11-08",
-    "provenance": "New reflection and translation prepared for TMS in response to Jansen's requested themes of patience and personal responsibility. Not attributed as his original wording or an archival quotation; no inaccessible Poetry project claimed."
+    "text": "Communication is key, even if it's uncomfortable",
+    "reflection": "If something matters, say what you noticed and what you need. Give the other person room to answer before deciding what their silence means.",
+    "translation_de": "Reden ist wichtig, auch wenn es unangenehm ist.",
+    "date": "2026-11-09",
+    "provenance": "Exact English line shared in Jansen Bowden’s 30 Original Quotes notes. Heading, reflection and German translation are new editorial wording. No claim about who coined the common phrase.",
+    "publication_status": "committed_live_unverified"
   },
   "missing_page_dates": [
     "2026-10-31",
@@ -156,5 +166,14 @@
     "2026-11-04"
   ],
   "missing_page_dates_note": "No entries with these dates in current page; does not prove drafts never existed. No invented or backdated content added.",
-  "unpublished_queue": []
+  "unpublished_queue": [
+    {
+      "id": "say-what-needs-saying-2026-11-09",
+      "date": "2026-11-09",
+      "title": "Say What Needs Saying",
+      "source": "something-worth-sharing.html#say-what-needs-saying-2026-11-09",
+      "publication_status": "committed_live_unverified",
+      "commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35"
+    }
+  ]
 }

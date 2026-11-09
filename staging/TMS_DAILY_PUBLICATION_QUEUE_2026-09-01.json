@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-11-08",
+  "last_reconciled": "2026-11-09",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -22,18 +22,18 @@
     ]
   },
   "deployment": {
-    "source": "GitHub main verified against live preflight and eight post-publication surfaces",
-    "status": "published_live_verified",
-    "commit": "dbb7540ad097f6e561ec3c1df166533240f43884",
-    "verified_blobs": {
-      "sitemap.xml": "dc1f9106753ce8ab21f76e3b2a7843129b601be6",
-      "feed.xml": "4624acc3f97ac26bed6b15e560f06aeddb978610",
-      "topics/missing-history.html": "c6e51057e8f7823a2a3a2759e13fff57c61e4ce5",
-      "black-brilliant-beyond.html": "c203752e3d8d3d28e83b1a8f96812005a14d8329",
-      "something-worth-sharing.html": "e98f1db462558c4e79b193fdf83c878909564a1e",
-      "index.html": "641aebd2e958edfd5d9e239900a68a592f15f3a5",
-      "stories.html": "0b9d1d58e73f72220e58daf1d76e08944dbd1cd6",
-      "alice-coachman-was-a-champion-before-the-olympic-medal.html": "4b26f003ed6d0e158626bdcfa7408ccab42f992f"
+    "source": "GitHub main; GitHub Pages origin verified; custom domain serves prior bytes",
+    "status": "committed_live_unverified",
+    "commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35",
+    "workflow": "https://github.com/themissingseat-stack/the-missing-seat/actions/runs/42582264607",
+    "verified_origin_blobs": {
+      "a-child-can-have-a-credit-file-before-they-have-a-job.html": "8eadb8aa60f0f0a5385ae68e8a044e86de83cea6",
+      "feed.xml": "0d8141c89ba375034a750c7205d4f2cc8e82a651",
+      "index.html": "87997277f78d3982f5dbcef9404418f4bb876560",
+      "sitemap.xml": "f981d160f21e2c8627a3eb44e31f6e2d9f2e0749",
+      "something-worth-sharing.html": "53428a366611c0151372b7fbc9ddcd5992348a1d",
+      "stories.html": "8171a4d43f342d25ddf93df64725ea54bddef6e1",
+      "topics/children-families.html": "f1fdea84aac9abcb05f4a2adf7b950d69e8ddb9c"
     }
   },
   "published_record": [
@@ -592,8 +592,8 @@
       "canonical_title": "A Child Can Have a Credit File Before They Have a Job.",
       "slug": "a-child-can-have-a-credit-file-before-they-have-a-job",
       "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
+      "status": "full_finished_committed_public_verification_pending",
+      "publication_status": "committed_live_unverified",
       "scheduled_date": null,
       "source": "editorial-packages/TMS_CHILD_CREDIT_FILE_FREEZE_PUBLICATION_PACKAGE_2026-10-24.md",
       "approval": "Jansen standing two-review instruction",
@@ -607,11 +607,13 @@
       "review_1": "2026-10-24 FTC/CFPB current guidance cross-check and TransUnion procedure, eligibility, counterevidence and limits.",
       "review_2": "2026-10-24 full package, developed prose, fairness, action, distinctness and 841-character Instagram audit.",
       "notes": "Evergreen service/accountability piece, not new law. Refresh official procedures/links and uniqueness, render and verify public links at release.",
-      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "release_gate_status": "content_gates_passed_public_propagation_hold",
       "prior_review_record_preserved": true,
-      "current_gate_1": "NOT_RUN",
-      "current_gate_2": "NOT_RUN",
-      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
+      "current_gate_1": "PASS",
+      "current_gate_2": "PASS",
+      "current_release_blocker": "GitHub Pages workflow succeeded and seven origin files match the release. Custom-domain article HTTP 404 and six companion paths serve prior bytes. Do not re-release.",
+      "current_gate_3": "HOLD",
+      "release_commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35"
     },
     {
       "position": 10,
@@ -821,25 +823,51 @@
       ],
       "notes": "September 2026 institutional film account is a discovery peg, not breaking invention news or measured programme outcome. Interleave Black-history stories. Refresh sources, future relevance and technical HTML/image/links at release.",
       "position": 16
+    },
+    {
+      "title": "The Berlin Wall Opened When People Went to the Border.",
+      "canonical_title": "The Berlin Wall Opened When People Went to the Border.",
+      "slug": "the-berlin-wall-opened-when-people-went-to-the-border",
+      "source": "editorial-packages/TMS_GERMANY_BORNHOLMER_BORDER_OPENING_PUBLICATION_PACKAGE_2026-11-09.md",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "approval": "Automatic after November 9 Gates 1 and 2",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "review_1": "PASS | 2026-11-09 07:56:14 UTC | Codex, evidence pass. Reopened all nine linked documents. Transcript separates rules on applications and permission from Schabowski’s immediate-effect answer; Eppelmann confirms what he saw and that he did not reach West Berlin; chronology separates initial controlled passage from checks ending around 23:30. Jäger recollection corroborates cessation of checks, not the exact physical opening Eppelmann recalls. November 4 demonstration, October 3 reunification date and November 9, 1938 remembrance separately anchored. The Nov 6 district release announces a commemoration; no assertion of attendance or outcome. No pending legislative or legal deadline applies.",
+      "review_2": "PASS | 2026-11-09 07:56:37 UTC | Codex, separate hostile-reader and Regular Joe pass. A critic could mistake the television answer for a universal order, or the crowd for the only cause; the body now distinguishes the policy, public demand, early controlled passage and local decision to stop checks. Removed any implication of possessing an original operational log. People, power, costs and actual benefit are explicit, and the divided historical memories are not collapsed. Short Version, existing approved Seat Status wording from the Theodor Wonja Michael package, Pull Up A Chair, German resources, Seat Summary, linked receipts, verification notice, image brief, plain English and German social copy present. Instagram: 439 English, 489 German characters. Live archive, current repository tree, numbered queue, reserved titles and holds show no same work. Theodor Wonja Michael concerns education and Black German life, not border procedure or this reader action. Recheck anniversary wording before release and render public surfaces.",
+      "release_gate_status": "content_gates_passed_technical_release_pending",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "Theodor Wonja Michael Found a Second Route Into Education. Teach That Part Too.",
+          "distinction": "Border policy and passage chronology versus Black German education and access to training."
+        }
+      ],
+      "notes": "Refresh anniversary reference; render/integrate article, archive, homepage, topic, RSS and sitemap, then verify public domain.",
+      "position": 17
     }
   ],
   "counts": {
-    "full_finished_unpublished_eligible": 1,
-    "full_finished_currently_queued": 16,
+    "full_finished_unpublished_eligible": 2,
+    "full_finished_currently_queued": 17,
     "full_finished_retired_or_replaced": 4,
-    "status_verification_required": 0,
+    "status_verification_required": 1,
     "historical_replacement_versions": 16,
     "replacements_still_pending_installation": null,
-    "unfinished_or_blocked": 22,
+    "unfinished_or_blocked": 21,
     "follow_up_candidates": 10,
-    "positive_solution_candidates": 5,
-    "full_finished_unpublished_total": 19,
-    "full_finished_held_for_release": 18,
+    "positive_solution_candidates": 6,
+    "full_finished_unpublished_total": 20,
+    "full_finished_held_for_release": 17,
     "unfinished_drafts": 4,
-    "queued_pending_current_release_gates": 14,
+    "queued_pending_current_release_gates": 13,
     "full_finished_held_outside_numbered_queue": 3,
     "external_manuscript_status_unverified": 1,
-    "queued_current_source_conflict": 1
+    "queued_current_source_conflict": 1,
+    "queued_committed_live_unverified": 1
   },
   "pending_priority_requests": [
     {
@@ -942,7 +970,20 @@
       "status": "EEOC allegations resolved by a $230,000 consent decree on September 15, 2026; no trial finding of liability. The decree requires accommodation processes, multilingual leave policies, training and reporting."
     }
   ],
-  "deployment_pending_record": [],
+  "deployment_pending_record": [
+    {
+      "title": "A Child Can Have a Credit File Before They Have a Job.",
+      "slug": "a-child-can-have-a-credit-file-before-they-have-a-job.html",
+      "source": "editorial-packages/TMS_CHILD_CREDIT_FILE_FREEZE_PUBLICATION_PACKAGE_2026-10-24.md",
+      "publication_status": "committed_live_unverified",
+      "commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35",
+      "date": "2026-11-09",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "gate_3": "HOLD",
+      "notes": "GitHub Pages workflow succeeded and seven origin files match the release. Custom-domain article HTTP 404 and six companion paths serve prior bytes. Do not re-release."
+    }
+  ],
   "story_briefs_2026_10_02": [
     {
       "title": "The Court File Closed. Did the Equal School Arrive First?",
@@ -1241,8 +1282,8 @@
       "canonical_title": "A Child Can Have a Credit File Before They Have a Job.",
       "slug": "a-child-can-have-a-credit-file-before-they-have-a-job",
       "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
+      "status": "full_finished_committed_public_verification_pending",
+      "publication_status": "committed_live_unverified",
       "scheduled_date": null,
       "source": "editorial-packages/TMS_CHILD_CREDIT_FILE_FREEZE_PUBLICATION_PACKAGE_2026-10-24.md",
       "approval": "Jansen standing two-review instruction",
@@ -1256,11 +1297,13 @@
       "review_1": "2026-10-24 FTC/CFPB current guidance cross-check and TransUnion procedure, eligibility, counterevidence and limits.",
       "review_2": "2026-10-24 full package, developed prose, fairness, action, distinctness and 841-character Instagram audit.",
       "notes": "Evergreen service/accountability piece, not new law. Refresh official procedures/links and uniqueness, render and verify public links at release.",
-      "release_gate_status": "HOLD_current_standard_refresh_required",
+      "release_gate_status": "content_gates_passed_public_propagation_hold",
       "prior_review_record_preserved": true,
-      "current_gate_1": "NOT_RUN",
-      "current_gate_2": "NOT_RUN",
-      "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
+      "current_gate_1": "PASS",
+      "current_gate_2": "PASS",
+      "current_release_blocker": "GitHub Pages workflow succeeded and seven origin files match the release. Custom-domain article HTTP 404 and six companion paths serve prior bytes. Do not re-release.",
+      "current_gate_3": "HOLD",
+      "release_commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35"
     },
     {
       "position": 10,
@@ -1470,9 +1513,47 @@
       ],
       "notes": "September 2026 institutional film account is a discovery peg, not breaking invention news or measured programme outcome. Interleave Black-history stories. Refresh sources, future relevance and technical HTML/image/links at release.",
       "position": 16
+    },
+    {
+      "title": "The Berlin Wall Opened When People Went to the Border.",
+      "canonical_title": "The Berlin Wall Opened When People Went to the Border.",
+      "slug": "the-berlin-wall-opened-when-people-went-to-the-border",
+      "source": "editorial-packages/TMS_GERMANY_BORNHOLMER_BORDER_OPENING_PUBLICATION_PACKAGE_2026-11-09.md",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "approval": "Automatic after November 9 Gates 1 and 2",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "review_1": "PASS | 2026-11-09 07:56:14 UTC | Codex, evidence pass. Reopened all nine linked documents. Transcript separates rules on applications and permission from Schabowski’s immediate-effect answer; Eppelmann confirms what he saw and that he did not reach West Berlin; chronology separates initial controlled passage from checks ending around 23:30. Jäger recollection corroborates cessation of checks, not the exact physical opening Eppelmann recalls. November 4 demonstration, October 3 reunification date and November 9, 1938 remembrance separately anchored. The Nov 6 district release announces a commemoration; no assertion of attendance or outcome. No pending legislative or legal deadline applies.",
+      "review_2": "PASS | 2026-11-09 07:56:37 UTC | Codex, separate hostile-reader and Regular Joe pass. A critic could mistake the television answer for a universal order, or the crowd for the only cause; the body now distinguishes the policy, public demand, early controlled passage and local decision to stop checks. Removed any implication of possessing an original operational log. People, power, costs and actual benefit are explicit, and the divided historical memories are not collapsed. Short Version, existing approved Seat Status wording from the Theodor Wonja Michael package, Pull Up A Chair, German resources, Seat Summary, linked receipts, verification notice, image brief, plain English and German social copy present. Instagram: 439 English, 489 German characters. Live archive, current repository tree, numbered queue, reserved titles and holds show no same work. Theodor Wonja Michael concerns education and Black German life, not border procedure or this reader action. Recheck anniversary wording before release and render public surfaces.",
+      "release_gate_status": "content_gates_passed_technical_release_pending",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "Theodor Wonja Michael Found a Second Route Into Education. Teach That Part Too.",
+          "distinction": "Border policy and passage chronology versus Black German education and access to training."
+        }
+      ],
+      "notes": "Refresh anniversary reference; render/integrate article, archive, homepage, topic, RSS and sitemap, then verify public domain.",
+      "position": 17
     }
   ],
-  "status_verification_ledger": [],
+  "status_verification_ledger": [
+    {
+      "title": "A Child Can Have a Credit File Before They Have a Job.",
+      "slug": "a-child-can-have-a-credit-file-before-they-have-a-job.html",
+      "source": "editorial-packages/TMS_CHILD_CREDIT_FILE_FREEZE_PUBLICATION_PACKAGE_2026-10-24.md",
+      "publication_status": "committed_live_unverified",
+      "commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35",
+      "date": "2026-11-09",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "gate_3": "HOLD",
+      "notes": "GitHub Pages workflow succeeded and seven origin files match the release. Custom-domain article HTTP 404 and six companion paths serve prior bytes. Do not re-release."
+    }
+  ],
   "story_briefs_2026_10_05": [
     {
       "title": "More Than a Million Veterans Face Food Insecurity. The SNAP Hand-Off Slowed Down.",
@@ -1494,34 +1575,22 @@
     }
   ],
   "germany_weekly_delivery": {
-    "week": "2026-11-02/2026-11-08",
+    "week": "2026-11-09/2026-11-15",
     "target_packages": 2,
-    "completed_packages": 2,
-    "remaining_packages": 0,
+    "completed_packages": 1,
+    "remaining_packages": 1,
+    "current_content_cleared_packages": 1,
+    "current_release_holds": 0,
     "delivered": [
       {
-        "date": "2026-11-05",
-        "title": "Germany's New Debt-Advice Law Starts November 20. Ask What Help You Can Actually Get.",
-        "source": "editorial-packages/TMS_GERMANY_DEBT_ADVICE_NOVEMBER20_PUBLICATION_PACKAGE_2026-11-05.md",
-        "status": "published_live_verified",
+        "date": "2026-11-09",
+        "title": "The Berlin Wall Opened When People Went to the Border.",
+        "source": "editorial-packages/TMS_GERMANY_BORNHOLMER_BORDER_OPENING_PUBLICATION_PACKAGE_2026-11-09.md",
+        "status": "approved_queued_full_finished",
         "gate_1": "PASS",
         "gate_2": "PASS"
-      },
-      {
-        "date": "2026-11-06",
-        "title": "A Repair Rebate Helps. First, You Have to Pay the Repair Bill.",
-        "source": "editorial-packages/TMS_GERMANY_REPAIR_REBATE_UPFRONT_COST_PUBLICATION_PACKAGE_2026-11-06.md",
-        "status": "full_body_retained_release_HOLD",
-        "gate_1": "PASS",
-        "gate_2": "PASS",
-        "current_gate_1": "HOLD",
-        "current_gate_2": "NOT_RERUN_AFTER_HOLD",
-        "hold": "Official filing instructions conflict; prior gate pass not current clearance"
       }
-    ],
-    "notes": "Two distinct full bodies delivered this week; November 8 source refresh puts repair package on HOLD. Only debt-advice package remains current-gate-cleared (and published). Report the hold, not two currently ready packages. No new Germany full body completed November 8.",
-    "current_content_cleared_packages": 1,
-    "current_release_holds": 1
+    ]
   },
   "story_briefs_2026_10_06": [
     {
@@ -2161,6 +2230,12 @@
       "source": "https://www.ahrq.gov/news/newsroom/press-releases/sepsis-initiative.html",
       "status": "research_only_not_finished",
       "notes": "October27 announcement: three-year partnership,$7.5million and planned toolkit/evaluation. Not a measured improvement. Seek participating facilities, Tribal participation, baseline/implementation measures and attributable frontline accounts before a full positive-results claim."
+    },
+    {
+      "title": "Miriam Benjamin’s signaling patent: teach what she designed and trace what was actually used",
+      "source": "https://www.uspto.gov/learning-and-resources/journeys-innovation/historical-stories/district-determination",
+      "status": "research_only_not_finished",
+      "notes": "Verify the original patent and contemporaneous adoption records before asserting use, licensing or payment."
     }
   ],
   "priority_override": {
@@ -2281,6 +2356,36 @@
         }
       ],
       "notes": "Weekly target2/2 reached through distinct Wheelmap and Theodor Wonja Michael packages. Prior school-day publication excluded from this week's new production."
+    },
+    {
+      "week": "2026-11-02/2026-11-08",
+      "target_packages": 2,
+      "completed_packages": 2,
+      "remaining_packages": 0,
+      "delivered": [
+        {
+          "date": "2026-11-05",
+          "title": "Germany's New Debt-Advice Law Starts November 20. Ask What Help You Can Actually Get.",
+          "source": "editorial-packages/TMS_GERMANY_DEBT_ADVICE_NOVEMBER20_PUBLICATION_PACKAGE_2026-11-05.md",
+          "status": "published_live_verified",
+          "gate_1": "PASS",
+          "gate_2": "PASS"
+        },
+        {
+          "date": "2026-11-06",
+          "title": "A Repair Rebate Helps. First, You Have to Pay the Repair Bill.",
+          "source": "editorial-packages/TMS_GERMANY_REPAIR_REBATE_UPFRONT_COST_PUBLICATION_PACKAGE_2026-11-06.md",
+          "status": "full_body_retained_release_HOLD",
+          "gate_1": "PASS",
+          "gate_2": "PASS",
+          "current_gate_1": "HOLD",
+          "current_gate_2": "NOT_RERUN_AFTER_HOLD",
+          "hold": "Official filing instructions conflict; prior gate pass not current clearance"
+        }
+      ],
+      "notes": "Two distinct full bodies delivered this week; November 8 source refresh puts repair package on HOLD. Only debt-advice package remains current-gate-cleared (and published). Report the hold, not two currently ready packages. No new Germany full body completed November 8.",
+      "current_content_cleared_packages": 1,
+      "current_release_holds": 1
     }
   ],
   "daily_editorial_completion_2026_10_20": {
@@ -2853,16 +2958,18 @@
   },
   "sws_track": {
     "source": "TMS_SWS_LEDGER.json",
-    "date": "2026-11-08",
-    "status": "published_live_verified",
-    "url": "https://themissingseat.org/something-worth-sharing.html#patience-with-a-plan-2026-11-08",
-    "title": "Patience With a Plan",
+    "date": "2026-11-09",
+    "status": "committed_live_unverified",
+    "url": "https://themissingseat.org/something-worth-sharing.html#say-what-needs-saying-2026-11-09",
+    "title": "Say What Needs Saying",
     "editorial_inventory_excluded": true,
     "backlog_oct18_23": {
       "verified_present": 6,
       "unpublished_remaining": 0
     },
-    "older_entries_preserved": 17
+    "older_entries_preserved": 18,
+    "commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35",
+    "public_blocker": "Production archive and homepage still serve previous bytes."
   },
   "external_manuscripts_pending_status_verification": [
     {
@@ -3010,5 +3117,55 @@
     "Alice removed only after eight exact live/main matches; Charles Drew new full body approved and appended.",
     "Repair retained as full body, but factual release hold added; no retired duplicates restored.",
     "19 complete unpublished,16queued,1current gate cleared,14legacy review holds,1new source-conflict hold,3offqueue holds;4unfinished;Germany2delivered but1current hold."
-  ]
+  ],
+  "daily_editorial_completion_2026_11_09": {
+    "title": "The Berlin Wall Opened When People Went to the Border.",
+    "source": "editorial-packages/TMS_GERMANY_BORNHOLMER_BORDER_OPENING_PUBLICATION_PACKAGE_2026-11-09.md",
+    "status": "approved_queued_full_finished",
+    "gate_1": "PASS",
+    "gate_2": "PASS",
+    "new_full_finished": 1,
+    "publication": {
+      "title": "A Child Can Have a Credit File Before They Have a Job.",
+      "slug": "a-child-can-have-a-credit-file-before-they-have-a-job.html",
+      "source": "editorial-packages/TMS_CHILD_CREDIT_FILE_FREEZE_PUBLICATION_PACKAGE_2026-10-24.md",
+      "publication_status": "committed_live_unverified",
+      "commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35",
+      "date": "2026-11-09",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "gate_3": "HOLD",
+      "notes": "GitHub Pages workflow succeeded and seven origin files match the release. Custom-domain article HTTP 404 and six companion paths serve prior bytes. Do not re-release."
+    }
+  },
+  "discovery_2026_11_09": [
+    {
+      "title": "The Berlin Wall Opened When People Went to the Border.",
+      "outcome": "approved_queued",
+      "source": "editorial-packages/TMS_GERMANY_BORNHOLMER_BORDER_OPENING_PUBLICATION_PACKAGE_2026-11-09.md"
+    },
+    {
+      "title": "Miriam Benjamin’s signaling patent: teach what she designed and trace what was actually used",
+      "source": "https://www.uspto.gov/learning-and-resources/journeys-innovation/historical-stories/district-determination",
+      "status": "research_only_not_finished",
+      "notes": "Verify the original patent and contemporaneous adoption records before asserting use, licensing or payment."
+    },
+    {
+      "title": "Saxony repair filing conflict",
+      "outcome": "HOLD",
+      "sources": [
+        "https://www.recht.sachsen.de/vorschrift/21483",
+        "https://sab.sachsen.de/reparaturbonus"
+      ]
+    },
+    {
+      "title": "Lame-duck calendar",
+      "outcome": "watch_only",
+      "sources": [
+        "https://www.house.gov/legislative-activity/2026-11-09",
+        "https://www.govinfo.gov/content/pkg/CREC-2026-11-05/pdf/CREC-2026-11-05.pdf"
+      ]
+    }
+  ],
+  "reconciliation_notes_2026_11_09": "GitHub Pages workflow succeeded and seven origin files match the release. Custom-domain article HTTP 404 and six companion paths serve prior bytes. Do not re-release."
 }

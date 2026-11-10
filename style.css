@@ -604,3 +604,29 @@ main.participation .mission,main.participation .org small,main.participation .or
 
 /* Buttons inside articles keep white text on the red fill */
 .article-content a.button.primary{color:#fff;text-decoration:none}
+
+/* Type refinement (Nov 10): smaller, calmer article and card typography on laptops; "Deutsch" button in the header.
+   Applies from 621px up; the reviewed phone layout is unchanged. */
+.lang-switch{flex:none;margin-left:22px;padding:8px 14px;border:1px solid var(--red);border-radius:999px;color:var(--red);font:800 11px/1 Arial,sans-serif;letter-spacing:.08em;text-transform:uppercase;text-decoration:none;white-space:nowrap}
+.lang-switch:hover,.lang-switch:focus-visible{background:var(--red);color:#fff}
+.lang-switch:focus-visible{outline:3px solid #1f1a14;outline-offset:2px}
+.lang-switch .ls-short{display:none}
+@media(max-width:1100px){.lang-switch{margin-left:auto;margin-right:10px;padding:8px 11px;font-size:10px}.site-header>.mobile-menu{margin-left:0!important}.site-header>a.brand{max-width:calc(100% - 175px)!important;flex:1 1 auto}}
+@media(max-width:620px){.lang-switch .ls-long{display:none}.lang-switch .ls-short{display:inline}.lang-switch{padding:9px 10px;margin-right:8px}.site-header>a.brand{max-width:calc(100% - 150px)!important}}
+@media(min-width:621px){
+  .article-content{width:min(100%,740px);padding-top:44px;font-size:17px;line-height:1.65}
+  .article-content > .eyebrow{margin-bottom:12px}
+  .article-content > h1{font-size:clamp(32px,3.5vw,44px);line-height:1.1;letter-spacing:-.015em;margin-bottom:16px}
+  .article-content .article-lead{font-size:clamp(18px,1.6vw,20px);line-height:1.5;margin-bottom:30px;padding-bottom:26px}
+  .article-content section{margin-top:38px;padding-top:26px}
+  .article-content section > h2{font-size:clamp(23px,2.3vw,29px);line-height:1.2;margin-bottom:14px}
+  .article-content .short-version h2{font-size:clamp(20px,2vw,24px)}
+  .archive-card{padding:26px 34px 28px 0}
+  .archive-card:nth-child(even){padding-left:34px}
+  .archive-card h2{font-size:clamp(20px,1.8vw,25px);line-height:1.2;margin-bottom:10px}
+  .archive-card > p:not(.story-meta){font-size:15px;line-height:1.55;margin-bottom:14px}
+  .archive-card .story-meta{margin-bottom:10px}
+  .cards article{padding-top:22px;padding-bottom:22px}
+  .cards h3{font-size:clamp(20px,1.8vw,24px);line-height:1.22;margin-bottom:12px}
+  .cards p{font-size:15.5px;line-height:1.55}
+}

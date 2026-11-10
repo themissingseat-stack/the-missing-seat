@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-11-09",
+  "last_reconciled": "2026-11-10",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -22,8 +22,8 @@
     ]
   },
   "deployment": {
-    "source": "GitHub main; GitHub Pages origin verified; custom domain serves prior bytes",
-    "status": "committed_live_unverified",
+    "source": "GitHub main; public custom domain verified November 10 for November 9 release",
+    "status": "published_live_verified",
     "commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35",
     "workflow": "https://github.com/themissingseat-stack/the-missing-seat/actions/runs/42582264607",
     "verified_origin_blobs": {
@@ -34,9 +34,33 @@
       "something-worth-sharing.html": "53428a366611c0151372b7fbc9ddcd5992348a1d",
       "stories.html": "8171a4d43f342d25ddf93df64725ea54bddef6e1",
       "topics/children-families.html": "f1fdea84aac9abcb05f4a2adf7b950d69e8ddb9c"
+    },
+    "public_verified": "2026-11-10",
+    "verified_public_blobs": {
+      "a-child-can-have-a-credit-file-before-they-have-a-job.html": "8eadb8aa60f0f0a5385ae68e8a044e86de83cea6",
+      "feed.xml": "0d8141c89ba375034a750c7205d4f2cc8e82a651",
+      "index.html": "87997277f78d3982f5dbcef9404418f4bb876560",
+      "sitemap.xml": "f981d160f21e2c8627a3eb44e31f6e2d9f2e0749",
+      "something-worth-sharing.html": "53428a366611c0151372b7fbc9ddcd5992348a1d",
+      "stories.html": "8171a4d43f342d25ddf93df64725ea54bddef6e1",
+      "topics/children-families.html": "f1fdea84aac9abcb05f4a2adf7b950d69e8ddb9c"
     }
   },
   "published_record": [
+    {
+      "title": "A Child Can Have a Credit File Before They Have a Job.",
+      "slug": "a-child-can-have-a-credit-file-before-they-have-a-job.html",
+      "source": "editorial-packages/TMS_CHILD_CREDIT_FILE_FREEZE_PUBLICATION_PACKAGE_2026-10-24.md",
+      "publication_status": "published_live_verified",
+      "commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35",
+      "date": "2026-11-09",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "gate_3": "PASS",
+      "notes": "All seven custom-domain paths returned HTTP 200 and matched the November 9 release bytes on November 10. First public appearance between checks is unknown; charged to November 10 cap; no second full release.",
+      "published_verified": "2026-11-10",
+      "article_commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35"
+    },
     {
       "title": "Alice Coachman Was a Champion Before the Olympic Medal.",
       "slug": "alice-coachman-was-a-champion-before-the-olympic-medal.html",
@@ -588,35 +612,6 @@
     },
     {
       "position": 9,
-      "title": "A Child Can Have a Credit File Before They Have a Job.",
-      "canonical_title": "A Child Can Have a Credit File Before They Have a Job.",
-      "slug": "a-child-can-have-a-credit-file-before-they-have-a-job",
-      "completion_status": "full_finished",
-      "status": "full_finished_committed_public_verification_pending",
-      "publication_status": "committed_live_unverified",
-      "scheduled_date": null,
-      "source": "editorial-packages/TMS_CHILD_CREDIT_FILE_FREEZE_PUBLICATION_PACKAGE_2026-10-24.md",
-      "approval": "Jansen standing two-review instruction",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "The College Took the Money. The Outcome Data Is Late.",
-          "distinction": "Institutional program reporting versus child protected-consumer records, prevention and separate correction routes."
-        }
-      ],
-      "review_1": "2026-10-24 FTC/CFPB current guidance cross-check and TransUnion procedure, eligibility, counterevidence and limits.",
-      "review_2": "2026-10-24 full package, developed prose, fairness, action, distinctness and 841-character Instagram audit.",
-      "notes": "Evergreen service/accountability piece, not new law. Refresh official procedures/links and uniqueness, render and verify public links at release.",
-      "release_gate_status": "content_gates_passed_public_propagation_hold",
-      "prior_review_record_preserved": true,
-      "current_gate_1": "PASS",
-      "current_gate_2": "PASS",
-      "current_release_blocker": "GitHub Pages workflow succeeded and seven origin files match the release. Custom-domain article HTTP 404 and six companion paths serve prior bytes. Do not re-release.",
-      "current_gate_3": "HOLD",
-      "release_commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35"
-    },
-    {
-      "position": 10,
       "title": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
       "canonical_title": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
       "slug": "before-you-agree-to-a-hospital-payment-plan-ask-about-financial-assistance",
@@ -668,7 +663,7 @@
       "review_1": "2026-10-26 operator FAQ/overview, founder profile, Olpe primary implementation and German tourism cross-check; output/impact distinction.",
       "review_2": "2026-10-26 natural prose, human contribution, full TMS package, fairness, action, distinctness and English/German social length.",
       "notes": "Evergreen positive/civic initiative, not October launch. Operator coverage not audited access outcome. Refresh roles/data wording, source links, distinctness and image reuse before HTML/public deployment.",
-      "position": 11,
+      "position": 10,
       "release_gate_status": "HOLD_current_standard_refresh_required",
       "prior_review_record_preserved": true,
       "current_gate_1": "NOT_RUN",
@@ -676,7 +671,7 @@
       "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 12,
+      "position": 11,
       "title": "Theodor Wonja Michael Found a Second Route Into Education. Teach That Part Too.",
       "slug": "theodor-wonja-michael-found-a-second-route-into-education",
       "source": "editorial-packages/TMS_THEODOR_WONJA_MICHAEL_SECOND_ROUTE_PUBLICATION_PACKAGE_2026-10-27.md",
@@ -708,7 +703,7 @@
       "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 13,
+      "position": 12,
       "title": "Social Security Wants the Money Back. First, Check the Decision.",
       "canonical_title": "Social Security Wants the Money Back. First, Check the Decision.",
       "slug": "social-security-wants-the-money-back-first-check-the-decision",
@@ -738,7 +733,7 @@
       "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 14,
+      "position": 13,
       "title": "Kathmandu Put Care on the Map. Can Families Find Their Way In?",
       "canonical_title": "Kathmandu Put Care on the Map. Can Families Find Their Way In?",
       "slug": "kathmandu-put-care-on-the-map-can-families-find-their-way-in",
@@ -771,7 +766,7 @@
       "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 15,
+      "position": 14,
       "title": "A Repair Rebate Helps. First, You Have to Pay the Repair Bill.",
       "canonical_title": "A Repair Rebate Helps. First, You Have to Pay the Repair Bill.",
       "slug": "a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill",
@@ -822,7 +817,7 @@
         }
       ],
       "notes": "September 2026 institutional film account is a discovery peg, not breaking invention news or measured programme outcome. Interleave Black-history stories. Refresh sources, future relevance and technical HTML/image/links at release.",
-      "position": 16
+      "position": 15
     },
     {
       "title": "The Berlin Wall Opened When People Went to the Border.",
@@ -847,18 +842,43 @@
         }
       ],
       "notes": "Refresh anniversary reference; render/integrate article, archive, homepage, topic, RSS and sitemap, then verify public domain.",
+      "position": 16
+    },
+    {
+      "title": "Germany Built a Way to Call for Help Without Speaking. Set It Up Before You Need It.",
+      "canonical_title": "Germany Built a Way to Call for Help Without Speaking. Set It Up Before You Need It.",
+      "slug": "germany-nora-emergency-help-without-speaking",
+      "source": "editorial-packages/TMS_GERMANY_NORA_EMERGENCY_ACCESS_PUBLICATION_PACKAGE_2026-11-10.md",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "approval": "Standing two-review authorization, November 10",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "review_1": "PASS | 2026-11-10 07:45:05 UTC | Codex, independent evidence pass. Opened all nine receipts below; checked scope against Rhineland-Palatinate police and the federal health portal. September 2026 ministry figures are approximate cumulative reports, not unique callers, response times or outcomes. September 2023 registration suspension and September 23, 2024 reopening are separate from the 2026 anniversary. The German overview presents POSTIDENT as required, while operator FAQ, English steps and the NRW app-store listing describe conditional call/ID prompts; retain the documented discrepancy and make no universal route or eligibility claim. Operator FAQ confirms registration failure prevents app calls, an internet connection is required, and the demo does not alert a centre. No pending legislative or enrolment deadline identified; no claim about outages or availability on a specific device.",
+      "review_2": "PASS | 2026-11-10 07:45:32 UTC | Codex, separate hostile-reader and Regular Joe pass. Checked the live archive (matching main), repository tree and canonical/staged queue, reserved/held and revision records. The published US disaster-training piece concerns lost training; queued Wheelmap covers shared building-access information and repairs. This package instead explains dispatch, actual reported use and setup. No real caller or outcome is invented; the opening says imagine. The prose gives the people affected, the agency with power, the protection and remaining burden, and recognizes dispatchers’ need to avoid false alarms. Current approved Seat Status wording reused from Bornholmer; Short Version, developed article, Pull Up A Chair, German resources, Seat Summary, evidence links, limits, excerpt, EN/DE social and image concept checked. Instagram 371 EN and 356 DE characters. The final paragraph gives a usable preparation step. No stock signoff, slogan, collective blame, universal POSTIDENT promise or claim that the demo reaches a dispatcher.",
+      "release_gate_status": "content_gates_passed_technical_release_pending",
+      "duplication_status": "materially_distinct",
+      "related_unpublished_comparators": [
+        {
+          "title": "Wheelmap Helps People Plan. Now Track Which Barriers Come Down.",
+          "distinction": "Emergency dispatch, registration and practice versus building access information and physical repairs."
+        }
+      ],
+      "notes": "Refresh current official setup instructions and links; render article and integrate site surfaces before release; verify production separately.",
       "position": 17
     }
   ],
   "counts": {
-    "full_finished_unpublished_eligible": 2,
+    "full_finished_unpublished_eligible": 3,
     "full_finished_currently_queued": 17,
     "full_finished_retired_or_replaced": 4,
-    "status_verification_required": 1,
+    "status_verification_required": 0,
     "historical_replacement_versions": 16,
     "replacements_still_pending_installation": null,
     "unfinished_or_blocked": 21,
-    "follow_up_candidates": 10,
+    "follow_up_candidates": 11,
     "positive_solution_candidates": 6,
     "full_finished_unpublished_total": 20,
     "full_finished_held_for_release": 17,
@@ -867,7 +887,7 @@
     "full_finished_held_outside_numbered_queue": 3,
     "external_manuscript_status_unverified": 1,
     "queued_current_source_conflict": 1,
-    "queued_committed_live_unverified": 1
+    "queued_committed_live_unverified": 0
   },
   "pending_priority_requests": [
     {
@@ -970,20 +990,7 @@
       "status": "EEOC allegations resolved by a $230,000 consent decree on September 15, 2026; no trial finding of liability. The decree requires accommodation processes, multilingual leave policies, training and reporting."
     }
   ],
-  "deployment_pending_record": [
-    {
-      "title": "A Child Can Have a Credit File Before They Have a Job.",
-      "slug": "a-child-can-have-a-credit-file-before-they-have-a-job.html",
-      "source": "editorial-packages/TMS_CHILD_CREDIT_FILE_FREEZE_PUBLICATION_PACKAGE_2026-10-24.md",
-      "publication_status": "committed_live_unverified",
-      "commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35",
-      "date": "2026-11-09",
-      "gate_1": "PASS",
-      "gate_2": "PASS",
-      "gate_3": "HOLD",
-      "notes": "GitHub Pages workflow succeeded and seven origin files match the release. Custom-domain article HTTP 404 and six companion paths serve prior bytes. Do not re-release."
-    }
-  ],
+  "deployment_pending_record": [],
   "story_briefs_2026_10_02": [
     {
       "title": "The Court File Closed. Did the Equal School Arrive First?",
@@ -1278,35 +1285,6 @@
     },
     {
       "position": 9,
-      "title": "A Child Can Have a Credit File Before They Have a Job.",
-      "canonical_title": "A Child Can Have a Credit File Before They Have a Job.",
-      "slug": "a-child-can-have-a-credit-file-before-they-have-a-job",
-      "completion_status": "full_finished",
-      "status": "full_finished_committed_public_verification_pending",
-      "publication_status": "committed_live_unverified",
-      "scheduled_date": null,
-      "source": "editorial-packages/TMS_CHILD_CREDIT_FILE_FREEZE_PUBLICATION_PACKAGE_2026-10-24.md",
-      "approval": "Jansen standing two-review instruction",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "The College Took the Money. The Outcome Data Is Late.",
-          "distinction": "Institutional program reporting versus child protected-consumer records, prevention and separate correction routes."
-        }
-      ],
-      "review_1": "2026-10-24 FTC/CFPB current guidance cross-check and TransUnion procedure, eligibility, counterevidence and limits.",
-      "review_2": "2026-10-24 full package, developed prose, fairness, action, distinctness and 841-character Instagram audit.",
-      "notes": "Evergreen service/accountability piece, not new law. Refresh official procedures/links and uniqueness, render and verify public links at release.",
-      "release_gate_status": "content_gates_passed_public_propagation_hold",
-      "prior_review_record_preserved": true,
-      "current_gate_1": "PASS",
-      "current_gate_2": "PASS",
-      "current_release_blocker": "GitHub Pages workflow succeeded and seven origin files match the release. Custom-domain article HTTP 404 and six companion paths serve prior bytes. Do not re-release.",
-      "current_gate_3": "HOLD",
-      "release_commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35"
-    },
-    {
-      "position": 10,
       "title": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
       "canonical_title": "Before You Agree to a Hospital Payment Plan, Ask About Financial Assistance.",
       "slug": "before-you-agree-to-a-hospital-payment-plan-ask-about-financial-assistance",
@@ -1358,7 +1336,7 @@
       "review_1": "2026-10-26 operator FAQ/overview, founder profile, Olpe primary implementation and German tourism cross-check; output/impact distinction.",
       "review_2": "2026-10-26 natural prose, human contribution, full TMS package, fairness, action, distinctness and English/German social length.",
       "notes": "Evergreen positive/civic initiative, not October launch. Operator coverage not audited access outcome. Refresh roles/data wording, source links, distinctness and image reuse before HTML/public deployment.",
-      "position": 11,
+      "position": 10,
       "release_gate_status": "HOLD_current_standard_refresh_required",
       "prior_review_record_preserved": true,
       "current_gate_1": "NOT_RUN",
@@ -1366,7 +1344,7 @@
       "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 12,
+      "position": 11,
       "title": "Theodor Wonja Michael Found a Second Route Into Education. Teach That Part Too.",
       "slug": "theodor-wonja-michael-found-a-second-route-into-education",
       "source": "editorial-packages/TMS_THEODOR_WONJA_MICHAEL_SECOND_ROUTE_PUBLICATION_PACKAGE_2026-10-27.md",
@@ -1398,7 +1376,7 @@
       "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 13,
+      "position": 12,
       "title": "Social Security Wants the Money Back. First, Check the Decision.",
       "canonical_title": "Social Security Wants the Money Back. First, Check the Decision.",
       "slug": "social-security-wants-the-money-back-first-check-the-decision",
@@ -1428,7 +1406,7 @@
       "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 14,
+      "position": 13,
       "title": "Kathmandu Put Care on the Map. Can Families Find Their Way In?",
       "canonical_title": "Kathmandu Put Care on the Map. Can Families Find Their Way In?",
       "slug": "kathmandu-put-care-on-the-map-can-families-find-their-way-in",
@@ -1461,7 +1439,7 @@
       "current_release_blocker": "Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS."
     },
     {
-      "position": 15,
+      "position": 14,
       "title": "A Repair Rebate Helps. First, You Have to Pay the Repair Bill.",
       "canonical_title": "A Repair Rebate Helps. First, You Have to Pay the Repair Bill.",
       "slug": "a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill",
@@ -1512,7 +1490,7 @@
         }
       ],
       "notes": "September 2026 institutional film account is a discovery peg, not breaking invention news or measured programme outcome. Interleave Black-history stories. Refresh sources, future relevance and technical HTML/image/links at release.",
-      "position": 16
+      "position": 15
     },
     {
       "title": "The Berlin Wall Opened When People Went to the Border.",
@@ -1537,23 +1515,35 @@
         }
       ],
       "notes": "Refresh anniversary reference; render/integrate article, archive, homepage, topic, RSS and sitemap, then verify public domain.",
+      "position": 16
+    },
+    {
+      "title": "Germany Built a Way to Call for Help Without Speaking. Set It Up Before You Need It.",
+      "canonical_title": "Germany Built a Way to Call for Help Without Speaking. Set It Up Before You Need It.",
+      "slug": "germany-nora-emergency-help-without-speaking",
+      "source": "editorial-packages/TMS_GERMANY_NORA_EMERGENCY_ACCESS_PUBLICATION_PACKAGE_2026-11-10.md",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "approval": "Standing two-review authorization, November 10",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "review_1": "PASS | 2026-11-10 07:45:05 UTC | Codex, independent evidence pass. Opened all nine receipts below; checked scope against Rhineland-Palatinate police and the federal health portal. September 2026 ministry figures are approximate cumulative reports, not unique callers, response times or outcomes. September 2023 registration suspension and September 23, 2024 reopening are separate from the 2026 anniversary. The German overview presents POSTIDENT as required, while operator FAQ, English steps and the NRW app-store listing describe conditional call/ID prompts; retain the documented discrepancy and make no universal route or eligibility claim. Operator FAQ confirms registration failure prevents app calls, an internet connection is required, and the demo does not alert a centre. No pending legislative or enrolment deadline identified; no claim about outages or availability on a specific device.",
+      "review_2": "PASS | 2026-11-10 07:45:32 UTC | Codex, separate hostile-reader and Regular Joe pass. Checked the live archive (matching main), repository tree and canonical/staged queue, reserved/held and revision records. The published US disaster-training piece concerns lost training; queued Wheelmap covers shared building-access information and repairs. This package instead explains dispatch, actual reported use and setup. No real caller or outcome is invented; the opening says imagine. The prose gives the people affected, the agency with power, the protection and remaining burden, and recognizes dispatchers’ need to avoid false alarms. Current approved Seat Status wording reused from Bornholmer; Short Version, developed article, Pull Up A Chair, German resources, Seat Summary, evidence links, limits, excerpt, EN/DE social and image concept checked. Instagram 371 EN and 356 DE characters. The final paragraph gives a usable preparation step. No stock signoff, slogan, collective blame, universal POSTIDENT promise or claim that the demo reaches a dispatcher.",
+      "release_gate_status": "content_gates_passed_technical_release_pending",
+      "duplication_status": "materially_distinct",
+      "related_unpublished_comparators": [
+        {
+          "title": "Wheelmap Helps People Plan. Now Track Which Barriers Come Down.",
+          "distinction": "Emergency dispatch, registration and practice versus building access information and physical repairs."
+        }
+      ],
+      "notes": "Refresh current official setup instructions and links; render article and integrate site surfaces before release; verify production separately.",
       "position": 17
     }
   ],
-  "status_verification_ledger": [
-    {
-      "title": "A Child Can Have a Credit File Before They Have a Job.",
-      "slug": "a-child-can-have-a-credit-file-before-they-have-a-job.html",
-      "source": "editorial-packages/TMS_CHILD_CREDIT_FILE_FREEZE_PUBLICATION_PACKAGE_2026-10-24.md",
-      "publication_status": "committed_live_unverified",
-      "commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35",
-      "date": "2026-11-09",
-      "gate_1": "PASS",
-      "gate_2": "PASS",
-      "gate_3": "HOLD",
-      "notes": "GitHub Pages workflow succeeded and seven origin files match the release. Custom-domain article HTTP 404 and six companion paths serve prior bytes. Do not re-release."
-    }
-  ],
+  "status_verification_ledger": [],
   "story_briefs_2026_10_05": [
     {
       "title": "More Than a Million Veterans Face Food Insecurity. The SNAP Hand-Off Slowed Down.",
@@ -1577,15 +1567,23 @@
   "germany_weekly_delivery": {
     "week": "2026-11-09/2026-11-15",
     "target_packages": 2,
-    "completed_packages": 1,
-    "remaining_packages": 1,
-    "current_content_cleared_packages": 1,
+    "completed_packages": 2,
+    "remaining_packages": 0,
+    "current_content_cleared_packages": 2,
     "current_release_holds": 0,
     "delivered": [
       {
         "date": "2026-11-09",
         "title": "The Berlin Wall Opened When People Went to the Border.",
         "source": "editorial-packages/TMS_GERMANY_BORNHOLMER_BORDER_OPENING_PUBLICATION_PACKAGE_2026-11-09.md",
+        "status": "approved_queued_full_finished",
+        "gate_1": "PASS",
+        "gate_2": "PASS"
+      },
+      {
+        "date": "2026-11-10",
+        "title": "Germany Built a Way to Call for Help Without Speaking. Set It Up Before You Need It.",
+        "source": "editorial-packages/TMS_GERMANY_NORA_EMERGENCY_ACCESS_PUBLICATION_PACKAGE_2026-11-10.md",
         "status": "approved_queued_full_finished",
         "gate_1": "PASS",
         "gate_2": "PASS"
@@ -2199,6 +2197,11 @@
       "original_slug": "alice-coachman-was-a-champion-before-the-olympic-medal",
       "source": "editorial-packages/TMS_ALICE_COACHMAN_CHAMPION_BEFORE_MEDAL_PUBLICATION_PACKAGE_2026-11-07.md",
       "trigger": "Material new archival, educational or access/recognition evidence; no repetitive anniversary retelling or claimed modern impact without evidence."
+    },
+    {
+      "original_slug": "the-blue-wave-won-congress-now-show-america-what-that-victory-is-worth",
+      "source": "https://www.senate.gov/legislative/LIS/roll_call_lists/vote_menu_119_2.htm",
+      "trigger": "Nov 9 roll call 257, 73–25, cloture on the motion to proceed to H.R. 2347 as permitting vehicle. Track actual floor text, amendment, final votes and effect on communities near projects and on tribal consultation before a full follow-up. Procedural vote is not final passage. Original failed review remains withdrawn."
     }
   ],
   "positive_solution_candidates": [
@@ -2235,7 +2238,8 @@
       "title": "Miriam Benjamin’s signaling patent: teach what she designed and trace what was actually used",
       "source": "https://www.uspto.gov/learning-and-resources/journeys-innovation/historical-stories/district-determination",
       "status": "research_only_not_finished",
-      "notes": "Verify the original patent and contemporaneous adoption records before asserting use, licensing or payment."
+      "notes": "Original patent US386289A located; proposed design is documented. Contemporary adoption, licensing and payment still unverified.",
+      "patent_record": "https://patents.google.com/patent/US386289A/en"
     }
   ],
   "priority_override": {
@@ -2958,18 +2962,18 @@
   },
   "sws_track": {
     "source": "TMS_SWS_LEDGER.json",
-    "date": "2026-11-09",
-    "status": "committed_live_unverified",
-    "url": "https://themissingseat.org/something-worth-sharing.html#say-what-needs-saying-2026-11-09",
-    "title": "Say What Needs Saying",
+    "date": "2026-11-10",
+    "status": "published_live_verified",
+    "url": "https://themissingseat.org/something-worth-sharing.html#let-them-tell-you-what-they-want-2026-11-10",
+    "title": "Let Them Tell You What They Want",
     "editorial_inventory_excluded": true,
     "backlog_oct18_23": {
       "verified_present": 6,
       "unpublished_remaining": 0
     },
-    "older_entries_preserved": 18,
-    "commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35",
-    "public_blocker": "Production archive and homepage still serve previous bytes."
+    "older_entries_preserved": 19,
+    "commit": "f013859cd00fa37cec9cafde4c982b1ec1149335",
+    "public_blocker": null
   },
   "external_manuscripts_pending_status_verification": [
     {
@@ -3167,5 +3171,53 @@
       ]
     }
   ],
-  "reconciliation_notes_2026_11_09": "GitHub Pages workflow succeeded and seven origin files match the release. Custom-domain article HTTP 404 and six companion paths serve prior bytes. Do not re-release."
+  "reconciliation_notes_2026_11_09": "GitHub Pages workflow succeeded and seven origin files match the release. Custom-domain article HTTP 404 and six companion paths serve prior bytes. Do not re-release.",
+  "daily_editorial_completion_2026_11_10": {
+    "title": "Germany Built a Way to Call for Help Without Speaking. Set It Up Before You Need It.",
+    "source": "editorial-packages/TMS_GERMANY_NORA_EMERGENCY_ACCESS_PUBLICATION_PACKAGE_2026-11-10.md",
+    "status": "approved_queued_full_finished",
+    "gate_1": "PASS",
+    "gate_2": "PASS",
+    "new_full_finished": 1,
+    "publication": {
+      "title": "A Child Can Have a Credit File Before They Have a Job.",
+      "slug": "a-child-can-have-a-credit-file-before-they-have-a-job.html",
+      "source": "editorial-packages/TMS_CHILD_CREDIT_FILE_FREEZE_PUBLICATION_PACKAGE_2026-10-24.md",
+      "publication_status": "published_live_verified",
+      "commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35",
+      "date": "2026-11-09",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "gate_3": "PASS",
+      "notes": "All seven custom-domain paths returned HTTP 200 and matched the November 9 release bytes on November 10. First public appearance between checks is unknown; charged to November 10 cap; no second full release.",
+      "published_verified": "2026-11-10",
+      "article_commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35"
+    }
+  },
+  "discovery_2026_11_10": [
+    {
+      "title": "Germany Built a Way to Call for Help Without Speaking. Set It Up Before You Need It.",
+      "outcome": "approved_queued",
+      "source": "editorial-packages/TMS_GERMANY_NORA_EMERGENCY_ACCESS_PUBLICATION_PACKAGE_2026-11-10.md"
+    },
+    {
+      "title": "Lame-duck permitting vehicle H.R. 2347",
+      "outcome": "follow_up",
+      "sources": [
+        "https://www.senate.gov/legislative/LIS/roll_call_lists/vote_menu_119_2.htm",
+        "https://www.epw.senate.gov/public/index.cfm/press-releases-republican?ID=CCD27C16-CBA8-4E56-BFAE-C30D16E0AE61"
+      ]
+    },
+    {
+      "title": "Veterans compensation H.R. 8552",
+      "outcome": "research_required",
+      "source": "https://clerk.house.gov/FloorSummary/ViewFloorActions"
+    },
+    {
+      "title": "Miriam Benjamin’s signaling patent: teach what she designed and trace what was actually used",
+      "outcome": "research_required",
+      "source": "https://patents.google.com/patent/US386289A/en"
+    }
+  ],
+  "reconciliation_notes_2026_11_10": "Prior child-credit release now live on all seven public paths; no second full release. New nora package approved and queued. Both days' SWS verified. November 9 publication audit retained."
 }

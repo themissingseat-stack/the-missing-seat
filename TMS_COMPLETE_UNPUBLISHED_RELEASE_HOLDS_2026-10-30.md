@@ -1,6 +1,6 @@
 # Complete unpublished packages: release holds
 
-Reconciled November 9, 2026. Three complete bodies outside the numbered queue; thirteen legacy review holds and one repair-rebate factual hold inside it. The separate child-credit deployment passed content gates but remains unverified on the public domain and locked against re-release. Complete bodies awaiting confirmed public release: 20, comprising 17 numbered and three off-queue.
+Reconciled November 10, 2026. Three complete bodies remain outside the numbered queue. Thirteen legacy review holds and one repair-rebate factual hold remain inside it. Child-credit’s custom-domain verification has cleared and it was removed from unpublished inventory. Twenty complete unpublished: 17 numbered and three off-queue.
 
 ## Breast Cancer Survival Has Improved. Black Women Are Still Dying More Often.
 

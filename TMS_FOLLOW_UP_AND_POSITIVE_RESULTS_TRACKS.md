@@ -1,7 +1,7 @@
 # TMS follow-up and positive-results reporting tracks
-Updated November 9, 2026. Candidates are research leads, never finished inventory.
+Updated November 10, 2026. Candidates are research leads, never finished inventory.
 
-## Follow-up candidates: 10
+## Follow-up candidates: 11
 1. Germany police-complaints editorial: obtain subsequent Bundestag/commissioner reporting on complaint disposition, investigations completed, institutional action and individual relief. Baseline live slug: germany-created-a-seat-for-police-complaints-who-can-actually-use-it. Trigger: a verified later outcome, not the existing complaint count. No new outcome asserted.
 2. Tribal water-project maintenance: check whether IHS/federal funding rules and implementation changed after the documented oversight findings. Baseline live slug: the-water-project-was-built-the-missing-money-was-for-keeping-it-alive. Trigger: actual eligibility, operation/maintenance funding or service outcomes. No new remedy asserted.
 3. Religious accommodation at the coffee shop: track implementation of consent-decree policy review and training and any available compliance reports. Baseline slug: he-asked-to-break-his-fast-he-allegedly-lost-his-job. Trigger: a public compliance outcome or material legal development. Settlement itself does not demonstrate every future obligation was met.
@@ -138,3 +138,10 @@ SWS has its own TMS_SWS_LEDGER.json: today's exact Jansen quote plus labeled new
 - Positive lead 6: [Miriam Benjamin’s signaling patent](https://www.uspto.gov/learning-and-resources/journeys-innovation/historical-stories/district-determination). Verify patent and adoption records; do not infer licensing, payment or influence from the patent alone.
 - The [House calendar](https://www.house.gov/legislative-activity/2026-11-09) and [Senate order](https://www.govinfo.gov/content/pkg/CREC-2026-11-05/pdf/CREC-2026-11-05.pdf) establish the November 9 lame-duck window, no legislative or nomination outcome. No new correction or repeat publication of blue-wave; initial review failure preserved.
 - [Saxony directive](https://www.recht.sachsen.de/vorschrift/21483) and [bank FAQ](https://sab.sachsen.de/reparaturbonus) still conflict about December 1 filing. Retain HOLD.
+
+## November 10
+
+- Lame-duck follow-up lead 11: [Senate roll call](https://www.senate.gov/legislative/LIS/roll_call_lists/vote_menu_119_2.htm) and [committee account](https://www.epw.senate.gov/public/index.cfm/press-releases-republican?ID=CCD27C16-CBA8-4E56-BFAE-C30D16E0AE61) establish a 73–25 cloture vote on the motion to proceed to H.R. 2347 on November 9. Track the operative text, amendments, final votes and real effects on affected households and tribal participation. No passage, remedy or final statutory provision inferred. Blue-wave initial reviews remain withdrawn.
+- Positive research: [Benjamin patent US386289A](https://patents.google.com/patent/US386289A/en) documents the design. Adoption and commercial benefit still need contemporaneous records.
+- Positive completed: [nora](editorial-packages/TMS_GERMANY_NORA_EMERGENCY_ACCESS_PUBLICATION_PACKAGE_2026-11-10.md) queued separately from six research leads. Registrations and answered requests are measures of reach and use, not a rescue outcome.
+- Child-credit baseline: seek a documented later change in actual bureau access or dispute resolution before a follow-up; no new outcome or candidate counted.

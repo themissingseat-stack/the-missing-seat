@@ -3,7 +3,7 @@
 ## Publication metadata
 - Author: Jansen
 - Completed: October 24, 2026
-- Status: GATES 1 AND 2 PASS / RELEASE AUTHORIZED; verify live separately
+- Status: GATES 1, 2 AND 3 PASS / PUBLICLY VERIFIED NOVEMBER 10, 2026
 - Slug: `a-child-can-have-a-credit-file-before-they-have-a-job`
 - Territory: Solutions & Participation; People & Opportunity
 - Topic: Children & Families; Consumer Rights; Economic Fairness
@@ -116,3 +116,5 @@ A clearly labeled illustration of an adult organizing three blank checklist fold
 - Gate 2: PASS | 2026-11-09 07:54:21 UTC | Codex, separate hostile-reader and Regular Joe pass. Checked that the headline says can, not usually; no-file freeze records are limited, and authorized use is not called fraud. Removed the forced seat framing, stock closing and social hashtags. Credit bureaus hold information, proof serves a legitimate purpose, caregivers carry the paperwork and children receive protection. Short Version, approved status, Pull Up A Chair, US resources, Seat Summary, linked evidence and image brief present. Instagram 633 characters. No matching public URL or live archive entry; existing queued package is the same work, refreshed for release.
 - Gate 3: HOLD / COMMITTED / LIVE UNVERIFIED. GitHub Pages workflow succeeded and seven origin files match the release. Custom-domain article HTTP 404 and six companion paths serve prior bytes. Do not re-release. [Pages run](https://github.com/themissingseat-stack/the-missing-seat/actions/runs/42582264607).
 - [October 24 approval preserved in prior package](https://github.com/themissingseat-stack/the-missing-seat/blob/a7463da25211ca6e3c5c87d3d3d5fceb14116ba7/editorial-packages/TMS_CHILD_CREDIT_FILE_FREEZE_PUBLICATION_PACKAGE_2026-10-24.md).
+
+- Gate 3: PASS on November 10, 2026. Article, homepage, archive, Children & Families, RSS, sitemap and sharing page all HTTP 200, exact release bytes. Earlier deployment hold resolved. This checks public content; first-live time remains unknown. No repeat release.

@@ -1,14 +1,24 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "track": "SWS; excluded from full editorial inventory",
   "entries": [
+    {
+      "id": "let-them-tell-you-what-they-want-2026-11-10",
+      "date": "2026-11-10",
+      "title": "Let Them Tell You What They Want",
+      "source": "something-worth-sharing.html#let-them-tell-you-what-they-want-2026-11-10",
+      "publication_status": "published_live_verified",
+      "commit": "f013859cd00fa37cec9cafde4c982b1ec1149335",
+      "public_verified": "2026-11-10"
+    },
     {
       "id": "say-what-needs-saying-2026-11-09",
       "date": "2026-11-09",
       "title": "Say What Needs Saying",
       "source": "something-worth-sharing.html#say-what-needs-saying-2026-11-09",
-      "publication_status": "committed_live_unverified",
-      "commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35"
+      "publication_status": "published_live_verified",
+      "commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35",
+      "public_verified": "2026-11-10"
     },
     {
       "id": "patience-with-a-plan-2026-11-08",
@@ -148,15 +158,14 @@
     ],
     "present_count": 6,
     "unpublished_remaining": 0,
-    "note": "All six dates remain in the existing public archive and are preserved in the new GitHub Pages origin."
+    "note": "All six dates present on the verified public archive; preserved."
   },
   "today": {
-    "text": "Communication is key, even if it's uncomfortable",
-    "reflection": "If something matters, say what you noticed and what you need. Give the other person room to answer before deciding what their silence means.",
-    "translation_de": "Reden ist wichtig, auch wenn es unangenehm ist.",
-    "date": "2026-11-09",
-    "provenance": "Exact English line shared in Jansen Bowden’s 30 Original Quotes notes. Heading, reflection and German translation are new editorial wording. No claim about who coined the common phrase.",
-    "publication_status": "committed_live_unverified"
+    "date": "2026-11-10",
+    "text": "If a friend tells you they’re happy with the work they do, take that answer seriously. You can see another path for them without treating the one they chose as a mistake. Before you bring it up again, ask what they like about the life they’re building. Then listen long enough to learn something.",
+    "translation_de": "Wenn dir jemand aus deinem Freundeskreis sagt, dass die Arbeit Freude macht, nimm das ernst. Du kannst dir einen anderen Weg für diese Person vorstellen, ohne den gewählten Weg für einen Fehler zu halten. Bevor du das Thema erneut ansprichst, frag, was ihr an dem Leben gefällt, das sie sich aufbaut. Hör so lange zu, dass du etwas Neues erfährst.",
+    "provenance": "New editorial reflection and German translation inspired by Jansen’s November 9 question about friendship and unsolicited advice; not an archival quote.",
+    "publication_status": "published_live_verified"
   },
   "missing_page_dates": [
     "2026-10-31",
@@ -166,14 +175,5 @@
     "2026-11-04"
   ],
   "missing_page_dates_note": "No entries with these dates in current page; does not prove drafts never existed. No invented or backdated content added.",
-  "unpublished_queue": [
-    {
-      "id": "say-what-needs-saying-2026-11-09",
-      "date": "2026-11-09",
-      "title": "Say What Needs Saying",
-      "source": "something-worth-sharing.html#say-what-needs-saying-2026-11-09",
-      "publication_status": "committed_live_unverified",
-      "commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35"
-    }
-  ]
+  "unpublished_queue": []
 }

@@ -630,3 +630,36 @@ main.participation .mission,main.participation .org small,main.participation .or
   .cards h3{font-size:clamp(20px,1.8vw,24px);line-height:1.22;margin-bottom:12px}
   .cards p{font-size:15.5px;line-height:1.55}
 }
+
+/* Type refinement 2 (Nov 10): smaller overall scale for a more professional look (621px and up) */
+@media(min-width:621px){
+  .article-content{width:min(100%,700px);padding-top:36px;font-size:16px;line-height:1.62}
+  .article-content > h1{font-size:clamp(27px,2.8vw,35px);line-height:1.15;letter-spacing:-.01em;margin-bottom:12px}
+  .article-content .article-lead{font-size:clamp(16.5px,1.4vw,18px);margin-bottom:24px;padding-bottom:20px}
+  .article-content section{margin-top:30px;padding-top:22px}
+  .article-content section > h2{font-size:clamp(20px,2vw,24px);margin-bottom:10px}
+  .article-content .short-version h2{font-size:clamp(18px,1.7vw,21px)}
+  .article-content .full-story>summary{font-size:17px}
+  .archive-card{padding:22px 30px 24px 0}
+  .archive-card:nth-child(even){padding-left:30px}
+  .archive-card h2{font-size:clamp(18px,1.55vw,21px);margin-bottom:8px}
+  .archive-card > p:not(.story-meta){font-size:14.5px;line-height:1.5;margin-bottom:12px}
+  .cards article{padding-top:18px;padding-bottom:18px}
+  .cards h3{font-size:clamp(18px,1.55vw,21px);margin-bottom:8px}
+  .cards p{font-size:14.5px;line-height:1.5}
+  .hero h1{font-size:clamp(34px,3.6vw,50px)}
+  .hero .lead{font-size:15.5px}
+  main.participation h1,main.about h1,main.resource-page .resource-hero h1,main.archive-page .archive-intro h1,main.sharing-page h1{font-size:clamp(28px,2.9vw,36px)}
+  main.resource-page .lead,main.archive-page .archive-intro .lead,.sharing-page .sharing-lead{font-size:16.5px}
+  main.participation .intro{font-size:clamp(17px,1.5vw,19px)}
+  main.participation h2,main.resource-page h2{font-size:clamp(20px,2vw,24px)}
+  .about-section h2,.chair-section h2,.cards-section>h2{font-size:clamp(26px,2.7vw,36px)}
+  .about-copy,.chair-section>div:last-child{font-size:16px}
+  .take-seat h2{font-size:clamp(28px,3vw,38px)}
+  .take-seat p{font-size:17px}
+  .topic-grid a strong{font-size:17px}
+  .topic-grid a span{font-size:14.5px}
+  .seat-filled h3{font-size:clamp(20px,2vw,25px)}
+  .daily-entry h3{font-size:clamp(22px,2.2vw,30px)}
+  .daily-entry p:not(.eyebrow){font-size:16px}
+}

@@ -4,6 +4,21 @@
 
 Companion ledgers: [TMS_DAILY_EDITORIAL_QUEUE.md](TMS_DAILY_EDITORIAL_QUEUE.md) (queue and the Regular Joe comprehension test).
 
+## Standing update 2026-11-10: natural voice, varied rhythm, grounded writing
+
+**Binding for all new TMS editorial packages, website articles, website copy, Facebook/Instagram posts, civic explainers, Something Worth Sharing pieces, revisions, audit-derived public-facing prose, and drafting workflows.** This expands the existing Regular Joe and developed-paragraph rules, rather than replacing factual review or release gates.
+
+1. **Write for a real reader, not a detection score.** Favor specific, grounded, credible, human-sounding editorial prose. Avoid repetitive machine-like cadence, perfectly symmetrical paragraphs, mechanically balanced phrasing, or a uniform sentence pattern. No claim that a style can reliably evade AI detectors, and no claim of human-only authorship when untrue.
+2. **Vary sentence length, pacing and paragraph size for meaning.** Mix long, developed explanations with shorter observations, without stacking theatrical one-liners, forced mic-drops, frequent sentence fragments, or artificial "structural chaos." The existing requirement for fully reasoned, natural paragraphs remains in force.
+3. **Use varied, idiomatic language.** Prefer specific verbs, concrete examples, natural transitions, precise terminology and audience-appropriate colloquial wording. Regional idioms and conversational turns belong only when appropriate and authentic to the subject or speaker. Some sentences may begin with "And," "But," or "Because" when grammatically and rhetorically justified; fragments are rare and purposeful.
+4. **Punctuation should be deliberate, not uniform.** Mix ordinary commas and full stops with occasional colons, semicolons or parentheses when they help readability. Preserve the established TMS release-format prohibition on em dashes and visible Markdown artifacts in copy-ready posts; varied rhythm does not require violating a publication validator.
+5. **No fabricated authenticity.** Personal anecdotes, first-person statements, hyper-local detail and personal memories must come from the user, the author's confirmed experience, or verifiable reporting. Do not invent such details or imply first-hand witnessing. Use the user's own source prose as a voice reference when available; preserve their position and distinctive phrasing without inventing quotations.
+6. **Remove generic filler and AI-sounding clichés.** Avoid "In today's digital age," "In the fast-paced world," "delve," "tapestry," "beacon," "testament," generic "Furthermore/Moreover/In conclusion" transitions, repetitive "It's not X; it's Y" constructions, and paragraphs or bullet lists with identical bold-label-colon openings. The prohibition concerns formulaic use, not words genuinely required by a fact or quotation.
+7. **Finish by editing, not by adding cosmetic noise.** Check the opening for a real news peg or human reason to care. Replace generic introductions, transitions and formulaic endings with evidence-led movement and a topic-specific takeaway. Do not force a tidy emotional resolution where the facts remain unresolved; do not omit an actionable ending when the subject warrants one.
+8. **Final voice pass is required after fact and hostile/Regular Joe reviews.** Read the full piece for rhythm, repetition, clarity, accuracy, channel length and authentic attribution. Do not mechanically rewrite an arbitrary 15% or intentionally break grammar to fool software. Fix only what improves the work.
+
+**Priority rule:** Accuracy, attribution, evidence, user-supplied viewpoints, legal precision, platform limits, safety, and the existing TMS double-review and publication gates outrank stylistic novelty. Apply this prospectively; do not republish old material solely to alter its cadence.
+
 ## Standing update 2026-11-04: brand identity and article endings
 
 Approved standing update, 2026-11-04. Applies to all editorial briefs, full articles, social copy, templates, checklists, manifests, and automated publishing workflows. Supersedes conflicting generic-signoff instructions.

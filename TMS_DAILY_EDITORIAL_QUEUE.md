@@ -108,7 +108,7 @@ The governing test remains: **What did they actually change, who gained, what re
 | Active follow-up research candidates | 11 |
 | Positive/solution research candidates | 6 |
 
-Bornholmer Straße, nora and Jason Jones are cleared reserve. Drew was publicly verified November 11 and removed. Saxony repair remains on factual HOLD. No revision installed today.
+Bornholmer Straße and Jason Jones are cleared reserve; nora was released November 11 (evening). Drew was publicly verified November 11 and removed. Saxony repair remains on factual HOLD. No revision installed today.
 
 ## Finished numbered queue — current release status explicit
 
@@ -143,6 +143,7 @@ These are not duplicates, replacements for live stories or new authorship today.
 
 ## Published record — do not requeue
 
+- **November 11, 2026 (evening):** [Germany Built a Way to Call for Help Without Speaking. Set It Up Before You Need It.](https://themissingseat.org/germany-nora-emergency-help-without-speaking.html). Release refresh November 11: operator overview checked (POSTIDENT still presented as current requirement; other official and press descriptions add a confirmation call at first registration; discrepancy documented in the article). Second release of the day at Jansen's direction. [Package](editorial-packages/TMS_GERMANY_NORA_EMERGENCY_ACCESS_PUBLICATION_PACKAGE_2026-11-10.md).
 - **November 11, 2026:** [Charles Drew Helped Build a Blood System. He Also Challenged Its Rules.](https://themissingseat.org/charles-drew-helped-build-a-blood-system-and-challenged-its-rules.html). Refreshed content gates and final voice pass documented in [release package](editorial-packages/TMS_CHARLES_DREW_BLOOD_SYSTEM_RULES_PUBLICATION_PACKAGE_2026-11-08.md). Eight production paths verified; sole full release.
 
 - **November 10, 2026 public verification:** [A Child Can Have a Credit File Before They Have a Job.](https://themissingseat.org/a-child-can-have-a-credit-file-before-they-have-a-job.html). Committed November 9; all seven custom-domain surfaces now HTTP 200 and match the release. No exact first-live time known. Counted against November 10’s cap. [Reviews and verification](editorial-packages/TMS_CHILD_CREDIT_FILE_FREEZE_PUBLICATION_PACKAGE_2026-10-24.md).

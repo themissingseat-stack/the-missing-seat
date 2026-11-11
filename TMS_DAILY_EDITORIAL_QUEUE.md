@@ -444,3 +444,10 @@ Niger source/template refresh cleared its legacy gate hold; independently verifi
 ## November 8 source conflict and medical achievement package
 
 SAB's live HTML includes both deadline formulations, including in its collapsible FAQ; no explicit hidden draft flag resolves which current filing instruction applies. Source ambiguity requires clarification rather than a silent legal conclusion. Charles Drew's new full article distinguishes uniform blood-bank procedures, institutional racial donor policy and a false death story. Both new-article reviews passed. Alice released after independent production verification, so no second full release today.
+
+
+## November 11 — Arkansas bar examination score-manipulation investigation
+
+- **Who Took Their Points? The Arkansas Bar Exam Scandal and the Careers That May Have Been Stolen.** New standalone Justice & Accountability editorial, separate from the midterm series. Full website draft, Short Version, receipts, six-part accountability ledger, practical actions, disclosure, Pull Up A Chair, Seat Summary, EN Facebook/Instagram and visual brief saved in [full editorial package](editorial-packages/TMS_ARKANSAS_BAR_EXAM_POINTS_ACCOUNTABILITY_2026-11-11.md).
+- **Queue entry: EDITORIAL HOLD / REVIEW PENDING, not publication-eligible yet.** Gate 1 evidence and Gate 2 independent hostile/Regular Joe review require documented PASS records, live archive duplication check, final docket/current-remedy refresh and template validation. Do not claim double review, automatic approval, or publication. Preserve existing numbered queue order and one-new-story-per-day cap. Once both gates PASS, add to the next available eligible slot under standing queue rules.
+- Primary sources: Arkansas Supreme Court November 5 releases and Arkansas criminal docket LRCR-26-5292. Critical distinctions: 11,400 files ≠ 11,400 affected examinees; allegations ≠ proven guilt; prosecution ≠ restoration of injury.

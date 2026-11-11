@@ -4,7 +4,7 @@
 
 Author: Jansen Bowden / The Missing Seat
 Completed: November 8, 2026
-Publication release: November 11, 2026; production verification pending
+Publication: November 11, 2026; production verified
 Status: Full finished; Gate 1 PASS and Gate 2 PASS; automatically approved and queued
 Slug: charles-drew-helped-build-a-blood-system-and-challenged-its-rules
 Location: United States; Blood for Britain project
@@ -126,4 +126,4 @@ Publication candidate after both gates. Main tree, live archive and queue contai
 - Gate 1: PASS | 2026-11-11 07:09:21 UTC | Codex evidence refresh. Reopened NLM’s archived biography (including emergency treatment), Red Cross February 4, 1941 chronology and September 29 account (September 18 release and Mair’s attributed recollection), USPTO and current donor resource. The original Smithsonian page timed out; substituted the opened Science History Institute history for career, race policy and education, and relied on NLM directly for the death account. Retained role-title and award-date limits. No new legal or clinical claim. Main and public archive matched; Drew slug 404 and no daily feed entry.
 - Gate 2: PASS | 2026-11-11 07:10:18 UTC | Codex separate hostile/Regular Joe pass: chronology and Mair attribution bounded; no invention myth, present donor rule, collective blame or claim about resignation. Reader can identify the work, beneficiaries, racial burden, authority and teaching/donor action. Short Version, approved status, Pull Up A Chair, country resources, Seat Summary, closing, receipts, evidence limits, excerpt, copy and image brief retained. Distinct from Alice and Raye.
 - Voice: PASS | Final voice pass after both reviews: kept the poster recollection with attribution, removed repetitive moral recap and generic teaching transition, and ended with a specific teaching task. Checked both social versions for plain text and no em dashes or stock signoff.
-- Gate 3: pending public verification.
+- Gate 3: PASS on November 11. Eight production paths HTTP 200 and exact [release commit](https://github.com/themissingseat-stack/the-missing-seat/commit/1a1affa14b9f7ddb61275417d0e423abc3542b78) bytes. Article, homepage, archive, Missing History, Black, Brilliant & Beyond, RSS, sitemap and sharing page verified. Sole full release.

@@ -1,5 +1,5 @@
 # TMS follow-up and positive-results reporting tracks
-Updated November 10, 2026. Candidates are research leads, never finished inventory.
+Updated November 11, 2026. Candidates are research leads, never finished inventory.
 
 ## Follow-up candidates: 11
 1. Germany police-complaints editorial: obtain subsequent Bundestag/commissioner reporting on complaint disposition, investigations completed, institutional action and individual relief. Baseline live slug: germany-created-a-seat-for-police-complaints-who-can-actually-use-it. Trigger: a verified later outcome, not the existing complaint count. No new outcome asserted.
@@ -145,3 +145,8 @@ SWS has its own TMS_SWS_LEDGER.json: today's exact Jansen quote plus labeled new
 - Positive research: [Benjamin patent US386289A](https://patents.google.com/patent/US386289A/en) documents the design. Adoption and commercial benefit still need contemporaneous records.
 - Positive completed: [nora](editorial-packages/TMS_GERMANY_NORA_EMERGENCY_ACCESS_PUBLICATION_PACKAGE_2026-11-10.md) queued separately from six research leads. Registrations and answered requests are measures of reach and use, not a rescue outcome.
 - Child-credit baseline: seek a documented later change in actual bureau access or dispute resolution before a follow-up; no new outcome or candidate counted.
+
+## November 11
+
+- Existing lame-duck lead: [November 10 roll call](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00258.htm) records 62–21 agreement to proceed to H.R. 2347, after November 9 cloture. Track the operative text and amendments. This does not establish final passage or any delivered result. Initial blue-wave review remains withdrawn.
+- [Jones package](editorial-packages/TMS_TRINIDAD_TOBAGO_JASON_JONES_PRIVACY_PUBLICATION_PACKAGE_2026-11-11.md): after release, track formal order and application by local authorities; no relief or implementation beyond the constitutional ruling asserted. Do not count as a follow-up to an already published TMS story.

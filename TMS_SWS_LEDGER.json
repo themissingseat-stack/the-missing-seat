@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "track": "SWS; excluded from full editorial inventory",
   "entries": [
+    {
+      "id": "you-can-have-an-ordinary-day-2026-11-11",
+      "date": "2026-11-11",
+      "title": "You Can Have an Ordinary Day",
+      "source": "something-worth-sharing.html#you-can-have-an-ordinary-day-2026-11-11",
+      "publication_status": "published_live_verified",
+      "commit": "1a1affa14b9f7ddb61275417d0e423abc3542b78",
+      "public_verified": "2026-11-11"
+    },
     {
       "id": "let-them-tell-you-what-they-want-2026-11-10",
       "date": "2026-11-10",
@@ -161,10 +170,11 @@
     "note": "All six dates present on the verified public archive; preserved."
   },
   "today": {
-    "date": "2026-11-10",
-    "text": "If a friend tells you they’re happy with the work they do, take that answer seriously. You can see another path for them without treating the one they chose as a mistake. Before you bring it up again, ask what they like about the life they’re building. Then listen long enough to learn something.",
-    "translation_de": "Wenn dir jemand aus deinem Freundeskreis sagt, dass die Arbeit Freude macht, nimm das ernst. Du kannst dir einen anderen Weg für diese Person vorstellen, ohne den gewählten Weg für einen Fehler zu halten. Bevor du das Thema erneut ansprichst, frag, was ihr an dem Leben gefällt, das sie sich aufbaut. Hör so lange zu, dass du etwas Neues erfährst.",
-    "provenance": "New editorial reflection and German translation inspired by Jansen’s November 9 question about friendship and unsolicited advice; not an archival quote.",
+    "date": "2026-11-11",
+    "text": "life isn't always amazing and that's okay.",
+    "reflection": "Some days are errands, a late bus and dinner made from whatever is left in the fridge. You can enjoy one part of a day like that without having to call the whole thing wonderful. Tell someone how your day actually went, and leave room for them to do the same.",
+    "translation_de": "Das Leben ist nicht immer großartig, und das ist okay.",
+    "provenance": "Exact English line excerpted from Jansen Bowden’s November 10 happiness prompt; heading, reflection and German translation are new editorial wording.",
     "publication_status": "published_live_verified"
   },
   "missing_page_dates": [

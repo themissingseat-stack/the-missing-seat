@@ -1,4 +1,4 @@
-# TMS Daily Editorial Queue — Reconciled 2026-11-10
+# TMS Daily Editorial Queue — Reconciled 2026-11-11
 
 **Source of truth:** verified live pages and published HTML/commits take precedence over stale queue labels. The staged JSON on branch `tms-daily-queue-2026-09-01` is the machine-readable companion to this ledger.
 
@@ -108,7 +108,7 @@ The governing test remains: **What did they actually change, who gained, what re
 | Active follow-up research candidates | 11 |
 | Positive/solution research candidates | 6 |
 
-Drew, Bornholmer Straße and nora are cleared reserve. Child-credit is publicly verified and excluded from reserve. Saxony repair remains on factual HOLD. Historical approvals and the 16 revisions are preserved separately.
+Bornholmer Straße, nora and Jason Jones are cleared reserve. Drew was publicly verified November 11 and removed. Saxony repair remains on factual HOLD. No revision installed today.
 
 ## Finished numbered queue — current release status explicit
 
@@ -128,9 +128,9 @@ Drew, Bornholmer Straße and nora are cleared reserve. Child-credit is publicly 
 | 12 | Social Security Wants the Money Back. First, Check the Decision. | `social-security-wants-the-money-back-first-check-the-decision` | HOLD: current reviews required | Before You Cut Care, Did You Stop Paying More for the Same Care?: Medicare provider-payment policy versus individual SSA debt determinations, notice accuracy and reconsideration/waiver/rate routes. | [Full package](editorial-packages/TMS_SOCIAL_SECURITY_REPAYMENT_CHECK_DECISION_PUBLICATION_PACKAGE_2026-10-28.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
 | 13 | Kathmandu Put Care on the Map. Can Families Find Their Way In? | `kathmandu-put-care-on-the-map-can-families-find-their-way-in` | HOLD: current reviews required | The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.: Broad labor/time/pay distribution versus named Nepal mapping, the route into municipal care, successful referrals and worker conditions.; Germany Promised a Full School Day. Families Need the Hours to Match.: Statutory school-care timetable entitlement versus municipal information/navigation approach across care needs. | [Full package](editorial-packages/TMS_KATHMANDU_CARE_MAP_ACCESS_PUBLICATION_PACKAGE_2026-10-30.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
 | 14 | A Repair Rebate Helps. First, You Have to Pay the Repair Bill. | `a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill` | HOLD: filing guidance conflict | Germany Has a Way to Keep the Power On. Can People Use It?: Continuity of electricity service versus paid-invoice repair rebate and the upfront cost of claiming it. | [Full package](editorial-packages/TMS_GERMANY_REPAIR_REBATE_UPFRONT_COST_PUBLICATION_PACKAGE_2026-11-06.md). November 8: directive VII.4 requires December 1 electronic filing; SAB FAQ says no strict deadline, ideally December 1. Resolve applicable current filing rule and revise package before renewed Gate 1/2. Prior PASS is not current approval. |
-| 15 | Charles Drew Helped Build a Blood System. He Also Challenged Its Rules. | `charles-drew-helped-build-a-blood-system-and-challenged-its-rules` | Current Gate 1/2 PASS | Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.: Different blood service, organizing standards, documented racial donor rule and correction of false death story rather than naval drafting and paid technical access.; Alice Coachman Was a Champion Before the Olympic Medal.: Medical service and donor policy rather than sport performance and Olympic tie-break. | [Full package](editorial-packages/TMS_CHARLES_DREW_BLOOD_SYSTEM_RULES_PUBLICATION_PACKAGE_2026-11-08.md). September 2026 institutional film account is a discovery peg, not breaking invention news or measured programme outcome. Interleave Black-history stories. Refresh sources, future relevance and technical HTML/image/links at release. |
-| 16 | The Berlin Wall Opened When People Went to the Border. | `the-berlin-wall-opened-when-people-went-to-the-border` | Gate 1 and Gate 2 PASS; unpublished | Border opening, local decisions and the residents at the crossing. | [Full package](editorial-packages/TMS_GERMANY_BORNHOLMER_BORDER_OPENING_PUBLICATION_PACKAGE_2026-11-09.md); refresh anniversary context and render before release. |
-| 17 | Germany Built a Way to Call for Help Without Speaking. Set It Up Before You Need It. | `germany-nora-emergency-help-without-speaking` | Gate 1 and Gate 2 PASS; unpublished | Registered nonvoice dispatch access, versus Wheelmap’s building-access information. | [Full package](editorial-packages/TMS_GERMANY_NORA_EMERGENCY_ACCESS_PUBLICATION_PACKAGE_2026-11-10.md); refresh official setup instructions and complete technical release. |
+| 15 | The Berlin Wall Opened When People Went to the Border. | `the-berlin-wall-opened-when-people-went-to-the-border` | Gate 1 and Gate 2 PASS; unpublished | Border opening, local decisions and the residents at the crossing. | [Full package](editorial-packages/TMS_GERMANY_BORNHOLMER_BORDER_OPENING_PUBLICATION_PACKAGE_2026-11-09.md); refresh anniversary context and render before release. |
+| 16 | Germany Built a Way to Call for Help Without Speaking. Set It Up Before You Need It. | `germany-nora-emergency-help-without-speaking` | Gate 1 and Gate 2 PASS; unpublished | Registered nonvoice dispatch access, versus Wheelmap’s building-access information. | [Full package](editorial-packages/TMS_GERMANY_NORA_EMERGENCY_ACCESS_PUBLICATION_PACKAGE_2026-11-10.md); refresh official setup instructions and complete technical release. |
+| 17 | Jason Jones Won His Privacy Appeal. The Court Still Has an Order to Write. | `jason-jones-trinidad-tobago-privacy-appeal` | Gate 1/2 and voice PASS; unpublished | Constitutional privacy, criminal liability and a pending remedial order in Trinidad and Tobago. | [Full package](editorial-packages/TMS_TRINIDAD_TOBAGO_JASON_JONES_PRIVACY_PUBLICATION_PACKAGE_2026-11-11.md); refresh court docket before release. |
 
 ## Complete unpublished release holds outside numbered queue
 
@@ -142,6 +142,8 @@ Drew, Bornholmer Straße and nora are cleared reserve. Child-credit is publicly 
 These are not duplicates, replacements for live stories or new authorship today. Thirteen legacy queued packages additionally require current gate/template refresh; the four unfinished priority drafts remain separate.
 
 ## Published record — do not requeue
+
+- **November 11, 2026:** [Charles Drew Helped Build a Blood System. He Also Challenged Its Rules.](https://themissingseat.org/charles-drew-helped-build-a-blood-system-and-challenged-its-rules.html). Refreshed content gates and final voice pass documented in [release package](editorial-packages/TMS_CHARLES_DREW_BLOOD_SYSTEM_RULES_PUBLICATION_PACKAGE_2026-11-08.md). Eight production paths verified; sole full release.
 
 - **November 10, 2026 public verification:** [A Child Can Have a Credit File Before They Have a Job.](https://themissingseat.org/a-child-can-have-a-credit-file-before-they-have-a-job.html). Committed November 9; all seven custom-domain surfaces now HTTP 200 and match the release. No exact first-live time known. Counted against November 10’s cap. [Reviews and verification](editorial-packages/TMS_CHILD_CREDIT_FILE_FREEZE_PUBLICATION_PACKAGE_2026-10-24.md).
 
@@ -221,6 +223,11 @@ No open editorial public/main mismatch after November 8 checks. Article, homepag
 - Preserve the full repair body and investigate clarification; do not retire or publish mechanically.
 
 ## Today’s reconciliation
+
+- Drew released and verified. Jason Jones package passed both reviews and voice, appended at position 17.
+- [November 11 reporting record](TMS_REPORTING_UPDATE_2026-11-11.md).
+
+## November 10 reconciliation
 
 - Child-credit moved out of unpublished inventory after independent custom-domain verification. No second full release attempted.
 - [nora](editorial-packages/TMS_GERMANY_NORA_EMERGENCY_ACCESS_PUBLICATION_PACKAGE_2026-11-10.md) passed both reviews and took queue position 17. Drew remains the next content-cleared reserve, subject to fresh checks and the daily cap.

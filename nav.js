@@ -1,4 +1,15 @@
 (function(){
+  /* Topic colours: tag cards and topic links by subject so CSS can colour them. */
+  var rules=[[/democracy|government|justice|law|accountab|civic|election|midterm|military|police|courts|voting/i,'red'],
+    [/race|equal humanity|history|black|excellence|flowers|inventor|missing history/i,'blue'],
+    [/seat filled|positive|good news|global health|health|science|innovation|mental|neurodiv|world affairs|human rights|a seat was made/i,'green'],
+    [/consumer|money|economic|work|wages|germany|children|famil|rights|housing|credit|debt|workers/i,'gold']];
+  function tone(t){for(var i=0;i<rules.length;i++){if(rules[i][0].test(t))return rules[i][1]}return 'red'}
+  var sel=document.querySelectorAll('.archive-card,.cards article,.resource-entry,.topic-grid a');
+  for(var i=0;i<sel.length;i++){var el=sel[i];var lab=el.querySelector('.story-meta,.eyebrow,strong,h3');
+    el.setAttribute('data-tone',tone(lab?lab.textContent:el.textContent.slice(0,80)))}
+})();
+(function(){
   /* "Deutsch" button: opens this page in Google's translated view (user-initiated link, nothing is loaded from Google until it is clicked). */
   var h=location.hostname;
   if(h==='themissingseat.org'||h==='www.themissingseat.org'||h==='localhost'||h==='127.0.0.1'){

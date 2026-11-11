@@ -4,7 +4,7 @@
 
 Author: Jansen Bowden / The Missing Seat
 Completed: November 8, 2026
-Publication: Unscheduled
+Publication release: November 11, 2026; production verification pending
 Status: Full finished; Gate 1 PASS and Gate 2 PASS; automatically approved and queued
 Slug: charles-drew-helped-build-a-blood-system-and-challenged-its-rules
 Location: United States; Blood for Britain project
@@ -24,7 +24,7 @@ Who it affects: Readers learning Black medical history, the institutions respons
 
 What you can do: Teach the actual work, check the account of his death before repeating it, and use a blood service's current eligibility information if considering donation.
 
-Based on: NLM's Charles R. Drew Papers educational biography, Smithsonian history, Red Cross history and September 2026 account, and the USPTO historical profile. The new film itself was not independently viewed for this article.
+Based on: NLM's Charles R. Drew Papers educational biography, Science History Institute history, Red Cross history and September 2026 account, and the USPTO historical profile. The new film itself was not independently viewed for this article.
 
 ## Full editorial
 
@@ -46,28 +46,28 @@ That gives an ordinary reader something concrete to recognize. Good systems depe
 
 The record also contains an institutional contradiction. NLM describes military requirements that initially excluded Black donors and later required their donations to be separated by race. Drew opposed these policies as unscientific and insulting. The institution could use his expertise while participating in a rule that demeaned the community he belonged to.
 
-The Smithsonian's account and the Patent and Trademark Office's historical profile also describe his opposition. This is a documented policy and a documented objection, not an allegation inferred from a difference in outcomes. Responsibility belongs with the institutions imposing and carrying out the rule. It does not require blaming every person working in medicine or treating all white people as though they made the decision.
+The Science History Institute's account and the Patent and Trademark Office's historical profile also describe his opposition. This is a documented policy and a documented objection, not an allegation inferred from a difference in outcomes. Responsibility belongs with the institutions imposing and carrying out the rule. It does not require blaming every person working in medicine or treating all white people as though they made the decision.
 
-The criticism should not reduce Drew's career to the rule he challenged. He returned to Howard University and devoted years to surgical education and mentoring. The Smithsonian describes the breadth of his work training Black surgeons, and NLM records his role as a surgery leader at Howard and Freedmen's Hospital. Teaching capable physicians was another substantial contribution, with a life beyond the original blood-bank project.
+Back at Howard University, Drew devoted years to surgical education and mentoring. The Science History Institute describes the breadth of his work training Black surgeons, and NLM records his role as a surgery leader at Howard and Freedmen's Hospital. Teaching capable physicians was another substantial contribution, with a life beyond the original blood-bank project.
 
 ## The facts do not need an invented ending
 
-Drew died in 1950 after a car accident. A persistent story claims that he died because a hospital refused him a transfusion on racial grounds. NLM's biographical account and the Smithsonian's history reject that account: he received emergency care, but his injuries were too severe. His actual experience of discrimination is not made stronger by attaching an unsupported story to his death.
+Drew died in 1950 after a car accident. A persistent story claims that he died because a hospital refused him a transfusion on racial grounds. NLM's biographical account rejects that account: he received emergency care, but his injuries were too severe. His actual experience of discrimination is not made stronger by attaching an unsupported story to his death.
 
-That matters when we share history. Correcting a false claim does not cancel a documented wrong. It helps preserve a record that can withstand questions and keeps Drew's life, rather than a misleading account of his death, at the centre.
+There is enough in the record to explain the discrimination Drew faced. The donor rule, and what he said about it, deserve more attention than a story the NLM account rejects.
 
 His work benefited people who needed blood products and the medical trainees he helped prepare. The institutions held the authority to define practice, choose staff and impose or change donor policy. The burden of racial exclusion was carried by Black donors and professionals. This article does not calculate a modern financial benefit, an individual compensation claim or a total of lives attributable to him alone.
 
 ## Pull Up A Chair
 
-If your school, library or community group marks Drew's contribution, teach one concrete part of the system he helped organize and distinguish it from the false claim about his death. Read NLM and the Smithsonian alongside an institution's anniversary account. That combination allows admiration and scrutiny to sit in the same room.
+If your school, library or community group marks Drew's contribution, teach one concrete part of the system he helped organize and distinguish it from the false claim about his death. Read NLM and the Science History Institute alongside an institution's anniversary account. Give students the account of the collection procedures as well as the account of the donor rule. They explain different parts of the same service.
 
 If you are considering giving blood, use the blood service's current eligibility and appointment information for your own situation. A historical article cannot determine whether a particular person should donate. People who cannot donate can still learn the history or ask a local service what practical non-donor support it needs.
 
 ## Resources: United States
 
 - National Library of Medicine historical biography: https://www.nlm.nih.gov/exhibition/education/charlesdrew/pdf/BiographicalInformation-Introduction.pdf
-- Smithsonian Lemelson Center account: https://invention.si.edu/invention-stories/diverse-voices-blood-transfusion-pioneer-dr-charles-drew
+- Science History Institute account: https://www.sciencehistory.org/education/scientific-biographies/charles-richard-drew/
 - Red Cross September 29, 2026 anniversary account: https://www.redcross.org/about-us/news-and-events/news/2026/85-years-later.html
 - Current Red Cross donor eligibility information: https://www.redcrossblood.org/donate-blood/how-to-donate/eligibility-requirements.html
 
@@ -81,12 +81,12 @@ Before passing on a tribute to Drew, explain one thing he actually changed and c
 
 ## Receipts
 
-1. NLM, Charles R. Drew Papers educational biographical introduction, checked November 8: plasma-project procedures, pilot programme, surgical education and circumstances of death. https://www.nlm.nih.gov/exhibition/education/charlesdrew/pdf/BiographicalInformation-Introduction.pdf
-2. Smithsonian Lemelson Center, Diverse Voices: Blood Transfusion Pioneer Dr. Charles Drew, checked November 8: institutional career, racial policy opposition, teaching and death-story correction. https://invention.si.edu/invention-stories/diverse-voices-blood-transfusion-pioneer-dr-charles-drew
+1. NLM, Charles R. Drew Papers educational biographical introduction, checked November 11: plasma-project procedures, pilot programme, surgical education and circumstances of death. https://www.nlm.nih.gov/exhibition/education/charlesdrew/pdf/BiographicalInformation-Introduction.pdf
+2. Science History Institute, Charles Richard Drew, checked November 11: institutional career, racial policy opposition and teaching. https://www.sciencehistory.org/education/scientific-biographies/charles-richard-drew/
 3. American Red Cross, September 29, 2026, 85 Years Later: Dr. Drew's Standards Still Guide the Red Cross Medical Office: named modern physician recollection and September 18 film release. Institutional self-description, not independent outcome evaluation. https://www.redcross.org/about-us/news-and-events/news/2026/85-years-later.html
 4. American Red Cross significant dates: February 4, 1941 donor-service start and medical-director role. https://www.redcross.org/about-us/who-we-are/history/significant-dates.html
-5. USPTO, Planting a tradition of excellence, checked November 8: medical leadership, racial blood policy and training. Its award-year wording differs from other accounts; no Spingarn year is used here. https://www.uspto.gov/learning-and-resources/journeys-innovation/historical-stories/planting-tradition-excellence
-6. Red Cross current eligibility page, checked November 8: reader information route, not certification of any person's eligibility. https://www.redcrossblood.org/donate-blood/how-to-donate/eligibility-requirements.html
+5. USPTO, Planting a tradition of excellence, checked November 11: medical leadership, racial blood policy and training. Its award-year wording differs from other accounts; no Spingarn year is used here. https://www.uspto.gov/learning-and-resources/journeys-innovation/historical-stories/planting-tradition-excellence
+6. Red Cross current eligibility page, checked November 11: reader information route, not certification of any person's eligibility. https://www.redcrossblood.org/donate-blood/how-to-donate/eligibility-requirements.html
 
 ## Accountability ledger
 
@@ -99,7 +99,7 @@ Before passing on a tribute to Drew, explain one thing he actually changed and c
 
 ## How we checked this
 
-Checked November 8, 2026. Read the full NLM educational PDF and the institutional histories, Red Cross chronology, September account and current eligibility route. No original interview or claim to have watched the film. Institutional accounts use differing role labels at different project stages; the article describes the common documented leadership without claiming a precise single job title for every period. Sources differ on a Spingarn award year, which is omitted. No unsupported death-refusal claim, present-day racial donor rule, single-inventor myth or individual medical advice.
+Checked November 8 and refreshed November 11, 2026. Read the full NLM educational PDF and the institutional histories, Red Cross chronology, September account and current eligibility route. No original interview or claim to have watched the film. Institutional accounts use differing role labels at different project stages; the article describes the common documented leadership without claiming a precise single job title for every period. Sources differ on a Spingarn award year, which is omitted. No unsupported death-refusal claim, present-day racial donor rule, single-inventor myth or individual medical advice.
 
 ## Facebook: English
 
@@ -107,7 +107,7 @@ The Red Cross released a new Charles Drew film in September. It is a reason to r
 
 ## Instagram: English
 
-Charles Drew helped make blood banking work across institutions. He also challenged a racial donation policy that the science did not support. His contribution includes standards, organization and training other doctors. It does not need the false story that he died after being denied a transfusion. Before sharing a tribute, read the documented work and check the ending. The full article links NLM, the Smithsonian and the Red Cross's recent anniversary account.
+Charles Drew helped make blood banking work across institutions. He also challenged a racial donation policy that the science did not support. His contribution includes standards, organization and training other doctors. It does not need the false story that he died after being denied a transfusion. Before sharing a tribute, read the documented work and check the ending. The full article links NLM, the Science History Institute and the Red Cross's recent anniversary account.
 
 ## Originality and selection
 
@@ -119,3 +119,11 @@ Publication candidate after both gates. Main tree, live archive and queue contai
 ## Gate 2: PASS
 
 2026-11-08T07:52:17.288Z, Codex separate hostile-reader/Regular Joe/full-template review after Gate 1. Reread the complete body and platform copy; removed a repetitive recap paragraph. Story begins with a named, attributed contemporary physician recollection but does not pretend an interview or measured programme outcome. Actual organizing methods, institution-specific policy responsibility, beneficiaries, education and practical reader action are explained in developed paragraphs. Hostile objections addressed: not inventor of transfusion; other scientists and institutions credited; no implied resignation protest or invented death-refusal narrative; modern donor eligibility is directed to current service information. Current Red Cross film is a discovery peg and self-description, not a film review or proof of all promotional assertions. Sources and award/role limits explicit. Complete approved achievement Seat Status, three-part Short Version/Based on, Pull Up A Chair, country resources, Seat Summary, specific final thought, receipts/accountability ledger, one disclosure, excerpt and image concept. English FB/IG are clean plain text; Instagram 465 characters. No forced brand slogan, repeated rhetorical ending or collective racial accusation. Distinct from Alice's national/Olympic competition and Raye's naval drafting; queue behind unrelated material. Automatically approved for reserve after both gates, with future source/relevance/technical release checks still required.
+
+
+## November 11 release refresh
+
+- Gate 1: PASS | 2026-11-11 07:09:21 UTC | Codex evidence refresh. Reopened NLM’s archived biography (including emergency treatment), Red Cross February 4, 1941 chronology and September 29 account (September 18 release and Mair’s attributed recollection), USPTO and current donor resource. The original Smithsonian page timed out; substituted the opened Science History Institute history for career, race policy and education, and relied on NLM directly for the death account. Retained role-title and award-date limits. No new legal or clinical claim. Main and public archive matched; Drew slug 404 and no daily feed entry.
+- Gate 2: PASS | 2026-11-11 07:10:18 UTC | Codex separate hostile/Regular Joe pass: chronology and Mair attribution bounded; no invention myth, present donor rule, collective blame or claim about resignation. Reader can identify the work, beneficiaries, racial burden, authority and teaching/donor action. Short Version, approved status, Pull Up A Chair, country resources, Seat Summary, closing, receipts, evidence limits, excerpt, copy and image brief retained. Distinct from Alice and Raye.
+- Voice: PASS | Final voice pass after both reviews: kept the poster recollection with attribution, removed repetitive moral recap and generic teaching transition, and ended with a specific teaching task. Checked both social versions for plain text and no em dashes or stock signoff.
+- Gate 3: pending public verification.

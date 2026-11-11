@@ -664,3 +664,13 @@ main.participation .mission,main.participation .org small,main.participation .or
   .daily-entry p:not(.eyebrow){font-size:16px}
 }
 .about-sub{margin:0;font-size:clamp(18px,1.7vw,21px);font-style:italic;color:var(--muted);line-height:1.4}
+
+/* Colour system (Nov 11): topic colours + gold accents. Tones are set by nav.js via data-tone. */
+:root{--tone-red:#8e1018;--tone-blue:#1f4e79;--tone-green:#3d6b4a;--tone-gold:#a87a14}
+[data-tone=red]{--tone:var(--tone-red)}[data-tone=blue]{--tone:var(--tone-blue)}[data-tone=green]{--tone:var(--tone-green)}[data-tone=gold]{--tone:var(--tone-gold)}
+.cards article[data-tone],.archive-card[data-tone]{border-top:4px solid var(--tone);border-bottom:0;margin-top:14px;padding-top:18px}
+.cards article[data-tone] .eyebrow,.cards article[data-tone] a,.archive-card[data-tone] .story-meta,.archive-card[data-tone] .card-link{color:var(--tone)}
+.resource-entry[data-tone]{border-left:4px solid var(--tone);padding-left:18px}
+.topic-grid a[data-tone]{border-left:4px solid var(--tone);padding-left:16px;border-bottom:1px solid #d8d0c4}
+.about-section h2,.chair-section h2{border-top:4px solid var(--tone-gold);padding-top:14px}
+.secondary{border-color:#e1ad4d}

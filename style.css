@@ -674,3 +674,4 @@ main.participation .mission,main.participation .org small,main.participation .or
 .topic-grid a[data-tone]{border-left:4px solid var(--tone);padding-left:16px;border-bottom:1px solid #d8d0c4}
 .about-section h2,.chair-section h2{border-top:4px solid var(--tone-gold);padding-top:14px}
 .secondary{border-color:#e1ad4d}
+.about-q{font-size:1.15em;line-height:1.4}

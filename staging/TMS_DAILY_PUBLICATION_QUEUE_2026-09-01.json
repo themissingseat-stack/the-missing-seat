@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-11-10",
+  "last_reconciled": "2026-11-11",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -22,31 +22,36 @@
     ]
   },
   "deployment": {
-    "source": "GitHub main; public custom domain verified November 10 for November 9 release",
+    "source": "GitHub main; custom domain and GitHub Pages origin checked",
     "status": "published_live_verified",
-    "commit": "5bf4764e88acb6dfde08208dfefe7792e9e36f35",
-    "workflow": "https://github.com/themissingseat-stack/the-missing-seat/actions/runs/42582264607",
-    "verified_origin_blobs": {
-      "a-child-can-have-a-credit-file-before-they-have-a-job.html": "8eadb8aa60f0f0a5385ae68e8a044e86de83cea6",
-      "feed.xml": "0d8141c89ba375034a750c7205d4f2cc8e82a651",
-      "index.html": "87997277f78d3982f5dbcef9404418f4bb876560",
-      "sitemap.xml": "f981d160f21e2c8627a3eb44e31f6e2d9f2e0749",
-      "something-worth-sharing.html": "53428a366611c0151372b7fbc9ddcd5992348a1d",
-      "stories.html": "8171a4d43f342d25ddf93df64725ea54bddef6e1",
-      "topics/children-families.html": "f1fdea84aac9abcb05f4a2adf7b950d69e8ddb9c"
-    },
-    "public_verified": "2026-11-10",
+    "public_verified": "2026-11-11",
+    "commit": "1a1affa14b9f7ddb61275417d0e423abc3542b78",
+    "workflow": "https://github.com/themissingseat-stack/the-missing-seat/actions/runs/42977558168",
     "verified_public_blobs": {
-      "a-child-can-have-a-credit-file-before-they-have-a-job.html": "8eadb8aa60f0f0a5385ae68e8a044e86de83cea6",
-      "feed.xml": "0d8141c89ba375034a750c7205d4f2cc8e82a651",
-      "index.html": "87997277f78d3982f5dbcef9404418f4bb876560",
-      "sitemap.xml": "f981d160f21e2c8627a3eb44e31f6e2d9f2e0749",
-      "something-worth-sharing.html": "53428a366611c0151372b7fbc9ddcd5992348a1d",
-      "stories.html": "8171a4d43f342d25ddf93df64725ea54bddef6e1",
-      "topics/children-families.html": "f1fdea84aac9abcb05f4a2adf7b950d69e8ddb9c"
+      "black-brilliant-beyond.html": "4141d82f9d17b72123a02a08a94211c2003e75b1",
+      "charles-drew-helped-build-a-blood-system-and-challenged-its-rules.html": "074efc49616d05331838f9b4256355dc31019e0f",
+      "feed.xml": "ef8b91bb84d34bb2ae39fff277a01288689eca42",
+      "index.html": "25cb9693ccc0871ba8d9a3f4a6ac825654c23900",
+      "sitemap.xml": "465d2660d51a57e95680077437dd8c12fad9ffb2",
+      "something-worth-sharing.html": "817a6a1df8c5be39b031b3a0923d4a3e4c6143fb",
+      "stories.html": "6429788de08fa68babdf5adc7e2e4e4c0c35c4f5",
+      "topics/missing-history.html": "dde4f45e67d4747f4cd94d04cc9037061da78647"
     }
   },
   "published_record": [
+    {
+      "title": "Charles Drew Helped Build a Blood System. He Also Challenged Its Rules.",
+      "slug": "charles-drew-helped-build-a-blood-system-and-challenged-its-rules.html",
+      "source": "editorial-packages/TMS_CHARLES_DREW_BLOOD_SYSTEM_RULES_PUBLICATION_PACKAGE_2026-11-08.md",
+      "publication_status": "published_live_verified",
+      "published_verified": "2026-11-11",
+      "article_commit": "1a1affa14b9f7ddb61275417d0e423abc3542b78",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "voice": "PASS",
+      "gate_3": "PASS",
+      "notes": "Eight public production paths HTTP 200 and exact commit bytes. Sole new full release."
+    },
     {
       "title": "A Child Can Have a Credit File Before They Have a Job.",
       "slug": "a-child-can-have-a-credit-file-before-they-have-a-job.html",
@@ -793,33 +798,6 @@
       "current_release_blocker": "November 8: directive VII.4 requires December 1 electronic filing; SAB FAQ says no strict deadline, ideally December 1. Resolve applicable current filing rule and revise package before renewed Gate 1/2. Prior PASS is not current approval."
     },
     {
-      "title": "Charles Drew Helped Build a Blood System. He Also Challenged Its Rules.",
-      "canonical_title": "Charles Drew Helped Build a Blood System. He Also Challenged Its Rules.",
-      "slug": "charles-drew-helped-build-a-blood-system-and-challenged-its-rules",
-      "source": "editorial-packages/TMS_CHARLES_DREW_BLOOD_SYSTEM_RULES_PUBLICATION_PACKAGE_2026-11-08.md",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "scheduled_date": null,
-      "approval": "Automatic after November 8 factual and separate template/hostile-reader PASS",
-      "gate_1": "PASS",
-      "gate_2": "PASS",
-      "release_gate_status": "content_gates_passed_technical_release_pending",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.",
-          "distinction": "Different blood service, organizing standards, documented racial donor rule and correction of false death story rather than naval drafting and paid technical access."
-        },
-        {
-          "title": "Alice Coachman Was a Champion Before the Olympic Medal.",
-          "distinction": "Medical service and donor policy rather than sport performance and Olympic tie-break."
-        }
-      ],
-      "notes": "September 2026 institutional film account is a discovery peg, not breaking invention news or measured programme outcome. Interleave Black-history stories. Refresh sources, future relevance and technical HTML/image/links at release.",
-      "position": 15
-    },
-    {
       "title": "The Berlin Wall Opened When People Went to the Border.",
       "canonical_title": "The Berlin Wall Opened When People Went to the Border.",
       "slug": "the-berlin-wall-opened-when-people-went-to-the-border",
@@ -842,7 +820,7 @@
         }
       ],
       "notes": "Refresh anniversary reference; render/integrate article, archive, homepage, topic, RSS and sitemap, then verify public domain.",
-      "position": 16
+      "position": 15
     },
     {
       "title": "Germany Built a Way to Call for Help Without Speaking. Set It Up Before You Need It.",
@@ -867,6 +845,32 @@
         }
       ],
       "notes": "Refresh current official setup instructions and links; render article and integrate site surfaces before release; verify production separately.",
+      "position": 16
+    },
+    {
+      "title": "Jason Jones Won His Privacy Appeal. The Court Still Has an Order to Write.",
+      "canonical_title": "Jason Jones Won His Privacy Appeal. The Court Still Has an Order to Write.",
+      "slug": "jason-jones-trinidad-tobago-privacy-appeal",
+      "source": "editorial-packages/TMS_TRINIDAD_TOBAGO_JASON_JONES_PRIVACY_PUBLICATION_PACKAGE_2026-11-11.md",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "approval": "Standing two-review authorization, November 11",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "voice": "PASS",
+      "review_1": "PASS | 2026-11-11 07:11:23 UTC | Codex evidence review. Read the signed judgment, especially paragraphs 21–25, 26–35, 52–55 and 73–89, case docket and court summary, then compared TTT and Reuters. The final appellate board was unanimous, allowed Jones’s appeal and dismissed the cross-appeal. Section 6 and section 13 are different defenses; neither saved the application at issue. Paragraphs 85–89 leave the precise form of the order open and give a provisional view; no separate final remedial order or submission deadline found on the case docket at review. Scope is private, consensual same-sex relations between adults, not blanket repeal, record clearing or marriage. No asserted damages, arrests or enforcement change.",
+      "review_2": "PASS | 2026-11-11 07:11:46 UTC | Codex separate hostile-reader, Regular Joe and format review. Checked live archive versus main, reserved and hold records, queue and existing revisions. No Jones/Trinidad story found. The blue-wave procedural follow-up is not a comparator on facts or action; the Jesse Lee Bond story also uses court records, but concerns a family’s historical record in Tennessee, not constitutional privacy in Trinidad and Tobago. The opening attributes Jones’s experience to the court. Distinguished colonial predecessor from the independent legislature’s 1986 Act; gave the government’s savings and special-majority arguments and the court’s answers. The court’s constitutional ruling and pending remedy remain separate throughout website and social. Checked title, approved status wording, Short Version, Pull Up A Chair, resources, Seat Summary, receipts, verification notice and image brief. Instagram 416 characters.",
+      "release_gate_status": "content_gates_passed_technical_release_pending",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "His Death Was Called an Accident. His Great-Granddaughter Became a Supreme Court Justice.",
+          "distinction": "Historical record and family in Tennessee versus current Trinidad and Tobago constitutional privacy, criminal law and pending remedy."
+        }
+      ],
+      "notes": "Reopen case docket for written submissions or final order and refresh before release; render and integrate all public surfaces.",
       "position": 17
     }
   ],
@@ -1466,33 +1470,6 @@
       "current_release_blocker": "November 8: directive VII.4 requires December 1 electronic filing; SAB FAQ says no strict deadline, ideally December 1. Resolve applicable current filing rule and revise package before renewed Gate 1/2. Prior PASS is not current approval."
     },
     {
-      "title": "Charles Drew Helped Build a Blood System. He Also Challenged Its Rules.",
-      "canonical_title": "Charles Drew Helped Build a Blood System. He Also Challenged Its Rules.",
-      "slug": "charles-drew-helped-build-a-blood-system-and-challenged-its-rules",
-      "source": "editorial-packages/TMS_CHARLES_DREW_BLOOD_SYSTEM_RULES_PUBLICATION_PACKAGE_2026-11-08.md",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "scheduled_date": null,
-      "approval": "Automatic after November 8 factual and separate template/hostile-reader PASS",
-      "gate_1": "PASS",
-      "gate_2": "PASS",
-      "release_gate_status": "content_gates_passed_technical_release_pending",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.",
-          "distinction": "Different blood service, organizing standards, documented racial donor rule and correction of false death story rather than naval drafting and paid technical access."
-        },
-        {
-          "title": "Alice Coachman Was a Champion Before the Olympic Medal.",
-          "distinction": "Medical service and donor policy rather than sport performance and Olympic tie-break."
-        }
-      ],
-      "notes": "September 2026 institutional film account is a discovery peg, not breaking invention news or measured programme outcome. Interleave Black-history stories. Refresh sources, future relevance and technical HTML/image/links at release.",
-      "position": 15
-    },
-    {
       "title": "The Berlin Wall Opened When People Went to the Border.",
       "canonical_title": "The Berlin Wall Opened When People Went to the Border.",
       "slug": "the-berlin-wall-opened-when-people-went-to-the-border",
@@ -1515,7 +1492,7 @@
         }
       ],
       "notes": "Refresh anniversary reference; render/integrate article, archive, homepage, topic, RSS and sitemap, then verify public domain.",
-      "position": 16
+      "position": 15
     },
     {
       "title": "Germany Built a Way to Call for Help Without Speaking. Set It Up Before You Need It.",
@@ -1540,6 +1517,32 @@
         }
       ],
       "notes": "Refresh current official setup instructions and links; render article and integrate site surfaces before release; verify production separately.",
+      "position": 16
+    },
+    {
+      "title": "Jason Jones Won His Privacy Appeal. The Court Still Has an Order to Write.",
+      "canonical_title": "Jason Jones Won His Privacy Appeal. The Court Still Has an Order to Write.",
+      "slug": "jason-jones-trinidad-tobago-privacy-appeal",
+      "source": "editorial-packages/TMS_TRINIDAD_TOBAGO_JASON_JONES_PRIVACY_PUBLICATION_PACKAGE_2026-11-11.md",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "approval": "Standing two-review authorization, November 11",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "voice": "PASS",
+      "review_1": "PASS | 2026-11-11 07:11:23 UTC | Codex evidence review. Read the signed judgment, especially paragraphs 21–25, 26–35, 52–55 and 73–89, case docket and court summary, then compared TTT and Reuters. The final appellate board was unanimous, allowed Jones’s appeal and dismissed the cross-appeal. Section 6 and section 13 are different defenses; neither saved the application at issue. Paragraphs 85–89 leave the precise form of the order open and give a provisional view; no separate final remedial order or submission deadline found on the case docket at review. Scope is private, consensual same-sex relations between adults, not blanket repeal, record clearing or marriage. No asserted damages, arrests or enforcement change.",
+      "review_2": "PASS | 2026-11-11 07:11:46 UTC | Codex separate hostile-reader, Regular Joe and format review. Checked live archive versus main, reserved and hold records, queue and existing revisions. No Jones/Trinidad story found. The blue-wave procedural follow-up is not a comparator on facts or action; the Jesse Lee Bond story also uses court records, but concerns a family’s historical record in Tennessee, not constitutional privacy in Trinidad and Tobago. The opening attributes Jones’s experience to the court. Distinguished colonial predecessor from the independent legislature’s 1986 Act; gave the government’s savings and special-majority arguments and the court’s answers. The court’s constitutional ruling and pending remedy remain separate throughout website and social. Checked title, approved status wording, Short Version, Pull Up A Chair, resources, Seat Summary, receipts, verification notice and image brief. Instagram 416 characters.",
+      "release_gate_status": "content_gates_passed_technical_release_pending",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "His Death Was Called an Accident. His Great-Granddaughter Became a Supreme Court Justice.",
+          "distinction": "Historical record and family in Tennessee versus current Trinidad and Tobago constitutional privacy, criminal law and pending remedy."
+        }
+      ],
+      "notes": "Reopen case docket for written submissions or final order and refresh before release; render and integrate all public surfaces.",
       "position": 17
     }
   ],
@@ -2201,7 +2204,12 @@
     {
       "original_slug": "the-blue-wave-won-congress-now-show-america-what-that-victory-is-worth",
       "source": "https://www.senate.gov/legislative/LIS/roll_call_lists/vote_menu_119_2.htm",
-      "trigger": "Nov 9 roll call 257, 73–25, cloture on the motion to proceed to H.R. 2347 as permitting vehicle. Track actual floor text, amendment, final votes and effect on communities near projects and on tribal consultation before a full follow-up. Procedural vote is not final passage. Original failed review remains withdrawn."
+      "trigger": "Nov 9 roll call 257, 73–25, cloture on the motion to proceed to H.R. 2347 as permitting vehicle. Track actual floor text, amendment, final votes and effect on communities near projects and on tribal consultation before a full follow-up. Procedural vote is not final passage. Original failed review remains withdrawn.",
+      "latest": {
+        "date": "2026-11-10",
+        "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00258.htm",
+        "status": "Motion to proceed to H.R. 2347 agreed 62–21. Procedural advance only; watch operative text, amendments, final votes and effect."
+      }
     }
   ],
   "positive_solution_candidates": [
@@ -2962,17 +2970,17 @@
   },
   "sws_track": {
     "source": "TMS_SWS_LEDGER.json",
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "status": "published_live_verified",
-    "url": "https://themissingseat.org/something-worth-sharing.html#let-them-tell-you-what-they-want-2026-11-10",
-    "title": "Let Them Tell You What They Want",
+    "url": "https://themissingseat.org/something-worth-sharing.html#you-can-have-an-ordinary-day-2026-11-11",
+    "title": "You Can Have an Ordinary Day",
     "editorial_inventory_excluded": true,
     "backlog_oct18_23": {
       "verified_present": 6,
       "unpublished_remaining": 0
     },
-    "older_entries_preserved": 19,
-    "commit": "f013859cd00fa37cec9cafde4c982b1ec1149335",
+    "older_entries_preserved": 20,
+    "commit": "1a1affa14b9f7ddb61275417d0e423abc3542b78",
     "public_blocker": null
   },
   "external_manuscripts_pending_status_verification": [
@@ -3219,5 +3227,45 @@
       "source": "https://patents.google.com/patent/US386289A/en"
     }
   ],
-  "reconciliation_notes_2026_11_10": "Prior child-credit release now live on all seven public paths; no second full release. New nora package approved and queued. Both days' SWS verified. November 9 publication audit retained."
+  "reconciliation_notes_2026_11_10": "Prior child-credit release now live on all seven public paths; no second full release. New nora package approved and queued. Both days' SWS verified. November 9 publication audit retained.",
+  "daily_editorial_completion_2026_11_11": {
+    "title": "Jason Jones Won His Privacy Appeal. The Court Still Has an Order to Write.",
+    "source": "editorial-packages/TMS_TRINIDAD_TOBAGO_JASON_JONES_PRIVACY_PUBLICATION_PACKAGE_2026-11-11.md",
+    "status": "approved_queued_full_finished",
+    "gate_1": "PASS",
+    "gate_2": "PASS",
+    "voice": "PASS",
+    "new_full_finished": 1,
+    "publication": {
+      "title": "Charles Drew Helped Build a Blood System. He Also Challenged Its Rules.",
+      "slug": "charles-drew-helped-build-a-blood-system-and-challenged-its-rules.html",
+      "source": "editorial-packages/TMS_CHARLES_DREW_BLOOD_SYSTEM_RULES_PUBLICATION_PACKAGE_2026-11-08.md",
+      "publication_status": "published_live_verified",
+      "published_verified": "2026-11-11",
+      "article_commit": "1a1affa14b9f7ddb61275417d0e423abc3542b78",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "voice": "PASS",
+      "gate_3": "PASS",
+      "notes": "Eight public production paths HTTP 200 and exact commit bytes. Sole new full release."
+    }
+  },
+  "discovery_2026_11_11": [
+    {
+      "title": "Jason Jones Won His Privacy Appeal. The Court Still Has an Order to Write.",
+      "outcome": "approved_queued",
+      "source": "https://jcpc.uk/uploads/jcpc_2025_0095_judgment_8d1b8d26e8.pdf"
+    },
+    {
+      "title": "Lame-duck permitting vehicle",
+      "outcome": "follow_up_update",
+      "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00258.htm"
+    },
+    {
+      "title": "Veterans’ compensation H.R. 8552",
+      "outcome": "research_required",
+      "source": "https://clerk.house.gov/FloorSummary/ViewFloorActions"
+    }
+  ],
+  "reconciliation_notes_2026_11_11": "Drew verified and removed from queue; Jones approved and appended. No second release. SWS verified. Germany remains 2 of 2."
 }

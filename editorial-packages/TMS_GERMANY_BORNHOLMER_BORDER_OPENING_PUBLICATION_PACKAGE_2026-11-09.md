@@ -1,7 +1,7 @@
 # The Berlin Wall Opened When People Went to the Border.
 
 - Author: Jansen
-- Completed: November 9, 2026. Publication date to be assigned.
+- Completed: November 9, 2026. Publication: November 12, 2026; public verification pending.
 - Slug: the-berlin-wall-opened-when-people-went-to-the-border
 - Topic: Missing History; Solutions & Participation
 - Location: Berlin, Germany
@@ -24,7 +24,7 @@ Based on: The press conference transcript, Rainer Eppelmann’s recollections, t
 
 Rainer Eppelmann remembers getting close enough to the barrier at Bornholmer Straße to hear a man ask the guards to open it. The man had a reason to expect an answer: an East German official had just told a room full of reporters that new travel rules were taking effect immediately. Yet the guards were still there and the barrier was still down. In Eppelmann’s account, people kept asking to cross. Once the barrier opened, he remembers strangers embracing. He and a companion walked a short way into the crossing area and turned around to watch. They did not go all the way into West Berlin that night. [1, 2]
 
-The video of Günter Schabowski at his press conference is famous for good reason. Asked when the new rules took effect, he looked through his papers and answered that, as far as he knew, they applied immediately. Read the rest of the transcript, though, and you find a policy about applying for trips and issuing permissions. You do not find an instruction to stop checking everyone at Bornholmer Straße. Residents who heard the news went to see what it meant. The people staffing the crossing had to decide what to do with the answer they had just heard on the news and the crowd in front of them. [1, 3, 4]
+The video of Günter Schabowski at his press conference is famous for good reason. Asked when the new rules took effect, he looked through his papers and answered that, as far as he knew, they applied immediately. Read the rest of the transcript, though, and you find a policy about applying for trips and issuing permissions. You do not find an instruction to stop checking everyone at Bornholmer Straße. Residents who heard the news went to see what it meant. At the crossing, staff now faced a crowd expecting to be let through. [1, 3, 4]
 
 ## What changed at the crossing
 
@@ -38,7 +38,7 @@ The immediate benefit went to people who could cross that night, including peopl
 
 ## Pull Up A Chair
 
-Read the press conference answer and the timeline from the same evening. Then read Eppelmann’s account and compare what he could see with what the passport-control recollections describe. Berlin’s Mitte district announced a November 9, 2026 commemoration with Pankow at the former crossing for the 37th anniversary. The Berlin Wall Foundation’s permanent outdoor exhibition gives visitors a way to study the site beyond the anniversary. If you are teaching the story, ask students to mark the announcement, the selective crossing and the end of checks on three separate lines. They will be able to see how much happened after the television clip ended. [1, 2, 3, 6, 7]
+Read the press conference answer and the timeline from the same evening. Then read Eppelmann’s account and compare what he could see with what the passport-control recollections describe. Ahead of the 37th anniversary, Berlin’s Mitte district announced a November 9 commemoration with Pankow at the former crossing. The Berlin Wall Foundation’s permanent outdoor exhibition gives visitors a way to study the site beyond the anniversary. If you are teaching the story, ask students to mark the announcement, the selective crossing and the end of checks on three separate lines. The time between those lines is the part the television clip leaves out. [1, 2, 3, 6, 7]
 
 ## Resources: Germany and readers elsewhere
 
@@ -69,11 +69,11 @@ Checked November 9, 2026. The press conference is a contemporary record; the Epp
 
 At Bornholmer Straße on November 9, 1989, East Berliners heard that travel rules had changed and went to see whether they could cross. The first people through were still checked. Later that night the checks stopped.
 
-The famous press conference tells you what people heard. The records and witness accounts from the bridge tell you what happened next. Read them together, or visit the Berlin Wall Foundation’s exhibition at the former crossing: https://www.stiftung-berliner-mauer.de/de/node/1758
+The famous press conference tells you what people heard. The records and witness accounts from the bridge tell you what happened next. Read them together, or visit the Berlin Wall Foundation's exhibition at the former crossing: https://www.stiftung-berliner-mauer.de/de/node/1758
 
 ## Instagram: English
 
-The Berlin Wall didn’t open at Bornholmer Straße the moment the news broke. On November 9, 1989, people went to the crossing. Guards first let selected people through and still checked their papers. Later that night the checks stopped.
+The Berlin Wall didn't open at Bornholmer Straße the moment the news broke. On November 9, 1989, people went to the crossing. Guards first let selected people through and still checked their papers. Later that night the checks stopped.
 
 Compare the press conference transcript with the crossing timeline at Chronik der Mauer. In Berlin, visit the outdoor exhibition at Platz des 9. November 1989 and follow the sequence at the site itself.
 
@@ -98,3 +98,10 @@ A rights-cleared documentary photograph of the former crossing or a new, clearly
 - Gate 1: PASS | 2026-11-09 07:56:14 UTC | Codex, evidence pass. Reopened all nine linked documents. Transcript separates rules on applications and permission from Schabowski’s immediate-effect answer; Eppelmann confirms what he saw and that he did not reach West Berlin; chronology separates initial controlled passage from checks ending around 23:30. Jäger recollection corroborates cessation of checks, not the exact physical opening Eppelmann recalls. November 4 demonstration, October 3 reunification date and November 9, 1938 remembrance separately anchored. The Nov 6 district release announces a commemoration; no assertion of attendance or outcome. No pending legislative or legal deadline applies.
 - Gate 2: PASS | 2026-11-09 07:56:37 UTC | Codex, separate hostile-reader and Regular Joe pass. A critic could mistake the television answer for a universal order, or the crowd for the only cause; the body now distinguishes the policy, public demand, early controlled passage and local decision to stop checks. Removed any implication of possessing an original operational log. People, power, costs and actual benefit are explicit, and the divided historical memories are not collapsed. Short Version, existing approved Seat Status wording from the Theodor Wonja Michael package, Pull Up A Chair, German resources, Seat Summary, linked receipts, verification notice, image brief, plain English and German social copy present. Instagram: 439 English, 489 German characters. Live archive, current repository tree, numbered queue, reserved titles and holds show no same work. Theodor Wonja Michael concerns education and Black German life, not border procedure or this reader action. Recheck anniversary wording before release and render public surfaces.
 - Release status: FULL FINISHED / AUTOMATICALLY APPROVED / UNPUBLISHED. Gate 3 and final date pending; do not publish alongside the November 9 release.
+
+## November 12 release refresh
+
+- Gate 1: PASS | 2026-11-12 07:25:10 UTC | Codex evidence pass. Reopened all nine receipts. Government chronology gives the initial controlled crossing at about 21:20; archival timeline gives end of checks around 23:30. Eppelmann's recollection identifies what he saw and how far he went. Transcript states immediate effect but does not order the checkpoint to stop checking. The November 6 district release is a notice, not proof of attendance. Reunification date and 1938 remembrance checked. Public slug 404, public archive matches main, no November 12 feed entry. Verified the final EN/DE Facebook/Instagram exports preserve dates, names, scope and links.
+- Gate 2: PASS | 2026-11-12 07:25:10 UTC | Separate hostile/Regular Joe pass. The headline and body keep residents, staff and announcement in view without claiming a single cause. Opening memory attributed; roles, benefits and costs explicit. Approved Seat Status, Short Version, Pull Up A Chair, German resources, Seat Summary, receipts, verification and image brief present. Actual literal GitHub package exports checked, not sent to social platforms. No markup, entities, smart punctuation, broken paragraph breaks or stray controls. EN/DE Instagram 439/489 characters.
+- Final voice PASS: tightened the move from transcript to crowd, clarified the anniversary notice and ended with a usable comparison across records. Excerpt scanned.
+- Gate 3: pending public verification.

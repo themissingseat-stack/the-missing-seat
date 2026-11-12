@@ -139,6 +139,14 @@ Criticism isn't the problem.
 
 The problem starts when we refuse to examine legitimate criticism.
 
+### How we use AI
+
+We use AI tools to help with research and drafting. Jansen Bowden is responsible for what is published.
+
+### What we are not
+
+The Missing Seat is not a law firm, a legal aid service or a political party. We explain rights and point to organizations that can help. We cannot give legal advice or represent you. A listing in our directory is not an endorsement of everything an organization does.
+
 ### Something Worth Sharing
 
 Not everything worth telling needs to be political, historical, or the result of an investigation.

@@ -1,7 +1,7 @@
 # The Berlin Wall Opened When People Went to the Border.
 
 - Author: Jansen
-- Completed: November 9, 2026. Publication: November 12, 2026; public verification pending.
+- Completed: November 9, 2026. Publication: November 12, 2026; public verification complete.
 - Slug: the-berlin-wall-opened-when-people-went-to-the-border
 - Topic: Missing History; Solutions & Participation
 - Location: Berlin, Germany
@@ -104,4 +104,4 @@ A rights-cleared documentary photograph of the former crossing or a new, clearly
 - Gate 1: PASS | 2026-11-12 07:25:10 UTC | Codex evidence pass. Reopened all nine receipts. Government chronology gives the initial controlled crossing at about 21:20; archival timeline gives end of checks around 23:30. Eppelmann's recollection identifies what he saw and how far he went. Transcript states immediate effect but does not order the checkpoint to stop checking. The November 6 district release is a notice, not proof of attendance. Reunification date and 1938 remembrance checked. Public slug 404, public archive matches main, no November 12 feed entry. Verified the final EN/DE Facebook/Instagram exports preserve dates, names, scope and links.
 - Gate 2: PASS | 2026-11-12 07:25:10 UTC | Separate hostile/Regular Joe pass. The headline and body keep residents, staff and announcement in view without claiming a single cause. Opening memory attributed; roles, benefits and costs explicit. Approved Seat Status, Short Version, Pull Up A Chair, German resources, Seat Summary, receipts, verification and image brief present. Actual literal GitHub package exports checked, not sent to social platforms. No markup, entities, smart punctuation, broken paragraph breaks or stray controls. EN/DE Instagram 439/489 characters.
 - Final voice PASS: tightened the move from transcript to crowd, clarified the anniversary notice and ended with a usable comparison across records. Excerpt scanned.
-- Gate 3: pending public verification.
+- Gate 3: PASS November 12. All seven public paths match [release commit](https://github.com/themissingseat-stack/the-missing-seat/commit/e0bd3caf23cf6c4cc48aef156de047154cf2c38b); article links and RSS/sitemap parsed. No social submission or Buffer preview claimed.

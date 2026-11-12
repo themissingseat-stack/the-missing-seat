@@ -1,6 +1,6 @@
 # Complete unpublished packages: release holds
 
-Reconciled November 11, 2026. Three complete bodies remain outside the numbered queue; thirteen legacy and one Saxony source-conflict hold remain inside it. Drew verified and removed from reserve. Jones added. Twenty complete unpublished: 17 numbered, three held separately.
+Reconciled November 12, 2026. Three complete bodies outside the numbered queue. Thirteen legacy review holds and one source-conflict hold inside it. Arkansas bar exam is a separate research draft with both reviews on HOLD; it is not counted as finished. Nineteen finished unpublished: 16 numbered and three held separately.
 
 ## Breast Cancer Survival Has Improved. Black Women Are Still Dying More Often.
 

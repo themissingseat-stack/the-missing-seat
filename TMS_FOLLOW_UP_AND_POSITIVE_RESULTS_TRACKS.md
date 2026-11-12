@@ -1,5 +1,5 @@
 # TMS follow-up and positive-results reporting tracks
-Updated November 11, 2026. Candidates are research leads, never finished inventory.
+Updated November 12, 2026. Candidates are research leads, never finished inventory.
 
 ## Follow-up candidates: 11
 1. Germany police-complaints editorial: obtain subsequent Bundestag/commissioner reporting on complaint disposition, investigations completed, institutional action and individual relief. Baseline live slug: germany-created-a-seat-for-police-complaints-who-can-actually-use-it. Trigger: a verified later outcome, not the existing complaint count. No new outcome asserted.
@@ -14,7 +14,7 @@ Updated November 11, 2026. Candidates are research leads, never finished invento
 
 For each: maintain finding → responsible authority → action after notice → concrete relief delivered → remaining burden. Do not publish another piece until evidence materially advances the original. Refresh original receipts and cross-link both pages at release.
 
-## Positive / A Seat Was Made candidates: 6
+## Positive / A Seat Was Made candidates: 5
 1. Nepal care cooperatives: ILO describes training reaching 28 cooperatives and two domestic-worker groups after July 2026. Report on whether operating services, paid jobs, affordable places and worker voice followed. Training reach is not a measured care outcome. Seat: caregivers, women workers and families. Action: request operating/affordability/wage data from the implementing partners.
 2. Women agricultural producers in India: ILO describes April 2026 organizing and skills work with farmer-producer organizations and self-help groups. Obtain named participants with consent and independently check sales, bargaining access and net income rather than call attendance an economic result. Seat: small producers and informal women workers. Action: ask project partners for before/after results and costs.
 
@@ -150,3 +150,9 @@ SWS has its own TMS_SWS_LEDGER.json: today's exact Jansen quote plus labeled new
 
 - Existing lame-duck lead: [November 10 roll call](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00258.htm) records 62–21 agreement to proceed to H.R. 2347, after November 9 cloture. Track the operative text and amendments. This does not establish final passage or any delivered result. Initial blue-wave review remains withdrawn.
 - [Jones package](editorial-packages/TMS_TRINIDAD_TOBAGO_JASON_JONES_PRIVACY_PUBLICATION_PACKAGE_2026-11-11.md): after release, track formal order and application by local authorities; no relief or implementation beyond the constitutional ruling asserted. Do not count as a follow-up to an already published TMS story.
+
+## November 12
+
+- [Promise Ledger](TMS_POLITICAL_PROMISE_LEDGER.md) records the original statements, procedural stages and current hearing/filing checks without claiming relief. The [November 11 floor log](https://www.periodicalpress.senate.gov/wednesday-november-11-2026/) records cloture filings. No replacement of the blue-wave editorial.
+- The Benjamin positive research lead is now an approved [full package](editorial-packages/TMS_MIRIAM_BENJAMIN_SIGNAL_CHAIR_PUBLICATION_PACKAGE_2026-11-12.md); five research-only positive leads remain. The House did not adopt her design according to USPTO; no sales or licensing outcome inferred.
+- [Jones docket](https://jcpc.uk/cases/jcpc-2025-0095) rechecked; no separate final remedial order was visible. Refresh again before release.

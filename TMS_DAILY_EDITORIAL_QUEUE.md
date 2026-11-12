@@ -1,4 +1,4 @@
-# TMS Daily Editorial Queue — Reconciled 2026-11-11
+# TMS Daily Editorial Queue — Reconciled 2026-11-12
 
 **Source of truth:** verified live pages and published HTML/commits take precedence over stale queue labels. The staged JSON on branch `tms-daily-queue-2026-09-01` is the machine-readable companion to this ledger.
 
@@ -90,9 +90,9 @@ The governing test remains: **What did they actually change, who gained, what re
 
 | Category | Count |
 |---|---:|
-| Complete bodies awaiting confirmed public release | 20 |
-| Numbered queue | 17 |
-| Reserve with current Gate 1 and Gate 2 PASS, available for future release | 3 |
+| Complete bodies awaiting confirmed public release | 19 |
+| Numbered queue | 16 |
+| Reserve with current Gate 1 and Gate 2 PASS, available for future release | 2 |
 | Committed full releases awaiting public verification | 0 |
 | Legacy queued packages needing current gates/template refresh | 13 |
 | Additional queued source-conflict hold | 1 |
@@ -102,13 +102,13 @@ The governing test remains: **What did they actually change, who gained, what re
 | Editorial live/repository discrepancies | 0 |
 | Historical website replacement versions, not new reserve | 16 |
 | Remaining replacement installations | Unknown, not individually reconciled |
-| Unfinished priority drafts | 4 |
-| Combined unfinished or editorially release-blocked | 21 |
+| Unfinished or held research drafts | 5 |
+| Combined unfinished or editorially release-blocked | 22 |
 | External manuscript status not yet fully verified | 1 |
 | Active follow-up research candidates | 11 |
-| Positive/solution research candidates | 6 |
+| Positive/solution research candidates | 5 |
 
-Bornholmer Straße and Jason Jones are cleared reserve; nora was released November 11 (evening). Drew was publicly verified November 11 and removed. Saxony repair remains on factual HOLD. No revision installed today.
+Jones and Benjamin are cleared reserve. The two Germany releases are verified and removed from reserve. Saxony remains on factual HOLD. Arkansas is a research draft held outside finished reserve.
 
 ## Finished numbered queue — current release status explicit
 
@@ -128,9 +128,8 @@ Bornholmer Straße and Jason Jones are cleared reserve; nora was released Novemb
 | 12 | Social Security Wants the Money Back. First, Check the Decision. | `social-security-wants-the-money-back-first-check-the-decision` | HOLD: current reviews required | Before You Cut Care, Did You Stop Paying More for the Same Care?: Medicare provider-payment policy versus individual SSA debt determinations, notice accuracy and reconsideration/waiver/rate routes. | [Full package](editorial-packages/TMS_SOCIAL_SECURITY_REPAYMENT_CHECK_DECISION_PUBLICATION_PACKAGE_2026-10-28.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
 | 13 | Kathmandu Put Care on the Map. Can Families Find Their Way In? | `kathmandu-put-care-on-the-map-can-families-find-their-way-in` | HOLD: current reviews required | The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.: Broad labor/time/pay distribution versus named Nepal mapping, the route into municipal care, successful referrals and worker conditions.; Germany Promised a Full School Day. Families Need the Hours to Match.: Statutory school-care timetable entitlement versus municipal information/navigation approach across care needs. | [Full package](editorial-packages/TMS_KATHMANDU_CARE_MAP_ACCESS_PUBLICATION_PACKAGE_2026-10-30.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
 | 14 | A Repair Rebate Helps. First, You Have to Pay the Repair Bill. | `a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill` | HOLD: filing guidance conflict | Germany Has a Way to Keep the Power On. Can People Use It?: Continuity of electricity service versus paid-invoice repair rebate and the upfront cost of claiming it. | [Full package](editorial-packages/TMS_GERMANY_REPAIR_REBATE_UPFRONT_COST_PUBLICATION_PACKAGE_2026-11-06.md). November 8: directive VII.4 requires December 1 electronic filing; SAB FAQ says no strict deadline, ideally December 1. Resolve applicable current filing rule and revise package before renewed Gate 1/2. Prior PASS is not current approval. |
-| 15 | The Berlin Wall Opened When People Went to the Border. | `the-berlin-wall-opened-when-people-went-to-the-border` | Gate 1 and Gate 2 PASS; unpublished | Border opening, local decisions and the residents at the crossing. | [Full package](editorial-packages/TMS_GERMANY_BORNHOLMER_BORDER_OPENING_PUBLICATION_PACKAGE_2026-11-09.md); refresh anniversary context and render before release. |
-| 16 | Germany Built a Way to Call for Help Without Speaking. Set It Up Before You Need It. | `germany-nora-emergency-help-without-speaking` | Gate 1 and Gate 2 PASS; unpublished | Registered nonvoice dispatch access, versus Wheelmap’s building-access information. | [Full package](editorial-packages/TMS_GERMANY_NORA_EMERGENCY_ACCESS_PUBLICATION_PACKAGE_2026-11-10.md); refresh official setup instructions and complete technical release. |
-| 17 | Jason Jones Won His Privacy Appeal. The Court Still Has an Order to Write. | `jason-jones-trinidad-tobago-privacy-appeal` | Gate 1/2 and voice PASS; unpublished | Constitutional privacy, criminal liability and a pending remedial order in Trinidad and Tobago. | [Full package](editorial-packages/TMS_TRINIDAD_TOBAGO_JASON_JONES_PRIVACY_PUBLICATION_PACKAGE_2026-11-11.md); refresh court docket before release. |
+| 15 | Jason Jones Won His Privacy Appeal. The Court Still Has an Order to Write. | `jason-jones-trinidad-tobago-privacy-appeal` | Gate 1/2 and voice PASS; unpublished | Constitutional privacy, criminal liability and a pending remedial order in Trinidad and Tobago. | [Full package](editorial-packages/TMS_TRINIDAD_TOBAGO_JASON_JONES_PRIVACY_PUBLICATION_PACKAGE_2026-11-11.md); refresh court docket before release. |
+| 16 | Miriam Benjamin Built a Chair That Could Call for Help. | `miriam-benjamin-gong-and-signal-chair` | Gate 1/2 and voice PASS; unpublished | Actual patent design and commercialization evidence; distinct from Raye Montague. | [Full package](editorial-packages/TMS_MIRIAM_BENJAMIN_SIGNAL_CHAIR_PUBLICATION_PACKAGE_2026-11-12.md); refresh and render before release. |
 
 ## Complete unpublished release holds outside numbered queue
 
@@ -143,8 +142,10 @@ These are not duplicates, replacements for live stories or new authorship today.
 
 ## Published record — do not requeue
 
+- **November 12, 2026:** [The Berlin Wall Opened When People Went to the Border.](https://themissingseat.org/the-berlin-wall-opened-when-people-went-to-the-border.html). Both refreshed reviews and copy/voice checks passed; seven public paths verified. [Release package](editorial-packages/TMS_GERMANY_BORNHOLMER_BORDER_OPENING_PUBLICATION_PACKAGE_2026-11-09.md). Sole new full release on November 12.
+
 - **November 11, 2026 (evening):** [Germany Built a Way to Call for Help Without Speaking. Set It Up Before You Need It.](https://themissingseat.org/germany-nora-emergency-help-without-speaking.html). Release refresh November 11: operator overview checked (POSTIDENT still presented as current requirement; other official and press descriptions add a confirmation call at first registration; discrepancy documented in the article). Second release of the day at Jansen's direction. [Package](editorial-packages/TMS_GERMANY_NORA_EMERGENCY_ACCESS_PUBLICATION_PACKAGE_2026-11-10.md).
-- **November 11, 2026:** [Charles Drew Helped Build a Blood System. He Also Challenged Its Rules.](https://themissingseat.org/charles-drew-helped-build-a-blood-system-and-challenged-its-rules.html). Refreshed content gates and final voice pass documented in [release package](editorial-packages/TMS_CHARLES_DREW_BLOOD_SYSTEM_RULES_PUBLICATION_PACKAGE_2026-11-08.md). Eight production paths verified; sole full release.
+- **November 11, 2026:** [Charles Drew Helped Build a Blood System. He Also Challenged Its Rules.](https://themissingseat.org/charles-drew-helped-build-a-blood-system-and-challenged-its-rules.html). Refreshed content gates and final voice pass documented in [release package](editorial-packages/TMS_CHARLES_DREW_BLOOD_SYSTEM_RULES_PUBLICATION_PACKAGE_2026-11-08.md). Eight production paths verified; only full release during that morning run. Separate evening nora release later recorded.
 
 - **November 10, 2026 public verification:** [A Child Can Have a Credit File Before They Have a Job.](https://themissingseat.org/a-child-can-have-a-credit-file-before-they-have-a-job.html). Committed November 9; all seven custom-domain surfaces now HTTP 200 and match the release. No exact first-live time known. Counted against November 10’s cap. [Reviews and verification](editorial-packages/TMS_CHILD_CREDIT_FILE_FREEZE_PUBLICATION_PACKAGE_2026-10-24.md).
 
@@ -224,6 +225,12 @@ No open editorial public/main mismatch after November 8 checks. Article, homepag
 - Preserve the full repair body and investigate clarification; do not retire or publish mechanically.
 
 ## Today’s reconciliation
+
+- Berlin published and verified. The independently released November 11 nora editorial was verified and removed from stale reserve as well.
+- Benjamin's new full package passed both gates and was appended at position 16; removed the older positive research placeholder. Arkansas remains a separately held research draft.
+- [Political Promise Ledger](TMS_POLITICAL_PROMISE_LEDGER.md) and [November 12 verification record](TMS_REPORTING_UPDATE_2026-11-12.md).
+
+## November 11 reconciliation
 
 - Drew released and verified. Jason Jones package passed both reviews and voice, appended at position 17.
 - [November 11 reporting record](TMS_REPORTING_UPDATE_2026-11-11.md).

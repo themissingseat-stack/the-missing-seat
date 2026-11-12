@@ -4,6 +4,12 @@
 
 Companion ledgers: [TMS_DAILY_EDITORIAL_QUEUE.md](TMS_DAILY_EDITORIAL_QUEUE.md) (queue and the Regular Joe comprehension test).
 
+## Standing update 2026-11-12: literal platform copy and Promise Ledger
+
+Apply the final copy check to drafts, website excerpts, sharing entries and every social payload. For Facebook, Instagram, Threads, WhatsApp and social-publisher exports, inspect the literal text after any transformation and before it enters the queue or platform. Use natural paragraphs separated by a single blank line. Use straight quotes/apostrophes and basic punctuation; retain necessary language accents. No Markdown markers, rich-text wrappers, HTML or encoded entities, displayed citation markup, backslash escapes, smart quotes, en/em dashes, ellipsis glyphs, nonbreaking or zero-width characters, replacement characters, decorative separators, or default hashtags, emojis, signatures or slogans. Keep working links intact. Review 1 must verify the literal copy's factual scope and links; Review 2 must verify the same string's format, length, paragraph boundaries and readability. Inspect and compare the actual scheduled or public preview when accessible. HOLD affected platform delivery if corruption, meaning changes or unresolved display problems are found. Website HTML may retain legitimate structural markup. A clean GitHub draft is not a tested Buffer payload or evidence of a social post.
+
+Maintain the [TMS Political Promise Ledger](TMS_POLITICAL_PROMISE_LEDGER.md) inside the existing follow-up track. Preserve exact statements, dates or capture dates, primary sources, proposed deadlines, legislative stages, lawful constraints, opposition, measurable effects and unresolved injuries. Apply the same evidence rule across parties. Begin with the 2026 midterms, incoming 2027 Congress and presidency; add 2028 promises when there is an attributable record. No new automation, inferred motives, predicted outcomes or exception to the daily publication cap.
+
 ## Standing update 2026-11-10: natural voice, varied rhythm, grounded writing
 
 **Binding for all new TMS editorial packages, website articles, website copy, Facebook/Instagram posts, civic explainers, Something Worth Sharing pieces, revisions, audit-derived public-facing prose, and drafting workflows.** This expands the existing Regular Joe and developed-paragraph rules, rather than replacing factual review or release gates.

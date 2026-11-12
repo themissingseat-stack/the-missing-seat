@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "track": "SWS; excluded from full editorial inventory",
   "entries": [
+    {
+      "id": "leave-room-for-disagreement-2026-11-12",
+      "date": "2026-11-12",
+      "title": "Leave Room for Disagreement",
+      "source": "something-worth-sharing.html#leave-room-for-disagreement-2026-11-12",
+      "publication_status": "published_live_verified",
+      "commit": "e0bd3caf23cf6c4cc48aef156de047154cf2c38b",
+      "public_verified": "2026-11-12"
+    },
     {
       "id": "you-can-have-an-ordinary-day-2026-11-11",
       "date": "2026-11-11",
@@ -170,11 +179,10 @@
     "note": "All six dates present on the verified public archive; preserved."
   },
   "today": {
-    "date": "2026-11-11",
-    "text": "life isn't always amazing and that's okay.",
-    "reflection": "Some days are errands, a late bus and dinner made from whatever is left in the fridge. You can enjoy one part of a day like that without having to call the whole thing wonderful. Tell someone how your day actually went, and leave room for them to do the same.",
-    "translation_de": "Das Leben ist nicht immer großartig, und das ist okay.",
-    "provenance": "Exact English line excerpted from Jansen Bowden’s November 10 happiness prompt; heading, reflection and German translation are new editorial wording.",
+    "date": "2026-11-12",
+    "text": "A meeting can end with everyone nodding and still leave the real disagreement untouched. Before you call it unity, make sure the person who sees a problem can say so and still be welcome next time. You may find one thing you can do together before you've settled the rest.",
+    "translation_de": "Eine Sitzung kann damit enden, dass alle nicken, obwohl der eigentliche Streitpunkt offenbleibt. Bevor du das Einigkeit nennst, achte darauf, dass jemand ein Problem ansprechen kann und beim nächsten Mal trotzdem willkommen ist. Vielleicht findet ihr etwas, das ihr gemeinsam tun könnt, bevor alles andere geklärt ist.",
+    "provenance": "New editorial reflection and German translation inspired by Jansen's November 10 prompt on unity; not an archival quote.",
     "publication_status": "published_live_verified"
   },
   "missing_page_dates": [

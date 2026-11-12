@@ -1,6 +1,6 @@
 # Über The Missing Seat
 
-### Eine Geschichte verändert sich, wenn wir fragen, wer nicht mitreden durfte.
+### Die Geschichte verändert sich, wenn wir fragen, wer nicht im Raum war.
 
 Jeden Tag werden Entscheidungen getroffen, die das Leben von Millionen Menschen beeinflussen. Regierungen verabschieden Gesetze. Gerichte entscheiden über Rechte. Institutionen legen Regeln fest. Unternehmen machen Versprechen. Verantwortliche verkünden Fortschritte.
 
@@ -24,7 +24,7 @@ Mein Name ist Jansen Bowden. Ich bin Afroamerikaner, bin viel in der Welt herumg
 
 Durch meine Reisen und das Leben in verschiedenen Ländern habe ich erlebt, wie unterschiedlich Menschen denken, wie Gesellschaften funktionieren und wie verschieden wir manchmal dieselben Begriffe verstehen.
 
-Freiheit. Gerechtigkeit. Chancengleichheit. Verantwortung.
+Freiheit. Fairness. Chancengleichheit. Verantwortung.
 
 Diese Worte begegnen uns überall. Doch im Alltag bedeuten sie nicht immer dasselbe.
 
@@ -73,7 +73,7 @@ Aber das ist kein Grund, es nicht genauer zu untersuchen.
 
 The Missing Seat hat eine Haltung. Daraus machen wir kein Geheimnis.
 
-Wir glauben, dass Menschenwürde, gleiche Rechte, Gerechtigkeit und Rechenschaftspflicht mehr sein müssen als schöne Worte bei offiziellen Anlässen.
+Wir glauben, dass Menschenwürde, gleiche Rechte, Fairness und Rechenschaftspflicht mehr sein müssen als schöne Worte bei offiziellen Anlässen.
 
 Aber eine Haltung gibt uns nicht das Recht, Fakten so zurechtzubiegen, dass sie zu unserer Meinung passen.
 
@@ -91,7 +91,7 @@ Auch unser eigenes.
 
 ### Unabhängig bedeutet nicht gleichgültig
 
-The Missing Seat ist ein unabhängiges redaktionelles Projekt für gesellschaftliche und politische Information. Wir vertreten weder eine Partei noch eine Regierung, ein Unternehmen oder eine Interessenorganisation.
+The Missing Seat ist ein unabhängiges redaktionelles Projekt zur Information von Bürgerinnen und Bürgern. Wir vertreten weder eine Partei noch eine Regierung, ein Unternehmen oder eine Interessenorganisation.
 
 Wir verteidigen keine Institution nur deshalb, weil wir ihre erklärten Ziele unterstützen. Genauso wenig halten wir automatisch jede Entscheidung für falsch, nur weil wir mit den Verantwortlichen nicht übereinstimmen.
 

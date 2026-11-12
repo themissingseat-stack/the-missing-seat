@@ -139,6 +139,14 @@ Kritik ist nicht das Problem.
 
 Das Problem beginnt, wenn man berechtigte Kritik nicht mehr prüfen will.
 
+### Wie wir KI einsetzen
+
+Wir nutzen KI-Werkzeuge, um bei Recherche und Entwurf zu helfen. Jansen Bowden ist für alles verantwortlich, was veröffentlicht wird.
+
+### Was wir nicht sind
+
+The Missing Seat ist keine Anwaltskanzlei, kein Rechtshilfedienst und keine politische Partei. Wir erklären Rechte und verweisen auf Organisationen, die helfen können. Wir können keine Rechtsberatung geben und Sie nicht vertreten. Dass eine Organisation in unserem Verzeichnis steht, bedeutet nicht, dass wir alles gutheißen, was sie tut.
+
 ### Something Worth Sharing
 
 Nicht alles, was es wert ist, erzählt zu werden, muss politisch, historisch oder das Ergebnis einer Recherche sein.

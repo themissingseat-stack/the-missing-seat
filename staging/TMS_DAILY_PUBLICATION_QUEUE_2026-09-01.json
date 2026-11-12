@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-11-11",
+  "last_reconciled": "2026-11-12",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -22,23 +22,47 @@
     ]
   },
   "deployment": {
-    "source": "GitHub main; custom domain and GitHub Pages origin checked",
+    "source": "GitHub main release verified independently on custom domain",
     "status": "published_live_verified",
-    "public_verified": "2026-11-11",
-    "commit": "1a1affa14b9f7ddb61275417d0e423abc3542b78",
-    "workflow": "https://github.com/themissingseat-stack/the-missing-seat/actions/runs/42977558168",
+    "commit": "e0bd3caf23cf6c4cc48aef156de047154cf2c38b",
+    "public_verified": "2026-11-12",
     "verified_public_blobs": {
-      "black-brilliant-beyond.html": "4141d82f9d17b72123a02a08a94211c2003e75b1",
-      "charles-drew-helped-build-a-blood-system-and-challenged-its-rules.html": "074efc49616d05331838f9b4256355dc31019e0f",
-      "feed.xml": "ef8b91bb84d34bb2ae39fff277a01288689eca42",
-      "index.html": "25cb9693ccc0871ba8d9a3f4a6ac825654c23900",
-      "sitemap.xml": "465d2660d51a57e95680077437dd8c12fad9ffb2",
-      "something-worth-sharing.html": "817a6a1df8c5be39b031b3a0923d4a3e4c6143fb",
-      "stories.html": "6429788de08fa68babdf5adc7e2e4e4c0c35c4f5",
-      "topics/missing-history.html": "dde4f45e67d4747f4cd94d04cc9037061da78647"
+      "feed.xml": "02f7247356980efde66589d801bba4ab994fc653",
+      "index.html": "fae76d46ec6f159acd6f8f0d6422b04a7529020f",
+      "sitemap.xml": "03afdb56cd3ef41bf3df2e00427416b16ff98c73",
+      "something-worth-sharing.html": "fcb02f4cbef76784843700c5b10ef1930d580014",
+      "stories.html": "d367e69b92f60cf85877e22b8e392f4cb0513b05",
+      "the-berlin-wall-opened-when-people-went-to-the-border.html": "a6206e83f14db9a56625eb3ce311536e6caa90f4",
+      "topics/missing-history.html": "1b0bd1d09e69fd84c28652e75732496f3153d20c"
     }
   },
   "published_record": [
+    {
+      "title": "The Berlin Wall Opened When People Went to the Border.",
+      "slug": "the-berlin-wall-opened-when-people-went-to-the-border.html",
+      "source": "editorial-packages/TMS_GERMANY_BORNHOLMER_BORDER_OPENING_PUBLICATION_PACKAGE_2026-11-09.md",
+      "publication_status": "published_live_verified",
+      "published_verified": "2026-11-12",
+      "article_commit": "e0bd3caf23cf6c4cc48aef156de047154cf2c38b",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "voice": "PASS",
+      "gate_3": "PASS",
+      "notes": "Seven custom-domain paths match release blobs. Sole full release in November 12 workflow."
+    },
+    {
+      "title": "Germany Built a Way to Call for Help Without Speaking. Set It Up Before You Need It.",
+      "slug": "germany-nora-emergency-help-without-speaking.html",
+      "source": "editorial-packages/TMS_GERMANY_NORA_EMERGENCY_ACCESS_PUBLICATION_PACKAGE_2026-11-10.md",
+      "publication_status": "published_live_verified",
+      "published_verified": "2026-11-12",
+      "release_date": "2026-11-11",
+      "article_commit": "c5309c5fd33ad1a19c3e1cfab8be09bbb9fd9fec",
+      "gate_1": "PASS_preexisting_record",
+      "gate_2": "PASS_preexisting_record",
+      "gate_3": "PASS",
+      "notes": "November 11 evening release recorded by external maintainer as at Jansen's direction. Public article HTTP 200 exact current main on November 12; live homepage, archive and RSS list it. No new factual recertification by this run. Separate prior-day release, not repeated."
+    },
     {
       "title": "Charles Drew Helped Build a Blood System. He Also Challenged Its Rules.",
       "slug": "charles-drew-helped-build-a-blood-system-and-challenged-its-rules.html",
@@ -798,56 +822,6 @@
       "current_release_blocker": "November 8: directive VII.4 requires December 1 electronic filing; SAB FAQ says no strict deadline, ideally December 1. Resolve applicable current filing rule and revise package before renewed Gate 1/2. Prior PASS is not current approval."
     },
     {
-      "title": "The Berlin Wall Opened When People Went to the Border.",
-      "canonical_title": "The Berlin Wall Opened When People Went to the Border.",
-      "slug": "the-berlin-wall-opened-when-people-went-to-the-border",
-      "source": "editorial-packages/TMS_GERMANY_BORNHOLMER_BORDER_OPENING_PUBLICATION_PACKAGE_2026-11-09.md",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "scheduled_date": null,
-      "approval": "Automatic after November 9 Gates 1 and 2",
-      "gate_1": "PASS",
-      "gate_2": "PASS",
-      "review_1": "PASS | 2026-11-09 07:56:14 UTC | Codex, evidence pass. Reopened all nine linked documents. Transcript separates rules on applications and permission from Schabowski’s immediate-effect answer; Eppelmann confirms what he saw and that he did not reach West Berlin; chronology separates initial controlled passage from checks ending around 23:30. Jäger recollection corroborates cessation of checks, not the exact physical opening Eppelmann recalls. November 4 demonstration, October 3 reunification date and November 9, 1938 remembrance separately anchored. The Nov 6 district release announces a commemoration; no assertion of attendance or outcome. No pending legislative or legal deadline applies.",
-      "review_2": "PASS | 2026-11-09 07:56:37 UTC | Codex, separate hostile-reader and Regular Joe pass. A critic could mistake the television answer for a universal order, or the crowd for the only cause; the body now distinguishes the policy, public demand, early controlled passage and local decision to stop checks. Removed any implication of possessing an original operational log. People, power, costs and actual benefit are explicit, and the divided historical memories are not collapsed. Short Version, existing approved Seat Status wording from the Theodor Wonja Michael package, Pull Up A Chair, German resources, Seat Summary, linked receipts, verification notice, image brief, plain English and German social copy present. Instagram: 439 English, 489 German characters. Live archive, current repository tree, numbered queue, reserved titles and holds show no same work. Theodor Wonja Michael concerns education and Black German life, not border procedure or this reader action. Recheck anniversary wording before release and render public surfaces.",
-      "release_gate_status": "content_gates_passed_technical_release_pending",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "Theodor Wonja Michael Found a Second Route Into Education. Teach That Part Too.",
-          "distinction": "Border policy and passage chronology versus Black German education and access to training."
-        }
-      ],
-      "notes": "Refresh anniversary reference; render/integrate article, archive, homepage, topic, RSS and sitemap, then verify public domain.",
-      "position": 15
-    },
-    {
-      "title": "Germany Built a Way to Call for Help Without Speaking. Set It Up Before You Need It.",
-      "canonical_title": "Germany Built a Way to Call for Help Without Speaking. Set It Up Before You Need It.",
-      "slug": "germany-nora-emergency-help-without-speaking",
-      "source": "editorial-packages/TMS_GERMANY_NORA_EMERGENCY_ACCESS_PUBLICATION_PACKAGE_2026-11-10.md",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "scheduled_date": null,
-      "approval": "Standing two-review authorization, November 10",
-      "gate_1": "PASS",
-      "gate_2": "PASS",
-      "review_1": "PASS | 2026-11-10 07:45:05 UTC | Codex, independent evidence pass. Opened all nine receipts below; checked scope against Rhineland-Palatinate police and the federal health portal. September 2026 ministry figures are approximate cumulative reports, not unique callers, response times or outcomes. September 2023 registration suspension and September 23, 2024 reopening are separate from the 2026 anniversary. The German overview presents POSTIDENT as required, while operator FAQ, English steps and the NRW app-store listing describe conditional call/ID prompts; retain the documented discrepancy and make no universal route or eligibility claim. Operator FAQ confirms registration failure prevents app calls, an internet connection is required, and the demo does not alert a centre. No pending legislative or enrolment deadline identified; no claim about outages or availability on a specific device.",
-      "review_2": "PASS | 2026-11-10 07:45:32 UTC | Codex, separate hostile-reader and Regular Joe pass. Checked the live archive (matching main), repository tree and canonical/staged queue, reserved/held and revision records. The published US disaster-training piece concerns lost training; queued Wheelmap covers shared building-access information and repairs. This package instead explains dispatch, actual reported use and setup. No real caller or outcome is invented; the opening says imagine. The prose gives the people affected, the agency with power, the protection and remaining burden, and recognizes dispatchers’ need to avoid false alarms. Current approved Seat Status wording reused from Bornholmer; Short Version, developed article, Pull Up A Chair, German resources, Seat Summary, evidence links, limits, excerpt, EN/DE social and image concept checked. Instagram 371 EN and 356 DE characters. The final paragraph gives a usable preparation step. No stock signoff, slogan, collective blame, universal POSTIDENT promise or claim that the demo reaches a dispatcher.",
-      "release_gate_status": "content_gates_passed_technical_release_pending",
-      "duplication_status": "materially_distinct",
-      "related_unpublished_comparators": [
-        {
-          "title": "Wheelmap Helps People Plan. Now Track Which Barriers Come Down.",
-          "distinction": "Emergency dispatch, registration and practice versus building access information and physical repairs."
-        }
-      ],
-      "notes": "Refresh current official setup instructions and links; render article and integrate site surfaces before release; verify production separately.",
-      "position": 16
-    },
-    {
       "title": "Jason Jones Won His Privacy Appeal. The Court Still Has an Order to Write.",
       "canonical_title": "Jason Jones Won His Privacy Appeal. The Court Still Has an Order to Write.",
       "slug": "jason-jones-trinidad-tobago-privacy-appeal",
@@ -871,22 +845,48 @@
         }
       ],
       "notes": "Reopen case docket for written submissions or final order and refresh before release; render and integrate all public surfaces.",
-      "position": 17
+      "position": 15
+    },
+    {
+      "title": "Miriam Benjamin Built a Chair That Could Call for Help.",
+      "canonical_title": "Miriam Benjamin Built a Chair That Could Call for Help.",
+      "slug": "miriam-benjamin-gong-and-signal-chair",
+      "source": "editorial-packages/TMS_MIRIAM_BENJAMIN_SIGNAL_CHAIR_PUBLICATION_PACKAGE_2026-11-12.md",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "approval": "Standing two-review authorization, November 12",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "voice": "PASS",
+      "review_1": "PASS | 2026-11-12 07:26:30 UTC | Codex evidence pass. Read the original patent facsimile record and mechanism/claims text, cross-checked the grant number and date against the contemporary Congressional Record listing, and read USPTO's historical account of teaching, advocacy and exhibition. OCR has a faulty number in one heading; the indexed patent and printed Congressional Record listing agree. The USPTO historian reports the House did not adopt her design; the later similar installation is not evidence of copying or payment. Patent projections are not results. Actual EN Facebook and Instagram strings preserve claims and date, have no forbidden punctuation, and use the working patent URL where included.",
+      "review_2": "PASS | 2026-11-12 07:27:03 UTC | Codex separate hostile-reader and Regular Joe pass. Read the narrative against patent claims: a guest's action, the attendant's reset, documented designer credit and buyer authority are explicit. Possible staffing savings are Benjamin's case for the design, not measured results. Existing live archive, GitHub tree and reserved/blocked queue checked; a research lead already exists and is promoted, not duplicated. Closest live comparator Raye Montague concerns a naval drawing system and teaching, not a chair mechanism or commercialization record. Approved achievement Seat Status, Short Version, Pull Up A Chair, U.S. resources, Seat Summary, working receipts, disclosure, excerpt and image brief present. Actual EN copy re-read and scanned; Instagram 335 characters. No markup, entity, smart punctuation, escape or control characters. No platform submission or preview claimed.",
+      "release_gate_status": "content_gates_passed_technical_release_pending",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.",
+          "distinction": "Different design, audience, technical records, and commercial adoption evidence."
+        }
+      ],
+      "notes": "Promoted prior research lead; refresh primary links and integrate HTML, archive, topic, homepage, RSS and sitemap before separate verification.",
+      "position": 16
     }
   ],
   "counts": {
-    "full_finished_unpublished_eligible": 3,
-    "full_finished_currently_queued": 17,
+    "full_finished_unpublished_eligible": 2,
+    "full_finished_currently_queued": 16,
     "full_finished_retired_or_replaced": 4,
     "status_verification_required": 0,
     "historical_replacement_versions": 16,
     "replacements_still_pending_installation": null,
-    "unfinished_or_blocked": 21,
+    "unfinished_or_blocked": 22,
     "follow_up_candidates": 11,
-    "positive_solution_candidates": 6,
-    "full_finished_unpublished_total": 20,
+    "positive_solution_candidates": 5,
+    "full_finished_unpublished_total": 19,
     "full_finished_held_for_release": 17,
-    "unfinished_drafts": 4,
+    "unfinished_drafts": 5,
     "queued_pending_current_release_gates": 13,
     "full_finished_held_outside_numbered_queue": 3,
     "external_manuscript_status_unverified": 1,
@@ -1470,56 +1470,6 @@
       "current_release_blocker": "November 8: directive VII.4 requires December 1 electronic filing; SAB FAQ says no strict deadline, ideally December 1. Resolve applicable current filing rule and revise package before renewed Gate 1/2. Prior PASS is not current approval."
     },
     {
-      "title": "The Berlin Wall Opened When People Went to the Border.",
-      "canonical_title": "The Berlin Wall Opened When People Went to the Border.",
-      "slug": "the-berlin-wall-opened-when-people-went-to-the-border",
-      "source": "editorial-packages/TMS_GERMANY_BORNHOLMER_BORDER_OPENING_PUBLICATION_PACKAGE_2026-11-09.md",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "scheduled_date": null,
-      "approval": "Automatic after November 9 Gates 1 and 2",
-      "gate_1": "PASS",
-      "gate_2": "PASS",
-      "review_1": "PASS | 2026-11-09 07:56:14 UTC | Codex, evidence pass. Reopened all nine linked documents. Transcript separates rules on applications and permission from Schabowski’s immediate-effect answer; Eppelmann confirms what he saw and that he did not reach West Berlin; chronology separates initial controlled passage from checks ending around 23:30. Jäger recollection corroborates cessation of checks, not the exact physical opening Eppelmann recalls. November 4 demonstration, October 3 reunification date and November 9, 1938 remembrance separately anchored. The Nov 6 district release announces a commemoration; no assertion of attendance or outcome. No pending legislative or legal deadline applies.",
-      "review_2": "PASS | 2026-11-09 07:56:37 UTC | Codex, separate hostile-reader and Regular Joe pass. A critic could mistake the television answer for a universal order, or the crowd for the only cause; the body now distinguishes the policy, public demand, early controlled passage and local decision to stop checks. Removed any implication of possessing an original operational log. People, power, costs and actual benefit are explicit, and the divided historical memories are not collapsed. Short Version, existing approved Seat Status wording from the Theodor Wonja Michael package, Pull Up A Chair, German resources, Seat Summary, linked receipts, verification notice, image brief, plain English and German social copy present. Instagram: 439 English, 489 German characters. Live archive, current repository tree, numbered queue, reserved titles and holds show no same work. Theodor Wonja Michael concerns education and Black German life, not border procedure or this reader action. Recheck anniversary wording before release and render public surfaces.",
-      "release_gate_status": "content_gates_passed_technical_release_pending",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "Theodor Wonja Michael Found a Second Route Into Education. Teach That Part Too.",
-          "distinction": "Border policy and passage chronology versus Black German education and access to training."
-        }
-      ],
-      "notes": "Refresh anniversary reference; render/integrate article, archive, homepage, topic, RSS and sitemap, then verify public domain.",
-      "position": 15
-    },
-    {
-      "title": "Germany Built a Way to Call for Help Without Speaking. Set It Up Before You Need It.",
-      "canonical_title": "Germany Built a Way to Call for Help Without Speaking. Set It Up Before You Need It.",
-      "slug": "germany-nora-emergency-help-without-speaking",
-      "source": "editorial-packages/TMS_GERMANY_NORA_EMERGENCY_ACCESS_PUBLICATION_PACKAGE_2026-11-10.md",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "scheduled_date": null,
-      "approval": "Standing two-review authorization, November 10",
-      "gate_1": "PASS",
-      "gate_2": "PASS",
-      "review_1": "PASS | 2026-11-10 07:45:05 UTC | Codex, independent evidence pass. Opened all nine receipts below; checked scope against Rhineland-Palatinate police and the federal health portal. September 2026 ministry figures are approximate cumulative reports, not unique callers, response times or outcomes. September 2023 registration suspension and September 23, 2024 reopening are separate from the 2026 anniversary. The German overview presents POSTIDENT as required, while operator FAQ, English steps and the NRW app-store listing describe conditional call/ID prompts; retain the documented discrepancy and make no universal route or eligibility claim. Operator FAQ confirms registration failure prevents app calls, an internet connection is required, and the demo does not alert a centre. No pending legislative or enrolment deadline identified; no claim about outages or availability on a specific device.",
-      "review_2": "PASS | 2026-11-10 07:45:32 UTC | Codex, separate hostile-reader and Regular Joe pass. Checked the live archive (matching main), repository tree and canonical/staged queue, reserved/held and revision records. The published US disaster-training piece concerns lost training; queued Wheelmap covers shared building-access information and repairs. This package instead explains dispatch, actual reported use and setup. No real caller or outcome is invented; the opening says imagine. The prose gives the people affected, the agency with power, the protection and remaining burden, and recognizes dispatchers’ need to avoid false alarms. Current approved Seat Status wording reused from Bornholmer; Short Version, developed article, Pull Up A Chair, German resources, Seat Summary, evidence links, limits, excerpt, EN/DE social and image concept checked. Instagram 371 EN and 356 DE characters. The final paragraph gives a usable preparation step. No stock signoff, slogan, collective blame, universal POSTIDENT promise or claim that the demo reaches a dispatcher.",
-      "release_gate_status": "content_gates_passed_technical_release_pending",
-      "duplication_status": "materially_distinct",
-      "related_unpublished_comparators": [
-        {
-          "title": "Wheelmap Helps People Plan. Now Track Which Barriers Come Down.",
-          "distinction": "Emergency dispatch, registration and practice versus building access information and physical repairs."
-        }
-      ],
-      "notes": "Refresh current official setup instructions and links; render article and integrate site surfaces before release; verify production separately.",
-      "position": 16
-    },
-    {
       "title": "Jason Jones Won His Privacy Appeal. The Court Still Has an Order to Write.",
       "canonical_title": "Jason Jones Won His Privacy Appeal. The Court Still Has an Order to Write.",
       "slug": "jason-jones-trinidad-tobago-privacy-appeal",
@@ -1543,7 +1493,33 @@
         }
       ],
       "notes": "Reopen case docket for written submissions or final order and refresh before release; render and integrate all public surfaces.",
-      "position": 17
+      "position": 15
+    },
+    {
+      "title": "Miriam Benjamin Built a Chair That Could Call for Help.",
+      "canonical_title": "Miriam Benjamin Built a Chair That Could Call for Help.",
+      "slug": "miriam-benjamin-gong-and-signal-chair",
+      "source": "editorial-packages/TMS_MIRIAM_BENJAMIN_SIGNAL_CHAIR_PUBLICATION_PACKAGE_2026-11-12.md",
+      "completion_status": "full_finished",
+      "status": "approved_queued_full_finished",
+      "publication_status": "unpublished",
+      "scheduled_date": null,
+      "approval": "Standing two-review authorization, November 12",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "voice": "PASS",
+      "review_1": "PASS | 2026-11-12 07:26:30 UTC | Codex evidence pass. Read the original patent facsimile record and mechanism/claims text, cross-checked the grant number and date against the contemporary Congressional Record listing, and read USPTO's historical account of teaching, advocacy and exhibition. OCR has a faulty number in one heading; the indexed patent and printed Congressional Record listing agree. The USPTO historian reports the House did not adopt her design; the later similar installation is not evidence of copying or payment. Patent projections are not results. Actual EN Facebook and Instagram strings preserve claims and date, have no forbidden punctuation, and use the working patent URL where included.",
+      "review_2": "PASS | 2026-11-12 07:27:03 UTC | Codex separate hostile-reader and Regular Joe pass. Read the narrative against patent claims: a guest's action, the attendant's reset, documented designer credit and buyer authority are explicit. Possible staffing savings are Benjamin's case for the design, not measured results. Existing live archive, GitHub tree and reserved/blocked queue checked; a research lead already exists and is promoted, not duplicated. Closest live comparator Raye Montague concerns a naval drawing system and teaching, not a chair mechanism or commercialization record. Approved achievement Seat Status, Short Version, Pull Up A Chair, U.S. resources, Seat Summary, working receipts, disclosure, excerpt and image brief present. Actual EN copy re-read and scanned; Instagram 335 characters. No markup, entity, smart punctuation, escape or control characters. No platform submission or preview claimed.",
+      "release_gate_status": "content_gates_passed_technical_release_pending",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.",
+          "distinction": "Different design, audience, technical records, and commercial adoption evidence."
+        }
+      ],
+      "notes": "Promoted prior research lead; refresh primary links and integrate HTML, archive, topic, homepage, RSS and sitemap before separate verification.",
+      "position": 16
     }
   ],
   "status_verification_ledger": [],
@@ -1579,17 +1555,21 @@
         "date": "2026-11-09",
         "title": "The Berlin Wall Opened When People Went to the Border.",
         "source": "editorial-packages/TMS_GERMANY_BORNHOLMER_BORDER_OPENING_PUBLICATION_PACKAGE_2026-11-09.md",
-        "status": "approved_queued_full_finished",
+        "status": "published_live_verified",
         "gate_1": "PASS",
-        "gate_2": "PASS"
+        "gate_2": "PASS",
+        "published_verified": "2026-11-12",
+        "release_date": "2026-11-12"
       },
       {
         "date": "2026-11-10",
         "title": "Germany Built a Way to Call for Help Without Speaking. Set It Up Before You Need It.",
         "source": "editorial-packages/TMS_GERMANY_NORA_EMERGENCY_ACCESS_PUBLICATION_PACKAGE_2026-11-10.md",
-        "status": "approved_queued_full_finished",
+        "status": "published_live_verified",
         "gate_1": "PASS",
-        "gate_2": "PASS"
+        "gate_2": "PASS",
+        "published_verified": "2026-11-12",
+        "release_date": "2026-11-11"
       }
     ]
   },
@@ -2206,9 +2186,9 @@
       "source": "https://www.senate.gov/legislative/LIS/roll_call_lists/vote_menu_119_2.htm",
       "trigger": "Nov 9 roll call 257, 73–25, cloture on the motion to proceed to H.R. 2347 as permitting vehicle. Track actual floor text, amendment, final votes and effect on communities near projects and on tribal consultation before a full follow-up. Procedural vote is not final passage. Original failed review remains withdrawn.",
       "latest": {
-        "date": "2026-11-10",
-        "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00258.htm",
-        "status": "Motion to proceed to H.R. 2347 agreed 62–21. Procedural advance only; watch operative text, amendments, final votes and effect."
+        "date": "2026-11-11",
+        "source": "https://www.periodicalpress.senate.gov/wednesday-november-11-2026/",
+        "status": "Cloture filed on substitute 6883 and underlying H.R. 2347; November 12 first-degree amendment filing cutoff 1 p.m. Washington time per caucus schedule. No enacted law or public result established."
       }
     }
   ],
@@ -2241,13 +2221,6 @@
       "source": "https://www.ahrq.gov/news/newsroom/press-releases/sepsis-initiative.html",
       "status": "research_only_not_finished",
       "notes": "October27 announcement: three-year partnership,$7.5million and planned toolkit/evaluation. Not a measured improvement. Seek participating facilities, Tribal participation, baseline/implementation measures and attributable frontline accounts before a full positive-results claim."
-    },
-    {
-      "title": "Miriam Benjamin’s signaling patent: teach what she designed and trace what was actually used",
-      "source": "https://www.uspto.gov/learning-and-resources/journeys-innovation/historical-stories/district-determination",
-      "status": "research_only_not_finished",
-      "notes": "Original patent US386289A located; proposed design is documented. Contemporary adoption, licensing and payment still unverified.",
-      "patent_record": "https://patents.google.com/patent/US386289A/en"
     }
   ],
   "priority_override": {
@@ -2970,17 +2943,17 @@
   },
   "sws_track": {
     "source": "TMS_SWS_LEDGER.json",
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "status": "published_live_verified",
-    "url": "https://themissingseat.org/something-worth-sharing.html#you-can-have-an-ordinary-day-2026-11-11",
-    "title": "You Can Have an Ordinary Day",
+    "url": "https://themissingseat.org/something-worth-sharing.html#leave-room-for-disagreement-2026-11-12",
+    "title": "Leave Room for Disagreement",
     "editorial_inventory_excluded": true,
     "backlog_oct18_23": {
       "verified_present": 6,
       "unpublished_remaining": 0
     },
-    "older_entries_preserved": 20,
-    "commit": "1a1affa14b9f7ddb61275417d0e423abc3542b78",
+    "older_entries_preserved": 21,
+    "commit": "e0bd3caf23cf6c4cc48aef156de047154cf2c38b",
     "public_blocker": null
   },
   "external_manuscripts_pending_status_verification": [
@@ -3267,5 +3240,69 @@
       "source": "https://clerk.house.gov/FloorSummary/ViewFloorActions"
     }
   ],
-  "reconciliation_notes_2026_11_11": "Drew verified and removed from queue; Jones approved and appended. No second release. SWS verified. Germany remains 2 of 2."
+  "reconciliation_notes_2026_11_11": "Drew verified and removed from queue; Jones approved and appended. No second release. SWS verified. Germany remains 2 of 2.",
+  "new_external_blocked_drafts": [
+    {
+      "source": "editorial-packages/TMS_ARKANSAS_BAR_EXAM_POINTS_ACCOUNTABILITY_2026-11-11.md",
+      "date": "2026-11-11",
+      "status": "full_research_draft_not_finished_for_reserve",
+      "gate_1": "HOLD",
+      "gate_2": "HOLD",
+      "blockers": "Current docket, court notifications/remediation, archive comparator, status wording and independent hostile-reader check."
+    }
+  ],
+  "daily_editorial_completion_2026_11_12": {
+    "title": "Miriam Benjamin Built a Chair That Could Call for Help.",
+    "source": "editorial-packages/TMS_MIRIAM_BENJAMIN_SIGNAL_CHAIR_PUBLICATION_PACKAGE_2026-11-12.md",
+    "status": "approved_queued_full_finished",
+    "gate_1": "PASS",
+    "gate_2": "PASS",
+    "voice": "PASS",
+    "new_full_finished": 1,
+    "publication": {
+      "title": "The Berlin Wall Opened When People Went to the Border.",
+      "slug": "the-berlin-wall-opened-when-people-went-to-the-border.html",
+      "source": "editorial-packages/TMS_GERMANY_BORNHOLMER_BORDER_OPENING_PUBLICATION_PACKAGE_2026-11-09.md",
+      "publication_status": "published_live_verified",
+      "published_verified": "2026-11-12",
+      "article_commit": "e0bd3caf23cf6c4cc48aef156de047154cf2c38b",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "voice": "PASS",
+      "gate_3": "PASS",
+      "notes": "Seven custom-domain paths match release blobs. Sole full release in November 12 workflow."
+    }
+  },
+  "discovery_2026_11_12": [
+    {
+      "title": "Miriam Benjamin Built a Chair That Could Call for Help.",
+      "outcome": "prior_positive_lead_promoted_to_approved_package",
+      "source": "https://patents.google.com/patent/US386289A/en"
+    },
+    {
+      "title": "Lame-duck permitting",
+      "outcome": "follow_up_update",
+      "sources": [
+        "https://www.periodicalpress.senate.gov/wednesday-november-11-2026/",
+        "https://www.democrats.senate.gov/2026/11/11/schedule-for-thursday-november-12-2026",
+        "https://www.ncai.org/news/ncai-warns-baaja-s-5653"
+      ]
+    },
+    {
+      "title": "2026 midterm wage promise",
+      "outcome": "baseline_only",
+      "source": "https://jamestalarico.com/issue/labor-business/"
+    },
+    {
+      "title": "Jones remedy",
+      "outcome": "docket_watch_queued_work",
+      "source": "https://jcpc.uk/cases/jcpc-2025-0095"
+    }
+  ],
+  "political_promise_ledger": {
+    "source": "TMS_POLITICAL_PROMISE_LEDGER.md",
+    "opened": "2026-11-12",
+    "initial_entries": 2
+  },
+  "reconciliation_notes_2026_11_12": "November 11 external nora release verified and removed from stale reserve. Berlin verified and removed. Benjamin added; Arkansas research draft separately held."
 }

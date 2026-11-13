@@ -1,7 +1,7 @@
 # Jason Jones Won His Privacy Appeal. The Court Still Has an Order to Write.
 
 - Author: Jansen Bowden / The Missing Seat
-- Completed: November 11, 2026. Publication date to be assigned.
+- Completed: November 11, 2026. Publication: November 13, 2026; verification pending.
 - Slug: jason-jones-trinidad-tobago-privacy-appeal
 - Territory: Race & Equal Humanity; Power & Accountability
 - Topic: LGBTQ+ rights; courts; constitutional privacy
@@ -65,15 +65,15 @@ Jones obtained a ruling about the state’s power to criminalise private, consen
 
 ## Verification notice
 
-Checked November 11, 2026 against the judgment and docket. The opening relies on the court’s account, without an interview or invented quotation. The constitutional ruling and provisional remedial view are reported separately. No final form of order, implementation result, compensation or broader legal change is asserted.
+Checked November 11 and refreshed November 13, 2026 against the judgment and docket. The opening relies on the court’s account, without an interview or invented quotation. The constitutional ruling and provisional remedial view are reported separately. No final form of order, implementation result, compensation or broader legal change is asserted.
 
 ## Facebook: English
 
-Jason Jones won his appeal. On November 10, Trinidad and Tobago’s final court of appeal held that two provisions of the Sexual Offences Act cannot criminalise private, consensual sexual relations between adults of the same sex. The judges left the wording of their order open for further submissions. If you’re sharing the news, read the conclusion and the remedy section together. The decision is a real change, and the next document will show how the court puts it into effect. https://www.jcpc.uk/cases/jcpc-2025-0095
+Jason Jones won his appeal. On November 10, Trinidad and Tobago's final court of appeal held that two provisions of the Sexual Offences Act cannot criminalise private, consensual sexual relations between adults of the same sex. The judges left the wording of their order open for further submissions. If you're sharing the news, read the conclusion and the remedy section together. The decision is a real change, and the next document will show how the court puts it into effect. https://www.jcpc.uk/cases/jcpc-2025-0095
 
 ## Instagram: English
 
-Jason Jones won his privacy appeal on November 10. Trinidad and Tobago’s final court of appeal held that the challenged provisions cannot criminalise private, consensual sexual relations between adults of the same sex. The court still has to settle the precise wording of its order. Find case JCPC/2025/0095 on the Privy Council website. Read paragraphs 85 to 89 before sharing a claim about what the ruling changes.
+Jason Jones won his privacy appeal on November 10. Trinidad and Tobago's final court of appeal held that the challenged provisions cannot criminalise private, consensual sexual relations between adults of the same sex. The court still has to settle the precise wording of its order. Find case JCPC/2025/0095 on the Privy Council website. Read paragraphs 85 to 89 before sharing a claim about what the ruling changes.
 
 ## Release reviews
 
@@ -81,3 +81,9 @@ Jason Jones won his privacy appeal on November 10. Trinidad and Tobago’s final
 - Gate 2: PASS | 2026-11-11 07:11:46 UTC | Codex separate hostile-reader, Regular Joe and format review. Checked live archive versus main, reserved and hold records, queue and existing revisions. No Jones/Trinidad story found. The blue-wave procedural follow-up is not a comparator on facts or action; the Jesse Lee Bond story also uses court records, but concerns a family’s historical record in Tennessee, not constitutional privacy in Trinidad and Tobago. The opening attributes Jones’s experience to the court. Distinguished colonial predecessor from the independent legislature’s 1986 Act; gave the government’s savings and special-majority arguments and the court’s answers. The court’s constitutional ruling and pending remedy remain separate throughout website and social. Checked title, approved status wording, Short Version, Pull Up A Chair, resources, Seat Summary, receipts, verification notice and image brief. Instagram 416 characters.
 - Voice: PASS | Final voice pass after both reviews: replaced a generic transition about what the case means with the specific next record; kept the first paragraph tied to Jones and his case; kept the section 13 explanation in ordinary language, with no stock ending or em dashes.
 - Status: full finished, automatically approved and queued. Before release, refresh docket and any order or submissions; hold if material change requires a fresh review. Gate 3 pending.
+
+## November 13 release refresh
+
+- Gate 1: PASS | 2026-11-13 07:24:30 UTC | Codex reopened the full judgment PDF and HTML, press summary, case docket and TTT. Paragraphs 85 to 89 confirm the court's holding and provisional remedy; no separate final order or published submission deadline appeared on the docket. No repeal, enforcement change, marriage right or relief asserted. Literal FB/IG carry that distinction and the case link. Live slug 404; verified archive and feed match main.
+- Gate 2: PASS | 2026-11-13 07:24:30 UTC | Separate hostile/Regular Joe check: kept section 6, special-majority section 13 and constitutional holding distinct. Jones's experience attributed; the public action points to the remedy paragraphs. Status and complete template, disclosure and sources retained. Actual literal exports passed punctuation, controls, links and paragraph scan; IG 416 chars. No Buffer send. Final voice pass: kept Jones and what the law reached in the opening; avoided broad claims in the ending.
+- Gate 3: pending.

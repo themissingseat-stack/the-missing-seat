@@ -1,0 +1,12 @@
+# November 13 TMS reporting record
+
+Latest main editorial standard: aa0fb61fc20d3559367320a2bd2425cb637418a1.
+
+- **Published and verified:** [Jason Jones Won His Privacy Appeal. The Court Still Has an Order to Write.](https://themissingseat.org/jason-jones-trinidad-tobago-privacy-appeal.html). [Review record](editorial-packages/TMS_TRINIDAD_TOBAGO_JASON_JONES_PRIVACY_PUBLICATION_PACKAGE_2026-11-11.md). Article, homepage, archive, Race & Equal Humanity, RSS, sitemap and sharing page returned HTTP 200 and matched the commit. Only full release. The court's constitutional ruling is distinct from the pending remedy.
+- **New approved reserve:** [An Old Tax Refund and Unclaimed Property Are Two Different Searches.](editorial-packages/TMS_UNCLAIMED_TAX_REFUNDS_AND_STATE_PROPERTY_2026-11-13.md). Both gates and final voice pass recorded; literal English social exports checked. IRS 2022 figures verified, 2023 date limited to the ordinary withholding case, conflicting NAUPA prevalence figures omitted. No Buffer send or preview.
+- **Reserved research:** You Served Your Time. So Why Are You Still Being Punished? / When Does a Sentence Actually End?. [NICCC](https://niccc.nationalreentryresourcecenter.org/) is a starting point for employment, licensing, housing, education and voting, not a single nationwide rule. Check statutes and remedies, with a fair account of targeted public-safety restrictions.
+- **Follow-up:** [Promise Ledger](TMS_POLITICAL_PROMISE_LEDGER.md) now records November 16 substitute cloture sequence, not passage or enforcement. Initial blue-wave review stays withdrawn.
+- **Counts:** 19 finished unpublished, 16 numbered (2 cleared, 13 legacy refresh holds, 1 source hold), 3 complete off-queue holds, 5 unfinished or held drafts, 4 retired, 16 separate revisions, 11 follow-up and 5 positive research leads. Germany 2/2. Zero unresolved editorial deployment discrepancies.
+- **[Something Worth Sharing: Too Interesting to Experience Halfway](https://themissingseat.org/something-worth-sharing.html#life-is-too-interesting-2026-11-13)** publicly verified in archive and homepage. 22 prior entries retained, including all six October 18–23 entries. Exact English excerpt supplied in Jansen Bowden's November 13 birthday reflection. Title and German translation are new editorial wording.
+
+> They say Scorpios are intense. I say life is too interesting to experience halfway.

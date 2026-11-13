@@ -16,6 +16,8 @@ Opened November 12, 2026. Part of editorial follow-up. These entries record what
 
 **Opposition and remaining burden:** [NCAI's statement](https://www.ncai.org/news/ncai-warns-baaja-s-5653) argues the revised measure still undermines tribal consultation and protection of sacred places. This is the organization's position, not a measured outcome. Compare operative text and actual consultation records before drawing a conclusion. No verified lower bills, consultation remedy or final passage in the sources checked at run time.
 
+**November 13 check:** The [November 12 floor log](https://www.dailypress.senate.gov/thursday-november-12-2026/) schedules the substitute 6883 cloture vote after the Domenico nomination vote on November 16. The 5:30 p.m. Washington time agreement is when the motions ripen, not a promise of final passage. No change to household bills or tribal consultation is established.
+
 ## Next baseline
 
 Capture primary campaign statements from other 2026 candidates and use January 2027 member and committee records to track action. For the presidency and 2028 cycle, distinguish campaign remarks from signed orders, appropriations, agency implementation and court constraints. Do not open a person-specific promise entry without an attributable record.

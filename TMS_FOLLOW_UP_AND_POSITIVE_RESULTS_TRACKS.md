@@ -1,5 +1,5 @@
 # TMS follow-up and positive-results reporting tracks
-Updated November 12, 2026. Candidates are research leads, never finished inventory.
+Updated November 13, 2026. Candidates are research leads, never finished inventory.
 
 ## Follow-up candidates: 11
 1. Germany police-complaints editorial: obtain subsequent Bundestag/commissioner reporting on complaint disposition, investigations completed, institutional action and individual relief. Baseline live slug: germany-created-a-seat-for-police-complaints-who-can-actually-use-it. Trigger: a verified later outcome, not the existing complaint count. No new outcome asserted.
@@ -156,3 +156,9 @@ SWS has its own TMS_SWS_LEDGER.json: today's exact Jansen quote plus labeled new
 - [Promise Ledger](TMS_POLITICAL_PROMISE_LEDGER.md) records the original statements, procedural stages and current hearing/filing checks without claiming relief. The [November 11 floor log](https://www.periodicalpress.senate.gov/wednesday-november-11-2026/) records cloture filings. No replacement of the blue-wave editorial.
 - The Benjamin positive research lead is now an approved [full package](editorial-packages/TMS_MIRIAM_BENJAMIN_SIGNAL_CHAIR_PUBLICATION_PACKAGE_2026-11-12.md); five research-only positive leads remain. The House did not adopt her design according to USPTO; no sales or licensing outcome inferred.
 - [Jones docket](https://jcpc.uk/cases/jcpc-2025-0095) rechecked; no separate final remedial order was visible. Refresh again before release.
+
+## November 13
+
+- [Promise Ledger](TMS_POLITICAL_PROMISE_LEDGER.md): November 16 procedural sequence recorded. No blue-wave replacement or final policy outcome.
+- [Jones](https://themissingseat.org/jason-jones-trinidad-tobago-privacy-appeal.html) published. Watch for the final order, instructions to local authorities and documented changes in practice. The constitutional holding is not evidence of those results. Recorded as a monitoring note, not an additional scored follow-up candidate.
+- User-reserved collateral consequences lead: [NICCC](https://niccc.nationalreentryresourcecenter.org/) and [CSG](https://csgjusticecenter.org/publications/the-national-inventory-of-collateral-consequences-of-conviction/); verify jurisdiction, inventory methodology and remedies. Not in reserve.

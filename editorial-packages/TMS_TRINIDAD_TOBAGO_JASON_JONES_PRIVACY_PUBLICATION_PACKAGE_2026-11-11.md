@@ -1,7 +1,7 @@
 # Jason Jones Won His Privacy Appeal. The Court Still Has an Order to Write.
 
 - Author: Jansen Bowden / The Missing Seat
-- Completed: November 11, 2026. Publication: November 13, 2026; verification pending.
+- Completed: November 11, 2026. Publication: November 13, 2026; publicly verified.
 - Slug: jason-jones-trinidad-tobago-privacy-appeal
 - Territory: Race & Equal Humanity; Power & Accountability
 - Topic: LGBTQ+ rights; courts; constitutional privacy
@@ -86,4 +86,4 @@ Jason Jones won his privacy appeal on November 10. Trinidad and Tobago's final c
 
 - Gate 1: PASS | 2026-11-13 07:24:30 UTC | Codex reopened the full judgment PDF and HTML, press summary, case docket and TTT. Paragraphs 85 to 89 confirm the court's holding and provisional remedy; no separate final order or published submission deadline appeared on the docket. No repeal, enforcement change, marriage right or relief asserted. Literal FB/IG carry that distinction and the case link. Live slug 404; verified archive and feed match main.
 - Gate 2: PASS | 2026-11-13 07:24:30 UTC | Separate hostile/Regular Joe check: kept section 6, special-majority section 13 and constitutional holding distinct. Jones's experience attributed; the public action points to the remedy paragraphs. Status and complete template, disclosure and sources retained. Actual literal exports passed punctuation, controls, links and paragraph scan; IG 416 chars. No Buffer send. Final voice pass: kept Jones and what the law reached in the opening; avoided broad claims in the ending.
-- Gate 3: pending.
+- Gate 3: PASS. Seven public paths returned HTTP 200 with [release commit](https://github.com/themissingseat-stack/the-missing-seat/commit/f50dde2dc80e8802fbb9b536ba33768938ff2a8a) bytes.

@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-11-13",
+  "last_reconciled": "2026-11-14",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -22,21 +22,35 @@
     ]
   },
   "deployment": {
-    "source": "GitHub main, independently verified on public domain",
+    "source": "GitHub main independently verified on custom domain",
     "status": "published_live_verified",
-    "commit": "f50dde2dc80e8802fbb9b536ba33768938ff2a8a",
-    "public_verified": "2026-11-13",
+    "commit": "61a15103180a22cfee1607d81d222639f0e01cf9",
+    "public_verified": "2026-11-14",
     "verified_public_blobs": {
-      "feed.xml": "ba997a5acaa0aef714036e3bd9e411b160af1ca7",
-      "index.html": "195a912e7dafb052ea30a6877a8f5ec2796a6362",
-      "jason-jones-trinidad-tobago-privacy-appeal.html": "60329da666e4538b1b8778fa7a20b232a3ad7434",
-      "sitemap.xml": "5d44462aceb19251c2ad5d17e51a777da88780b9",
-      "something-worth-sharing.html": "2a64cbc77873606ccf8d144c8d412836e5b0d948",
-      "stories.html": "e6a9b88f0a1b2e86438df81a8a09ca176f81a67f",
-      "topics/race-equal-humanity.html": "cc068eb48aae542cfa8ff2404a086ff545c0932e"
+      "black-brilliant-beyond.html": "43ff971aa8c222252afda8f5a11a762d86d78041",
+      "feed.xml": "b65ac94ad82de166cee61eee87dc92568208fe19",
+      "index.html": "fb815094635cdea979fd33150fd90495c9049a20",
+      "miriam-benjamin-gong-and-signal-chair.html": "d484a0811a1ce0cad3b449cf5cf547054fb7b4d7",
+      "sitemap.xml": "53d085398f5d61c44321c2c10faa90140225e8c6",
+      "something-worth-sharing.html": "d35b105c62ec1918eba1dafb69ba70344a99d7d2",
+      "stories.html": "f9e045476c029760862981872373d8ac355c523a",
+      "topics/missing-history.html": "6a8f730aebaad7f8c2473cc00c8a9f3b553390d7"
     }
   },
   "published_record": [
+    {
+      "title": "Miriam Benjamin Built a Chair That Could Call for Help.",
+      "slug": "miriam-benjamin-gong-and-signal-chair.html",
+      "source": "editorial-packages/TMS_MIRIAM_BENJAMIN_SIGNAL_CHAIR_PUBLICATION_PACKAGE_2026-11-12.md",
+      "publication_status": "published_live_verified",
+      "published_verified": "2026-11-14",
+      "article_commit": "61a15103180a22cfee1607d81d222639f0e01cf9",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "voice": "PASS",
+      "gate_3": "PASS",
+      "notes": "Eight public paths returned 200 and exact release blobs. Sole new full release."
+    },
     {
       "title": "Jason Jones Won His Privacy Appeal. The Court Still Has an Order to Write.",
       "slug": "jason-jones-trinidad-tobago-privacy-appeal.html",
@@ -835,32 +849,6 @@
       "current_release_blocker": "November 8: directive VII.4 requires December 1 electronic filing; SAB FAQ says no strict deadline, ideally December 1. Resolve applicable current filing rule and revise package before renewed Gate 1/2. Prior PASS is not current approval."
     },
     {
-      "title": "Miriam Benjamin Built a Chair That Could Call for Help.",
-      "canonical_title": "Miriam Benjamin Built a Chair That Could Call for Help.",
-      "slug": "miriam-benjamin-gong-and-signal-chair",
-      "source": "editorial-packages/TMS_MIRIAM_BENJAMIN_SIGNAL_CHAIR_PUBLICATION_PACKAGE_2026-11-12.md",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "scheduled_date": null,
-      "approval": "Standing two-review authorization, November 12",
-      "gate_1": "PASS",
-      "gate_2": "PASS",
-      "voice": "PASS",
-      "review_1": "PASS | 2026-11-12 07:26:30 UTC | Codex evidence pass. Read the original patent facsimile record and mechanism/claims text, cross-checked the grant number and date against the contemporary Congressional Record listing, and read USPTO's historical account of teaching, advocacy and exhibition. OCR has a faulty number in one heading; the indexed patent and printed Congressional Record listing agree. The USPTO historian reports the House did not adopt her design; the later similar installation is not evidence of copying or payment. Patent projections are not results. Actual EN Facebook and Instagram strings preserve claims and date, have no forbidden punctuation, and use the working patent URL where included.",
-      "review_2": "PASS | 2026-11-12 07:27:03 UTC | Codex separate hostile-reader and Regular Joe pass. Read the narrative against patent claims: a guest's action, the attendant's reset, documented designer credit and buyer authority are explicit. Possible staffing savings are Benjamin's case for the design, not measured results. Existing live archive, GitHub tree and reserved/blocked queue checked; a research lead already exists and is promoted, not duplicated. Closest live comparator Raye Montague concerns a naval drawing system and teaching, not a chair mechanism or commercialization record. Approved achievement Seat Status, Short Version, Pull Up A Chair, U.S. resources, Seat Summary, working receipts, disclosure, excerpt and image brief present. Actual EN copy re-read and scanned; Instagram 335 characters. No markup, entity, smart punctuation, escape or control characters. No platform submission or preview claimed.",
-      "release_gate_status": "content_gates_passed_technical_release_pending",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.",
-          "distinction": "Different design, audience, technical records, and commercial adoption evidence."
-        }
-      ],
-      "notes": "Promoted prior research lead; refresh primary links and integrate HTML, archive, topic, homepage, RSS and sitemap before separate verification.",
-      "position": 15
-    },
-    {
       "title": "An Old Tax Refund and Unclaimed Property Are Two Different Searches.",
       "canonical_title": "An Old Tax Refund and Unclaimed Property Are Two Different Searches.",
       "slug": "old-tax-refund-and-state-unclaimed-property",
@@ -884,6 +872,32 @@
         }
       ],
       "notes": "Refresh 2023-specific IRS guidance before release; render site and verify deployment.",
+      "position": 15
+    },
+    {
+      "title": "When Does a Sentence Actually End?",
+      "canonical_title": "When Does a Sentence Actually End?",
+      "slug": "when-does-a-sentence-actually-end",
+      "source": "editorial-packages/TMS_COLLATERAL_CONSEQUENCES_REENTRY_2026-11-14.md",
+      "completion_status": "full_finished",
+      "publication_status": "unpublished",
+      "status": "approved_queued_full_finished",
+      "scheduled_date": null,
+      "approval": "Standing two-stage authorization",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "voice": "PASS",
+      "review_1": "PASS | 2026-11-14 07:16:43 UTC | Codex factual pass. Used NICCC as an index and attributed CSG's published 40,000-plus figure; did not present it as a live recount or per-person burden. Checked Texas Chapter 53 against TDLR's advance letter, OPM conditional offer, current eCFR public housing against GovInfo, Department of Education Pell guidance and official Florida/Maine voting rules. Distinguished a conviction from release, supervision, completed sentence and separate legal restrictions. No current national legal estimate or outcome inferred. Literal FB/IG checked against the Texas source and contain no broader entitlement.",
+      "review_2": "PASS | 2026-11-14 07:17:04 UTC | Separate hostile and Regular Joe read: the Texas example explains the applicant's immediate choice; employment, housing, education and voting describe separately sourced decisions. The text identifies who decides and who bears the costs, recognizes job-related safety reasons and supplies review routes. Replaced a 403 guidance link with the opened Maine statute. Approved status, Short Version, action, resources, summary, receipts, notice and image brief present. Live archive and numbered/held titles show no matching full story; the reserved lead becomes this package. Literal social copy checked, Instagram 419 characters. Final voice check retained the training decision and the instruction to keep the deadline with the written answer. No social send.",
+      "release_gate_status": "content_gates_passed_technical_release_pending",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Workers Were Teenagers. The Complaint System Was Built for Adults.",
+          "distinction": "Complaint access for young workers versus post-conviction licensing, housing, aid and voting."
+        }
+      ],
+      "notes": "Promoted reserved candidate. Refresh current statutes and release-day review; integrate HTML, topic, archive, homepage, RSS and sitemap.",
       "position": 16
     }
   ],
@@ -1483,32 +1497,6 @@
       "current_release_blocker": "November 8: directive VII.4 requires December 1 electronic filing; SAB FAQ says no strict deadline, ideally December 1. Resolve applicable current filing rule and revise package before renewed Gate 1/2. Prior PASS is not current approval."
     },
     {
-      "title": "Miriam Benjamin Built a Chair That Could Call for Help.",
-      "canonical_title": "Miriam Benjamin Built a Chair That Could Call for Help.",
-      "slug": "miriam-benjamin-gong-and-signal-chair",
-      "source": "editorial-packages/TMS_MIRIAM_BENJAMIN_SIGNAL_CHAIR_PUBLICATION_PACKAGE_2026-11-12.md",
-      "completion_status": "full_finished",
-      "status": "approved_queued_full_finished",
-      "publication_status": "unpublished",
-      "scheduled_date": null,
-      "approval": "Standing two-review authorization, November 12",
-      "gate_1": "PASS",
-      "gate_2": "PASS",
-      "voice": "PASS",
-      "review_1": "PASS | 2026-11-12 07:26:30 UTC | Codex evidence pass. Read the original patent facsimile record and mechanism/claims text, cross-checked the grant number and date against the contemporary Congressional Record listing, and read USPTO's historical account of teaching, advocacy and exhibition. OCR has a faulty number in one heading; the indexed patent and printed Congressional Record listing agree. The USPTO historian reports the House did not adopt her design; the later similar installation is not evidence of copying or payment. Patent projections are not results. Actual EN Facebook and Instagram strings preserve claims and date, have no forbidden punctuation, and use the working patent URL where included.",
-      "review_2": "PASS | 2026-11-12 07:27:03 UTC | Codex separate hostile-reader and Regular Joe pass. Read the narrative against patent claims: a guest's action, the attendant's reset, documented designer credit and buyer authority are explicit. Possible staffing savings are Benjamin's case for the design, not measured results. Existing live archive, GitHub tree and reserved/blocked queue checked; a research lead already exists and is promoted, not duplicated. Closest live comparator Raye Montague concerns a naval drawing system and teaching, not a chair mechanism or commercialization record. Approved achievement Seat Status, Short Version, Pull Up A Chair, U.S. resources, Seat Summary, working receipts, disclosure, excerpt and image brief present. Actual EN copy re-read and scanned; Instagram 335 characters. No markup, entity, smart punctuation, escape or control characters. No platform submission or preview claimed.",
-      "release_gate_status": "content_gates_passed_technical_release_pending",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "Raye Montague Helped Change Ship Design. Teach the Work Behind the Name.",
-          "distinction": "Different design, audience, technical records, and commercial adoption evidence."
-        }
-      ],
-      "notes": "Promoted prior research lead; refresh primary links and integrate HTML, archive, topic, homepage, RSS and sitemap before separate verification.",
-      "position": 15
-    },
-    {
       "title": "An Old Tax Refund and Unclaimed Property Are Two Different Searches.",
       "canonical_title": "An Old Tax Refund and Unclaimed Property Are Two Different Searches.",
       "slug": "old-tax-refund-and-state-unclaimed-property",
@@ -1532,6 +1520,32 @@
         }
       ],
       "notes": "Refresh 2023-specific IRS guidance before release; render site and verify deployment.",
+      "position": 15
+    },
+    {
+      "title": "When Does a Sentence Actually End?",
+      "canonical_title": "When Does a Sentence Actually End?",
+      "slug": "when-does-a-sentence-actually-end",
+      "source": "editorial-packages/TMS_COLLATERAL_CONSEQUENCES_REENTRY_2026-11-14.md",
+      "completion_status": "full_finished",
+      "publication_status": "unpublished",
+      "status": "approved_queued_full_finished",
+      "scheduled_date": null,
+      "approval": "Standing two-stage authorization",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "voice": "PASS",
+      "review_1": "PASS | 2026-11-14 07:16:43 UTC | Codex factual pass. Used NICCC as an index and attributed CSG's published 40,000-plus figure; did not present it as a live recount or per-person burden. Checked Texas Chapter 53 against TDLR's advance letter, OPM conditional offer, current eCFR public housing against GovInfo, Department of Education Pell guidance and official Florida/Maine voting rules. Distinguished a conviction from release, supervision, completed sentence and separate legal restrictions. No current national legal estimate or outcome inferred. Literal FB/IG checked against the Texas source and contain no broader entitlement.",
+      "review_2": "PASS | 2026-11-14 07:17:04 UTC | Separate hostile and Regular Joe read: the Texas example explains the applicant's immediate choice; employment, housing, education and voting describe separately sourced decisions. The text identifies who decides and who bears the costs, recognizes job-related safety reasons and supplies review routes. Replaced a 403 guidance link with the opened Maine statute. Approved status, Short Version, action, resources, summary, receipts, notice and image brief present. Live archive and numbered/held titles show no matching full story; the reserved lead becomes this package. Literal social copy checked, Instagram 419 characters. Final voice check retained the training decision and the instruction to keep the deadline with the written answer. No social send.",
+      "release_gate_status": "content_gates_passed_technical_release_pending",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "The Workers Were Teenagers. The Complaint System Was Built for Adults.",
+          "distinction": "Complaint access for young workers versus post-conviction licensing, housing, aid and voting."
+        }
+      ],
+      "notes": "Promoted reserved candidate. Refresh current statutes and release-day review; integrate HTML, topic, archive, homepage, RSS and sitemap.",
       "position": 16
     }
   ],
@@ -2956,17 +2970,17 @@
   },
   "sws_track": {
     "source": "TMS_SWS_LEDGER.json",
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "status": "published_live_verified",
-    "url": "https://themissingseat.org/something-worth-sharing.html#life-is-too-interesting-2026-11-13",
-    "title": "Too Interesting to Experience Halfway",
+    "url": "https://themissingseat.org/something-worth-sharing.html#strength-and-honesty-2026-11-14",
+    "title": "Strength and Honesty",
     "editorial_inventory_excluded": true,
     "backlog_oct18_23": {
       "verified_present": 6,
       "unpublished_remaining": 0
     },
-    "older_entries_preserved": 22,
-    "commit": "f50dde2dc80e8802fbb9b536ba33768938ff2a8a",
+    "older_entries_preserved": 23,
+    "commit": "61a15103180a22cfee1607d81d222639f0e01cf9",
     "public_blocker": null
   },
   "external_manuscripts_pending_status_verification": [
@@ -3322,11 +3336,13 @@
     {
       "title": "You Served Your Time. So Why Are You Still Being Punished?",
       "alternate_title": "When Does a Sentence Actually End?",
-      "status": "user_reserved_research_only",
+      "status": "promoted_to_full_approved_package",
       "source": "https://niccc.nationalreentryresourcecenter.org/",
       "additional_source": "https://csgjusticecenter.org/publications/the-national-inventory-of-collateral-consequences-of-conviction/",
       "seat": "People returning from convictions and families supporting them.",
-      "notes": "CSG describes 40,000-plus catalogued consequences; verify current dataset, coverage and count methodology. A national inventory total is not the number that applies to one person. Compare exact statutes across jurisdictions, public-safety rationale, exceptions, restoration and concrete remedy before drafting."
+      "notes": "CSG describes 40,000-plus catalogued consequences; verify current dataset, coverage and count methodology. A national inventory total is not the number that applies to one person. Compare exact statutes across jurisdictions, public-safety rationale, exceptions, restoration and concrete remedy before drafting.",
+      "package": "editorial-packages/TMS_COLLATERAL_CONSEQUENCES_REENTRY_2026-11-14.md",
+      "queue_slug": "when-does-a-sentence-actually-end"
     }
   ],
   "daily_editorial_completion_2026_11_13": {
@@ -3385,5 +3401,45 @@
       "source": "https://www.dailypress.senate.gov/thursday-november-12-2026/"
     }
   ],
-  "reconciliation_notes_2026_11_13": "Jones verified and removed; refund package added. Collateral consequences remains reserved research."
+  "reconciliation_notes_2026_11_13": "Jones verified and removed; refund package added. Collateral consequences remains reserved research.",
+  "daily_editorial_completion_2026_11_14": {
+    "title": "When Does a Sentence Actually End?",
+    "source": "editorial-packages/TMS_COLLATERAL_CONSEQUENCES_REENTRY_2026-11-14.md",
+    "status": "approved_queued_full_finished",
+    "gate_1": "PASS",
+    "gate_2": "PASS",
+    "voice": "PASS",
+    "new_full_finished": 1,
+    "publication": {
+      "title": "Miriam Benjamin Built a Chair That Could Call for Help.",
+      "slug": "miriam-benjamin-gong-and-signal-chair.html",
+      "source": "editorial-packages/TMS_MIRIAM_BENJAMIN_SIGNAL_CHAIR_PUBLICATION_PACKAGE_2026-11-12.md",
+      "publication_status": "published_live_verified",
+      "published_verified": "2026-11-14",
+      "article_commit": "61a15103180a22cfee1607d81d222639f0e01cf9",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "voice": "PASS",
+      "gate_3": "PASS",
+      "notes": "Eight public paths returned 200 and exact release blobs. Sole new full release."
+    }
+  },
+  "discovery_2026_11_14": [
+    {
+      "title": "When Does a Sentence Actually End?",
+      "outcome": "approved_queued",
+      "source": "https://niccc.nationalreentryresourcecenter.org/"
+    },
+    {
+      "title": "Permitting substitute",
+      "outcome": "existing_follow_up_updated",
+      "source": "https://www.democrats.senate.gov/2026/11/12/schedule-for-monday-november-16-2026"
+    },
+    {
+      "title": "Benjamin patent and House adoption",
+      "outcome": "prior_approved_editorial_released",
+      "source": "editorial-packages/TMS_MIRIAM_BENJAMIN_SIGNAL_CHAIR_PUBLICATION_PACKAGE_2026-11-12.md"
+    }
+  ],
+  "reconciliation_notes_2026_11_14": "Benjamin verified and removed; collateral consequences promoted from reserved lead. No second full release."
 }

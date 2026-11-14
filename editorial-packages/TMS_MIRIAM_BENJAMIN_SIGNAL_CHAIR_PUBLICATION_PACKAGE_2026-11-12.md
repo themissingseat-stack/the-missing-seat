@@ -1,7 +1,7 @@
 # Miriam Benjamin Built a Chair That Could Call for Help.
 
 - Author: Jansen Bowden / The Missing Seat
-- Completed: November 12, 2026. Publication: November 14, 2026; public verification pending.
+- Completed: November 12, 2026. Publication: November 14, 2026; publicly verified.
 - Slug: miriam-benjamin-gong-and-signal-chair
 - Territory: Missing History; Race & Equal Humanity
 - Topic: Black, Brilliant & Beyond; Give Them Their Flowers; invention and credit
@@ -81,4 +81,4 @@ Miriam E. Benjamin designed a way for someone to ask for service without leaving
 
 - Gate 1: PASS | 2026-11-14 07:15:41 UTC | Codex evidence refresh: opened patent US386289A, rechecked its congressional listing through searchable GovInfo OCR and the USPTO historian's non-adoption finding. Original patent supports the mechanism, not commercial use or savings. Literal FB/IG preserve date, scope and working patent link. Slug 404; production archive and RSS match current main; no November 14 feed entry.
 - Gate 2: PASS | 2026-11-14 07:15:41 UTC | Separate template and hostile-reader pass: checked distinction between proposed benefit, legislative mention and sales; no copy or royalty allegation. Matched approved status, human-centered opening, action, sources and disclosure. Actual literal FB/IG strings passed scan; Instagram 335 characters. Voice pass retained the mechanical detail and teaching action. No Buffer submission or preview.
-- Gate 3: pending.
+- Gate 3: PASS. Eight public paths returned HTTP 200 with [release commit](https://github.com/themissingseat-stack/the-missing-seat/commit/61a15103180a22cfee1607d81d222639f0e01cf9) bytes.

@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "track": "SWS; excluded from full editorial inventory",
   "entries": [
+    {
+      "id": "strength-and-honesty-2026-11-14",
+      "date": "2026-11-14",
+      "title": "Strength and Honesty",
+      "source": "something-worth-sharing.html#strength-and-honesty-2026-11-14",
+      "publication_status": "published_live_verified",
+      "commit": "61a15103180a22cfee1607d81d222639f0e01cf9",
+      "public_verified": "2026-11-14"
+    },
     {
       "id": "life-is-too-interesting-2026-11-13",
       "date": "2026-11-13",
@@ -188,10 +197,10 @@
     "note": "All six dates present on the verified public archive; preserved."
   },
   "today": {
-    "date": "2026-11-13",
-    "text": "They say Scorpios are intense. I say life is too interesting to experience halfway.",
-    "translation_de": "Man sagt, Skorpione seien intensiv. Ich finde, das Leben ist zu interessant, um es nur halb zu erleben.",
-    "provenance": "Exact English excerpt supplied in Jansen Bowden's November 13 birthday reflection. Title and German translation are new editorial wording.",
+    "date": "2026-11-14",
+    "text": "I've learned that loyalty doesn't require blindness, forgiveness doesn't require forgetting, and being strong doesn't mean pretending nothing hurts.",
+    "translation_de": "Ich habe gelernt, dass Loyalität nicht bedeutet, die Augen zu verschließen, dass Verzeihen nicht voraussetzt, dass man vergisst, und dass Stärke nicht heißt, so zu tun, als täte nichts weh.",
+    "provenance": "Verbatim sentence from Jansen Bowden's November 13 birthday reflection; today's heading and German translation are editorial additions.",
     "publication_status": "published_live_verified"
   },
   "missing_page_dates": [

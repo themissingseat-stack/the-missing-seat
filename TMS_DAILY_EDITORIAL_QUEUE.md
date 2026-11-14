@@ -1,4 +1,4 @@
-# TMS Daily Editorial Queue — Reconciled 2026-11-13
+# TMS Daily Editorial Queue — Reconciled 2026-11-14
 
 **Source of truth:** verified live pages and published HTML/commits take precedence over stale queue labels. The staged JSON on branch `tms-daily-queue-2026-09-01` is the machine-readable companion to this ledger.
 
@@ -108,7 +108,7 @@ The governing test remains: **What did they actually change, who gained, what re
 | Active follow-up research candidates | 11 |
 | Positive/solution research candidates | 5 |
 
-Benjamin and the tax-refund package are cleared reserve. The two Germany releases are verified and removed from reserve. Saxony remains on factual HOLD. Arkansas is a research draft held outside finished reserve.
+The tax-refund and reentry packages are cleared reserve. Benjamin is live and excluded from reserve. The two Germany releases are verified and removed from reserve. Saxony remains on factual HOLD. Arkansas is a research draft held outside finished reserve.
 
 ## Finished numbered queue — current release status explicit
 
@@ -128,8 +128,8 @@ Benjamin and the tax-refund package are cleared reserve. The two Germany release
 | 12 | Social Security Wants the Money Back. First, Check the Decision. | `social-security-wants-the-money-back-first-check-the-decision` | HOLD: current reviews required | Before You Cut Care, Did You Stop Paying More for the Same Care?: Medicare provider-payment policy versus individual SSA debt determinations, notice accuracy and reconsideration/waiver/rate routes. | [Full package](editorial-packages/TMS_SOCIAL_SECURITY_REPAYMENT_CHECK_DECISION_PUBLICATION_PACKAGE_2026-10-28.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
 | 13 | Kathmandu Put Care on the Map. Can Families Find Their Way In? | `kathmandu-put-care-on-the-map-can-families-find-their-way-in` | HOLD: current reviews required | The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.: Broad labor/time/pay distribution versus named Nepal mapping, the route into municipal care, successful referrals and worker conditions.; Germany Promised a Full School Day. Families Need the Hours to Match.: Statutory school-care timetable entitlement versus municipal information/navigation approach across care needs. | [Full package](editorial-packages/TMS_KATHMANDU_CARE_MAP_ACCESS_PUBLICATION_PACKAGE_2026-10-30.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
 | 14 | A Repair Rebate Helps. First, You Have to Pay the Repair Bill. | `a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill` | HOLD: filing guidance conflict | Germany Has a Way to Keep the Power On. Can People Use It?: Continuity of electricity service versus paid-invoice repair rebate and the upfront cost of claiming it. | [Full package](editorial-packages/TMS_GERMANY_REPAIR_REBATE_UPFRONT_COST_PUBLICATION_PACKAGE_2026-11-06.md). November 8: directive VII.4 requires December 1 electronic filing; SAB FAQ says no strict deadline, ideally December 1. Resolve applicable current filing rule and revise package before renewed Gate 1/2. Prior PASS is not current approval. |
-| 15 | Miriam Benjamin Built a Chair That Could Call for Help. | `miriam-benjamin-gong-and-signal-chair` | Gate 1/2 and voice PASS; unpublished | Actual patent design and commercialization evidence; distinct from Raye Montague. | [Full package](editorial-packages/TMS_MIRIAM_BENJAMIN_SIGNAL_CHAIR_PUBLICATION_PACKAGE_2026-11-12.md); refresh and render before release. |
-| 16 | An Old Tax Refund and Unclaimed Property Are Two Different Searches. | `old-tax-refund-and-state-unclaimed-property` | Gate 1/2 and voice PASS; unpublished | Federal tax deadlines versus state property claims; distinct from child credit. | [Full package](editorial-packages/TMS_UNCLAIMED_TAX_REFUNDS_AND_STATE_PROPERTY_2026-11-13.md); refresh deadline guidance and render before release. |
+| 15 | An Old Tax Refund and Unclaimed Property Are Two Different Searches. | `old-tax-refund-and-state-unclaimed-property` | Gate 1/2 and voice PASS; unpublished | Federal tax deadlines versus state property claims; distinct from child credit. | [Full package](editorial-packages/TMS_UNCLAIMED_TAX_REFUNDS_AND_STATE_PROPERTY_2026-11-13.md); refresh deadline guidance and render before release. |
+| 16 | When Does a Sentence Actually End? | `when-does-a-sentence-actually-end` | Gate 1/2 and voice PASS; unpublished | Post-conviction rules across work, housing, education and voting. | [Full package](editorial-packages/TMS_COLLATERAL_CONSEQUENCES_REENTRY_2026-11-14.md); refresh laws and render before release. |
 
 ## Complete unpublished release holds outside numbered queue
 
@@ -141,6 +141,8 @@ Benjamin and the tax-refund package are cleared reserve. The two Germany release
 These are not duplicates, replacements for live stories or new authorship today. Thirteen legacy queued packages additionally require current gate/template refresh; the four unfinished priority drafts remain separate.
 
 ## Published record — do not requeue
+
+- **November 14, 2026:** [Miriam Benjamin Built a Chair That Could Call for Help.](https://themissingseat.org/miriam-benjamin-gong-and-signal-chair.html). Both refreshed gates and public verification passed. [Review record](editorial-packages/TMS_MIRIAM_BENJAMIN_SIGNAL_CHAIR_PUBLICATION_PACKAGE_2026-11-12.md). Sole new full release.
 
 - **November 13, 2026:** [Jason Jones Won His Privacy Appeal. The Court Still Has an Order to Write.](https://themissingseat.org/jason-jones-trinidad-tobago-privacy-appeal.html). Refreshed gates and public verification passed. Sole full release. [Package](editorial-packages/TMS_TRINIDAD_TOBAGO_JASON_JONES_PRIVACY_PUBLICATION_PACKAGE_2026-11-11.md).
 
@@ -227,6 +229,11 @@ No open editorial public/main mismatch after November 8 checks. Article, homepag
 - Preserve the full repair body and investigate clarification; do not retire or publish mechanically.
 
 ## Today’s reconciliation
+
+- Benjamin verified live and removed. The reserved reentry lead became a [finished package](editorial-packages/TMS_COLLATERAL_CONSEQUENCES_REENTRY_2026-11-14.md), approved and appended at 16.
+- [November 14 report](TMS_REPORTING_UPDATE_2026-11-14.md).
+
+## November 13 reconciliation
 
 - Jones verified live and removed; refund package approved and appended at 16.
 - Reserved research: **You Served Your Time. So Why Are You Still Being Punished?** / **When Does a Sentence Actually End?**. [NICCC](https://niccc.nationalreentryresourcecenter.org/). CSG describes 40,000-plus catalogued consequences; verify current dataset, coverage and count methodology. A national inventory total is not the number that applies to one person. Compare exact statutes across jurisdictions, public-safety rationale, exceptions, restoration and concrete remedy before drafting. Excluded from finished inventory.

@@ -18,6 +18,8 @@ Opened November 12, 2026. Part of editorial follow-up. These entries record what
 
 **November 13 check:** The [November 12 floor log](https://www.dailypress.senate.gov/thursday-november-12-2026/) schedules the substitute 6883 cloture vote after the Domenico nomination vote on November 16. The 5:30 p.m. Washington time agreement is when the motions ripen, not a promise of final passage. No change to household bills or tribal consultation is established.
 
+**November 14 check:** The [published November 16 Senate schedule](https://www.democrats.senate.gov/2026/11/12/schedule-for-monday-november-16-2026) still places the cloture vote on substitute 6883 after disposition of the Domenico nomination. No observed passage, implementation or household billing result.
+
 ## Next baseline
 
 Capture primary campaign statements from other 2026 candidates and use January 2027 member and committee records to track action. For the presidency and 2028 cycle, distinguish campaign remarks from signed orders, appropriations, agency implementation and court constraints. Do not open a person-specific promise entry without an attributable record.

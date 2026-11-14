@@ -1,7 +1,7 @@
 # Miriam Benjamin Built a Chair That Could Call for Help.
 
 - Author: Jansen Bowden / The Missing Seat
-- Completed: November 12, 2026. Publication date to be assigned.
+- Completed: November 12, 2026. Publication: November 14, 2026; public verification pending.
 - Slug: miriam-benjamin-gong-and-signal-chair
 - Territory: Missing History; Race & Equal Humanity
 - Topic: Black, Brilliant & Beyond; Give Them Their Flowers; invention and credit
@@ -76,3 +76,9 @@ Miriam E. Benjamin designed a way for someone to ask for service without leaving
 - Gate 2: PASS | 2026-11-12 07:27:03 UTC | Codex separate hostile-reader and Regular Joe pass. Read the narrative against patent claims: a guest's action, the attendant's reset, documented designer credit and buyer authority are explicit. Possible staffing savings are Benjamin's case for the design, not measured results. Existing live archive, GitHub tree and reserved/blocked queue checked; a research lead already exists and is promoted, not duplicated. Closest live comparator Raye Montague concerns a naval drawing system and teaching, not a chair mechanism or commercialization record. Approved achievement Seat Status, Short Version, Pull Up A Chair, U.S. resources, Seat Summary, working receipts, disclosure, excerpt and image brief present. Actual EN copy re-read and scanned; Instagram 335 characters. No markup, entity, smart punctuation, escape or control characters. No platform submission or preview claimed.
 - Final voice: PASS | Kept the mechanism as the opening, varied the movement from invention to sales effort, and finished with the task of teaching from two specific records. No invented scene or forced grievance.
 - Status: full finished; approved and queued. Before release, refresh receipts and complete technical integration and independent public verification.
+
+## November 14 release checks
+
+- Gate 1: PASS | 2026-11-14 07:15:41 UTC | Codex evidence refresh: opened patent US386289A, rechecked its congressional listing through searchable GovInfo OCR and the USPTO historian's non-adoption finding. Original patent supports the mechanism, not commercial use or savings. Literal FB/IG preserve date, scope and working patent link. Slug 404; production archive and RSS match current main; no November 14 feed entry.
+- Gate 2: PASS | 2026-11-14 07:15:41 UTC | Separate template and hostile-reader pass: checked distinction between proposed benefit, legislative mention and sales; no copy or royalty allegation. Matched approved status, human-centered opening, action, sources and disclosure. Actual literal FB/IG strings passed scan; Instagram 335 characters. Voice pass retained the mechanical detail and teaching action. No Buffer submission or preview.
+- Gate 3: pending.

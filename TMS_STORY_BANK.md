@@ -9,6 +9,7 @@ Where a fact came from a secondary source, the entry says so, and the primary so
 ## 1. Older adults ("Fine Wine"): nothing published yet
 
 **A. Medicare open enrollment ends December 7**
+- Status (November 15): full package written and cleared Gate 1 and Gate 2; unpublished; queued at position 17 in the daily queue. See editorial-packages/TMS_MEDICARE_DEADLINE_DECEMBER_7_WHO_HELPS_PUBLICATION_PACKAGE_2026-11-15.md. No social post exists or is scheduled.
 - Why now: open enrollment runs October 15 to December 7, 2026, and changes take effect January 1, 2027. AP reported on October 15 that a Social Security cost-of-living increase of 3.6% starts in 2027. ABC News reported on October 20 that there are fewer Medicare Advantage options this year.
 - Low-exposure angle: free, independent help exists through State Health Insurance Assistance Programs (SHIP). A University of Michigan poll reported by Michigan Medicine found 75% of older adults had never heard of SHIP and only 4% had used it. Confirm the poll's year at the original source before using the numbers.
 - Duplicate check: "Before You Cut Care, Did You Stop Paying More for the Same Care?" (published October 15) covers Medicare site-neutral payment. This would be a different story, about the enrollment deadline and free counseling.

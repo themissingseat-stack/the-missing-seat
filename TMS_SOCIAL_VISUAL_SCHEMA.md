@@ -17,7 +17,6 @@ image_rights_statement: Exact item-level reuse terms confirmed
 image_license_evidence: https://archive.example/item-rights
 image_alt_text: Accurate description of the actual photograph
 preferred_source_link: https://agency.example/source-document
-buffer_preview_verified: HOLD
 photo_fallback_reason: none
 ```
 
@@ -29,7 +28,7 @@ License types accepted for prospective photos: documented original owned/authori
 
 If no eligible photo is found, set `image_url: none`, `image_credit: none`, `image_license: none`, `image_creator: none`, `image_archive: none`, `image_rights_statement: none`, `image_license_evidence: none`, `image_alt_text: none`, and provide a specific and substantial `photo_fallback_reason`. For images rejected by technical validation, the publisher also records its specific rejection reason. Do not silently fall back to a text card.
 
-The `preferred_source_link` must be an actual source in the package's `## Sources` section, ideally the original primary document. Never use the TMS article URL as a Facebook external attachment. If no appropriate external source exists use `preferred_source_link: none` and explain in the sourcing record. Check original page and useful OG title, description and image before offering a link preview; if Buffer's actual preview cannot be confirmed or is unsuitable, fall back to the verified photograph. Record `buffer_preview_verified: PASS` only after inspecting and documenting the actual Buffer preview for that specific source URL and thumbnail; otherwise leave it `HOLD` and use the photo. An Open Graph check alone is never a PASS.
+The `preferred_source_link` must be an actual source in the package's `## Sources` section, ideally the original primary document. Never use the TMS article URL as a Facebook external attachment. If no appropriate external source exists use `preferred_source_link: none` and explain in the sourcing record. Facebook preview approval is **automatic**, not a manual editorial task. For each eligible link rotation slot, the publisher checks that the source URL is in the article's actual Sources, fetches the HTTPS source page, requires an Open Graph title, description and accessible image thumbnail, and submits a `metadata.facebook.linkAttachment` through Buffer's supported API. If those checks fail, or Buffer returns a definite invalid-input rejection, it uses the prepared licensed photograph (or a documented cream-first text-card fallback). Buffer accepting the attachment is recorded in the private database. The publisher cannot guarantee Facebook's final presentation; Facebook independently renders the published link. Do not invent or require a `buffer_preview_verified: PASS` flag, and do not hold eligible publications for a routine manual preview check.
 
 ## Social channel policy
 

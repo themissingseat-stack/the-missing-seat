@@ -21,8 +21,8 @@ This board coordinates existing [editorial standards](TMS_EDITORIAL_STANDARD.md)
 | Nov 19 | Tax refund vs unclaimed property teaser | DRAFTED; final approval and Buffer outstanding |
 | Nov 22 | Jason Jones teaser | DRAFTED; check Privy Council final order before approval |
 | Nov 23 | Miriam Benjamin teaser | DRAFTED; approval and Buffer outstanding |
-| Nov 24 | Medicare full article | Proposed release; final CMS 2027 Part B, Michigan poll, Medigap, all links/phones, public deployment check required; no later than Nov 30 |
-| Nov 24 onward | Medicare social | Draft only after article verified live; approve, schedule, verify |
+| Nov 18 | Medicare full article | **Editorial date decided Nov 15:** release Nov 18 only after final CMS 2027 Part B, Michigan poll, Medigap, links/phones, and deployment checks; hold if not cleared. Absolute deadline Nov 30. |
+| After Medicare confirmed live | Medicare social | Draft only after article verified live; approve, schedule, verify |
 | Nov 25 | Raye Montague teaser | Proposed; approval and Buffer outstanding |
 
 ## Rolling weekly production
@@ -46,12 +46,16 @@ Inventory today: three cleared packages (reentry "When Does a Sentence Actually 
 |---|---|---|
 | Nov 16 | Reentry: When Does a Sentence Actually End? | Cleared; refresh links, then release |
 | Nov 17 | NCNW archive | Cleared; refresh NPS access, confirm image rights |
-| Nov 18 | Medicare (recommended; GP plan is Nov 24) | Cleared; final links and phones; Part B stated as not announced if still true. No other cleared article exists for Nov 18 to 23, and the readers' deadline is Dec 7, so earlier is better. Decision: Jansen |
+| Nov 18 | Medicare (**date selected**) | Release only if final source/link/phone checks pass; clearly label 2027 Part B premium unannounced if still unannounced; verify live site. If blocked, hold and escalate before Nov 30. |
 | Nov 19 to 23 | New packages (Germany older adults; SNAP and school meals) and refreshed legacy items | Each only after Gate 1 and Gate 2 PASS; otherwise log the blocker and skip the day |
-| Nov 24 | Next cleared item, or Medicare if kept on GP's date | |
+| Nov 24 | Next fully cleared article; Medicare only if Nov 18 was blocked and all checks now pass | |
 | Nov 30 | Medicare absolute deadline | |
 
 Social follows each article only after it is verified live: draft, approved, scheduled (Buffer confirmation), published (Jansen confirms).
 
 ## Tools check, November 15
 No Buffer connector is available to this assistant. A registry search found no Buffer entry (only unrelated schedulers). Scheduling stays with Jansen or GP until one is connected.
+
+## Production priority decision — November 15
+
+After the three cleared articles, prioritize: (1) Germany older-adults benefits with primary SGB XI, Wohngeld and pension evidence; (2) US SNAP losses and free school meals with USDA/state evidence; (3) 1893–1894 repeal of federal election protections using Congressional Record; (4) Illinois Clean Slate implementation only if materially distinct from the reentry article. In parallel, rerun both gates on the closest-to-ready held queue items. Maintain a target of two Germany-focused stories weekly when adequately sourced. Do not convert target dates into publication claims.

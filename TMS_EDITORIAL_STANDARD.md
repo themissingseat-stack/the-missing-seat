@@ -1,5 +1,22 @@
 # TMS Editorial Standard (central reference)
 
+## Standing update 2026-11-15: social visual provenance and source previews (prospective)
+
+**Applies only to new editorial packages and new social scheduling decisions. Existing queued or scheduled posts must not be rewritten, requeued or altered by this change.** The full publication package's **Publication metadata** section must record these machine-readable fields (spelling is authoritative; snake_case is also accepted by downstream parsers):
+
+- `image_url` / `Image URL`: an HTTPS direct image URL, or `none` when no approved image exists.
+- `image_credit` / `Image Credit`: creator, holding institution and required credit line, where applicable.
+- `image_license` / `Image License`: the **actual** verified rights status, e.g. `original`, `CC0`, `public domain`, `CC BY 4.0`, `CC BY-SA 4.0`, or `licensed`. `Licensed` requires documented permission and conditions. `Unknown`, `all rights reserved`, `editorial use only`, and an absent rights statement are **not** permission to reuse. Old photographs and publicly accessible archives are not automatically public domain. Record the evidence/rights URL and any restrictions in the editorial package.
+- `preferred_source_link` / `Preferred Source Link`: a verified, relevant external URL already listed in the article's Sources section (prefer official primary source). It must not be the TMS article URL; the TMS article URL remains in the Facebook caption.
+- `Image Alt Text`: an accurate description of the actual approved image, without inventing a depiction.
+
+**Instagram:** Prefer a genuine rights-cleared photo on every new post, with the required credit in the caption. Use photo with a cream text box (Option A) or photo above a cream panel (Option B). No synthetic depictions of real people or actual historical events. If no suitable photograph can be verified, use a branded text-card fallback and record the exception; cream is the default, dark brown occasional.
+
+**Facebook:** Alternate between licensed photo posts and external-source link-preview posts for feed variety. Before choosing a link post, verify the external URL is live, relevant and has usable `og:image` metadata; verify the preview if the platform permits. Incomplete/unusable previews require a photo fallback. Never use an irrelevant link solely for an image. The TMS article URL remains in the text. A photo post must not simultaneously attach a Facebook link preview.
+
+**Release controls:** Verify rights, source relevance, preview, captions, image credits, accessible alt text and the exact platform payload. Preserve existing two-review, live-article, duplicate, one-new-editorial-per-day and social ledger rules. Scheduling status changes only after a real Buffer acknowledgement; publication status follows the existing human confirmation rule. The publisher code lives in `themissingseat-stack/tms-social-publisher` and must implement and test these rules independently before enabling them. This standards update alone is not a deployment.
+
+
 **This is the single source of truth for The Missing Seat's standing editorial rules.** Every workflow that drafts, reviews or publishes TMS material (website, daily queue, social copy, Civic Navigator, any assistant or automation) should read this file instead of relying on rules repeated by hand. When a rule changes, change it here once.
 
 Companion ledgers: [TMS_DAILY_EDITORIAL_QUEUE.md](TMS_DAILY_EDITORIAL_QUEUE.md) (queue and the Regular Joe comprehension test).

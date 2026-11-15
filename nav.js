@@ -30,11 +30,23 @@
   }
 })();
 (function(){
-  var more=document.querySelector('.more-menu');
-  if(!more)return;
-  var summary=more.querySelector('summary');
-  function close(refocus){if(more.open){more.open=false;if(refocus)summary.focus();}}
-  document.addEventListener('click',function(e){if(!more.contains(e.target))close(false);});
-  document.addEventListener('keydown',function(e){if(e.key==='Escape')close(true);});
-  more.addEventListener('focusout',function(e){if(e.relatedTarget&&!more.contains(e.relatedTarget))close(false);});
+  /* Dismissible <details> menus: outside click, Escape (with refocus), and focus leaving the menu all close it. Applies to both the desktop "More" menu and the mobile menu. */
+  var menus=document.querySelectorAll('.more-menu,.mobile-menu');
+  if(!menus.length)return;
+  var instances=[];
+  for(var i=0;i<menus.length;i++){
+    (function(el){
+      var summary=el.querySelector('summary');
+      function close(refocus){if(el.open){el.open=false;if(refocus)summary.focus();}}
+      el.addEventListener('focusout',function(e){if(e.relatedTarget&&!el.contains(e.relatedTarget))close(false);});
+      instances.push({el:el,close:close});
+    })(menus[i]);
+  }
+  document.addEventListener('click',function(e){
+    for(var i=0;i<instances.length;i++){if(!instances[i].el.contains(e.target))instances[i].close(false);}
+  });
+  document.addEventListener('keydown',function(e){
+    if(e.key!=='Escape')return;
+    for(var i=0;i<instances.length;i++){if(instances[i].el.open){instances[i].close(true);break;}}
+  });
 })();

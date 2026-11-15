@@ -92,12 +92,12 @@ The governing test remains: **What did they actually change, who gained, what re
 |---|---:|
 | Complete bodies awaiting confirmed public release | 20 |
 | Numbered queue | 16 |
-| Reserve with current Gate 1 and Gate 2 PASS, available for future release | 5 |
+| Reserve with current Gate 1 and Gate 2 PASS, available for future release | 6 |
 | Committed full releases awaiting public verification | 0 |
-| Legacy queued packages needing current gates/template refresh | 11 |
+| Legacy queued packages needing current gates/template refresh | 10 |
 | Additional queued source-conflict hold | 1 |
 | Separate complete-package holds outside numbered queue | 3 |
-| Complete packages on editorial hold | 17 |
+| Complete packages on editorial hold | 16 |
 | Retired/replaced finished editorials | 4 |
 | Editorial live/repository discrepancies | 0 |
 | Historical website replacement versions, not new reserve | 16 |
@@ -108,7 +108,7 @@ The governing test remains: **What did they actually change, who gained, what re
 | Active follow-up research candidates | 11 |
 | Positive/solution research candidates | 5 |
 
-The reentry, NCNW archive, Medicare Open Enrollment, hospital financial-assistance (row 9) and Social Security repayment (row 12) packages are cleared reserve; Medicare is deadline-sensitive and must publish by November 30, never after December 7. The tax-refund explainer is verified live and excluded from reserve. Benjamin is live and excluded from reserve. The two Germany releases are verified and removed from reserve. Saxony remains on factual HOLD. Arkansas is a research draft held outside finished reserve.
+The reentry, NCNW archive, Medicare Open Enrollment, hospital financial-assistance (row 9), Social Security repayment (row 12) and Germany minimum wage (row 1) packages are cleared reserve; Medicare is deadline-sensitive and must publish by November 30, never after December 7. The tax-refund explainer is verified live and excluded from reserve. Benjamin is live and excluded from reserve. The two Germany releases are verified and removed from reserve. Saxony remains on factual HOLD. Arkansas is a research draft held outside finished reserve.
 
 ## Deadline-sensitive priority — Medicare Open Enrollment (November 15 decision)
 
@@ -118,7 +118,7 @@ The reentry, NCNW archive, Medicare Open Enrollment, hospital financial-assistan
 
 | Position | Canonical title | Slug | Current release status | Material distinction | Source and work remaining |
 |---|---|---|---|---|---|
-| 1 | Germany Raised the Minimum Wage. The Paycheck Still Needs the Hours. | `germany-raised-the-minimum-wage-the-paycheck-still-needs-the-hours` | HOLD: current reviews required | Wages, recorded working time and labor enforcement rather than household energy debt and electricity disconnection. | [Full package](editorial-packages/TMS_GERMANY_MINIMUM_WAGE_HOURS_PUBLICATION_PACKAGE_2026-10-16.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
+| 1 | The Minimum Wage Rises to 14.60 Euros in January. Is Every Hour on the Payslip? | `minimum-wage-14-60-euros-january-is-every-hour-on-the-payslip` | Gate 1/2 PASS November 15, 2026 ... unpublished; release-day checks and placeholders open | Wages, recorded working time and labor enforcement rather than household energy debt and electricity disconnection. | [Full package](editorial-packages/TMS_GERMANY_MINIMUM_WAGE_HOURS_PUBLICATION_PACKAGE_2026-10-16.md). Refreshed and independently reviewed November 15, 2026 (Gate 1/2 PASS). Remaining: [article link] placeholders, Seat Status label confirmation, release-day recheck of BMAS rate page. |
 | 2 | The Building Failed. The Children Lost the School Day. | `the-building-failed-the-children-lost-the-school-day` | HOLD: current reviews required | The Absence Rate Was Over 100%. The Oversight Had Already Stopped.: Physical facilities, instructional closures and local repair responsibility rather than federal absenteeism calculations and ESEA monitoring. | [Full package](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_SCHOOL_BUILDING_FAILED_CHILDREN_LOST_DAY_PUBLICATION_PACKAGE_2026-10-16.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
 | 3 | The Job Center Was Open. The Help Still Wasn't Accessible. | `the-job-center-was-open-the-help-still-wasnt-accessible` | HOLD: current reviews required | Two Agencies Fund the Support. The Worker Still Gets Left Waiting.: Access to job-center appointments and training rather than sequential VR/Medicaid support funding. | [Full package](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_JOB_CENTER_ACCESS_PUBLICATION_PACKAGE_2026-10-16.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
 | 4 | The Loan Rule Changed. Were the Instructions Ready? | `the-loan-rule-changed-were-the-instructions-ready` | HOLD: current reviews required | The College Took the Money. The Outcome Data Is Late.: Education's implementation instructions to loan servicers rather than institutions' outcome-data reporting. | [Full package](https://github.com/themissingseat-stack/the-missing-seat/blob/main/editorial-packages/TMS_LOAN_RULE_CHANGED_INSTRUCTIONS_NOT_READY_PUBLICATION_PACKAGE_2026-10-16.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |

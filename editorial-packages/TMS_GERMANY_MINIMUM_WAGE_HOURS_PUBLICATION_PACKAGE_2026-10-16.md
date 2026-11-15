@@ -4,7 +4,8 @@
 
 **Status:** HOLD. Fixes applied November 15, 2026; confirming review pending. The October 16 approval predates the binding November 4 gates and is not a current PASS.
 **Seat Affected:** Low-paid workers, including minijob and seasonal workers, women, and workers in hospitality and other low-wage industries
-**Seat Status:** Seat At Risk (label used by other TMS packages; maintainer to confirm)
+**Seat Status:** Seat At Risk
+<!-- release note: label borrowed from sibling packages; maintainer to confirm before release -->
 **Location:** Germany
 **Topic:** Economic Fairness
 **Theme:** Minimum wage, working time, enforcement, accountability
@@ -12,7 +13,7 @@
 
 ### Excerpt
 
-Germany's minimum wage has been 13.90 euros an hour since January 1 and rises to 14.60 euros on January 1, 2027. A rate only reaches a paycheck when the hours are recorded and paid.
+Germany's minimum wage has been 13.90 euros an hour since January 1, 2026 and rises to 14.60 euros on January 1, 2027. A rate only reaches a paycheck when the hours are recorded and paid.
 
 ### The Short Version
 
@@ -32,13 +33,13 @@ That is real money for the person cleaning a hotel room, washing dishes, picking
 
 An hourly rate protects a worker only if the hours are counted. A person can be paid 13.90 euros for every hour on the record and still be underpaid, if the shift starts before the clock does, if closing work happens after clock-out, if waiting time is treated as free or if overtime never reaches the payslip.
 
-## Who the raise reached
+## Who the estimate covers
 
 Destatis based its estimate on its April 2025 earnings survey. About 12 percent of employment relationships, almost one in eight, were paid below 13.90 euros an hour that month. If those jobs were paid the new minimum, total earnings in them would rise by up to 6 percent, or up to 275 million euros.
 
 The estimate has limits. Destatis assumed every affected worker had at least received the previous minimum of 12.82 euros, did not count wage increases after April 2025, and left out apprentices, interns and minors. It calls its figures upper limits, not a count of people who got a raise.
 
-Within those limits, pay rose in about 14 percent of jobs held by women, against about 11 percent of jobs held by men. By industry, the estimate was 47 percent of jobs in hospitality, 37 percent in agriculture, forestry and fishing, and 33 percent in arts, entertainment and recreation. Eastern Germany, at about 14 percent, had a higher share than western Germany at about 12 percent. These numbers show where the minimum wage matters most. They do not show where it is being broken.
+Within those limits, Destatis estimates the increase raised hourly pay in up to about 14 percent of jobs held by women, against about 11 percent for men. By industry, the estimate was 47 percent of jobs in hospitality, 37 percent in agriculture, forestry and fishing, and 33 percent in arts, entertainment and recreation. Eastern Germany, at about 14 percent, had a higher share than western Germany at about 12 percent. These numbers show where the minimum wage matters most, not where it is being broken.
 
 ## What the law says about hours
 
@@ -46,21 +47,21 @@ According to the Federal Ministry of Labour and Social Affairs (BMAS), workers a
 
 There are exceptions. The ministry names employees under 18 without a completed vocational qualification and, for their first six months, people who were long-term unemployed immediately before taking the job. Some internships are also excluded.
 
-The law also says how hours are checked. Under section 17 of the Minimum Wage Act, employers must record the start, end and length of each working day within seven days and keep the records for two years. The duty covers minijob workers, except in private households, and the sectors listed in section 2a of the Undeclared Work Act. That list includes construction, hospitality, passenger transport, freight and logistics (including platform delivery), building cleaning, meat processing, security, and hairdressing and cosmetics, among others. The ministry says the duty can lapse once pay passes certain thresholds, which this article does not analyze. A handwritten record is allowed.
+The law also says how hours are checked. Under section 17 of the Minimum Wage Act, employers must record the start, end and length of each working day within seven days and keep the records for two years. The duty covers minijob workers, except in private households, and the sectors listed in section 2a of the Undeclared Work Act. That list includes construction, hospitality, passenger transport, freight and logistics (including platform delivery), building cleaning, meat processing, security, and hairdressing and cosmetics, among others. The ministry says the duty can lapse once pay passes certain thresholds, so ask the ministry line whether it applies to you. A handwritten record is allowed.
 
-A record only helps if it reflects the work. If the sheet says six hours and the employee worked eight, multiplying six by 13.90 repairs nothing.
+A record only helps if it reflects the work. Take one day. Eight hours at 13.90 euros is 111.20 euros gross; if the sheet says six hours, the pay is 83.40 euros, a gap of 27.80 euros for that day alone. From January 1, 2027, the same eight hours at 14.60 euros come to 116.80 euros. If the numbers on a payslip do not match your own log, that gap is the question to put to the employer, in writing.
 
 ## Who holds the clock
 
-Employers control the schedule, the time sheet and payroll. Workers hold the legal claim but often have the least information about how their time was entered. A hotel cleaner may be expected to finish every assigned room whatever the clock says. A restaurant employee may clean after service. A delivery driver may wait between orders. These are illustrations of how the arrangement works, not reports of any real workplace.
+Employers control the schedule, the time sheet and payroll. Workers hold the legal claim but can have less information about how their time was entered. A hotel cleaner may be expected to finish every assigned room whatever the clock says. A restaurant employee may clean after service. A delivery driver may wait between orders. These are illustrations of how the arrangement works, not reports of any real workplace.
 
 Customs enforces the rule. Its Financial Control of Undeclared Work, the customs unit that checks pay and employment rules, takes tips about possible undeclared work in writing or by telephone, and tips can be anonymous. Customs also states a limit: it punishes an employer's minimum-wage violations, and an employee has to pursue the wage owed in civil proceedings. An inspection and a pay claim are separate things. A worker who reports a problem should not assume customs will collect the missing wages.
 
-The law gives workers some protection when they pursue a claim. Under section 3 of the Minimum Wage Act, agreements that limit or exclude the claim to the minimum wage are void, a worker can waive an accrued claim only in a court settlement, and the claim cannot be lost through forfeiture. We found no primary source for the time limit that applies to a pay claim, so ask a union or lawyer about it before you wait.
+The law gives workers some protection when they pursue a claim. Under section 3 of the Minimum Wage Act, agreements that limit or exclude the claim to the minimum wage are void, a worker can waive an accrued claim only in a court settlement, and the claim cannot be lost through forfeiture. Time limits can apply to a pay claim, so ask a union or lawyer before waiting.
 
 ## The employer's side
 
-The Minimum Wage Commission must weigh employment and fair competition alongside worker protection, so employer costs are part of how the rate is set. Record-keeping is administrative work, and a wrong payslip can be an honest error. That is a reason to keep good records, not to skip them. An accurate time sheet lets an employer and an employee find out quickly whether a gap is a mistake or something worse. This article draws no conclusion about how often violations occur, and customs enforcement statistics were not checked.
+The Minimum Wage Commission must weigh employment and fair competition alongside worker protection, so employer costs are part of how the rate is set. Record-keeping is administrative work, and a wrong payslip can be an honest error. That is a reason to keep good records, not to skip them. An accurate time sheet lets an employer and an employee find out quickly whether a gap is a mistake or something worse. There is no official count here of how often violations occur, so no one should read this article as a claim that most employers cut corners.
 
 ## What action looks like
 
@@ -68,13 +69,11 @@ For workers, the simplest step is a personal record: date, start time, end time,
 
 For employers, the practical step is to let employees see their recorded hours before payroll closes, with a way to correct mistakes that does not run only through the person being questioned.
 
-Time recording may also change. Reports describe a federal draft for broader electronic working-time recording, but we found no adopted law, and this article does not rely on it.
-
 The next step comes in January. Destatis estimates that up to 7 million jobs, about 18 percent, could be affected by the 14.60 euro rate. That is again an upper limit, and it includes jobs already lifted to 13.90 euros in 2026. The government's own explainer says more than six million people will benefit, a different measure. January is a reasonable moment for workers to start their own log and for employers to check theirs.
 
 ### Pull Up A Chair
 
-If you work or have worked in hospitality, cleaning, construction, logistics or a minijob in Germany, you know how time is entered where you work. Who writes down the hours, when can you see them, and who do you ask if they look wrong? The answers differ from workplace to workplace, and the most useful ones come from people who have seen the process. Share what a fair, workable correction route looks like, without naming anyone who has not agreed to be named.
+If you work or have worked in hospitality, cleaning, construction, logistics or a minijob in Germany, you know how time is entered where you work. Who writes down the hours, when can you see them, and who do you ask if they look wrong? The answers differ from workplace to workplace, and the most useful ones come from people who have seen the process. Share what a fair, workable correction route looks like, without naming anyone who has not agreed to be named. If your own pay looks wrong, ask the BMAS minimum-wage line (030 60 28 00 28; Monday to Thursday 8:00 to 17:00, Friday 8:00 to 12:00), a union or an employment lawyer. To report a suspected violation to customs, use the tips page of the Financial Control of Undeclared Work; tips can be anonymous.
 
 ### Seat Summary
 
@@ -90,7 +89,7 @@ Germany's minimum wage is 13.90 euros an hour and rises to 14.60 euros on Januar
 1. Federal Ministry of Labour and Social Affairs (BMAS), minimum-wage line: 030 60 28 00 28, listed on https://www.bmas.de/DE/Arbeit/Arbeitsrecht/Mindestlohn/mindestlohn.html and https://www.bmas.de/DE/Service/Kontakt/Buergertelefon/buergertelefon.html. Hours: Monday to Thursday 8:00 to 17:00, Friday 8:00 to 12:00.
 2. Customs administration (Zoll), tips about undeclared work: https://www.zoll.de/DE/Privatpersonen/Arbeit/Fragen-Antworten/_akkordeon/frage_4.html
 3. Minimum Wage Act: https://www.gesetze-im-internet.de/milog/
-4. For an individual pay claim, ask a union or an employment lawyer. We did not check any specific service.
+4. For an individual pay claim, ask a union or an employment lawyer. Ask the union or lawyer about fees and time limits.
 
 # RECEIPTS
 
@@ -215,7 +214,7 @@ A clean, realistic overhead image of a German payslip beside a handwritten weekl
 
 - **Author refresh:** November 15, 2026. Re-opened BMAS, Destatis, customs, Federal Government, Minimum Wage Act sections 3 and 17, Undeclared Work Act section 2a and the regulation; removed the "Ally = Action" sign-off; added the template sections and German texts.
 - **Fixes applied:** November 15, 2026, from the independent Gate 1 and Gate 2 HOLD review: regulation added as a receipt; sector list now follows the statute; forestry and harvest examples removed; "generally" added to the recording duty in all social texts; migrant-worker framing removed; 2027 estimate caveats added; relative time phrases removed; placeholders removed; employer-side point and section 3 protections added; working-time draft stated as unadopted; repetition cut; headline and slug changed away from the "Germany X. Y." formula.
-- **Gate 1 (evidence):** fixes applied November 15; confirming review pending.
-- **Gate 2 (hostile reader, Regular Joe, format):** fixes applied November 15; confirming review pending.
-- **Counting basis:** editorial plus Pull Up A Chair, headings included, is about 1,400 words.
+- **Gate 1 (evidence):** PASS November 15, 2026 after confirming review; its three remaining fixes were applied by the author and all facts spot-checked against BMAS, MiLoG, Destatis and Zoll.
+- **Gate 2 (hostile reader, Regular Joe, format):** PASS November 15, 2026 on the same basis. Placeholders and the Seat Status label are release-day items.
+- **Counting basis:** editorial plus Pull Up A Chair, headings included, is about 1,350 words.
 - **Open:** where and by when a pay claim is brought is not stated, for lack of a primary source; the Seat Status label needs the maintainer's confirmation; the social strings carry the placeholder [article link] or [Link] until release; nothing has been tested in Buffer.

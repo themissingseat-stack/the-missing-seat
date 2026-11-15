@@ -1,4 +1,4 @@
-# TMS Daily Editorial Queue — Reconciled 2026-11-14
+# TMS Daily Editorial Queue — Reconciled 2026-11-15
 
 **Source of truth:** verified live pages and published HTML/commits take precedence over stale queue labels. The staged JSON on branch `tms-daily-queue-2026-09-01` is the machine-readable companion to this ledger.
 
@@ -108,7 +108,7 @@ The governing test remains: **What did they actually change, who gained, what re
 | Active follow-up research candidates | 11 |
 | Positive/solution research candidates | 5 |
 
-The tax-refund and reentry packages are cleared reserve. Benjamin is live and excluded from reserve. The two Germany releases are verified and removed from reserve. Saxony remains on factual HOLD. Arkansas is a research draft held outside finished reserve.
+The reentry and NCNW archive packages are cleared reserve. The tax-refund explainer is verified live and excluded from reserve. Benjamin is live and excluded from reserve. The two Germany releases are verified and removed from reserve. Saxony remains on factual HOLD. Arkansas is a research draft held outside finished reserve.
 
 ## Finished numbered queue — current release status explicit
 
@@ -128,8 +128,8 @@ The tax-refund and reentry packages are cleared reserve. Benjamin is live and ex
 | 12 | Social Security Wants the Money Back. First, Check the Decision. | `social-security-wants-the-money-back-first-check-the-decision` | HOLD: current reviews required | Before You Cut Care, Did You Stop Paying More for the Same Care?: Medicare provider-payment policy versus individual SSA debt determinations, notice accuracy and reconsideration/waiver/rate routes. | [Full package](editorial-packages/TMS_SOCIAL_SECURITY_REPAYMENT_CHECK_DECISION_PUBLICATION_PACKAGE_2026-10-28.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
 | 13 | Kathmandu Put Care on the Map. Can Families Find Their Way In? | `kathmandu-put-care-on-the-map-can-families-find-their-way-in` | HOLD: current reviews required | The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.: Broad labor/time/pay distribution versus named Nepal mapping, the route into municipal care, successful referrals and worker conditions.; Germany Promised a Full School Day. Families Need the Hours to Match.: Statutory school-care timetable entitlement versus municipal information/navigation approach across care needs. | [Full package](editorial-packages/TMS_KATHMANDU_CARE_MAP_ACCESS_PUBLICATION_PACKAGE_2026-10-30.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
 | 14 | A Repair Rebate Helps. First, You Have to Pay the Repair Bill. | `a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill` | HOLD: filing guidance conflict | Germany Has a Way to Keep the Power On. Can People Use It?: Continuity of electricity service versus paid-invoice repair rebate and the upfront cost of claiming it. | [Full package](editorial-packages/TMS_GERMANY_REPAIR_REBATE_UPFRONT_COST_PUBLICATION_PACKAGE_2026-11-06.md). November 8: directive VII.4 requires December 1 electronic filing; SAB FAQ says no strict deadline, ideally December 1. Resolve applicable current filing rule and revise package before renewed Gate 1/2. Prior PASS is not current approval. |
-| 15 | An Old Tax Refund and Unclaimed Property Are Two Different Searches. | `old-tax-refund-and-state-unclaimed-property` | Gate 1/2 and voice PASS; unpublished | Federal tax deadlines versus state property claims; distinct from child credit. | [Full package](editorial-packages/TMS_UNCLAIMED_TAX_REFUNDS_AND_STATE_PROPERTY_2026-11-13.md); refresh deadline guidance and render before release. |
-| 16 | When Does a Sentence Actually End? | `when-does-a-sentence-actually-end` | Gate 1/2 and voice PASS; unpublished | Post-conviction rules across work, housing, education and voting. | [Full package](editorial-packages/TMS_COLLATERAL_CONSEQUENCES_REENTRY_2026-11-14.md); refresh laws and render before release. |
+| 15 | When Does a Sentence Actually End? | `when-does-a-sentence-actually-end` | Gate 1/2 and voice PASS; unpublished | Post-conviction rules across work, housing, education and voting. | [Full package](editorial-packages/TMS_COLLATERAL_CONSEQUENCES_REENTRY_2026-11-14.md); refresh laws and render before release. |
+| 16 | Black Women Built an Archive for the History They Were Making. | `black-women-built-an-archive-for-history` | Gate 1/2 and voice PASS; unpublished | NCNW preservation infrastructure and family records, distinct from Benjamin's patent story. | [Full package](editorial-packages/TMS_NCNW_ARCHIVE_PUBLICATION_PACKAGE_2026-11-15.md); refresh NPS access and confirm image rights before release. |
 
 ## Complete unpublished release holds outside numbered queue
 
@@ -482,3 +482,10 @@ SAB's live HTML includes both deadline formulations, including in its collapsibl
 - **Overlap check:** Both titles were searched against the repository's indexed code and this master ledger on November 11; no exact-title matching article or queue entry was identified. This is an initial check, **not** a completed archive/live-site or semantic duplicate audit. They are complementary rather than verbatim duplicates; confirm against related political-influence and accountability coverage before release.
 - **Required next steps, in order:** recover the exact complete conversation manuscripts into versioned `editorial-packages/` files; compare against the live archive and unpublished ledger for substantive duplication; refresh every source, date, legal interpretation and link; complete the current full template (including Short Version, approved Seat Status, Pull Up A Chair, Resources, Seat Summary and country-appropriate social copy); record dated Gate 1 evidence PASS and separate Gate 2 hostile/Regular Joe PASS with concrete findings; then place each in the next available eligible slot without changing existing numbered priorities or exceeding one new editorial per day. No publication dates are assigned until those gates pass.
 - **Inventory accounting:** These are two additional conversation-only editorial holds, **not** additions to the existing machine-readable numbered queue or its counted repository-held publication packages. Do not silently increase the official finished/queued totals until the manuscript files are recovered and reconciled. No deployment or live publication claimed.
+
+
+## November 15 reconciliation
+
+- [An Old Tax Refund and Unclaimed Property Are Two Different Searches.](https://themissingseat.org/old-tax-refund-and-state-unclaimed-property.html) was the sole full release. Refreshed both gates; verified the article, homepage, archive, Work, Money & Economic Fairness, RSS and sitemap against GitHub after initial propagation delay. Removed from the numbered and master reserve.
+- [Black Women Built an Archive for the History They Were Making.](editorial-packages/TMS_NCNW_ARCHIVE_PUBLICATION_PACKAGE_2026-11-15.md) completed and approved after both reviews. Reentry advances to 15; NCNW enters at 16. Germany remains 2/2 for November 9–15.
+- [Run record](TMS_REPORTING_UPDATE_2026-11-15.md).

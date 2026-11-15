@@ -1,0 +1,9 @@
+# November 15 TMS reporting record
+
+- Published and independently verified: [An Old Tax Refund and Unclaimed Property Are Two Different Searches.](https://themissingseat.org/old-tax-refund-and-state-unclaimed-property.html). Article, homepage, archive, Work, Money & Economic Fairness, feed and sitemap returned 200 and matched release commit `aadf2eac30c86bdeb3fe20c170219efff5113928`. This was the only new full release. The current tax planning date is qualified and no 2023 IRS national estimate is stated. No social delivery.
+- Complete and queued: [Black Women Built an Archive for the History They Were Making.](editorial-packages/TMS_NCNW_ARCHIVE_PUBLICATION_PACKAGE_2026-11-15.md), slot 16. Both gates passed. This positive history package documents the council's preservation work; the NPS research-request closure remains a current limitation. Reentry is next among cleared numbered reserves after skipping legacy holds, subject to fresh release checks.
+- Inventory: 19 finished unpublished; 16 numbered, 2 content-cleared, 13 legacy holds and 1 source-conflict hold; 3 complete holds outside queue. 5 unfinished, 4 retired, 16 historic revisions, 11 follow-up, 5 positive leads, zero live/repo release discrepancies. Germany 2/2 for November 9–15.
+- Blue-wave review remains failed and replacement remains on hold. The November 16 Senate sequence is prospective, not a vote or implementation result.
+- [I've Been Paying Attention](https://themissingseat.org/something-worth-sharing.html#been-paying-attention-2026-11-15) is live on the sharing page and homepage. A verbatim separate excerpt of Jansen Bowden's November 13 birthday reflection. Heading and German translation are editorial. All 24 older entries preserved, including October 18–23.
+
+> I'm not the person I was at 23, 33, or even 43. Why would I be? I've been paying attention. Well, most of the time anyway!

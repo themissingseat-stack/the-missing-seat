@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "track": "SWS; excluded from full editorial inventory",
   "entries": [
+    {
+      "id": "been-paying-attention-2026-11-15",
+      "date": "2026-11-15",
+      "title": "I've Been Paying Attention",
+      "source": "something-worth-sharing.html#been-paying-attention-2026-11-15",
+      "publication_status": "published_live_verified",
+      "commit": "a82db802ddefd7df62645089b554898ae3eeb454",
+      "public_verified": "2026-11-15"
+    },
     {
       "id": "strength-and-honesty-2026-11-14",
       "date": "2026-11-14",

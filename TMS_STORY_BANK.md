@@ -34,7 +34,7 @@ Where a fact came from a secondary source, the entry says so, and the primary so
 - Sources: Valley News Live, https://www.valleynewslive.com/2026/11/04/north-dakota-voters-reject-universal-free-school-meals-amendment/ ; North Dakota Monitor via News From the States, https://www.newsfromthestates.com/node/436989
 
 **B. When a family loses SNAP, children can lose free school meals**
-- Lead: the Center for American Progress reports that from July 2025 to May 2026, more than 700,000 children in the 12 states that report participation data lost SNAP assistance. CBS reports that losing SNAP can cost a child free school meals in two ways. The Alaska Beacon story of October 22, 2026 describes school lunch debt climbing after the cuts.
+- Lead: the Center for American Progress reports that from July 2025 to May 2026, more than 700,000 children in the 12 states that report participation data lost SNAP assistance. CBS reports that losing SNAP can cost a child free school meals in two ways. A story carried by the Anchorage Daily News on October 22, 2026 describes school lunch debt climbing after the cuts (find the original publisher before citing).
 - Caution: CAP is an advocacy organization. Find the state or USDA data behind the figure and use it only if it holds.
 - Related published or queued: SNAP veterans story (published October 13). Check overlap.
 - Sources: https://www.americanprogress.org/article/fact-sheet-congressional-republicans-big-beautiful-bill-threatens-access-to-free-school-meals/ ; https://cbsnews.com/news/free-school-meals-snap-changes ; https://www.adn.com/nation-world/2026/10/22/free-meal-programs-vanish-and-school-lunch-debt-climbs-after-snap-cuts/
@@ -47,7 +47,7 @@ Where a fact came from a secondary source, the entry says so, and the primary so
 ## 3. Racism, and how Black and white Americans are treated differently (35 published)
 
 **A. The wealth gap in the Census's own 2024 numbers**
-- Lead: a 2026 Census report on household wealth. A summary by the Food Policy for America coalition (FPWA) cites median net worth of $296,200 for white households and $37,600 for Black households, with a median for all households of $204,900. Use only after confirming the figures in the Census publication (P70BR-218) directly.
+- Lead: a 2026 Census report on household wealth. A 2026 update by FPWA (a New York anti-poverty organization, formerly the Federation of Protestant Welfare Agencies) cites median net worth of $296,200 for white households and $37,600 for Black households, with a median for all households of $204,900. Use only after confirming the figures in the Census publication (P70BR-218) directly.
 - Angle: the numbers, who set the rules that built them, and what builds wealth that Black families were kept out of. Avoid a general "gap" story; tie it to documented decisions (home loans, the GI Bill, tax rules).
 - Source: https://www.fpwa.org/resource-center/reports-briefs/march-on-washington-analysis-2026-update/ ; Census report, https://www2.census.gov/library/publications/2026/demo/p70br-218.pdf
 

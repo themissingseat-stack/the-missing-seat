@@ -17,6 +17,7 @@ image_rights_statement: Exact item-level reuse terms confirmed
 image_license_evidence: https://archive.example/item-rights
 image_alt_text: Accurate description of the actual photograph
 preferred_source_link: https://agency.example/source-document
+buffer_preview_verified: HOLD
 photo_fallback_reason: none
 ```
 
@@ -28,7 +29,7 @@ License types accepted for prospective photos: documented original owned/authori
 
 If no eligible photo is found, set `image_url: none`, `image_credit: none`, `image_license: none`, `image_creator: none`, `image_archive: none`, `image_rights_statement: none`, `image_license_evidence: none`, `image_alt_text: none`, and provide a specific and substantial `photo_fallback_reason`. For images rejected by technical validation, the publisher also records its specific rejection reason. Do not silently fall back to a text card.
 
-The `preferred_source_link` must be an actual source in the package's `## Sources` section, ideally the original primary document. Never use the TMS article URL as a Facebook external attachment. If no appropriate external source exists use `preferred_source_link: none` and explain in the sourcing record. Check original page and useful OG title, description and image before offering a link preview; if Buffer's actual preview cannot be confirmed or is unsuitable, fall back to the verified photograph.
+The `preferred_source_link` must be an actual source in the package's `## Sources` section, ideally the original primary document. Never use the TMS article URL as a Facebook external attachment. If no appropriate external source exists use `preferred_source_link: none` and explain in the sourcing record. Check original page and useful OG title, description and image before offering a link preview; if Buffer's actual preview cannot be confirmed or is unsuitable, fall back to the verified photograph. Record `buffer_preview_verified: PASS` only after inspecting and documenting the actual Buffer preview for that specific source URL and thumbnail; otherwise leave it `HOLD` and use the photo. An Open Graph check alone is never a PASS.
 
 ## Social channel policy
 

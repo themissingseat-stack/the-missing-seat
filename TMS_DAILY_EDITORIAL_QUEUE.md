@@ -91,7 +91,7 @@ The governing test remains: **What did they actually change, who gained, what re
 | Category | Count |
 |---|---:|
 | Complete bodies awaiting confirmed public release | 20 |
-| Numbered queue | 17 |
+| Numbered queue | 16 |
 | Reserve with current Gate 1 and Gate 2 PASS, available for future release | 3 |
 | Committed full releases awaiting public verification | 0 |
 | Legacy queued packages needing current gates/template refresh | 13 |
@@ -109,6 +109,10 @@ The governing test remains: **What did they actually change, who gained, what re
 | Positive/solution research candidates | 5 |
 
 The reentry, NCNW archive and Medicare Open Enrollment packages are cleared reserve; Medicare is deadline-sensitive and must publish by November 30, never after December 7. The tax-refund explainer is verified live and excluded from reserve. Benjamin is live and excluded from reserve. The two Germany releases are verified and removed from reserve. Saxony remains on factual HOLD. Arkansas is a research draft held outside finished reserve.
+
+## Deadline-sensitive priority — Medicare Open Enrollment (November 15 decision)
+
+**Medicare's Open Enrollment Ends December 7. Who Can Help You Choose?** (`medicare-open-enrollment-ends-december-7-who-can-help-you-choose`) is complete, Gate 1, Gate 2 and voice PASS (November 15), unpublished. Jansen kept the revised headline. Its publication deadline (by November 30, never after December 7) takes precedence over ordinary queue order, still under the one-new-editorial-per-day rule. Proposed website date: November 24, not a confirmed publication. Release-day checks: 2027 Part B premium (do not insert an unannounced figure), the University of Michigan poll's own release, Medigap guidance, official links and telephone numbers. Social promotion stays separate and starts only after the article is verified live. [Full package](editorial-packages/TMS_MEDICARE_DEADLINE_DECEMBER_7_WHO_HELPS_PUBLICATION_PACKAGE_2026-11-15.md).
 
 ## Finished numbered queue — current release status explicit
 
@@ -130,7 +134,6 @@ The reentry, NCNW archive and Medicare Open Enrollment packages are cleared rese
 | 14 | A Repair Rebate Helps. First, You Have to Pay the Repair Bill. | `a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill` | HOLD: filing guidance conflict | Germany Has a Way to Keep the Power On. Can People Use It?: Continuity of electricity service versus paid-invoice repair rebate and the upfront cost of claiming it. | [Full package](editorial-packages/TMS_GERMANY_REPAIR_REBATE_UPFRONT_COST_PUBLICATION_PACKAGE_2026-11-06.md). November 8: directive VII.4 requires December 1 electronic filing; SAB FAQ says no strict deadline, ideally December 1. Resolve applicable current filing rule and revise package before renewed Gate 1/2. Prior PASS is not current approval. |
 | 15 | When Does a Sentence Actually End? | `when-does-a-sentence-actually-end` | Gate 1/2 and voice PASS; unpublished | Post-conviction rules across work, housing, education and voting. | [Full package](editorial-packages/TMS_COLLATERAL_CONSEQUENCES_REENTRY_2026-11-14.md); refresh laws and render before release. |
 | 16 | Black Women Built an Archive for the History They Were Making. | `black-women-built-an-archive-for-history` | Gate 1/2 and voice PASS; unpublished | NCNW preservation infrastructure and family records, distinct from Benjamin's patent story. | [Full package](editorial-packages/TMS_NCNW_ARCHIVE_PUBLICATION_PACKAGE_2026-11-15.md); refresh NPS access and confirm image rights before release. |
-| 17 | Medicare's Open Enrollment Ends December 7. Who Can Help You Choose? | `medicare-open-enrollment-ends-december-7-who-can-help-you-choose` | Gate 1/2 PASS November 15; voice pending; unpublished; deadline-sensitive | Medicare enrollment deadline, plan endings and free SHIP counseling; distinct from Medicare provider-payment story. | [Full package](editorial-packages/TMS_MEDICARE_DEADLINE_DECEMBER_7_WHO_HELPS_PUBLICATION_PACKAGE_2026-11-15.md); publish by November 30 under the one-new-editorial-per-day rule; recheck Part B 2027 premium, poll primary release and links on release day; Jansen to confirm revised headline. Social promotion only after the article is verified live. |
 
 ## Complete unpublished release holds outside numbered queue
 

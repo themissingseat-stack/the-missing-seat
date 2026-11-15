@@ -183,6 +183,7 @@ Full story with sources at the link in our bio.
 ## 6. Raye Montague (published November 5)
 
 Article: https://themissingseat.org/raye-montague-helped-change-ship-design-teach-the-work.html
+Proposed post date: November 25 (moved from an earlier proposed slot to make room for Medicare; calendar only, see Issue #57).
 Country: United States only.
 
 ### Facebook, English

@@ -21,7 +21,7 @@ Created November 15, 2026. This file records what has happened to the Facebook a
 | Nov 10 | A child can have a credit file before a job | drafted | drafted | n/a | n/a | Same file. |
 | Nov 8 | Alice Coachman | drafted | drafted | n/a | n/a | Same file. |
 | Nov 7 | Niger and river blindness | drafted | drafted | n/a | n/a | Same file. |
-| Nov 6 | Germany's new debt-advice law | drafted | drafted | drafted | drafted | Same file. **Post before November 20.** Legal facts rechecked November 15. |
+| Nov 6 | Germany's new debt-advice law | approved | approved | approved | approved | Final EN/DE Facebook and Instagram copy reviewed and approved by GP November 15; schedule before November 20. **Not scheduled or published until confirmed in Buffer/account.** |
 | Nov 5 | Raye Montague | drafted | drafted | n/a | n/a | Same file. |
 
 ## Older stories, September to November 4

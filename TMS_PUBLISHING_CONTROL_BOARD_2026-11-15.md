@@ -37,3 +37,21 @@ This board coordinates existing [editorial standards](TMS_EDITORIAL_STANDARD.md)
 - Buffer is not connected to this assistant's available tools. Approved posts are **ready for Buffer**, not scheduled. A connector or an authorized publisher integration is needed for direct posting.
 - Verify Cloudflare production pages after merges; distinguish git status from public deployment.
 - Keep story bank entries as leads until source work and both gates are complete.
+
+## Website release plan, November 16 to 30 (proposal, Claude, November 15; one new article per day)
+
+Inventory today: three cleared packages (reentry "When Does a Sentence Actually End?", NCNW archive, Medicare). Sixteen older numbered-queue items are on HOLD until current gates are rerun. Two new packages are being built (Germany older adults, SNAP loss and school meals).
+
+| Date | Article | Condition |
+|---|---|---|
+| Nov 16 | Reentry: When Does a Sentence Actually End? | Cleared; refresh links, then release |
+| Nov 17 | NCNW archive | Cleared; refresh NPS access, confirm image rights |
+| Nov 18 | Medicare (recommended; GP plan is Nov 24) | Cleared; final links and phones; Part B stated as not announced if still true. No other cleared article exists for Nov 18 to 23, and the readers' deadline is Dec 7, so earlier is better. Decision: Jansen |
+| Nov 19 to 23 | New packages (Germany older adults; SNAP and school meals) and refreshed legacy items | Each only after Gate 1 and Gate 2 PASS; otherwise log the blocker and skip the day |
+| Nov 24 | Next cleared item, or Medicare if kept on GP's date | |
+| Nov 30 | Medicare absolute deadline | |
+
+Social follows each article only after it is verified live: draft, approved, scheduled (Buffer confirmation), published (Jansen confirms).
+
+## Tools check, November 15
+No Buffer connector is available to this assistant. A registry search found no Buffer entry (only unrelated schedulers). Scheduling stays with Jansen or GP until one is connected.

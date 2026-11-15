@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "created": "2026-08-31",
-  "last_reconciled": "2026-11-14",
+  "last_reconciled": "2026-11-15",
   "timezone": "Europe/Berlin",
   "policy": {
     "cadence": "no more than one editorial per calendar day",
@@ -24,20 +24,32 @@
   "deployment": {
     "source": "GitHub main independently verified on custom domain",
     "status": "published_live_verified",
-    "commit": "61a15103180a22cfee1607d81d222639f0e01cf9",
-    "public_verified": "2026-11-14",
+    "commit": "aadf2eac30c86bdeb3fe20c170219efff5113928",
+    "public_verified": "2026-11-15",
     "verified_public_blobs": {
-      "black-brilliant-beyond.html": "43ff971aa8c222252afda8f5a11a762d86d78041",
-      "feed.xml": "b65ac94ad82de166cee61eee87dc92568208fe19",
-      "index.html": "fb815094635cdea979fd33150fd90495c9049a20",
-      "miriam-benjamin-gong-and-signal-chair.html": "d484a0811a1ce0cad3b449cf5cf547054fb7b4d7",
-      "sitemap.xml": "53d085398f5d61c44321c2c10faa90140225e8c6",
-      "something-worth-sharing.html": "d35b105c62ec1918eba1dafb69ba70344a99d7d2",
-      "stories.html": "f9e045476c029760862981872373d8ac355c523a",
-      "topics/missing-history.html": "6a8f730aebaad7f8c2473cc00c8a9f3b553390d7"
+      "old-tax-refund-and-state-unclaimed-property.html": "205746eba9f62a73fd3d2102a588c6e42740514e",
+      "index.html": "c01a8d6b2afdb986ec5afb4d05b6d17b034a03a1",
+      "stories.html": "2e9738ded48977cece6547778b62389c7baa1fe5",
+      "topics/work-economic-fairness.html": "53fdc22cbf376b9e39bf502a1165772c82e99ff2",
+      "feed.xml": "9405ccc1430bfdd4821a73febc5d286dc07f7a21",
+      "sitemap.xml": "44a01449184c4e0fbb49cebe7ac3d30591f02343",
+      "something-worth-sharing.html": "06e38fb3ac57455ff29939f91398ac5a0c39db8d"
     }
   },
   "published_record": [
+    {
+      "title": "An Old Tax Refund and Unclaimed Property Are Two Different Searches.",
+      "slug": "old-tax-refund-and-state-unclaimed-property.html",
+      "source": "editorial-packages/TMS_UNCLAIMED_TAX_REFUNDS_AND_STATE_PROPERTY_2026-11-13.md",
+      "publication_status": "published_live_verified",
+      "published_verified": "2026-11-15",
+      "article_commit": "aadf2eac30c86bdeb3fe20c170219efff5113928",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "voice": "PASS",
+      "gate_3": "PASS",
+      "notes": "Article and supporting surfaces returned 200 and exact release blobs after initial propagation delay. Sole new full editorial."
+    },
     {
       "title": "Miriam Benjamin Built a Chair That Could Call for Help.",
       "slug": "miriam-benjamin-gong-and-signal-chair.html",
@@ -849,32 +861,6 @@
       "current_release_blocker": "November 8: directive VII.4 requires December 1 electronic filing; SAB FAQ says no strict deadline, ideally December 1. Resolve applicable current filing rule and revise package before renewed Gate 1/2. Prior PASS is not current approval."
     },
     {
-      "title": "An Old Tax Refund and Unclaimed Property Are Two Different Searches.",
-      "canonical_title": "An Old Tax Refund and Unclaimed Property Are Two Different Searches.",
-      "slug": "old-tax-refund-and-state-unclaimed-property",
-      "source": "editorial-packages/TMS_UNCLAIMED_TAX_REFUNDS_AND_STATE_PROPERTY_2026-11-13.md",
-      "completion_status": "full_finished",
-      "publication_status": "unpublished",
-      "status": "approved_queued_full_finished",
-      "scheduled_date": null,
-      "approval": "Standing November 13 two-review authorization",
-      "gate_1": "PASS",
-      "gate_2": "PASS",
-      "voice": "PASS",
-      "review_1": "PASS | 2026-11-13 07:25:43 UTC | Codex evidence pass. Opened all 12 receipts. IRS March 20 release confirms 2022 estimate over 1.3 million, approximately $1.2 billion, median $686, and April 15, 2026 announcement deadline. No corresponding 2023 estimate or announcement located. April 15, 2027 is a derived ordinary withholding lookback planning date, not a universal IRS announcement; checked sections 6511 and 6513, 2023 due date, exceptions and IRS prior-year filing instructions. NAUPA official pages conflict (1 in 7 versus 1 in 10); omitted as a prevalence claim. State search coverage is participating states, with official directory fallback. Reviewed literal FB/IG for dates, claim scope and working URL.",
-      "review_2": "PASS | 2026-11-13 07:26:03 UTC | Separate hostile-reader/Regular Joe pass. The two routes have different authorities, paperwork and deadlines. The $686 is a 2022 median, not a promised payment; 2027 date limited to ordinary 2023 wage withholding; corrections, credits and offsets bounded. Checked main tree, live archive, numbered queue and held/revision index; closest live comparator child-credit is identity prevention and disputes, not recovery of withheld tax or state-held property. Metadata, Short Version, existing approved status wording, Pull Up A Chair, country resources, Seat Summary, receipts, limits, excerpt and image brief present. Literal FB and IG checked for markup, Unicode punctuation, URL and paragraphs. IG 422 characters.",
-      "release_gate_status": "content_gates_passed_technical_release_pending",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "A Child Can Have a Credit File Before They Have a Job.",
-          "distinction": "Credit identity protection and correction versus federal refunds and recovery of state-held assets."
-        }
-      ],
-      "notes": "Refresh 2023-specific IRS guidance before release; render site and verify deployment.",
-      "position": 15
-    },
-    {
       "title": "When Does a Sentence Actually End?",
       "canonical_title": "When Does a Sentence Actually End?",
       "slug": "when-does-a-sentence-actually-end",
@@ -898,7 +884,32 @@
         }
       ],
       "notes": "Promoted reserved candidate. Refresh current statutes and release-day review; integrate HTML, topic, archive, homepage, RSS and sitemap.",
-      "position": 16
+      "position": 15
+    },
+    {
+      "position": 16,
+      "title": "Black Women Built an Archive for the History They Were Making.",
+      "canonical_title": "Black Women Built an Archive for the History They Were Making.",
+      "slug": "black-women-built-an-archive-for-history",
+      "source": "editorial-packages/TMS_NCNW_ARCHIVE_PUBLICATION_PACKAGE_2026-11-15.md",
+      "completion_status": "full_finished",
+      "publication_status": "unpublished",
+      "status": "approved_queued_full_finished",
+      "scheduled_date": null,
+      "approval": "November 15 two-stage standing authorization",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "voice": "PASS",
+      "review_1": "PASS | November 15, 2026 | Codex evidence review. Opened all five NPS receipts; direct checks returned HTTP 200 after switching the biography from the timing-out home mirror to the canonical NPS URL. The historical chronology, names and $1,000 gift are attributed to the NPS archival account, with provenance for the 1941 committee report. Collection and access notices corroborate current holdings and restricted research access; no promise of on-site access, no universal claim about the lenders' motives, and no claim the gift opened the museum in 1946. Checked the literal FB and IG claims against the receipts.",
+      "review_2": "PASS | November 15, 2026 | Codex separate hostile-reader and Regular Joe review. This is about archive building, not a general Bethune biography, technical invention or a second profile of Benjamin. No matching archive-focused title or matter found in live archive, GitHub listings and queue including holds. Lenders' authority, the funding shortfall, Bailey's contribution and NPS control of access are visible; the result is the archive, not a claim of complete access. Required title, metadata, Short Version, existing status wording, Pull Up A Chair, U.S. resources, Seat Summary, receipts, notice, excerpt, image brief and literal social texts checked. Instagram 370 characters. Both social strings checked for prohibited punctuation, markup and paragraph breaks; no platform payload sent. Final voice read kept the loan opening and the item-labeling action.",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "Miriam Benjamin Built a Chair That Could Call for Help.",
+          "distinction": "Technical invention and patent credit versus institutional archive building, community collection and records access."
+        }
+      ],
+      "notes": "Refresh NPS access notice, check image rights, render and verify."
     }
   ],
   "counts": {
@@ -1497,32 +1508,6 @@
       "current_release_blocker": "November 8: directive VII.4 requires December 1 electronic filing; SAB FAQ says no strict deadline, ideally December 1. Resolve applicable current filing rule and revise package before renewed Gate 1/2. Prior PASS is not current approval."
     },
     {
-      "title": "An Old Tax Refund and Unclaimed Property Are Two Different Searches.",
-      "canonical_title": "An Old Tax Refund and Unclaimed Property Are Two Different Searches.",
-      "slug": "old-tax-refund-and-state-unclaimed-property",
-      "source": "editorial-packages/TMS_UNCLAIMED_TAX_REFUNDS_AND_STATE_PROPERTY_2026-11-13.md",
-      "completion_status": "full_finished",
-      "publication_status": "unpublished",
-      "status": "approved_queued_full_finished",
-      "scheduled_date": null,
-      "approval": "Standing November 13 two-review authorization",
-      "gate_1": "PASS",
-      "gate_2": "PASS",
-      "voice": "PASS",
-      "review_1": "PASS | 2026-11-13 07:25:43 UTC | Codex evidence pass. Opened all 12 receipts. IRS March 20 release confirms 2022 estimate over 1.3 million, approximately $1.2 billion, median $686, and April 15, 2026 announcement deadline. No corresponding 2023 estimate or announcement located. April 15, 2027 is a derived ordinary withholding lookback planning date, not a universal IRS announcement; checked sections 6511 and 6513, 2023 due date, exceptions and IRS prior-year filing instructions. NAUPA official pages conflict (1 in 7 versus 1 in 10); omitted as a prevalence claim. State search coverage is participating states, with official directory fallback. Reviewed literal FB/IG for dates, claim scope and working URL.",
-      "review_2": "PASS | 2026-11-13 07:26:03 UTC | Separate hostile-reader/Regular Joe pass. The two routes have different authorities, paperwork and deadlines. The $686 is a 2022 median, not a promised payment; 2027 date limited to ordinary 2023 wage withholding; corrections, credits and offsets bounded. Checked main tree, live archive, numbered queue and held/revision index; closest live comparator child-credit is identity prevention and disputes, not recovery of withheld tax or state-held property. Metadata, Short Version, existing approved status wording, Pull Up A Chair, country resources, Seat Summary, receipts, limits, excerpt and image brief present. Literal FB and IG checked for markup, Unicode punctuation, URL and paragraphs. IG 422 characters.",
-      "release_gate_status": "content_gates_passed_technical_release_pending",
-      "duplication_status": "materially_distinct",
-      "related_live_comparators": [
-        {
-          "title": "A Child Can Have a Credit File Before They Have a Job.",
-          "distinction": "Credit identity protection and correction versus federal refunds and recovery of state-held assets."
-        }
-      ],
-      "notes": "Refresh 2023-specific IRS guidance before release; render site and verify deployment.",
-      "position": 15
-    },
-    {
       "title": "When Does a Sentence Actually End?",
       "canonical_title": "When Does a Sentence Actually End?",
       "slug": "when-does-a-sentence-actually-end",
@@ -1546,7 +1531,32 @@
         }
       ],
       "notes": "Promoted reserved candidate. Refresh current statutes and release-day review; integrate HTML, topic, archive, homepage, RSS and sitemap.",
-      "position": 16
+      "position": 15
+    },
+    {
+      "position": 16,
+      "title": "Black Women Built an Archive for the History They Were Making.",
+      "canonical_title": "Black Women Built an Archive for the History They Were Making.",
+      "slug": "black-women-built-an-archive-for-history",
+      "source": "editorial-packages/TMS_NCNW_ARCHIVE_PUBLICATION_PACKAGE_2026-11-15.md",
+      "completion_status": "full_finished",
+      "publication_status": "unpublished",
+      "status": "approved_queued_full_finished",
+      "scheduled_date": null,
+      "approval": "November 15 two-stage standing authorization",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "voice": "PASS",
+      "review_1": "PASS | November 15, 2026 | Codex evidence review. Opened all five NPS receipts; direct checks returned HTTP 200 after switching the biography from the timing-out home mirror to the canonical NPS URL. The historical chronology, names and $1,000 gift are attributed to the NPS archival account, with provenance for the 1941 committee report. Collection and access notices corroborate current holdings and restricted research access; no promise of on-site access, no universal claim about the lenders' motives, and no claim the gift opened the museum in 1946. Checked the literal FB and IG claims against the receipts.",
+      "review_2": "PASS | November 15, 2026 | Codex separate hostile-reader and Regular Joe review. This is about archive building, not a general Bethune biography, technical invention or a second profile of Benjamin. No matching archive-focused title or matter found in live archive, GitHub listings and queue including holds. Lenders' authority, the funding shortfall, Bailey's contribution and NPS control of access are visible; the result is the archive, not a claim of complete access. Required title, metadata, Short Version, existing status wording, Pull Up A Chair, U.S. resources, Seat Summary, receipts, notice, excerpt, image brief and literal social texts checked. Instagram 370 characters. Both social strings checked for prohibited punctuation, markup and paragraph breaks; no platform payload sent. Final voice read kept the loan opening and the item-labeling action.",
+      "duplication_status": "materially_distinct",
+      "related_live_comparators": [
+        {
+          "title": "Miriam Benjamin Built a Chair That Could Call for Help.",
+          "distinction": "Technical invention and patent credit versus institutional archive building, community collection and records access."
+        }
+      ],
+      "notes": "Refresh NPS access notice, check image rights, render and verify."
     }
   ],
   "status_verification_ledger": [],
@@ -2970,17 +2980,17 @@
   },
   "sws_track": {
     "source": "TMS_SWS_LEDGER.json",
-    "date": "2026-11-14",
+    "date": "2026-11-15",
     "status": "published_live_verified",
-    "url": "https://themissingseat.org/something-worth-sharing.html#strength-and-honesty-2026-11-14",
-    "title": "Strength and Honesty",
+    "url": "https://themissingseat.org/something-worth-sharing.html#been-paying-attention-2026-11-15",
+    "title": "I've Been Paying Attention",
     "editorial_inventory_excluded": true,
     "backlog_oct18_23": {
       "verified_present": 6,
       "unpublished_remaining": 0
     },
-    "older_entries_preserved": 23,
-    "commit": "61a15103180a22cfee1607d81d222639f0e01cf9",
+    "older_entries_preserved": 24,
+    "commit": "a82db802ddefd7df62645089b554898ae3eeb454",
     "public_blocker": null
   },
   "external_manuscripts_pending_status_verification": [
@@ -3441,5 +3451,61 @@
       "source": "editorial-packages/TMS_MIRIAM_BENJAMIN_SIGNAL_CHAIR_PUBLICATION_PACKAGE_2026-11-12.md"
     }
   ],
-  "reconciliation_notes_2026_11_14": "Benjamin verified and removed; collateral consequences promoted from reserved lead. No second full release."
+  "reconciliation_notes_2026_11_14": "Benjamin verified and removed; collateral consequences promoted from reserved lead. No second full release.",
+  "daily_editorial_completion_2026_11_15": {
+    "position": 16,
+    "title": "Black Women Built an Archive for the History They Were Making.",
+    "canonical_title": "Black Women Built an Archive for the History They Were Making.",
+    "slug": "black-women-built-an-archive-for-history",
+    "source": "editorial-packages/TMS_NCNW_ARCHIVE_PUBLICATION_PACKAGE_2026-11-15.md",
+    "completion_status": "full_finished",
+    "publication_status": "unpublished",
+    "status": "approved_queued_full_finished",
+    "scheduled_date": null,
+    "approval": "November 15 two-stage standing authorization",
+    "gate_1": "PASS",
+    "gate_2": "PASS",
+    "voice": "PASS",
+    "review_1": "PASS | November 15, 2026 | Codex evidence review. Opened all five NPS receipts; direct checks returned HTTP 200 after switching the biography from the timing-out home mirror to the canonical NPS URL. The historical chronology, names and $1,000 gift are attributed to the NPS archival account, with provenance for the 1941 committee report. Collection and access notices corroborate current holdings and restricted research access; no promise of on-site access, no universal claim about the lenders' motives, and no claim the gift opened the museum in 1946. Checked the literal FB and IG claims against the receipts.",
+    "review_2": "PASS | November 15, 2026 | Codex separate hostile-reader and Regular Joe review. This is about archive building, not a general Bethune biography, technical invention or a second profile of Benjamin. No matching archive-focused title or matter found in live archive, GitHub listings and queue including holds. Lenders' authority, the funding shortfall, Bailey's contribution and NPS control of access are visible; the result is the archive, not a claim of complete access. Required title, metadata, Short Version, existing status wording, Pull Up A Chair, U.S. resources, Seat Summary, receipts, notice, excerpt, image brief and literal social texts checked. Instagram 370 characters. Both social strings checked for prohibited punctuation, markup and paragraph breaks; no platform payload sent. Final voice read kept the loan opening and the item-labeling action.",
+    "duplication_status": "materially_distinct",
+    "related_live_comparators": [
+      {
+        "title": "Miriam Benjamin Built a Chair That Could Call for Help.",
+        "distinction": "Technical invention and patent credit versus institutional archive building, community collection and records access."
+      }
+    ],
+    "notes": "Refresh NPS access notice, check image rights, render and verify.",
+    "new_full_finished": 1,
+    "publication": {
+      "title": "An Old Tax Refund and Unclaimed Property Are Two Different Searches.",
+      "slug": "old-tax-refund-and-state-unclaimed-property.html",
+      "source": "editorial-packages/TMS_UNCLAIMED_TAX_REFUNDS_AND_STATE_PROPERTY_2026-11-13.md",
+      "publication_status": "published_live_verified",
+      "published_verified": "2026-11-15",
+      "article_commit": "aadf2eac30c86bdeb3fe20c170219efff5113928",
+      "gate_1": "PASS",
+      "gate_2": "PASS",
+      "voice": "PASS",
+      "gate_3": "PASS",
+      "notes": "Article and supporting surfaces returned 200 and exact release blobs after initial propagation delay. Sole new full editorial."
+    }
+  },
+  "discovery_2026_11_15": [
+    {
+      "title": "Black Women Built an Archive for the History They Were Making.",
+      "outcome": "approved_queued",
+      "source": "https://www.nps.gov/mamc/learn/historyculture/early-preservation-efforts-of-the-ncnw.htm"
+    },
+    {
+      "title": "NCNW research access",
+      "outcome": "watch_for_material_reopening_or_new_digitization",
+      "source": "https://home.nps.gov/mamc/learn/historyculture/mamc_nabwh.htm"
+    },
+    {
+      "title": "An Old Tax Refund and Unclaimed Property Are Two Different Searches.",
+      "outcome": "prior_approved_editorial_released",
+      "source": "editorial-packages/TMS_UNCLAIMED_TAX_REFUNDS_AND_STATE_PROPERTY_2026-11-13.md"
+    }
+  ]
 }

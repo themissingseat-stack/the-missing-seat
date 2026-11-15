@@ -40,7 +40,7 @@ This board coordinates existing [editorial standards](TMS_EDITORIAL_STANDARD.md)
 
 ## Website release plan, November 16 to 30 (proposal, Claude, November 15; one new article per day)
 
-Inventory today: three cleared packages (reentry "When Does a Sentence Actually End?", NCNW archive, Medicare). Sixteen older numbered-queue items are on HOLD until current gates are rerun. Two new packages are being built (Germany older adults, SNAP loss and school meals).
+Inventory in the November 15 master editorial queue: **five cleared reserve packages** (reentry "When Does a Sentence Actually End?", NCNW archive, Medicare, hospital financial assistance and Social Security repayment). The daily dated calendar below is a proposal, not permission to release any package without its final checks. Sixteen older numbered-queue items are on HOLD until current gates are rerun. Two new packages are being built (Germany older adults, SNAP loss and school meals).
 
 | Date | Article | Condition |
 |---|---|---|

@@ -12,9 +12,9 @@ Created November 15, 2026. This file records what has happened to the Facebook a
 
 | Published | Story | FB EN | IG EN | FB DE | IG DE | Notes |
 |---|---|---|---|---|---|---|
-| Nov 15 | Old tax refund vs. unclaimed property | drafted | drafted | n/a | n/a | Drafted in the GP thread. Publication not confirmed. |
-| Nov 14 | Miriam Benjamin and the Signal Chair | drafted | drafted | n/a | n/a | Drafted in the GP thread. Publication not confirmed. |
-| Nov 13 | Jason Jones privacy appeal (Trinidad and Tobago) | drafted | drafted | n/a | n/a | Drafted in the GP thread. Publication not confirmed. |
+| Nov 15 | Old tax refund vs. unclaimed property | drafted | drafted | n/a | n/a | Text committed in social/TMS_SOCIAL_TEASERS_2026-11-15.md (Issue #57). Not approved, not scheduled. Proposed post date is calendar only. |
+| Nov 14 | Miriam Benjamin and the Signal Chair | drafted | drafted | n/a | n/a | Text committed in social/TMS_SOCIAL_TEASERS_2026-11-15.md (Issue #57). Not approved, not scheduled. Proposed post date is calendar only. |
+| Nov 13 | Jason Jones privacy appeal (Trinidad and Tobago) | drafted | drafted | n/a | n/a | Text committed in social/TMS_SOCIAL_TEASERS_2026-11-15.md (Issue #57). Not approved, not scheduled. Proposed post date is calendar only. |
 | Nov 12 | The Berlin Wall opened at the border | published | published | published | published | Reported promoted. Skip unless a clearly different angle is developed. |
 | Nov 11 | Germany's emergency call without speaking (nora) | published | published | published | published | Reported promoted in English and German. |
 | Nov 11 | Charles Drew and the blood system | drafted | drafted | n/a | n/a | [social/TMS_SOCIAL_TEASERS_2026-11-15.md](social/TMS_SOCIAL_TEASERS_2026-11-15.md) |

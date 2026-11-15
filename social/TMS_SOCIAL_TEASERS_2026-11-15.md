@@ -204,3 +204,75 @@ The Navy credits her with a computer-generated draft for the Oliver Hazard Perry
 Someone hired for one kind of work may be capable of much more. Paid, supported chances to show it are how that gets found out.
 
 Full story with sources at the link in our bio.
+
+---
+
+## 7. Old tax refund versus unclaimed property (published November 15)
+
+Article: https://themissingseat.org/old-tax-refund-and-state-unclaimed-property.html
+Proposed post date: November 19 (proposed calendar only; see Issue #57).
+Facts checked against the package TMS_UNCLAIMED_TAX_REFUNDS_AND_STATE_PROPERTY_2026-11-13.md: IRS estimate of about $1.2 billion unclaimed for tax year 2022 (not 2023); April 15, 2027 is our calculation of the ordinary date to work toward for 2023 wage withholding, not an IRS announcement; state unclaimed property is a separate search through NAUPA's official directory.
+
+### Facebook, English
+
+Did you skip a 2023 federal tax return? If tax was withheld from your pay that year, or you qualified for a refundable credit, you may be owed a refund, and the time to claim it is limited. For a typical calendar-year nonfiler with 2023 withholding, April 15, 2027 is the ordinary date to work toward. That is a calculation from the refund rules, not a new IRS announcement, and your own payment dates, an extension or relief can change it. The IRS estimated that about $1.2 billion in refunds went unclaimed for tax year 2022. That is a different year, so it is not a promise about 2023.
+
+An old paycheck or bank balance held by a state is a separate search with a different office. You can start for free through the state directory at unclaimed.org. A similar name on a result is a lead, not proof that the money is yours.
+
+The full story, with the IRS and state steps: [link]
+
+### Instagram, English
+
+A missing federal tax refund starts with the IRS. A forgotten paycheck or bank balance may start with a state unclaimed-property office. One search will not do both jobs.
+
+If you skipped your 2023 return, find your wage records and the IRS's 2023 forms, check your own deadline and file early. For a typical calendar-year nonfiler with 2023 withholding, April 15, 2027 is the ordinary date to work toward, but your own dates can change that. For state property, use the official state directory at unclaimed.org and confirm any match with the state office before you hand over documents.
+
+Full story with sources at the link in our bio.
+
+---
+
+## 8. Jason Jones and his privacy appeal (published November 13)
+
+Article: https://themissingseat.org/jason-jones-trinidad-tobago-privacy-appeal.html
+Proposed post date: November 22 (proposed calendar only; see Issue #57).
+Facts checked against the package TMS_TRINIDAD_TOBAGO_JASON_JONES_PRIVACY_PUBLICATION_PACKAGE_2026-11-11.md: Judicial Committee of the Privy Council decision of November 10, 2026, case JCPC/2025/0095; paragraphs 85 to 89 on the holding and provisional remedy; no final order on the case page when last checked. Recheck the case page before posting.
+
+### Facebook, English
+
+On November 10, the Judicial Committee of the Privy Council, Trinidad and Tobago's final court of appeal, allowed Jason Jones's appeal. It held that two sections of the Sexual Offences Act cannot be read to criminalise private, consensual sexual relations between adults of the same sex.
+
+The court has not yet settled the exact wording of its order. The judges provisionally favoured the High Court's narrower remedy rather than deleting both sections, and gave the lawyers time for further written submissions. So the ruling is a real change for people those sections reached, but claims about repeal, cleared records or new police practice go beyond what the court has said.
+
+If you are sharing the news, read paragraphs 85 to 89 of the judgment, and watch the case page for the order itself. The full story: [link]
+
+### Instagram, English
+
+Jason Jones won his privacy appeal on November 10. Trinidad and Tobago's final court of appeal held that the challenged sections cannot criminalise private, consensual sexual relations between adults of the same sex.
+
+The court still has to settle the precise wording of its order. Until then, be careful with claims about repeal, cleared records or what police will do. Those are not in the ruling.
+
+Find case JCPC/2025/0095 on the Privy Council website and read paragraphs 85 to 89 before you share. Full story at the link in our bio.
+
+---
+
+## 9. Miriam Benjamin and the Signal Chair (published November 14)
+
+Article: https://themissingseat.org/miriam-benjamin-gong-and-signal-chair.html
+Proposed post date: November 23 (proposed calendar only; see Issue #57).
+Facts checked against the package TMS_MIRIAM_BENJAMIN_SIGNAL_CHAIR_PUBLICATION_PACKAGE_2026-11-12.md: U.S. patent 386,289 granted July 17, 1888; the USPTO historian reports the House did not adopt her design; no record shows sales or income; a later similar system is not evidence of copying.
+
+### Facebook, English
+
+In 1888, Miriam E. Benjamin patented a chair that let a guest ask for service without calling across the room. A button on the chair sounded a gong and turned a signal on the back of the seat, and the attendant reset the signal after helping.
+
+She also tried to persuade the U.S. House of Representatives to use her design. According to the U.S. Patent and Trademark Office, the House did not adopt it. What remains is a paper trail: patent 386,289, granted July 17, 1888, and a listing in the 1894 Congressional Record. Those records do not show whether anyone bought her chair or what she earned from it.
+
+Open the patent drawing and follow the movement from the button to the signal. The full story: [link]
+
+### Instagram, English
+
+Miriam E. Benjamin designed a way for someone to ask for service without leaving a chair or calling across the room. In her 1888 patent, a button sounds a gong and turns a signal on the back of the seat. An attendant resets the signal after helping.
+
+The House of Representatives did not adopt her design, according to the U.S. Patent and Trademark Office. Look up U.S. patent 386,289 and follow the drawing from the button to the chair back.
+
+Full story with sources at the link in our bio.

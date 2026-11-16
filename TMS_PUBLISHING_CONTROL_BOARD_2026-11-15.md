@@ -2,6 +2,10 @@
 
 This board coordinates existing [editorial standards](TMS_EDITORIAL_STANDARD.md), [daily queue](TMS_DAILY_EDITORIAL_QUEUE.md), [story bank](TMS_STORY_BANK.md), [social ledger](TMS_SOCIAL_LEDGER.md), and [social copy](social/TMS_SOCIAL_TEASERS_2026-11-15.md). It does not override any of them.
 
+## November 16 USER OVERRIDE — three source-reviewed full editorial packages ahead of preexisting queue
+
+The explicit priority order is Pressley/Jeffries Speaker power -> House discharge petitions -> newly elected coalition/member/voter influence. Full markdown packages and release notes are linked in [the master editorial queue](TMS_DAILY_EDITORIAL_QUEUE.md). The newest user instruction supersedes older ordinary-order placements and the intended November 18 Medicare release date where the schedules conflict. Preserve Medicare hard deadline November 30 and arrange a new first available eligible slot afterward. A package is not a live website editorial; each requires current Gate 0/1/2, v1 media checks, single-day slot, article HTML/index/archive/topic/RSS/sitemap updates, live verification and separately validated social payload. As of this control-board update none of these three is claimed publicly live. Keep existing nonpriority articles in their original relative order.
+
 ## Production pipeline
 1. **Lead** in story bank: source, country, significance, proposed angle, duplicate comparator, deadline.
 2. **Research**: retrieve primary documents; distinguish fact, inference, contested claims; check novelty against published work.

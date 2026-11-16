@@ -38,3 +38,11 @@
   document.addEventListener('keydown',function(e){if(e.key==='Escape')close(true);});
   more.addEventListener('focusout',function(e){if(e.relatedTarget&&!more.contains(e.relatedTarget))close(false);});
 })();
+(function(){
+  var mm=document.querySelector('.mobile-menu');
+  if(!mm)return;
+  var summary=mm.querySelector('summary');
+  function close(refocus){if(mm.open){mm.open=false;if(refocus&&summary)summary.focus();}}
+  document.addEventListener('click',function(e){if(!mm.contains(e.target))close(false);});
+  document.addEventListener('keydown',function(e){if(e.key==='Escape')close(true);});
+})();

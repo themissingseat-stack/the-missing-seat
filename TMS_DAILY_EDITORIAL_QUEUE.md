@@ -4,6 +4,10 @@
 
 **Standing rules:** see [TMS_EDITORIAL_STANDARD.md](TMS_EDITORIAL_STANDARD.md), including the 2026-11-04 brand and article-endings standard. It supersedes conflicting generic-signoff instructions anywhere in this ledger.
 
+## November 17–18 release instruction
+
+For November 17, use one cleared reserve editorial if Pressley remains on factual hold and the daily slot is available. First reserve candidate: **When Does a Sentence Actually End?**, subject to the release-day source and production checks. On November 18, check **Ayanna Pressley, Hakeem Jeffries, and the Power Behind the Speaker’s Gavel** first and publish it ahead of the regular queue if it clears the current release reviews. Confirm the status of the candidacy and any votes that have occurred before release. The other packages retain their relative order and Medicare retains its November 30 deadline.
+
 ## Highest-priority override — three full TMS editorials (user-authorized November 16, 2026)
 
 **Editorial priority above ALL preexisting unpublished/numbered/reserve packages.** Preserve the exact three distinct articles, their sources and separate social copy; these are not duplicate stories. Follow the already established maximum **one new full editorial published per calendar day**. Priority does not waive mandatory Gate 0/1/2 review, release-day fact check, image/schema validation, source-link verification, actual deployment checks, or factual HOLD rules. Do not claim public release from GitHub markdown commits. Publish the first cleared title in this priority sequence on the next genuinely available daily publication slot, then the second, then the third. Do not consume an already-used daily slot. Keep other queue entries in their existing relative order; resume after these three. The Medicare article's November 30 absolute deadline and live accuracy checks remain mandatory. The earlier November 18 planned Medicare date is superseded *only to the extent necessary* to honor this newly explicit priority; schedule Medicare promptly afterward, no later than November 30, subject to its release gates.

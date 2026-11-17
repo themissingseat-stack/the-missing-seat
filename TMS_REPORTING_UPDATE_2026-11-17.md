@@ -1,5 +1,8 @@
 # November 17, 2026 editorial release checks
 
+**Later November 17 review recovery:** After the scheduled task, a separate provisional Gate 2 hostile-reader/completeness review was performed on each of the three user-prioritized full editorial packages, with specific findings. The record is [TMS_PRIORITY_SECOND_REVIEW_RECOVERY_2026-11-17.md](TMS_PRIORITY_SECOND_REVIEW_RECOVERY_2026-11-17.md). The current status remains **HOLD**, because final Gate 1 verification and subsequent final Gate 2 PASS are required. This is not a retrospective claim that the morning automation completed Gate 2. Central standard and task instructions were updated to enforce the complete automatic review cycle, even when Gate 1 is blocked. Pressley’s actual candidacy is NOT a prerequisite for the correctly framed leadership-interest editorial.
+
+
 No full editorial was released. Queue order and Medicare's November 30 deadline remain in place.
 
 | Priority | Gate 0 | Gate 1 | Gate 2 |

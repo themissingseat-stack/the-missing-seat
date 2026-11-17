@@ -4,6 +4,19 @@
 
 **Standing rules:** see [TMS_EDITORIAL_STANDARD.md](TMS_EDITORIAL_STANDARD.md), including the 2026-11-04 brand and article-endings standard. It supersedes conflicting generic-signoff instructions anywhere in this ledger.
 
+## Standing rule: a held priority never blocks the daily slot (Jansen, November 17, 2026)
+
+A priority override sets the order in which **cleared** stories are released. It does not stop the daily release when no priority story is cleared. This supersedes the instruction in the November 16 override to resume the other queue entries only "after these three."
+
+On every release day:
+
+1. Check the priority stories in their set order. Release the first one that has current Gate 1 PASS and final Gate 2 PASS, subject to Gate 3.
+2. If no priority story is cleared that day, release the next cleared reserve story in the same run. Deadline-sensitive packages come first, currently **Medicare** (publish no later than November 30). Otherwise follow the existing queue order.
+3. Held priority stories keep their place at the top. They are released on the first day they clear, ahead of the reserve.
+4. A held priority story is never a reason to skip the day. If no story at all is cleared, the run records that as a missed slot with the specific blocker for each candidate.
+
+This rule changes the order only. It does not relax any review, fact check, release-day check, media validation or the one-new-editorial-per-day limit.
+
 ## November 17 editorial review recovery
 
 The three priority editorial packages have individually documented **provisional Gate 2 hostile-reader reviews**, recorded later on November 17 at [TMS_PRIORITY_SECOND_REVIEW_RECOVERY_2026-11-17.md](TMS_PRIORITY_SECOND_REVIEW_RECOVERY_2026-11-17.md). Final Gate 1 and Gate 2 are **HOLD**, so they remain the first priorities but are not release-ready; do not mistakenly infer that the initial November 16 draft PASS notes authorize publication. The central editorial standard now requires a provisional substantive second review even when factual verification is incomplete, then automatic final Gate 2 after factual clearance. An announced Pressley Speaker candidacy is not required by the existing editorial thesis.

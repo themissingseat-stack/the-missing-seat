@@ -59,6 +59,16 @@ Example for an airfare story: "Same flight. Different prices. Your rights should
 ### Gate 1: documented evidence review (independent of prose review)
 Record **PASS / HOLD / FAIL**, date/time, reviewer, the source URLs actually opened, and precise unresolved gaps. Verify every material proper name, race call, amount, vote, legal claim, quote, timeline and current status. Distinguish projection, media call, official certification and legal effect. Give sources as usable hyperlinks with document titles, issuers and dates; labels alone are insufficient. Verify link destinations. A known missing primary source, unresolved material contradiction, stale time-sensitive claim or missing major near-term development is **HOLD**, not PASS.
 
+### Automatic two-review continuity when factual review is HOLD — added November 17, 2026
+
+**Do not stop editorial work merely because Gate 1 is HOLD.** Run a separately documented, article-specific *provisional* Gate 2 hostile-reader/Regular Joe pass on the complete current draft in the same research/review cycle, even when source validation or a pending event prevents final Gate 1 PASS. Record actual content inspected, particular factual/editorial weaknesses, fixes, links and review version, with status **PROVISIONAL / HOLD**; make safe editorial corrections and leave factual claims needing external checks flagged. This provisional review is NOT Gate 2 final PASS and must never allow publication.
+
+As soon as evidence, citations, chronology, sources and current status clear Gate 1, automatically rerun final Gate 2 against that exact corrected package version. **Only Gate 1 PASS + final Gate 2 PASS authorizes queue-ready/release-ready status**, subject to Gate 3. An initial draft PASS from an earlier date is not a current PASS after factual changes. Do not ask the user to approve routine reviews or prompt the workflow to resume; complete both passes, corrections, and safe publication progression in normal runs, reporting only precise remaining blockers.
+
+A news event or leadership election that is scheduled but has not occurred is not automatically a factual obstacle to a clearly labeled pre-event report. A story about grassroots interest in a potential candidate must not be treated as contingent on that person formally declaring candidacy, unless the actual thesis asserts they are a candidate. Avoid unnecessary blockers based on imagined prerequisites. A HOLD must identify an actual unresolved material factual or legal claim, not simply a future event that the article accurately describes as future.
+
+Reference recovery example: [November 17 three-editorial provisional second review](TMS_PRIORITY_SECOND_REVIEW_RECOVERY_2026-11-17.md).
+
 ### Gate 2: documented hostile-reader and Regular Joe review
 Perform a **separate, substantive second pass** after Gate 1. Record **PASS / HOLD / FAIL** and concrete findings, including:
 - Could a well-informed critic identify a major omission, contradiction, selective standard, misleading framing, ungrounded conclusion or unsupported allegation?

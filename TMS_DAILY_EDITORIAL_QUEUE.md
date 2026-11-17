@@ -4,6 +4,10 @@
 
 **Standing rules:** see [TMS_EDITORIAL_STANDARD.md](TMS_EDITORIAL_STANDARD.md), including the 2026-11-04 brand and article-endings standard. It supersedes conflicting generic-signoff instructions anywhere in this ledger.
 
+## November 17 editorial review recovery
+
+The three priority editorial packages have individually documented **provisional Gate 2 hostile-reader reviews**, recorded later on November 17 at [TMS_PRIORITY_SECOND_REVIEW_RECOVERY_2026-11-17.md](TMS_PRIORITY_SECOND_REVIEW_RECOVERY_2026-11-17.md). Final Gate 1 and Gate 2 are **HOLD**, so they remain the first priorities but are not release-ready; do not mistakenly infer that the initial November 16 draft PASS notes authorize publication. The central editorial standard now requires a provisional substantive second review even when factual verification is incomplete, then automatic final Gate 2 after factual clearance. An announced Pressley Speaker candidacy is not required by the existing editorial thesis.
+
 ## November 17–18 release instruction
 
 For November 17, use one cleared reserve editorial if Pressley remains on factual hold and the daily slot is available. First reserve candidate: **When Does a Sentence Actually End?**, subject to the release-day source and production checks. On November 18, check **Ayanna Pressley, Hakeem Jeffries, and the Power Behind the Speaker’s Gavel** first and publish it ahead of the regular queue if it clears the current release reviews. Confirm the status of the candidacy and any votes that have occurred before release. The other packages retain their relative order and Medicare retains its November 30 deadline.

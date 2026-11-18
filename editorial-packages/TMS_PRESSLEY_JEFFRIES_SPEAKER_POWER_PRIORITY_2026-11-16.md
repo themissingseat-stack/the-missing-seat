@@ -173,6 +173,8 @@ Our full editorial examines their actual records, what the Speaker can and canno
 
 Democrats deserve the same scrutiny Republicans received. Track promises, bills, hearings, votes and results, not just speeches.
 
+Read the full editorial: https://themissingseat.org/ayanna-pressley-hakeem-jeffries-and-the-speakers-gavel.html
+
 ## Instagram copy (literal clean plain text; fewer than 2,200 characters)
 Why Ayanna Pressley for Speaker? And why Hakeem Jeffries?
 

@@ -6,9 +6,9 @@
 - Slug: ayanna-pressley-hakeem-jeffries-and-the-speakers-gavel
 - Topic: Power & Accountability; Race & Equal Humanity; Black, Brilliant & Beyond
 - Seat Affected: people represented in the incoming House and those affected by congressional agenda control
-- Seat Status: Leadership selection pending; commitments and governing outcomes not yet established
+- Seat Status: Jeffries nominated by the Democratic caucus; full House election and governing outcomes remain pending
 - Location: United States
-- Excerpt: Pressley's supporters want a different kind of Speaker. Jeffries already has powerful caucus backing. The central question is what either leadership approach would mean for actual House decisions and people outside Congress.
+- Excerpt: House Democrats nominated Jeffries for Speaker, 251 votes to 11. Pressley did not run, but the debate about the majority's agenda and accountability is far from over.
 - Image concept: Ayanna Pressley's official congressional portrait, appropriately credited and dated, with accompanying article text making clear the photograph is not a November 2026 campaign launch.
 - social_visual_policy: v1
 - image_url: none
@@ -23,27 +23,27 @@
 - photo_fallback_reason: Commons item-level public-domain record for Pressley's official 2019 portrait verified, but no publisher-tested stable image binary URL established. Defer binary retrieval or documented cream-card fallback to social publisher.
 
 ## The Short Version
-**What happened:** House Democrats are scheduled to vote November 18 on their Speaker nominee. Jeffries is the declared candidate with New Democrat Coalition backing. At a November 16 town hall, Pressley said, "I'm making no declarations or announcements here," and "I do not need to be the Speaker of the House to speak for the people." She has not announced a candidacy. Axios had earlier reported private remarks attributed to colleagues.
+**What happened:** On November 18, House Democrats nominated Hakeem Jeffries for Speaker in a closed-door, secret-ballot vote. Reuters reported 251 votes for him and 11 against. This was the party's nomination, not the full House election scheduled for January 3. Ayanna Pressley did not run; at a November 16 town hall she said, "I do not need to be the Speaker of the House to speak for the people."
 
 **Who it affects:** People who want the incoming House to address cost of living, healthcare, civil rights, constitutional accountability and government oversight. The Speaker helps shape which legislation and investigations receive consideration.
 
-**What you can do:** Read both lawmakers' own statements, follow the leadership selection and January Speaker vote, then ask your representative which House rules, committee priorities and oversight commitments the leadership will adopt. Track promises against bills, hearings and votes.
+**What you can do:** Read both lawmakers' statements and the November 18 nomination result, then ask your representative what commitments they sought from Jeffries. Follow the January 3 public Speaker vote and track the majority's subsequent rules, hearings, bills and oversight.
 
-**Based on:** Pressley's November 12 House speech and November 16 public town hall remarks; Jeffries' November 9 and 12 official remarks; November 17 reporting on the scheduled counted caucus vote; the New Democrat Coalition endorsement; House Clerk, Senate calendar and July 2026 CRS analysis of the Supreme Court's June Haiti TPS ruling.
+**Based on:** Reuters and Axios reporting on the November 18 caucus nomination; Pressley's November 12 speech and November 16 public remarks; Jeffries' November statements; the New Democrat Coalition endorsement; House Clerk, Senate calendar and CRS records.
 
 ## Website editorial
 
 Why not Ayanna Pressley?
 
-That question began traveling among activists and voters after the November 3 election, when Democrats won a new House majority. A national effort began encouraging her to seek the speakership, an office never held by a Black woman. Hakeem Jeffries, the existing House Democratic leader, is also seeking it. If elected, he would become the first Black Speaker of the House. [1][2][3]
+That question began traveling among activists and voters after the November 3 election, when Democrats won a new House majority. A national effort began encouraging her to seek the speakership, an office never held by a Black woman. Hakeem Jeffries, the existing House Democratic leader, won his party's nomination on November 18. If elected by the full House in January, he would become the first Black Speaker of the House. [1][2][3]
 
 There is more at stake than another historic first. The Speaker is one of the country's most powerful legislative officials, and the selection affects the House agenda, committee processes and oversight. People who want major changes on healthcare, affordability, Black rights, immigration and executive accountability are asking what kind of leadership they will see once the electoral celebrations end. It is a genuine debate, but public enthusiasm should not be turned into a fictional contest.
 
 ### What has actually happened
 
-Jeffries is the declared candidate. House Democratic leadership elections are set for November 18-19, ahead of the full House's January 3 Speaker vote. The New Democrat Coalition endorsed Jeffries on November 10 and said it expected to enter the next Congress with more than 140 members. The coalition's subsequent membership announcement counted 142 members and members-elect. [3][4] According to November 17 reporting, Jeffries requested a counted caucus nomination vote rather than approval by acclamation. The requested counted caucus vote would be by secret ballot, so individual members' choices are not automatically public, and it is not the January House-wide Speaker election. [6]
+House Democrats nominated Jeffries for Speaker on November 18 in a closed-door, secret-ballot caucus vote. Reuters reported that 251 Democrats voted for him and 11 opposed. That is a party nomination, not the public election of the Speaker by the full House, which is scheduled for January 3. Individual secret ballots cannot be treated as a public roll call. [18][19] The New Democrat Coalition had endorsed Jeffries on November 10 and subsequently counted 142 members and members-elect. [3][4] He had sought a counted caucus vote rather than approval by acclamation. [6]
 
-Pressley has not announced that she is running. Asked at a November 16 town hall in East Boston, she said, "I'm making no declarations or announcements here," and "I do not need to be the Speaker of the House to speak for the people." She also said she was humbled to be part of the conversation. Axios reported on November 13 that she had told several Democratic colleagues she did not want the job. Her public words are the clearer record; neither the earlier attributed reporting nor her town hall answer amounts to a campaign declaration. [5][15]
+Pressley did not run for the nomination. Asked at a November 16 town hall in East Boston, she said, "I'm making no declarations or announcements here," and "I do not need to be the Speaker of the House to speak for the people." She also said she was humbled to be part of the conversation. Axios reported on November 13 that she had told several Democratic colleagues she did not want the job. Her public words are the clearer record; neither the earlier attributed reporting nor her town hall answer amounts to a campaign declaration. [5][15]
 
 Online petitions can convey public interest, but they cannot elect a Speaker. House members vote. Under longstanding House practice, a Speaker must win a majority of votes cast for named individuals, which need not always equal 218 of the full chamber. Representatives can vote for someone other than a party nominee. [2]
 
@@ -89,7 +89,7 @@ And the inquiry must not stop with one party. When Democrats gain the gavel, the
 
 This matters especially to Black communities whose historical constitutional protections have too often been celebrated as legal milestones without adequate enforcement or repair. The new House can investigate, hold hearings, collect public records and propose measures within the Constitution. Any claim that it cannot act should identify the actual legal, procedural or voting barrier. The responsibility to explain is part of governing.
 
-### What the voters can ask before and after January
+### What voters can ask before and after January
 
 People can ask their representative how they voted in the Democratic caucus nomination and which commitments they requested, recognizing that individual votes in a closed-door caucus may not be publicly available. They can also ask which priorities they expect a Speaker to advance and whether they support more transparent access to hearings, amendments, committee proceedings and recorded House votes. They can ask how allegations of wrongdoing will be investigated fairly, including conduct by officials in the governing party.
 
@@ -113,16 +113,16 @@ Read Pressley's November 12 floor speech, her November 16 town hall statements a
 - [Find your representative](https://www.house.gov/representatives/find-your-representative)
 
 ## Seat Summary
-Pressley has articulated an expansive progressive legislative agenda and helped force House action on Haiti TPS. Jeffries has led House Democrats since January 2023, carries established support and has described affordability and oversight priorities. The caucus, not an online petition, nominates its leadership choice; the full House elects the Speaker. Constituents benefit from a public, specific account of proposed procedures, decisions and outcomes, regardless of the winner.
+Pressley has articulated an expansive progressive legislative agenda and helped force House action on Haiti TPS. Jeffries has led House Democrats since January 2023 and secured the Democratic Speaker nomination on November 18 by 251 votes to 11. The caucus, not an online petition, chooses its nominee; the full House elects the Speaker in January. Constituents benefit from a public, specific account of proposed procedures, decisions and outcomes, regardless of the winner.
 
 ## Accountability Ledger
 | Stage | What is documented | What is not yet established |
 | --- | --- | --- |
 | Leadership bids | Jeffries declared; Pressley not declared | Any actual Pressley candidacy |
 | Public interest | Online campaigns and activism; Pressley spokesperson acknowledges interest | That petition signers are House votes |
-| Jeffries endorsements | New Democrat Coalition backs him; various progressives publicly supportive | Final caucus and House vote |
+| Jeffries endorsements | New Democrat Coalition backed him; November 18 caucus nomination won 251 to 11 | Full House Speaker election on January 3 |
 | Pressley's legislative example | Haiti petition, discharge and House passage | Lawful final enactment or material relief from H.R.1689 |
-| November 18-19 | Democratic leadership selection scheduled | Outcome |
+| November 18 | Democratic Speaker nomination: Jeffries won the caucus vote, 251 to 11 | Which rules and commitments the new majority will deliver |
 | January 3 | Full House Speaker vote scheduled | Winner and adopted House rules |
 | Subsequent accountability | Available House committees, bills, hearings and vote records | Delivery under the new majority |
 
@@ -144,12 +144,14 @@ Pressley has articulated an expansive progressive legislative agenda and helped 
 15. [Boston Globe, Pressley's own East Boston town hall words, Nov. 17](https://www.bostonglobe.com/2026/11/17/nation/pressley-house-democrats-jeffries-speaker/)
 16. [CRS, Mullin v. Doe and Haiti TPS, July 2, 2026, LSB11446](https://www.everycrsreport.com/reports/LSB11446.html)
 17. [White House, Statement of Administration Policy on H.R. 1689, April 15, 2026](https://www.whitehouse.gov/wp-content/uploads/2026/04/SAP-HR1689.pdf)
+18. [Reuters, House Democrats nominate Jeffries, November 18, 2026](https://www.reuters.com/world/us/urgent-democrats-nominate-hakeem-jeffries-next-us-house-speaker-2026-11-18/)
+19. [Axios, House Democrats formally nominate Jeffries, November 18, 2026](https://www.axios.com/2026/11/18/jeffries-speaker-house-democrats-nominate-jan-3)
 
 ## Sources
-Use Receipts 1-17 as the verifiable record, including Pressley's direct November 16 remarks, the recorded-caucus-vote reporting and the CRS analysis of Mullin v. Doe. The November 13 Axios account is attributed, not presented as Pressley's own public declaration of non-candidacy. Statements by Pressley, Jeffries and the New Democrat Coalition express their positions.
+Use Receipts 1-19 as the verifiable record, including Pressley's direct November 16 remarks, the recorded-caucus-vote reporting and the CRS analysis of Mullin v. Doe. The November 13 Axios account is attributed, not presented as Pressley's own public declaration of non-candidacy. Statements by Pressley, Jeffries and the New Democrat Coalition express their positions.
 
 ## How we checked this
-As-of research refreshed November 18, 2026, before the reported Washington morning caucus nomination vote; no publicly confirmed result found as of the release preparation check. Official speech transcripts were checked for what each politician actually said; party endorsement is attributed to its issuer. Congress's vote rules and committee allocation were checked using CRS reports. Pressley's discharge result is documented by the official petition and roll calls, not presumed from press releases. Public petition counts vary and are omitted because they are volatile and different campaigns are not interchangeable. No source establishes that Pressley has declared a Speaker campaign. No new interviews were conducted. Recheck November 18-19 leadership election result and any new candidate announcements before release.
+Original release research November 18, 2026, before the caucus nomination. Post-vote revision November 18 confirms the Jeffries nomination from Reuters and Axios; this is not the January 3 full House election. Official speech transcripts were checked for what each politician actually said; party endorsement is attributed to its issuer. Congress's vote rules and committee allocation were checked using CRS reports. Pressley's discharge result is documented by the official petition and roll calls, not presumed from press releases. Public petition counts vary and are omitted because they are volatile and different campaigns are not interchangeable. No source establishes that Pressley has declared a Speaker campaign. No new interviews were conducted. Recheck November 18-19 leadership election result and any new candidate announcements before release.
 
 ## Visual sourcing record
 - Search: November 16, 2026, Ayanna Pressley official portrait public domain, official congressional press photo and Wikimedia Commons license evidence; also Hakeem Jeffries congressional portrait.
@@ -157,17 +159,17 @@ As-of research refreshed November 18, 2026, before the reported Washington morni
 - Rights evidence URLs above. No tested direct image binary for publisher; no fabricated contemporary image, no unsupported claim about 2026 photo.
 
 ## Facebook copy (literal clean plain text)
-Why are Americans asking for Ayanna Pressley to become Speaker of the House when Hakeem Jeffries is already running?
+House Democrats have nominated Hakeem Jeffries for Speaker. What happened to the calls for Ayanna Pressley, and what should voters expect now?
 
 Pressley would be the first Black woman Speaker. Jeffries would be the first Black Speaker. But this is about much more than historic firsts.
 
 Pressley used a discharge petition this year to force a vote on Haiti protections. The House passed the bill, though that did not make it law. Jeffries has led House Democrats since 2023 and says the new majority will focus on affordability and government accountability.
 
-There is a grassroots movement for Pressley, but she has not declared a candidacy. At a November 16 town hall she said, "I'm making no declarations or announcements here" and "I do not need to be the Speaker of the House to speak for the people."
+Pressley did not run. At a November 16 town hall she said, "I'm making no declarations or announcements here" and "I do not need to be the Speaker of the House to speak for the people."
 
-So the question for the public is concrete: what House rules, committee hearings, oversight investigations, and legislative votes would either leadership approach produce?
+On November 18, Jeffries won the Democratic caucus nomination by 251 votes to 11, Reuters reported. He has not yet been elected Speaker; the full House votes January 3. The question now is what rules, hearings, oversight investigations and legislative votes his leadership will produce.
 
-The leadership decisions start November 18 and 19. The Speaker vote follows in January.
+The nomination vote is complete. Ask your representative which commitments they requested, then follow the public Speaker election and the House's actual work.
 
 Our full editorial examines their actual records, what the Speaker can and cannot do, and how to demand a record of real change after the election.
 
@@ -176,19 +178,25 @@ Democrats deserve the same scrutiny Republicans received. Track promises, bills,
 Read the full editorial: https://themissingseat.org/ayanna-pressley-hakeem-jeffries-and-the-speakers-gavel.html
 
 ## Instagram copy (literal clean plain text; fewer than 2,200 characters)
-Why Ayanna Pressley for Speaker? And why Hakeem Jeffries?
+Jeffries won the Democratic nomination for Speaker. What does that mean for voters who backed Ayanna Pressley?
 
-Pressley has called for an ambitious Democratic agenda. Earlier this year, she used a discharge petition to force a House vote on Haiti protections. Jeffries has led House Democrats since 2023 and is campaigning for the gavel with support from the New Democrat Coalition.
+Pressley has called for an ambitious Democratic agenda. Earlier this year, she used a discharge petition to force a House vote on Haiti protections. Jeffries has led House Democrats since 2023 and was endorsed by the New Democrat Coalition.
 
-Pressley has not declared a candidacy. At her November 16 town hall she said, "I do not need to be the Speaker of the House to speak for the people."
+Pressley did not run. At her November 16 town hall she said, "I do not need to be the Speaker of the House to speak for the people."
 
-The Democratic leadership vote is November 18 and 19. The full House elects its Speaker in January.
+On November 18, Jeffries secured the caucus nomination with 251 votes in favor and 11 against, Reuters reported. That is not the January 3 full House Speaker election.
 
 Our full editorial looks at what each has actually done, how much power a Speaker holds, and which commitments voters can check.
 
 Whoever holds the gavel, the public should demand real records of hearings, votes, oversight and results. Democrats, Republicans and independents all deserve the same scrutiny.
 
 Read the records, then ask your representative what leadership commitments they expect.
+
+## November 18 post-caucus update (separate factual and Regular Joe checks)
+- Reuters reported the closed-door Democratic caucus Speaker nomination result on November 18: Jeffries 251 votes in favor, 11 opposing. Axios separately confirmed the nomination. No individual secret-ballot votes are attributed. No claim that Jeffries is already the Speaker. Exact citations: https://www.reuters.com/world/us/urgent-democrats-nominate-hakeem-jeffries-next-us-house-speaker-2026-11-18/ ; https://www.axios.com/2026/11/18/jeffries-speaker-house-democrats-nominate-jan-3.
+- Gate 1: PASS, GP, November 18 post-vote factual review. Checked nomination date, distinction from January 3 Speaker election, tally, attribution, and article/social chronology against the cited Reuters and Axios reporting. Source versions are time-sensitive and must be rechecked if further material results arise.
+- Gate 2: PASS, GP, separately conducted post-vote Regular Joe hostile-reader and clean-copy review of this revised package: no pre-vote wording in action passages or FB/IG, direct distinction nomination versus final election, no false Pressley candidacy, no implied House passage of TPS measure became law, fair treatment of both records, clear reader action, no decorative markup in social copy; Instagram under 2,200 characters. These checks do not falsely attribute the new outcome paragraph to Claude.
+- Gate 3: Post-vote website HTML and archive/social metadata require deployment verification. No social Buffer scheduling is claimed merely from this package.
 
 ## November 18 revision and release-day reviews
 - Claude independently reviewed the November 16 package, with eight mandatory content, legal, procedural, social and citation corrections in `TMS_EDITORIAL_RESERVE_REVIEW_2026-11-18.md` (user-supplied external review).

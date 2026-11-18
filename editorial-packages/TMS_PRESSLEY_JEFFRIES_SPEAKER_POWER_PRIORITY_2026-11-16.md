@@ -45,7 +45,7 @@ Jeffries is the declared candidate. House Democratic leadership elections are se
 
 Pressley has not announced that she is running. Asked at a November 16 town hall in East Boston, she said, "I'm making no declarations or announcements here," and "I do not need to be the Speaker of the House to speak for the people." She also said she was humbled to be part of the conversation. Axios had reported on November 13 that several Democratic colleagues understood her not to want the job. Her public words are the clearer record; neither the earlier attributed reporting nor her town hall answer amounts to a campaign declaration. [5][15]
 
-Online petitions can convey public interest, but they cannot elect a Speaker. House members vote. Under longstanding House practice, a Speaker must win a majority of votes cast for named individuals, which need not always equal 218 of the full chamber. Representatives can vote for someone other than a party nominee. [6]
+Online petitions can convey public interest, but they cannot elect a Speaker. House members vote. Under longstanding House practice, a Speaker must win a majority of votes cast for named individuals, which need not always equal 218 of the full chamber. Representatives can vote for someone other than a party nominee. [2]
 
 The right question is therefore not whether enough people online like Pressley. It is what the two lawmakers have said, what each has done, how members of the House evaluate their records, and which legislative commitments citizens could later verify.
 
@@ -75,7 +75,7 @@ The political rationale for continuity is that experienced leadership may coordi
 
 The Speaker presides over and represents the House, helps shape the legislative agenda and has substantial influence over referrals, procedural decisions and party strategy. But the office cannot single-handedly enact a bill, choose every committee member or override presidential vetoes.
 
-Committee assignments usually involve party steering committees, caucus approval and formal House action. The Senate must approve ordinary legislation, and President Trump retains veto power during the coming Congress. Many Senate measures also face the cloture rule's usual 60-vote hurdle. [6][14]
+Committee assignments usually involve party steering committees, caucus approval and formal House action. The Senate must approve ordinary legislation, and President Trump retains veto power during the coming Congress. Many Senate measures also face the cloture rule's usual 60-vote hurdle. [2][14]
 
 This institutional picture puts an important limit on promises. No Speaker can guarantee Medicare for All, a new voting-rights statute or a reparations commission simply by taking the gavel. But the Speaker and governing coalition can establish committee priorities, organize oversight, seek votes, publish legislative calendars and explain precisely why a measure cannot advance. Those choices make the House's conduct testable even when a measure does not become law.
 

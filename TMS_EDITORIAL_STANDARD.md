@@ -4,6 +4,21 @@
 
 Companion ledgers: [TMS_DAILY_EDITORIAL_QUEUE.md](TMS_DAILY_EDITORIAL_QUEUE.md) (queue and the Regular Joe comprehension test).
 
+
+## Standing update 2026-11-18: conversational social replies in Jansen's voice
+
+**Binding for responsive comments and short personal social posts on Threads, Facebook, Instagram and similar conversations.** This is a distinct writing mode from formal TMS editorial packages and website reporting. The editor explicitly approved the following approach after reviewing a reply about Black women's contribution to the 2026 midterms:
+
+1. **Respond to the actual message first.** Open naturally and conversationally, sometimes with an idiomatic acknowledgment such as "Ain't that the truth!" when it genuinely fits. Do not mechanically reuse that phrase in every response.
+2. **Do not paraphrase the original post back to its author.** Assume readers can see it. Add a meaningful *new* fact, perspective, implication, historical connection, or grounded observation that advances the conversation.
+3. **Explain why the development matters.** When appropriate, connect a contemporary event to what has long existed, including overlooked history, achievements, obstacles, and the real authority now at stake. The connection should emerge naturally rather than become a miniature editorial or history lecture.
+4. **Write with Jansen's conversational personality.** Warm, direct, animated, occasionally cheeky or colloquial, with some attitude and a real human rhythm. Do not sound like a newswire, repeat the same point three ways, or make every reply a structured argument.
+5. **Finish with a strong, positive, specific thought** suited to the exchange. Celebrate genuine achievements without pretending problems have vanished or turning every comment into a grievance or boilerplate accountability demand.
+6. **Preserve accuracy and TMS safeguards.** A relaxed voice never licenses unverified current claims, invented anecdotes, electoral exaggerations, copied material, or platform formatting artifacts. Vary depth according to the user request; a reply to someone else's post is not a request for a Full Editorial Package unless explicitly asked.
+
+**Test:** Does the response sound like someone joining the conversation with something worthwhile to add, rather than summarizing the post they just read? If not, rewrite. This preference applies prospectively to conversation-style writing; it does not override formal TMS reporting, fact checking or release gates.
+
+
 ## Standing update 2026-11-15: authentic photography and verified source previews
 
 All **new** full editorial packages must perform a documented search for an authentic, topic-relevant photograph with item-level rights evidence and required attribution. Include `image_url`, `image_credit`, `image_license`, `preferred_source_link` and the extended provenance fields in [TMS_SOCIAL_VISUAL_SCHEMA.md](TMS_SOCIAL_VISUAL_SCHEMA.md). The daily editorial workflow must populate the fields after researching rights, not assume archival images are free to reuse. If no eligible photo exists, a specific fallback reason is mandatory.

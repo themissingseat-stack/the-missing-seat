@@ -4,6 +4,14 @@
 
 **Standing rules:** see [TMS_EDITORIAL_STANDARD.md](TMS_EDITORIAL_STANDARD.md), including the 2026-11-04 brand and article-endings standard. It supersedes conflicting generic-signoff instructions anywhere in this ledger.
 
+
+## November 19 editor-requested priority: Black Women, the Unsung Saviors
+
+**New editorial override, authorized by editor:** [Black Women: The Unsung Saviors Who Helped Build the World](editorial-packages/TMS_BLACK_WOMEN_UNSUNG_SAVIORS_2026-11-19.md) is a **top-of-backlog priority candidate**. Work it **immediately after genuinely urgent already-authorized time-sensitive editorials**, including the active November 2026 House leadership/discharge-petition/coalition-accountability priorities (to the extent not already released) and the Medicare November 30 hard deadline. It goes ahead of routine numbered/reserve content when cleared. If urgent titles are factually held, follow the same-day cleared-reserve rule and bring this title forward only if it passes all release-day checks. Preserve every existing priority and its relative order.
+
+**Current status (November 19):** complete manuscript/social/receipts/ledger draft on PR branch; **Gate 1 HOLD, Gate 2 PROVISIONAL HOLD, visual rights pending, NOT RELEASE-READY, NOT WEBSITE LIVE, NOT IN BUFFER**. The draft has a distinct "unsung savior" theme about recognition and burdens, beyond existing domestic labor, archives, and election-policy stories. Require fresh event/source checks, final sequential reviews, proper visual handling, production HTML and public verification before publication. This is not permission for queue mutation in Supabase, a second active publishing operator, or exceeding daily publication limits.
+
+
 ## November 18 post-caucus correction — supersedes pre-vote release note
 
 On November 18, House Democrats **nominated Hakeem Jeffries** in a closed-door caucus vote. Reuters reported **251 for, 11 opposed**, and Axios independently confirmed the nomination. This was not the full-House Speaker election; that is scheduled for **January 3, 2027**. Website [PR #79](https://github.com/themissingseat-stack/the-missing-seat/pull/79) was merged on November 18 (commit `a6ff46b149e506eccba35262067cceb356504cdf`): updated full package, both FB/IG social texts, article HTML, homepage, editorial archive, democracy/race topic pages and RSS description. The earlier verified eight Claude corrections remain intact. GP carried out a **separate factual Gate 1 and adversarial Regular Joe Gate 2** on the post-vote wording; do not attribute the new outcome review to Claude. Reuters and Axios are receipts 18 and 19.

@@ -7,11 +7,12 @@
 - **Priority:** Editor-requested near-front override; after previously authorized genuinely urgent current-news releases and the November 30 Medicare deadline, ahead of ordinary numbered backlog; do not consume a release slot while held.
 - **Slug (proposed):** black-women-unsung-saviors-who-helped-build-the-world
 - **Section:** Black, Brilliant & Beyond; Missing History; Power & Accountability
-- **Related existing work, NOT substitutes:** \`they-trusted-black-women-with-their-babies-just-not-with-power.html\`; \`the-price-of-the-black-vote.html\`; \`editorial-packages/TMS_NCNW_ARCHIVE_PUBLICATION_PACKAGE_2026-11-15.md\`; \`editorial-packages/TMS_2026_COALITION_VOICES_INFLUENCE_ACCOUNTABILITY_PRIORITY_2026-11-16.md\`.
+- **Related existing work, NOT substitutes:** `they-trusted-black-women-with-their-babies-just-not-with-power.html`; `the-price-of-the-black-vote.html`; `editorial-packages/TMS_NCNW_ARCHIVE_PUBLICATION_PACKAGE_2026-11-15.md`; `editorial-packages/TMS_2026_COALITION_VOICES_INFLUENCE_ACCOUNTABILITY_PRIORITY_2026-11-16.md`.
 - **New and distinct thesis:** Black women are repeatedly described as the people who "save" families, institutions, and electoral coalitions; examine the documented labor and leadership behind that praise, identify who gained from it and who bore the cost, and challenge the expectation that they must continually rescue institutions to deserve authority or protection.
 - **Lead / SEO excerpt:** From Nubian queens and a 1662 Virginia law to an Atlanta labor strike, the civil rights movement and 2026 election breakthroughs, the record shows both Black women's world-changing work and the price of taking it for granted.
 - **Seat affected:** Black women's recognition, fair protection, agency, and political decision-making power.
 - **Seat Status:** **PROPOSED / NOT YET APPROVED:** documented historical contributions and new elected authority; no assumption that recognition repairs prior losses.
+- **Image metadata / fallback:** `image_url: null` | `image_credit: null` | `image_license: not verified` | `preferred_source_link: https://www.nga.gov/artworks/164108-sojourner-truth` | `image_alt: Historic Black women's leadership and contributions; actual photo pending rights clearance` | `fallback_reason: authentic relevant photography found but no item-level redistribution rights verified`.
 - **Visual rights:** Authentic-photo search reviewed (NGA Sojourner Truth original object; Getty Nubian material; NPS Tubman historic imagery). Individual image reuse rights, correct attribution, and suitability for this specific editorial not yet cleared. Use a readable cream text-card fallback with the exact specific reason "no verified image rights" until item-level media provenance passes the current TMS visual schema. No synthetic historical scene.
 - **Release dependencies:** Fresh election verification and official status, exact citation validation, final Gate 1 and subsequent separate final Gate 2, platform literal-string validation, licensed image or documented fallback, public HTML/home/archive/topic/feed/sitemap deployment and verified HTTP success. **Do not send to Buffer or count as published.**
 
@@ -23,7 +24,7 @@
 
 **What you can do:** Start with the 1662 Virginia statute, the 1881 Atlanta washerwomen's strike and the 1935 Social Security coverage rules. Then use the 2026 election records and Congress.gov to track specific decisions, not merely the victory speeches.
 
-**Based on:** Getty and the Metropolitan Museum of Art; Encyclopedia Virginia's primary statute; National Park Service; Smithsonian NMAAHC; Social Security Administration's historical analysis; House Historian; Rutgers CAWP; ABC's National Voter Poll; Associated Press; Legal Defense Fund. All source links and limitations below.
+**Based on:** Getty; Encyclopedia Virginia's primary statute; National Park Service; Smithsonian NMAAHC; Social Security Administration's historical analysis; House Historian; Rutgers CAWP; ABC's National Voter Poll; Associated Press; Legal Defense Fund. All source links and limitations below.
 
 ## Website editorial
 

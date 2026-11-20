@@ -148,6 +148,8 @@ Pressley has articulated an expansive progressive legislative agenda and helped 
 19. [Axios, House Democrats formally nominate Jeffries, November 18, 2026](https://www.axios.com/2026/11/18/jeffries-speaker-house-democrats-nominate-jan-3)
 
 ## Sources
+- [Pressley, November 12 floor remarks, official transcript published November 13, 2026](https://pressley.house.gov/2026/11/13/pressley-calls-on-democrats-to-meet-the-moment/)
+
 Use Receipts 1-19 as the verifiable record, including Pressley's direct November 16 remarks, the recorded-caucus-vote reporting and the CRS analysis of Mullin v. Doe. The November 13 Axios account is attributed, not presented as Pressley's own public declaration of non-candidacy. Statements by Pressley, Jeffries and the New Democrat Coalition express their positions.
 
 ## How we checked this

@@ -2,7 +2,7 @@
 
 ## The Minimum Wage Rises to 14.60 Euros in January. Is Every Hour on the Payslip?
 
-**Status:** HOLD. Fixes applied November 15, 2026; confirming review pending. The October 16 approval predates the binding November 4 gates and is not a current PASS.
+**Status:** Gate 1 and Gate 2 PASS recorded November 15, 2026 after confirming review. Complete unpublished reserve; release-day source, link and status checks pending.
 **Seat Affected:** Low-paid workers, including minijob and seasonal workers, women, and workers in hospitality and other low-wage industries
 **Seat Status:** Seat At Risk
 <!-- release note: label borrowed from sibling packages; maintainer to confirm before release -->

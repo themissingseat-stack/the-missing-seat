@@ -4,6 +4,16 @@
 
 **Standing rules:** see [TMS_EDITORIAL_STANDARD.md](TMS_EDITORIAL_STANDARD.md), including the 2026-11-04 brand and article-endings standard. It supersedes conflicting generic-signoff instructions anywhere in this ledger.
 
+## November 20 reconciliation
+
+Pressley/Jeffries is publicly verified (November 19 HTTP 200 with post-vote article). Remove it from unpublished inventory. It remains separate from social distribution: November 20 database says site_live=true, lifecycle=blocked, reason "visual: preferred source link not in Sources section"; no Pressley social rows returned. Added the already cited official preferred link inside the actual Sources section, commit b45c172. This changes source placement only, preserving reviewed article and platform wording. Publisher reprocessing and Buffer acceptance remain unverified.
+
+Inventory correction: previous 20 complete bodies omitted the three priority packages and the recovered Civil Rights Act package. Corrected accounting is 23 complete bodies awaiting release (20 + 3 + 1 - 1 verified Pressley release), subject to full live/archive reconciliation. This is an accounting reconciliation, not 23 current release approvals. Numbered queue remains 16; priority 2 and 3 remain separate; Civil Rights Act is a complete legacy package requiring current reviews. Retired 4 and historical revisions 16 remain separate. Existing cleared reserve is six with release-day checks pending. Current fully refreshed PASS count is not established today.
+
+Recovered package: [The Civil Rights Act Already Protected White Men. So What Exactly Is Being Restored?](editorial-packages/TMS_WHITE_MEN_CIVIL_RIGHTS_PRIVILEGE_PUBLICATION_PACKAGE_2026-10-31.md). Historical October 31 approval predates current refresh; preserve as complete HOLD, outside numbered queue until current gates pass.
+
+Social Security is editorially approved reserve based on November 15 recorded PASS/PASS, with release-day checks pending; its metadata's "Not queued for release" means no assigned release slot. Germany minimum-wage header HOLD is stale against its November 15 confirming PASS/PASS record. Both still require release-day checks. Medicare November 24 is an old contingency: assign next eligible slot respecting priority and November 30 absolute deadline.
+
 ## November 18 post-caucus correction — supersedes pre-vote release note
 
 On November 18, House Democrats **nominated Hakeem Jeffries** in a closed-door caucus vote. Reuters reported **251 for, 11 opposed**, and Axios independently confirmed the nomination. This was not the full-House Speaker election; that is scheduled for **January 3, 2027**. Website [PR #79](https://github.com/themissingseat-stack/the-missing-seat/pull/79) was merged on November 18 (commit `a6ff46b149e506eccba35262067cceb356504cdf`): updated full package, both FB/IG social texts, article HTML, homepage, editorial archive, democracy/race topic pages and RSS description. The earlier verified eight Claude corrections remain intact. GP carried out a **separate factual Gate 1 and adversarial Regular Joe Gate 2** on the post-vote wording; do not attribute the new outcome review to Claude. Reuters and Axios are receipts 18 and 19.

@@ -5,7 +5,7 @@
 Author: Jansen / The Missing Seat
 Completed: November 15, 2026 (fourth revision after three review passes); review records below
 Publication: pending; deadline-sensitive, publish no later than November 30 and never after December 7
-Status: Full package; Gate 1, Gate 2 and voice PASS November 15; release-day rechecks pending; proposed website date November 24 (not confirmed)
+Status: Full package; Gate 1, Gate 2 and voice PASS November 15; release-day rechecks pending; next eligible website slot after current priority checks, no later than November 30; older November 24 proposal superseded
 Slug: medicare-open-enrollment-ends-december-7-who-can-help-you-choose
 Country: United States
 Territories: People & Opportunity; Solutions & Participation

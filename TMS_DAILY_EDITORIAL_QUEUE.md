@@ -4,6 +4,14 @@
 
 **Standing rules:** see [TMS_EDITORIAL_STANDARD.md](TMS_EDITORIAL_STANDARD.md), including the 2026-11-04 brand and article-endings standard. It supersedes conflicting generic-signoff instructions anywhere in this ledger.
 
+## November 21 website release attempt
+
+NCNW archive package refreshed, separate GP Gate 1 and Gate 2 PASS on corrected November 21 version. Five NPS sources reopened; conflicting current access instructions disclosed. Historical photograph inspected, item-level reuse not established, documented cream fallback. Full HTML and homepage/archive/two topic/feed/sitemap links committed. Latest production curl returns 404 for article; Python verification returns 403 across surfaces; web fetch unavailable. **COMMITTED / LIVE UNVERIFIED**, not confirmed published. Keep in complete unpublished count until verified; no duplicate second release attempt. Exact first-live time unknown. Source commits begin 3569a45, surfaces through 03b2a95. Content ledger remains 23 pending confirmed release under November 20 accounting, of which one is now committed awaiting verification; full live reconciliation still outstanding.
+
+Pressley social is now editor-withdrawn and archived in private ledger, website_live=true. No Pressley social rows. This latest decision supersedes earlier retention instructions. Publisher PR19 confirmed merged ce8f8b5; production deployment remains unverified.
+
+Priority 2 remains on current Senate/enactment and TPS legal source checks. Priority 3 has stale pre-November18 social framing and November16 membership snapshot; current factual and final editorial review required before release. Reentry's source-coverage issues recorded November20 remain open. NCNW selected from cleared reserve after these holds.
+
 ## November 20 reconciliation
 
 Pressley/Jeffries is publicly verified (November 19 HTTP 200 with post-vote article). Remove it from unpublished inventory. It remains separate from social distribution: November 20 database says site_live=true, lifecycle=blocked, reason "visual: preferred source link not in Sources section"; no Pressley social rows returned. Added the already cited official preferred link inside the actual Sources section, commit b45c172. This changes source placement only, preserving reviewed article and platform wording. Publisher reprocessing and Buffer acceptance remain unverified.

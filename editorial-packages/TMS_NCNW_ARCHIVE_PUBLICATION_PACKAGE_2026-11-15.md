@@ -1,7 +1,7 @@
 # Black Women Built an Archive for the History They Were Making.
 
 - Byline: The Missing Seat
-- Completed: November 15, 2026; publication date pending
+- Completed: November 15, 2026; website source release November 21, 2026; live verification pending
 - Slug: black-women-built-an-archive-for-history
 - Topic: Missing History; Black, Brilliant & Beyond; Give Them Their Flowers
 - Location: Washington, D.C.; Chicago
@@ -32,7 +32,7 @@ In 1941 the council started its own archives committee. Porter chaired it first.
 
 The women doing the collecting also had to raise money and make the case for keeping it. In 1946 Thurman's mother, Susie Ford Bailey, donated $1,000 toward a museum. That did not buy an institution overnight. The council opened its museum and the National Archives for Black Women's History at the Council House on November 11, 1979. The council's own records now form the core of the archive, alongside personal papers and records from other organizations. The people who did the collecting left a record of their decisions, too. [1, 3]
 
-The Park Service offers a selection of documents online. Its archives page currently says it is not accepting research requests, so an online exhibit should not be mistaken for access to the whole collection. The surviving material gives students and descendants evidence they can use. It takes staff time, storage and workable access to keep that benefit available. [3, 4, 5]
+The Park Service offers a selection of documents online. Its dedicated archives page currently says it is not accepting research requests. The collections page still describes appointment requests, so confirm access directly before planning research. The online selection remains a way to begin. The surviving material gives students and descendants evidence they can use. It takes staff time, storage and workable access to keep that benefit available. [3, 4, 5]
 
 ## Pull Up A Chair
 
@@ -57,7 +57,7 @@ The council and its collaborators organized the exhibits, paid and raised money 
 
 ## Verification notice
 
-Reviewed November 15, 2026. Historical specifics are attributed to NPS's archival research; its cited original committee report was not independently inspected. The reason for the loan outcome is the published historical interpretation, not a quote from every lender. Recheck the research access notice before publication and again before travel.
+Reviewed November 21, 2026. Historical specifics are attributed to NPS's archival research; its cited original committee report was not independently inspected. The reason for the loan outcome is the published historical interpretation, not a quote from every lender. Recheck the research access notice before publication and again before travel.
 
 ## Facebook: English
 
@@ -70,6 +70,31 @@ Start with the Park Service's online selection. Then pick one family or communit
 Black women's clubs left records worth keeping: photographs, diplomas, meeting notes and programs. The National Council of Negro Women made collecting that history part of its work in 1941.
 
 The Park Service has a small selection online. At home, try the same kind of work on one photograph. Add the names, place and occasion, and keep that information with the picture.
+
+## Sources
+- [NPS early preservation history](https://www.nps.gov/mamc/learn/historyculture/early-preservation-efforts-of-the-ncnw.htm)
+- All five linked receipts above were reopened November 21.
+
+## Prospective visual metadata
+social_visual_policy: v1
+image_url: none
+image_credit: none
+image_license: none
+image_creator: unknown
+image_archive: NPS / NABWH
+image_rights_statement: No item-level reuse license established for historical committee photograph.
+image_license_evidence: none
+image_alt_text: none
+preferred_source_link: https://www.nps.gov/mamc/learn/historyculture/early-preservation-efforts-of-the-ncnw.htm
+photo_fallback_reason: Opened the actual NCNW Archives Committee image on the NPS historical page. Caption identifies NPS / NABWH and subjects but does not establish the original photographer or a reuse license. Use cream text fallback.
+
+## Visual sourcing record
+November 21: inspected NPS historical page and its actual image https://www.nps.gov/mamc/learn/historyculture/images/NCNW-Archives-Committee.jpg?autorotate=false&maxwidth=650 . Public display and archival custody do not establish reuse permission. No documentary photo authorized.
+
+## November 21 release reviews
+Gate 1 PASS, GP, current package revision November 21. Reopened five NPS receipts. Checked Porter loans, 1941 committee, Thurman's 1944 chair, 1946 gift and 1979 museum chronology. Explicitly preserved NPS interpretation of lenders' reluctance and disclosed original committee records were not inspected. Found conflicting access instructions and added both with direct-confirmation action. Social claims match those sources. Historical image rights unresolved, handled by documented permitted cream fallback.
+
+Gate 2 PASS, GP, separate final read of this exact corrected November 21 package. Opening follows the borrowed records into the institution built to keep them; includes donors, costs, stewardship and access limits without manufactured grievance or universal motive. Actions protect privacy and retain provenance. Short Version, country resources, Seat Summary, linked receipts, verification notice, excerpt and distinct FB/IG strings present. No invented interviews or universal access promise. Both social strings contain straight punctuation, no markup or slogans and IG below 2200 characters. Distinct from Benjamin patent and Drew medical stories; no exact slug/title on retrieved stories archive. Final voice retained developed paragraphs and specific family-record action. Website integration and public verification pending.
 
 ## Review records
 

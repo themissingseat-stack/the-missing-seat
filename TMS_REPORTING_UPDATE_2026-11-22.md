@@ -1,0 +1,11 @@
+# November 22 Medicare priority
+
+Exact package release revision2026-11-22-A: current GP factual Gate1 PASS and distinct GP final Regular Joe Gate2 PASS. Both in same current complete package. Updated PartB standard premium209.40/month (2026 202.90) and deductible292/year (2026 283), using CMS November17 and Federal Register CMS-8094-N November19. No invented PartA/PartD change. Removed stale announcement language, replaced 2024 Medigap end-February claim with current Medicare conditional guaranteed-issue/63-day guidance, opened university's original October15 poll, preserved KFF versus CMS assumptions and preliminary MedPAC status, verified contact numbers and Medicare holiday exception. Social placeholders replaced; final IG809 characters including canonical URL and Link in bio. Both literal strings scanned clean. Photo illustration reuse rights unestablished; documented cream fallback.
+
+Source package commit c43b70e; HTML becc3f6; homepage/archive/rights/feed/sitemap integrated through bdc0b939. Article exists on main. Initial production curl404 and web fetch unavailable. GitHub public API subsequently showed pages build/deploy steps success at df8cc1d. Public content verification remains required before publication claim or publisher eligibility. Reentry remains second priority; no second website release attempted.
+
+Private distribution read returned20 verified social rows. No manual queue call, Buffer submission, site_live edit or existing post change. Pressley remains excluded from social under latest editor decision. Publisher PR23 production alias verification still separate.
+
+SWS Hearing the Whole Sentence: new TMS reflection, explicitly labeled editorial prose inspired by Jansen's communication prompts, with German translation. Archive anchors retained. Public verification pending.
+
+No newly authored full package completed; the Medicare package is refreshed existing reserve. Full new-package production, weekly Germany/rotation audit, complete inventory/live reconciliation and remaining story-track checks are unfinished. Preserve prior count23 complete bodies pending confirmed release until actual live confirmations justify removal. Medicare is committed pending verification; NCNW prior commit also requires reconciliation. Medicare deadlineNovember30 preserved; current explicit priority supersedes earlier queue order.

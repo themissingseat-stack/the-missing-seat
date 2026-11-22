@@ -4,7 +4,13 @@
 
 **Standing rules:** see [TMS_EDITORIAL_STANDARD.md](TMS_EDITORIAL_STANDARD.md), including the 2026-11-04 brand and article-endings standard. It supersedes conflicting generic-signoff instructions anywhere in this ledger.
 
-## November 22 Medicare first, Reentry second
+## November 22 public verification complete
+
+[Medicare](https://themissingseat.org/medicare-open-enrollment-ends-december-7-who-can-help-you-choose.html) publicly verified07:52UTC with both corrected PartB figures and six required surfaces, all HTTP200. Current same-version Gate1/2 PASS. Remove from unpublished inventory and future release slots. Reentry is next explicit priority.
+
+[NCNW](https://themissingseat.org/black-women-built-an-archive-for-history.html) now returnsHTTP200 and appears in the public RSS; source editionNovember21, first verificationNovember22, exact first-live time unknown. Removed numbered row16. Revised accounting:21 complete bodies still awaiting release =prior23 minus NCNW minus Medicare; numbered queue15. This remains reconciled accounting subject to the wider archive audit, not21 current PASS approvals. Two earlier deployment holds resolved. Social-handoff status is separate; no social submission asserted.
+
+## November 22 Medicare first, Reentry second (historical release attempt)
 
 Explicit editor override applied. Medicare release revision2026-11-22-A completed current GP Gate1 PASS and distinct final Gate2 PASS. Verified CMS209.40 monthly PartB premium and292 annual deductible, replaced stale review claim, updated current Medigap guidance and original poll source. Literal social URLs completed, IG809 characters. Complete website HTML and homepage/archive/rights/feed/sitemap committed; initial custom-domain HTTP404. GitHub pages build/deploy jobs succeeded but public URL/content verification remains pending. Count as COMMITTED / LIVE UNVERIFIED, keep in complete unpublished accounting until confirmed. Reentry stays second, subject to its own current reviews. No manual publisher run or site_live update. See TMS_REPORTING_UPDATE_2026-11-22.md and current Medicare package reviews.
 
@@ -155,8 +161,8 @@ The governing test remains: **What did they actually change, who gained, what re
 
 | Category | Count |
 |---|---:|
-| Complete bodies awaiting confirmed public release | 20 |
-| Numbered queue | 16 |
+| Complete bodies awaiting confirmed public release | 21 |
+| Numbered queue | 15 |
 | Reserve with current Gate 1 and Gate 2 PASS, available for future release | 6 |
 | Committed full releases awaiting public verification | 0 |
 | Legacy queued packages needing current gates/template refresh | 10 |
@@ -198,7 +204,6 @@ The reentry, NCNW archive, Medicare Open Enrollment, hospital financial-assistan
 | 13 | Kathmandu Put Care on the Map. Can Families Find Their Way In? | `kathmandu-put-care-on-the-map-can-families-find-their-way-in` | HOLD: current reviews required | The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.: Broad labor/time/pay distribution versus named Nepal mapping, the route into municipal care, successful referrals and worker conditions.; Germany Promised a Full School Day. Families Need the Hours to Match.: Statutory school-care timetable entitlement versus municipal information/navigation approach across care needs. | [Full package](editorial-packages/TMS_KATHMANDU_CARE_MAP_ACCESS_PUBLICATION_PACKAGE_2026-10-30.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
 | 14 | A Repair Rebate Helps. First, You Have to Pay the Repair Bill. | `a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill` | HOLD: filing guidance conflict | Germany Has a Way to Keep the Power On. Can People Use It?: Continuity of electricity service versus paid-invoice repair rebate and the upfront cost of claiming it. | [Full package](editorial-packages/TMS_GERMANY_REPAIR_REBATE_UPFRONT_COST_PUBLICATION_PACKAGE_2026-11-06.md). November 8: directive VII.4 requires December 1 electronic filing; SAB FAQ says no strict deadline, ideally December 1. Resolve applicable current filing rule and revise package before renewed Gate 1/2. Prior PASS is not current approval. |
 | 15 | When Does a Sentence Actually End? | `when-does-a-sentence-actually-end` | Gate 1/2 and voice PASS; unpublished | Post-conviction rules across work, housing, education and voting. | [Full package](editorial-packages/TMS_COLLATERAL_CONSEQUENCES_REENTRY_2026-11-14.md); refresh laws and render before release. |
-| 16 | Black Women Built an Archive for the History They Were Making. | `black-women-built-an-archive-for-history` | Gate 1/2 and voice PASS; unpublished | NCNW preservation infrastructure and family records, distinct from Benjamin's patent story. | [Full package](editorial-packages/TMS_NCNW_ARCHIVE_PUBLICATION_PACKAGE_2026-11-15.md); refresh NPS access and confirm image rights before release. |
 
 ## Complete unpublished release holds outside numbered queue
 

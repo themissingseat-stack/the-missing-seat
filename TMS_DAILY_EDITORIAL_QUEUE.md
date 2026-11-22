@@ -4,6 +4,10 @@
 
 **Standing rules:** see [TMS_EDITORIAL_STANDARD.md](TMS_EDITORIAL_STANDARD.md), including the 2026-11-04 brand and article-endings standard. It supersedes conflicting generic-signoff instructions anywhere in this ledger.
 
+## November 22 Medicare first, Reentry second
+
+Explicit editor override applied. Medicare release revision2026-11-22-A completed current GP Gate1 PASS and distinct final Gate2 PASS. Verified CMS209.40 monthly PartB premium and292 annual deductible, replaced stale review claim, updated current Medigap guidance and original poll source. Literal social URLs completed, IG809 characters. Complete website HTML and homepage/archive/rights/feed/sitemap committed; initial custom-domain HTTP404. GitHub pages build/deploy jobs succeeded but public URL/content verification remains pending. Count as COMMITTED / LIVE UNVERIFIED, keep in complete unpublished accounting until confirmed. Reentry stays second, subject to its own current reviews. No manual publisher run or site_live update. See TMS_REPORTING_UPDATE_2026-11-22.md and current Medicare package reviews.
+
 ## November 21 website release attempt
 
 NCNW archive package refreshed, separate GP Gate 1 and Gate 2 PASS on corrected November 21 version. Five NPS sources reopened; conflicting current access instructions disclosed. Historical photograph inspected, item-level reuse not established, documented cream fallback. Full HTML and homepage/archive/two topic/feed/sitemap links committed. Latest production curl returns 404 for article; Python verification returns 403 across surfaces; web fetch unavailable. **COMMITTED / LIVE UNVERIFIED**, not confirmed published. Keep in complete unpublished count until verified; no duplicate second release attempt. Exact first-live time unknown. Source commits begin 3569a45, surfaces through 03b2a95. Content ledger remains 23 pending confirmed release under November 20 accounting, of which one is now committed awaiting verification; full live reconciliation still outstanding.

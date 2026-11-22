@@ -4,8 +4,8 @@
 
 Author: Jansen / The Missing Seat
 Completed: November 15, 2026 (fourth revision after three review passes); review records below
-Publication: pending; deadline-sensitive, publish no later than November 30 and never after December 7
-Status: Corrected release version November 22, 2026; current reviews recorded below; source release pending public verification
+Publication: November 22, 2026; publicly verified 07:52 UTC
+Status: PUBLISHED / PUBLICLY VERIFIED November 22, 2026; current Gate 1 and Gate 2 PASS
 Slug: medicare-open-enrollment-ends-december-7-who-can-help-you-choose
 Country: United States
 Territories: People & Opportunity; Solutions & Participation
@@ -179,3 +179,7 @@ Reviewer: GP. Version: Medicare release revision 2026-11-22-A. PASS. Reopened re
 ## Current Gate 2 final editorial review — November 22, 2026
 
 Reviewer: GP, separate adversarial read after Gate1. Version: Medicare release revision 2026-11-22-A, same article and literal platform strings. PASS. The opening now identifies the actual December7 decision without suggesting all Medicare enrollment ends then. Original Medicare cost exposure and Advantage network/authorization tradeoffs are explained; supplemental insurance is not described as eliminating every cost. Added PartB dollar amounts are explicitly separate from hospital and drug costs. Medigap paragraph now identifies conditions and records needed, avoiding an unconditional purchase promise. Poll describes reported time and sources, not choice quality. Insurers make plan changes, CMS sets program rules and payments, Congress funds counseling, and beneficiaries bear mistaken default costs; both KFF and CMS readings appear. Concrete action is to collect notice/drug/provider lists, compare total costs and contact counseling. Full Short Version, metadata, action, resources, summary, receipts, notice and social strings present. Sources and fallback rights checked. Literal Facebook and Instagram contain straight punctuation, no Markdown/HTML/entities, no obsolete announcement claim or placeholder. Instagram809 characters including canonical URL and Link in bio. Distinct from provider-payment and Social Security debt stories. Final voice pass kept connected explanatory paragraphs and specific advice. Gate3 still requires actual public deployment.
+
+## Gate 3 public verification — November 22, 2026
+
+PASS, GP,07:52 UTC. Canonical production URL HTTP200 with $209.40 and $292 and correct title/slug. Homepage, stories archive, know-what-is-yours, RSS and sitemap all HTTP200 with canonical link. Alternate GitHub Pages URL also served corrected article. Initial custom-domain404 resolved during checks. No exact first-live timestamp asserted. No Buffer submission, manual cron or site_live edit. Today’s Medicare website release complete; Reentry remains next priority.

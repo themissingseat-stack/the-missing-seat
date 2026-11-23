@@ -11,6 +11,8 @@
 - Excerpt: A sentence can end while other rules still reach a paycheck, an apartment application or a ballot. Find the decision-maker and the rule before spending money or missing a deadline.
 - Image concept: Illustrated licensing application and a training invoice on a desk. No real records, mugshots or staged depiction of an identified applicant.
 
+## Prospective visual metadata
+
 - social_visual_policy: v1
 - image_url: https://upload.wikimedia.org/wikipedia/commons/c/c5/US_federal_prison_education_4.jpg
 - image_credit: US Department of Justice, Bureau of Prisons / Wikimedia Commons

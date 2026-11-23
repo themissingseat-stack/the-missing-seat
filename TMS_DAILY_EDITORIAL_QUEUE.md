@@ -4,6 +4,12 @@
 
 **Standing rules:** see [TMS_EDITORIAL_STANDARD.md](TMS_EDITORIAL_STANDARD.md), including the 2026-11-04 brand and article-endings standard. It supersedes conflicting generic-signoff instructions anywhere in this ledger.
 
+## November 23 new Germany reserve
+
+Completed [Before Buying It for One Afternoon, Check the Library.](editorial-packages/TMS_BERLIN_LIBRARY_OF_THINGS_2026-11-23.md), new full English body with EN/DE social exports, four German primary sources, literal copy/rights checks and separate GP Gate1/2 PASS. Added numbered16. Germany current week production1/2. Existing accounting21 becomes22 pending confirmation of today's Reentry release, which remains in inventory until public verification. No new Library website release.
+
+Reentry refreshed current facts and final editorial review PASS, complete HTML plus six surfaces committed. Await public deployment; do not double release or count as live from commit. Medicare/NCNW FB/IG are now verified in private distribution records.
+
 ## November 22 public verification complete
 
 [Medicare](https://themissingseat.org/medicare-open-enrollment-ends-december-7-who-can-help-you-choose.html) publicly verified07:52UTC with both corrected PartB figures and six required surfaces, all HTTP200. Current same-version Gate1/2 PASS. Remove from unpublished inventory and future release slots. Reentry is next explicit priority.
@@ -204,6 +210,7 @@ The reentry, NCNW archive, Medicare Open Enrollment, hospital financial-assistan
 | 13 | Kathmandu Put Care on the Map. Can Families Find Their Way In? | `kathmandu-put-care-on-the-map-can-families-find-their-way-in` | HOLD: current reviews required | The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.: Broad labor/time/pay distribution versus named Nepal mapping, the route into municipal care, successful referrals and worker conditions.; Germany Promised a Full School Day. Families Need the Hours to Match.: Statutory school-care timetable entitlement versus municipal information/navigation approach across care needs. | [Full package](editorial-packages/TMS_KATHMANDU_CARE_MAP_ACCESS_PUBLICATION_PACKAGE_2026-10-30.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
 | 14 | A Repair Rebate Helps. First, You Have to Pay the Repair Bill. | `a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill` | HOLD: filing guidance conflict | Germany Has a Way to Keep the Power On. Can People Use It?: Continuity of electricity service versus paid-invoice repair rebate and the upfront cost of claiming it. | [Full package](editorial-packages/TMS_GERMANY_REPAIR_REBATE_UPFRONT_COST_PUBLICATION_PACKAGE_2026-11-06.md). November 8: directive VII.4 requires December 1 electronic filing; SAB FAQ says no strict deadline, ideally December 1. Resolve applicable current filing rule and revise package before renewed Gate 1/2. Prior PASS is not current approval. |
 | 15 | When Does a Sentence Actually End? | `when-does-a-sentence-actually-end` | Gate 1/2 and voice PASS; unpublished | Post-conviction rules across work, housing, education and voting. | [Full package](editorial-packages/TMS_COLLATERAL_CONSEQUENCES_REENTRY_2026-11-14.md); refresh laws and render before release. |
+| 16 | Before Buying It for One Afternoon, Check the Library. | `berlin-library-of-things-before-buying` | Gate 1/2 PASS November 23; complete unpublished reserve | Saxony repair rebate reimburses a paid repair; this explains access to borrowed equipment before a purchase, card conditions and item return. | [Full package](editorial-packages/TMS_BERLIN_LIBRARY_OF_THINGS_2026-11-23.md). Four official sources opened; EN/DE FB/IG; documented photo fallback; refresh stock and terms before release. |
 
 ## Complete unpublished release holds outside numbered queue
 

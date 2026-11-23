@@ -88,6 +88,26 @@ Draft platform texts above are English for this U.S. story. Add the verified can
 
 Image research is pending. No licensed photograph or documented text-card fallback is approved for this revision. Follow TMS_SOCIAL_VISUAL_SCHEMA.md and supply item-level rights evidence. Do not infer a license from an institutional website or use synthetic documentary imagery.
 
+## November 23 reporting update: Huang's return and the trading question
+
+Nvidia's SEC Form 8-K states that the board reinstated Jensen Huang on November 22, effective immediately. The public announcement followed on November 23. The company describes a unanimous decision following meetings with Huang and input from senior U.S. government officials. Its independent investigation is continuing. Reinstatement therefore precedes the investigation's conclusion. Harvey Jones remains board chair, and Colette Kress continues as CFO.
+
+Reuters reports that Trump told CNBC he spoke with Huang on Sunday night, considered his intervention important and was represented at the board meeting. This is Trump's public account. Nvidia separately confirms government input without identifying the officials or releasing the advice. The reporting questions are who supplied the assurance, what evidence supported it, when the board changed its position and who learned the decision before the announcement.
+
+Yahoo Finance reports a more-than-30-percent premarket rise and an approximately $1.2 trillion decline in Nvidia's market capitalization from the November 11 close through Friday November 20. These are dated reporting figures, not a verified final Monday closing price or realized investor profits. Exchange volume does not identify unique buyers, and a change in total market value cannot be treated as money received by the company or a particular trader.
+
+The number and identities of people who bought during the decline and sold profitably after the return have not been established in this research. Covered insider Form 4 filings generally have a two-business-day deadline, with exceptions. Institutional Form 13F reports are quarterly holdings snapshots, generally due within 45 days of quarter-end, and cannot reconstruct every trade or reveal all investors. An investigation should compare decision and disclosure timestamps with stock and options activity, then examine legally available ownership and transaction reports. A well-timed trade requires further evidence about information and conduct before alleging unlawful insider trading.
+
+Sources opened or retrieved November 23:
+- [Nvidia reinstatement announcement, November 23](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx)
+- [SEC 8-K, filed November 23, decision dated November 22](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm)
+- [Reuters, Trump's account of his intervention](https://www.reuters.com/technology/trump-tells-cnbc-he-was-represented-nvidia-board-spoke-huang-2026-11-23/)
+- [Yahoo Finance, Jared Blikre, November 23, comeback and market-value timeline](https://finance.yahoo.com/markets/article/jensen-huang-is-back-as-nvidia-ceo-after-12-days--steve-jobs-needed-12-years-sam-altman-less-than-a-week-143608266.html)
+- [SEC Form 4 instructions](https://www.sec.gov/files/form4.pdf)
+- [SEC Form 13F explanation](https://www.investor.gov/introduction-investing/investing-basics/glossary/form-13f-reports-filed-institutional-investment)
+
+Review status remains HOLD. Integrate this reporting into the narrative and social copy before final reviews. Trading identities, unique buyer count and realized gains remain unknown. This update supplies no evidence that Trump or associates traded. New angle: presidential intervention, board accountability, the information timeline and who benefited, alongside the existing public-cost investigation.
+
 ## Gate 0: scope and originality
 
 Draft commission, not a publication count. Checked current main queue for the commissioned working title. No matching ready package was identified in that ledger. Broader archive and existing manuscript reconciliation remain pending.

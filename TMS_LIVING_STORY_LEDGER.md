@@ -39,3 +39,14 @@ This record links existing follow-up and promise records. It does not count shor
 - Open questions: how many people switch, lose drug coverage or get timely counseling. Cross-reference Promise Ledger for any attributable funding commitments.
 
 November22 NCNW verification update: canonical article nowHTTP200 and public RSS links it. First observed liveNov22; exact first-live time unknown. Prior pending-public status is historical; research-access review trigger retained.
+
+## When Does a Sentence Actually End?
+- Canonical URL: https://themissingseat.org/when-does-a-sentence-actually-end.html
+- Publication/last verified: November23, source edition; observed live08:44–08:46UTC, exact first-live time unknown.
+- Categories: People & Opportunity; Everyday Life, Money & Rights; justice.
+- Affected people: record-holders and households seeking work, housing, education or voting access.
+- Baseline: Texas advance letter10-dollar fee; federal inquiry timing position-specific; public housing mandatory rules and exceptions; qualifying Pell education; different Florida/Maine voting regimes.
+- Responsible institutions: TDLR, hiring agencies, housing authorities, schools and election offices.
+- Next review: December23 or statutory/agency-rule change. Seek measured access/restoration result rather than inventing a follow-up.
+- Open outcome: no individual application success or national burden recount established. Remedy routes described; actual relief unknown.
+- Follow-up links: none published. Cross-reference current reentry package and existing collateral-consequences research.

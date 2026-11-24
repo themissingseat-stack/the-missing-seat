@@ -4,16 +4,29 @@
 
 Author: Jansen / The Missing Seat  
 Completed: November 6, 2026  
-Publication date: Unscheduled; release HOLD November 8  
+Publication date: November 24, 2026; release checks below  
 Slug: a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill  
 Topic: Positive Change / Work, Money & Economic Fairness  
 Territories: Solutions & Participation; People & Opportunity  
 Location: Saxony and Thuringia, Germany  
 Seat Affected: Households weighing an appliance repair, particularly people who cannot advance the full cost  
-Seat Status: Seat At Risk  
+Seat Status: Seat At Risk
+Country: Germany
+Version: REPAIR-2026-11-24-A
+social_visual_policy: v1
+image_url: none
+image_credit: none
+image_license: none
+image_creator: none
+image_archive: none
+image_rights_statement: none
+image_license_evidence: none
+image_alt_text: none
+preferred_source_link: https://sab.sachsen.de/reparaturbonus
+photo_fallback_reason: SAB provides a programme logo, not a documentary repair photograph. The inspected reusable Commons repair photo shows Zambia in 2017, not a participating German repair firm or claimant. Use a cream text card to avoid a false local association.  
 Theme: Who can use a public rebate and what the results actually show  
 Excerpt: Thuringia's repair bonus helped pay for thousands of repairs. Saxony has its own programme, but paying the bill first is part of the deal. The next test is who never gets as far as an application.  
-Image concept: An illustrative repair bench with a washing-machine part, a spanner and two neutral cost slips marked “paid today” and “possible reimbursement.” No official-looking bill, visible private information or identifiable claimant.
+Image concept: An illustrative repair bench with a washing-machine part, a spanner and two neutral cost slips marked "paid today" and "possible reimbursement." No official-looking bill, visible private information or identifiable claimant.
 
 ## The Short Version
 
@@ -23,7 +36,7 @@ Who it affects: Saxony residents considering a repair, particularly those who ca
 
 What you can do: Before agreeing to work, ask for the full cost and check the device, shop, deadline and available funds with Sächsische Aufbaubank. Ask what you would owe if the repair did not succeed.
 
-Based on: Saxony's funding directive, Sächsische Aufbaubank's programme guidance, the Thuringia consumer centre and Fraunhofer IZM's evaluation of the 2021–2023 funding rounds.
+Based on: Saxony's funding directive, Sächsische Aufbaubank's programme guidance, the Thuringia consumer centre and Fraunhofer IZM's evaluation of the 2021-2023 funding rounds.
 
 ## Full editorial
 
@@ -33,7 +46,7 @@ That is a reason to look closely at a good idea. A repair that keeps an applianc
 
 ## What Thuringia showed
 
-Thuringia's environment ministry and consumer centre started a repair bonus in 2021. Fraunhofer IZM examined 30,288 approved repairs from the 2021–2023 rounds. Its report estimated potential savings of about 2,970 tonnes of carbon dioxide equivalent and 390 tonnes of electronic waste. Those are modelled estimates for that period, not weights collected at a landfill or proof that the rebate alone caused all the savings.
+Thuringia's environment ministry and consumer centre started a repair bonus in 2021. Fraunhofer IZM examined 30,288 approved repairs from the 2021-2023 rounds. Its report estimated potential savings of about 2,970 tonnes of carbon dioxide equivalent and 390 tonnes of electronic waste. Those are modelled estimates for that period, not weights collected at a landfill or proof that the rebate alone caused all the savings.
 
 The researchers included a harder question: how many people would have repaired the device anyway? In a survey discussed in the evaluation, about one third of participating recipients indicated that they would not have made the repair without the bonus. That is evidence that the money mattered to some decisions. It is a report of what people said they would have done, not an experiment and not a finding about everyone with a broken appliance. The study cautions that the extra environmental benefit attributable to the subsidy may be smaller than the overall estimates for the repairs it supported.
 
@@ -43,7 +56,9 @@ The Thuringia consumer centre says its programme closed on December 31, 2025. It
 
 Saxony uses its own funding directive and its own application route. Eligible adults must have their main residence in the state. The device and repair firm need to meet programme rules. An eligible bill must be at least €115 including tax, and the contribution is half of eligible spending, capped at €200 per repair. The directive allows up to two repairs per applicant per year. The bank requires a completed, successful repair and paid invoice before the online application. Funding is subject to available resources, so the rebate should not be treated as money already in the bank.
 
-Sächsische Aufbaubank lists November 9, 2026 for the next update to the device and repair-shop lists. That is a scheduled list update, not a promise that a specific shop or device will be added. The funding directive sets December 1 as the annual electronic filing deadline. If an appointment runs close to that date, ask the bank which filing round applies before spending money in the expectation of a rebate.
+There is now a practical deadline. Sächsische Aufbaubank's current notice says applications will no longer be possible from December 2, 2026. The funding directive requires electronic filing by December 1. Submit a completed claim by December 1 if you want to use the current window. The bank plans to reopen applications on January 11, 2027, subject to available budget; that is a plan, not a guarantee. An older FAQ on the same page still describes December 1 as an ideal date rather than a strict deadline. Do not rely on that older wording to apply after the announced closure. Ask SAB about any repair whose timing crosses the window before committing money.
+
+The bank currently lists December 15 for its next device and repair-shop list refresh. That date does not extend the application window or promise that any particular shop or appliance will be added. Check the actual lists before commissioning work.
 
 There is a sensible case for reimbursing finished work. A paid invoice gives the bank a way to check what happened, and it avoids paying for work that never took place. The bank says the minimum bill keeps administrative costs in proportion to the supported work. Still, a shop can make a reasonable repair at a reasonable price and come in under the threshold. And a household with a qualifying bill still needs to pay it. The state and bank set the terms, shops perform the work, and households carry the upfront cost and the risk that a claim may not be approved.
 
@@ -71,35 +86,47 @@ Before accepting a quote, compare the amount you must pay today with the amount 
 
 ## Receipts
 
-1. [Saxon funding directive FRL Reparaturbonus/2025, January 21, 2026, valid from February 13](https://www.recht.sachsen.de/vorschrift/21483): §§ III–VIII establish residency, listed firms, €115 minimum, 50 percent share, cap, filing and reimbursement.
-2. [Sächsische Aufbaubank, Reparaturbonus, checked November 6, 2026](https://sab.sachsen.de/reparaturbonus): paid successful repair, online application, current list-update notice, invoice details and stated threshold rationale.
-3. [Fraunhofer IZM, extended environmental assessment of the 2021–2023 Thuringia rounds](https://www.izm.fraunhofer.de/content/dam/izm/de/documents/Abteilungen/Environmental_Reliability_Engineering/Projekte/Reparaturbonus%20Th%C3%BCringen-Ergebnisbericht%20f%C3%BCr%20die%20F%C3%B6rderperiode-2021-2023.pdf): Sections 6.2.1, 6.4 and 7 discuss dataset, model estimates and additionality limits.
-4. [Verbraucherzentrale Thüringen, December 22, 2025 closeout notice](https://www.vzth.de/pressemitteilungen/reparaturbonus-antrag-noch-bis-jahresende-stellen-115986) and [January 7, 2026 programme page](https://www.vzth.de/reparaturbonus): five-round approvals and no new Thuringia applications.
+1. [Saxon funding directive FRL Reparaturbonus/2025, January 21, 2026, valid from February 13](https://www.recht.sachsen.de/vorschrift/21483): §§ III-VIII establish residency, listed firms, €115 minimum, 50 percent share, cap, filing and reimbursement.
+2. [Sächsische Aufbaubank, Reparaturbonus, checked November 24, 2026](https://sab.sachsen.de/reparaturbonus): paid successful repair, online application, current list-update notice, invoice details and stated threshold rationale.
+3. [Fraunhofer IZM, extended environmental assessment of the 2021-2023 Thuringia rounds](https://www.izm.fraunhofer.de/content/dam/izm/de/documents/Abteilungen/Environmental_Reliability_Engineering/Projekte/Reparaturbonus%20Th%C3%BCringen-Ergebnisbericht%20f%C3%BCr%20die%20F%C3%B6rderperiode-2021-2023.pdf): Sections 6.2.1, 6.4 and 7 discuss dataset, model estimates and additionality limits.
+4. [Verbraucherzentrale Thüringen, December 22, 2025 closeout notice](https://www.vzth.de/pressemitteilungen/reparaturbonus-antrag-noch-bis-jahresende-stellen-115986) and [programme page, updated September 17, 2026](https://www.vzth.de/reparaturbonus): five-round approvals and no new Thuringia applications.
 5. [Federal Environment Agency, repair guidance updated July 27, 2026](https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/durch-reparaturen-umwelt-schuetzen-geld-sparen): price comparisons and regional repair resources. This article does not interpret federal or EU repair entitlements.
+
+
+## Sources
+
+- [SAB current application closure and programme terms](https://sab.sachsen.de/reparaturbonus)
+- The numbered Receipts above contain the directive, evaluation and operator evidence.
 
 ## Accountability ledger
 
 | Decision | Actor | Effect | Open question |
 |---|---|---|---|
-| Thuringia repair contribution | State and consumer centre, 2021–2025 | Roughly 50,000 applications approved by the late-December operator count; programme closed | Who did not repair or apply, and why? |
+| Thuringia repair contribution | State and consumer centre, 2021-2025 | Roughly 50,000 applications approved by the late-December operator count; programme closed | Who did not repair or apply, and why? |
 | Saxony paid-invoice reimbursement | State funding directive and SAB | Approved applicants recover part of eligible costs after paying | Who cannot advance the cost or reach a listed shop? |
-| List update and filing window | SAB and state directive | Next list refresh scheduled November 9; annual electronic filing deadline December 1 | What actually changes on the list and what funding remains? |
+| List update and filing window | SAB and state directive | Applications close from December 2; directive requires filing by December 1; next list notice December 15 | What actually changes on the list and what funding remains? |
 
 ## How we checked this
 
-Checked November 6, 2026. Saxony's published funding directive controls over legacy template text visible in parts of the bank page. The November 9 list date is a notice, not an accomplished update. No assertion about a particular appointment, current funds balance or individual entitlement. Fraunhofer's survey and modelled estimates are distinct from operator counts and do not measure Saxony's outcomes. The €160 example is arithmetic, not an interview or promise of approval.
+Checked November 24, 2026. The directive's December 1 filing requirement now aligns with SAB's specific notice that applications close from December 2. The generic FAQ still conflicts; this article discloses it and directs readers to act before the announced closure. January 11 reopening is conditional. The December 15 list date is a notice, not an accomplished update. No assertion about a particular appointment, current funds balance or individual entitlement. Fraunhofer's survey and modelled estimates are distinct from operator counts and do not measure Saxony's outcomes. The €160 example is arithmetic, not an interview or promise of approval.
 
 ## Facebook: English
 
 A repair rebate can make a washing machine worth fixing. But in Saxony you pay for a successful repair first and apply afterward. A €160 bill can come down to €80 after an approved claim, but you still need €160 today.
 
-Thuringia’s earlier programme helped pay for thousands of repairs. Its evaluation suggests the money changed some decisions. It also leaves a practical question: who never made it as far as a claim?
+Thuringia's earlier programme helped pay for thousands of repairs. Its evaluation suggests the money changed some decisions. It also leaves a practical question: who never made it as far as a claim?
 
-Before you book in Saxony, check the device and shop lists, the filing deadline and available funds with SAB. Get a quote that says what you would pay if the repair fails.
+SAB says applications close from December 2, 2026. Submit a completed claim by December 1. Repairs must already be successfully completed and paid. A January 11 reopening is planned, subject to funds. Check your device and shop first, and do not rush into work you cannot afford.
+
+https://themissingseat.org/a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill.html
 
 ## Instagram: English
 
-A €160 repair can cost €80 after an approved Saxony rebate. You still need €160 to pay the bill first. Thuringia’s earlier programme shows why a rebate can make repair more attractive. It doesn’t show who gave up before applying. Before booking, check Saxony’s device list, approved shops, funds and filing deadline with SAB. Ask for the full price, including what you owe if the repair fails.
+A €160 repair can cost €80 after an approved Saxony rebate. You still need €160 to pay the bill first. Thuringia's earlier programme shows why a rebate can make repair more attractive. It doesn't show who gave up before applying. SAB says applications close from December 2, 2026. Submit a completed claim by December 1. The repair must already be completed and paid. Check the device, shop and funds before committing.
+
+https://themissingseat.org/a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill.html
+
+Link in bio.
 
 ## Facebook: German
 
@@ -107,11 +134,17 @@ Ein Reparaturbonus kann die Entscheidung für eine Reparatur leichter machen. In
 
 Das frühere Thüringer Programm hat Tausende Reparaturen bezuschusst. Die Auswertung deutet darauf hin, dass der Bonus manche Entscheidungen verändert hat. Wer sich den ersten Schritt nicht leisten konnte, lässt sich aus den Bewilligungszahlen allein nicht ablesen.
 
-Prüfen Sie vor dem Auftrag bei der SAB Gerät, Betrieb, Frist und verfügbare Mittel. Fragen Sie beim Betrieb nach den Kosten, falls die Reparatur nicht gelingt.
+Die SAB schließt die Antragstellung ab dem 2. Dezember 2026. Reichen Sie einen vollständigen Antrag bis zum 1. Dezember ein. Die Reparatur muss vorher erfolgreich abgeschlossen und bezahlt sein. Die Wiederöffnung am 11. Januar ist geplant, hängt aber von Haushaltsmitteln ab. Prüfen Sie Gerät, Betrieb und Kosten vor dem Auftrag.
+
+https://themissingseat.org/a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill.html
 
 ## Instagram: German
 
-Eine Reparatur für 160 Euro kann nach bewilligtem sächsischem Reparaturbonus effektiv 80 Euro kosten. Die 160 Euro müssen Sie aber zuerst bezahlen. Thüringens früheres Programm zeigt, warum ein Zuschuss die Entscheidung für eine Reparatur erleichtern kann. Wer schon vor dem Antrag aufgibt, bleibt in den Bewilligungszahlen unsichtbar. Prüfen Sie vor dem Auftrag bei der SAB Gerät, Betrieb, verfügbare Mittel und Frist. Fragen Sie auch nach den Kosten, falls die Reparatur scheitert.
+Eine Reparatur für 160 Euro kann nach bewilligtem sächsischem Reparaturbonus effektiv 80 Euro kosten. Die 160 Euro müssen Sie aber zuerst bezahlen. Thüringens früheres Programm zeigt, warum ein Zuschuss die Entscheidung für eine Reparatur erleichtern kann. Wer schon vor dem Antrag aufgibt, bleibt in den Bewilligungszahlen unsichtbar. Die SAB schließt die Antragstellung ab dem 2. Dezember 2026. Vollständigen Antrag bis zum 1. Dezember einreichen; die Reparatur muss vorher erfolgreich abgeschlossen und bezahlt sein. Prüfen Sie Gerät, Betrieb und Kosten vor dem Auftrag.
+
+https://themissingseat.org/a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill.html
+
+Link in der Bio.
 
 ## Originality and selection
 
@@ -119,7 +152,7 @@ Publication candidate. Distinct from the live Germany energy-disconnection story
 
 ## Gate 1: PASS
 
-2026-11-06T07:10:22.453Z, Codex, independent evidence review. Opened the five receipts (six individual links), checked Thuringia's two operator pages by direct HTTP 200, and read the Fraunhofer report's dataset, conclusions and additionality limits. The 30,288 approved repairs in 2021–2023 are a subset of about 50,000 approvals cited in the late-December 2025 operator statement. The potential 2,970 tonnes CO₂-equivalent and 390 tonnes e-waste figures are estimates, not a measured causal effect. The approximate one-third is a survey result, not a population estimate. Saxon directive III–VIII controls: 115 euros including tax, 50 percent eligible cost, 200 euro cap, listed firm, paid invoice, post-completion application and December 1 deadline. SAB supports successful work, current eligibility list and expected November 9 refresh; page also exposes outdated template blocks, which were not used for operative rules. No current funding balance, guarantee, federal right or measured Saxon exclusion claimed. Live archive, main tree and queue checked; proposed URL 404. No material source or calendar gap for the defined scope. Recheck the list update, deadlines and conditions at release.
+2026-11-06T07:10:22.453Z, Codex, independent evidence review. Opened the five receipts (six individual links), checked Thuringia's two operator pages by direct HTTP 200, and read the Fraunhofer report's dataset, conclusions and additionality limits. The 30,288 approved repairs in 2021-2023 are a subset of about 50,000 approvals cited in the late-December 2025 operator statement. The potential 2,970 tonnes CO₂-equivalent and 390 tonnes e-waste figures are estimates, not a measured causal effect. The approximate one-third is a survey result, not a population estimate. Saxon directive III-VIII controls: 115 euros including tax, 50 percent eligible cost, 200 euro cap, listed firm, paid invoice, post-completion application and December 1 deadline. SAB supports successful work, current eligibility list and expected November 9 refresh; page also exposes outdated template blocks, which were not used for operative rules. No current funding balance, guarantee, federal right or measured Saxon exclusion claimed. Live archive, main tree and queue checked; proposed URL 404. No material source or calendar gap for the defined scope. Recheck the list update, deadlines and conditions at release.
 
 ## Gate 2: PASS
 
@@ -128,4 +161,13 @@ Publication candidate. Distinct from the live Germany energy-disconnection story
 
 ## November 8 release review: HOLD
 
-Gate 1 HOLD, 2026-11-08T07:55:19.621Z, Codex. Official REVOSax directive VII.4 states applications are to be submitted electronically by December 1 of each year: https://www.recht.sachsen.de/vorschrift/21483 . SAB's current FAQ asks whether there is a submission deadline and answers “Grundsätzlich nicht”, then describes December 1 as an ideal date for prompt payment: https://sab.sachsen.de/reparaturbonus . The bank page also contains legacy template text; today's direct HTML inspection finds the FAQ in a collapsible content section, not an explicit discarded draft. Do not silently treat either interpretation as a safely established filing deadline for readers. Obtain current authoritative clarification, assess the package's timing paragraph and social/action implications, then renew independent factual and prose reviews. Prior November 6 PASS records remain audit history and do not authorize release. Gate 2 NOT RERUN after factual HOLD. Full body retained in the existing numbered queue as paused, not retired, not published. This is an unpublished editorial source issue, not site downtime.
+Gate 1 HOLD, 2026-11-08T07:55:19.621Z, Codex. Official REVOSax directive VII.4 states applications are to be submitted electronically by December 1 of each year: https://www.recht.sachsen.de/vorschrift/21483 . SAB's current FAQ asks whether there is a submission deadline and answers "Grundsätzlich nicht", then describes December 1 as an ideal date for prompt payment: https://sab.sachsen.de/reparaturbonus . The bank page also contains legacy template text; today's direct HTML inspection finds the FAQ in a collapsible content section, not an explicit discarded draft. Do not silently treat either interpretation as a safely established filing deadline for readers. Obtain current authoritative clarification, assess the package's timing paragraph and social/action implications, then renew independent factual and prose reviews. Prior November 6 PASS records remain audit history and do not authorize release. Gate 2 NOT RERUN after factual HOLD. Full body retained in the existing numbered queue as paused, not retired, not published. This is an unpublished editorial source issue, not site downtime.
+
+## Visual sourcing record, November 24
+GP searched official SAB and UBA pages and Commons repair photographs. Opened the actual Commons item Washing machine repairs.jpg: Silwimba Felix, November2 2017, Zambia, CC BY-SA4.0 with attribution, license-link/change and share-alike duties. Its geography and lack of programme connection make it unsuitable for this narrowly Saxon funding story. SAB item is a programme logo; UBA credits Adobe Stock imagery without an established reuse grant. No actual claimant or participating German workshop photograph was verified. image_url none, cream card. No generated documentary image.
+
+## Gate 1: PASS
+November 24, 2026, GP. Exact version REPAIR-2026-11-24-A. Reopened operative REVOSax III-VII, SAB current closure notice and linked device/firm lists, UBA repair guidance and Fraunhofer report pp52,68,74-77. Both VZTh operator pages returned HTTP200 via curl; web tool403 is a retrieval difference, not a claim those pages are dead. Confirmed2025 closure and roughly50000 approved applications. Fraunhofer30288 sample, roughly2970tonnes modelled CO2 equivalent,390tonnes waste and survey one-third retained with limits. No causal effect, current funds balance or guaranteed claim inferred. New SAB specific notice resolves practical release blocker: no application from December2; file by December1 under directive. Disclosed oldFAQ; reopeningJanuary11 conditional, listDecember15 does not extend window. Literal four social texts checked against exact deadline and paid-repair terms; canonical URLs present, no placeholders. Photo item rights inspected, geographic fallback documented. No equivalent live story in archive/queue; library borrowing is materially different. Gate3 pending.
+
+## Gate 2: PASS
+November 24, 2026, GP, distinct final hostile-reader/Regular Joe review after Gate1, same REPAIR-2026-11-24-A. The hypothetical160-euro opening is arithmetic, not a reported household or approval promise. Programme success and the upfront-cash barrier remain separate: no evidence that all low-income households are excluded. Explains who benefits, who pays first, who sets rules and legitimate invoice-check rationale. Additionality, regional/time differences and conditional funds prevent promotional conclusions. The current deadline paragraph exposes rather than hides conflicting FAQ wording and warns against unaffordable rushed work. Short Version, approved Seat At Risk, full prose, action, country resources, summary, receipts, notice, excerpt and four social exports complete. Plain-text punctuation normalized, no stock ending or racialized blame. All social URLs exact, IG counts and parser checked in final export. Gate3 requires production HTTP/content and linked surfaces.

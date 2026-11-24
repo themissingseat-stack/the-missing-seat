@@ -4,6 +4,10 @@
 
 **Standing rules:** see [TMS_EDITORIAL_STANDARD.md](TMS_EDITORIAL_STANDARD.md), including the 2026-11-04 brand and article-endings standard. It supersedes conflicting generic-signoff instructions anywhere in this ledger.
 
+## November 24 completed release and reserve
+
+[Repair rebate](https://themissingseat.org/a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill.html) current two reviews PASS and seven production surfaces verifiedHTTP200. Remove numbered14; library advances14 and new EUTB joins15. Current accounting21 complete unpublished,15 numbered. Germany production2/2 this week, website Germany publication1 so far. No second editorial today. Reentry metadata fixed and parser locally clean, normal scheduled discovery only. [Full daily and weekly audit](TMS_REPORTING_UPDATE_2026-11-24.md).
+
 ## November 23 confirmed release and new reserve
 
 [When Does a Sentence Actually End?](https://themissingseat.org/when-does-a-sentence-actually-end.html) publicly verifiedHTTP200 with corrected current body. Homepage/archive/justice topic/feed/sitemap allHTTP200 with link. Remove from unpublished reserve. New Germany library package added: previous21 -Reentry1 +new1 =21 complete unpublished under current accounting; numbered15 after replacing released row with new reserve. Four previously cleared content reserves remain (hospital, Social Security, German wage, library), each requiring its release-day checks. Reentry social handoff not asserted; normal scheduled discovery retains authority.
@@ -167,33 +171,24 @@ The governing test remains: **What did they actually change, who gained, what re
 - Related subjects are not duplicates unless their controlling thesis, core evidence, explanatory purpose and practical takeaway are materially the same.
 - Research briefs, replacement revisions to already-published stories and retired duplicates do not count as unpublished reserve inventory.
 
-## Current counts
+## Current counts, reconciled November 24
 
-| Category | Count |
-|---|---:|
-| Complete bodies awaiting confirmed public release | 21 |
+| Category | Count / scope |
+|---|---|
+| Complete bodies awaiting website release | 21: previous21 - repair1 + newEUTB1; wider manuscript recovery audit still open |
 | Numbered queue | 15 |
-| Reserve with current Gate 1 and Gate 2 PASS, available for future release | 6 |
-| Committed full releases awaiting public verification | 0 |
-| Legacy queued packages needing current gates/template refresh | 10 |
-| Additional queued source-conflict hold | 1 |
-| Separate complete-package holds outside numbered queue | 3 |
-| Complete packages on editorial hold | 16 |
-| Retired/replaced finished editorials | 4 |
-| Editorial live/repository discrepancies | 0 |
-| Historical website replacement versions, not new reserve | 16 |
-| Remaining replacement installations | Unknown, not individually reconciled |
-| Unfinished or held research drafts | 5 |
-| Combined unfinished or editorially release-blocked | 22 |
-| External manuscript status not yet fully verified | 1 |
-| Active follow-up research candidates | 11 |
-| Positive/solution research candidates | 5 |
+| Newly completed with current two-gate PASS today | 1, EUTB |
+| Recent approved packages plus historical cleared reserves requiring release-day refresh | 5: EUTB, library, hospital, Social Security, German wage |
+| Numbered packages needing current factual/template refresh | 10 |
+| Complete holds outside numbered queue | 6: breast cancer, tipped work, Bottoms, discharge, coalition, Civil Rights Act |
+| Complete bodies not currently cleared for release | 16 |
+| Retired/replaced | 4 |
+| Committed editorial releases awaiting public verification | 0 |
+| Historical website revisions, excluded from reserve | 16; remaining installations unknown |
+| Unfinished research drafts | 5, inherited accounting not individually recertified today |
+| Follow-up / positive research candidates | 11 / 5, inherited totals; checked entries recorded in daily report |
 
-The reentry, NCNW archive, Medicare Open Enrollment, hospital financial-assistance (row 9), Social Security repayment (row 12) and Germany minimum wage (row 1) packages are cleared reserve; Medicare is deadline-sensitive and must publish by November 30, never after December 7. The tax-refund explainer is verified live and excluded from reserve. Benjamin is live and excluded from reserve. The two Germany releases are verified and removed from reserve. Saxony remains on factual HOLD. Arkansas is a research draft held outside finished reserve.
-
-## Deadline-sensitive priority — Medicare Open Enrollment (November 15 decision)
-
-**Medicare's Open Enrollment Ends December 7. Who Can Help You Choose?** (`medicare-open-enrollment-ends-december-7-who-can-help-you-choose`) is complete, Gate 1, Gate 2 and voice PASS (November 15), unpublished. Jansen kept the revised headline. Its publication deadline (by November 30, never after December 7) takes precedence over ordinary queue order, still under the one-new-editorial-per-day rule. Planned website date: **November 18, 2026**, as selected in TMS_PUBLISHING_CONTROL_BOARD_2026-11-15.md. **November 24 is a contingency only** if the November 18 final CMS/poll/Medigap/links/phone checks block release. This is a plan, not a publication; preserve one new editorial per day and the November 30 hard deadline. Hard limit November 30. Release-day checks: 2027 Part B premium (do not insert an unannounced figure), the University of Michigan poll's own release, Medigap guidance, official links and telephone numbers. Social promotion stays separate and starts only after the article is verified live. [Full package](editorial-packages/TMS_MEDICARE_DEADLINE_DECEMBER_7_WHO_HELPS_PUBLICATION_PACKAGE_2026-11-15.md).
+Medicare published November22 and Reentry November23; never requeue either. Medicare's announced2027 PartB premium209.40 and deductible292 are already incorporated. Old November18/24 release plans are historical. Reentry social was blocked November23 by source metadata, corrected November24 without a manual send. Repair published November24 after specific SAB closure notice cleared the filing conflict. Priority2/3 retain source-specific HOLD; see today's report and provisional reviews. Numbered order otherwise preserved.
 
 ## Finished numbered queue — current release status explicit
 
@@ -212,8 +207,9 @@ The reentry, NCNW archive, Medicare Open Enrollment, hospital financial-assistan
 | 11 | Theodor Wonja Michael Found a Second Route Into Education. Teach That Part Too. | `theodor-wonja-michael-found-a-second-route-into-education` | HOLD: current reviews required | When “Never Again” Does Not Include Everyone: Contemporary equality and FRA evidence versus a named educational route, archival preservation and practical admission/library action.; Germany Has to Decide What Kind of Country It Wants to Be: Current electoral democracy versus historical study access and full-life recognition. | [Full package](editorial-packages/TMS_THEODOR_WONJA_MICHAEL_SECOND_ROUTE_PUBLICATION_PACKAGE_2026-10-27.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
 | 12 | Social Security Wants the Money Back. First, Check the Decision. | `social-security-wants-the-money-back-first-check-the-decision` | Gate 1/2 PASS November 15, 2026 (refreshed; release-day checks pending); unpublished | Before You Cut Care, Did You Stop Paying More for the Same Care?: Medicare provider-payment policy versus individual SSA debt determinations, notice accuracy and reconsideration/waiver/rate routes. | [Full package](editorial-packages/TMS_SOCIAL_SECURITY_REPAYMENT_CHECK_DECISION_PUBLICATION_PACKAGE_2026-10-28.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
 | 13 | Kathmandu Put Care on the Map. Can Families Find Their Way In? | `kathmandu-put-care-on-the-map-can-families-find-their-way-in` | HOLD: current reviews required | The Gap Is Not Just Pay. It Is Who Gets Time, Care, and Power.: Broad labor/time/pay distribution versus named Nepal mapping, the route into municipal care, successful referrals and worker conditions.; Germany Promised a Full School Day. Families Need the Hours to Match.: Statutory school-care timetable entitlement versus municipal information/navigation approach across care needs. | [Full package](editorial-packages/TMS_KATHMANDU_CARE_MAP_ACCESS_PUBLICATION_PACKAGE_2026-10-30.md). Prior approval predates binding November4 gates; refresh sources and complete required template before release. Historical approval not withdrawn or promoted to current PASS. |
-| 14 | A Repair Rebate Helps. First, You Have to Pay the Repair Bill. | `a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill` | HOLD: filing guidance conflict | Germany Has a Way to Keep the Power On. Can People Use It?: Continuity of electricity service versus paid-invoice repair rebate and the upfront cost of claiming it. | [Full package](editorial-packages/TMS_GERMANY_REPAIR_REBATE_UPFRONT_COST_PUBLICATION_PACKAGE_2026-11-06.md). November 8: directive VII.4 requires December 1 electronic filing; SAB FAQ says no strict deadline, ideally December 1. Resolve applicable current filing rule and revise package before renewed Gate 1/2. Prior PASS is not current approval. |
-| 15 | Before Buying It for One Afternoon, Check the Library. | `berlin-library-of-things-before-buying` | Gate 1/2 PASS November 23; complete unpublished reserve | Saxony repair rebate reimburses a paid repair; this explains access to borrowed equipment before a purchase, card conditions and item return. | [Full package](editorial-packages/TMS_BERLIN_LIBRARY_OF_THINGS_2026-11-23.md). Four official sources opened; EN/DE FB/IG; documented photo fallback; refresh stock and terms before release. |
+| 14 | Before Buying It for One Afternoon, Check the Library. | `berlin-library-of-things-before-buying` | Gate 1/2 PASS November 23; complete unpublished reserve | Saxony repair rebate reimburses a paid repair; this explains access to borrowed equipment before a purchase, card conditions and item return. | [Full package](editorial-packages/TMS_BERLIN_LIBRARY_OF_THINGS_2026-11-23.md). Four official sources opened; EN/DE FB/IG; documented photo fallback; refresh stock and terms before release. |
+
+| 15 | Germany Offers Disability Advice Before You Apply. Here Is Where to Start. | `germany-disability-advice-before-the-application` | Gate1/2 PASS November24, complete unpublished | EUTB independent preapplication guidance and bounded service feedback, distinct from Wheelmap access mapping, nora emergency dispatch and debt counseling. | [Full body and reviews](editorial-packages/TMS_GERMANY_EUTB_ADVICE_BEFORE_APPLICATION_2026-11-24.md). Nine sources, EN/DE socials, actual press photo and conditional reuse rights. Refresh contacts, terms and media at release. |
 
 ## Complete unpublished release holds outside numbered queue
 

@@ -1,7 +1,63 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-24",
   "track": "SWS; excluded from full editorial inventory",
   "entries": [
+    {
+      "id": "the-time-to-act-2026-11-17",
+      "date": "2026-11-17",
+      "title": "The Time to Act",
+      "source": "something-worth-sharing.html#the-time-to-act-2026-11-17",
+      "publication_status": "published_live_verified",
+      "public_verified": "2026-11-24"
+    },
+    {
+      "id": "sometimes-understanding-does-not-come-2026-11-19",
+      "date": "2026-11-19",
+      "title": "Sometimes Understanding Does Not Come",
+      "source": "something-worth-sharing.html#sometimes-understanding-does-not-come-2026-11-19",
+      "publication_status": "published_live_verified",
+      "public_verified": "2026-11-24"
+    },
+    {
+      "id": "saying-it-out-loud-2026-11-20",
+      "date": "2026-11-20",
+      "title": "Saying It Out Loud",
+      "source": "something-worth-sharing.html#saying-it-out-loud-2026-11-20",
+      "publication_status": "published_live_verified",
+      "public_verified": "2026-11-24"
+    },
+    {
+      "id": "room-for-a-better-outcome-2026-11-21",
+      "date": "2026-11-21",
+      "title": "Room for a Better Outcome",
+      "source": "something-worth-sharing.html#room-for-a-better-outcome-2026-11-21",
+      "publication_status": "published_live_verified",
+      "public_verified": "2026-11-24"
+    },
+    {
+      "id": "hearing-the-whole-sentence-2026-11-22",
+      "date": "2026-11-22",
+      "title": "Hearing the Whole Sentence",
+      "source": "something-worth-sharing.html#hearing-the-whole-sentence-2026-11-22",
+      "publication_status": "published_live_verified",
+      "public_verified": "2026-11-24"
+    },
+    {
+      "id": "hearing-more-of-me-2026-11-23",
+      "date": "2026-11-23",
+      "title": "Hearing More of Me",
+      "source": "something-worth-sharing.html#hearing-more-of-me-2026-11-23",
+      "publication_status": "published_live_verified",
+      "public_verified": "2026-11-24"
+    },
+    {
+      "id": "a-useful-answer-2026-11-24",
+      "date": "2026-11-24",
+      "title": "A Useful Answer",
+      "source": "something-worth-sharing.html#a-useful-answer-2026-11-24",
+      "publication_status": "published_live_verified",
+      "public_verified": "2026-11-24"
+    },
     {
       "id": "been-paying-attention-2026-11-15",
       "date": "2026-11-15",
@@ -206,18 +262,20 @@
     "note": "All six dates present on the verified public archive; preserved."
   },
   "today": {
-    "date": "2026-11-14",
-    "text": "I've learned that loyalty doesn't require blindness, forgiveness doesn't require forgetting, and being strong doesn't mean pretending nothing hurts.",
-    "translation_de": "Ich habe gelernt, dass Loyalität nicht bedeutet, die Augen zu verschließen, dass Verzeihen nicht voraussetzt, dass man vergisst, und dass Stärke nicht heißt, so zu tun, als täte nichts weh.",
-    "provenance": "Verbatim sentence from Jansen Bowden's November 13 birthday reflection; today's heading and German translation are editorial additions.",
-    "publication_status": "published_live_verified"
+    "date": "2026-11-24",
+    "text": "A useful answer leaves you knowing what to do next. It might be a name, a phone number, a document to bring or a date you cannot miss. If an explanation sounds impressive but you still do not know where to start, ask again. There is nothing embarrassing about needing the instructions in words you can use. And when you are the person giving the answer, stay long enough to find out whether it helped.",
+    "translation_de": "Eine hilfreiche Antwort zeigt dir, was du als Nächstes tun kannst. Vielleicht ist es ein Name, eine Telefonnummer, ein Dokument zum Mitbringen oder ein Termin, den du nicht verpassen darfst. Wenn eine Erklärung beeindruckend klingt, du aber noch immer nicht weißt, wo du anfangen sollst, frag noch einmal. Es ist nicht peinlich, eine Anleitung in verständlichen Worten zu brauchen. Und wenn du die Antwort gibst, bleib lange genug, um herauszufinden, ob sie geholfen hat.",
+    "provenance": "New editorial reflection with AI assistance, not a Jansen quotation.",
+    "publication_status": "published_live_verified",
+    "public_verified": "2026-11-24"
   },
   "missing_page_dates": [
     "2026-10-31",
     "2026-11-01",
     "2026-11-02",
     "2026-11-03",
-    "2026-11-04"
+    "2026-11-04",
+    "2026-11-18"
   ],
   "missing_page_dates_note": "No entries with these dates in current page; does not prove drafts never existed. No invented or backdated content added.",
   "unpublished_queue": []

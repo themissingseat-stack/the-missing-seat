@@ -16,9 +16,9 @@ This record links existing follow-up and promise records. It does not count shor
 - Outcome/remedy: nomination is institutional selection; public relief not established by the nomination.
 - Follow-up links: none published. Cross-reference TMS_POLITICAL_PROMISE_LEDGER.md and priority coalition package.
 
-## NCNW archive story, pending public release
+## NCNW archive story, public release confirmed
 - Canonical intended URL: https://themissingseat.org/black-women-built-an-archive-for-history.html
-- Source release: November 21. Public verification pending, latest curl HTTP 404. Do not count in live history yet.
+- Source edition November21; public HTTP200 verifiedNovember22 and refreshedNovember24. Initial404 was historical; exact first-live time unknown.
 - Categories: Missing History; Black, Brilliant & Beyond; positive institutional achievement.
 - Baseline: 1941 committee and 1979 institution, documented by NPS.
 - Responsible institution: NPS National Archives for Black Women's History.
@@ -50,3 +50,22 @@ November22 NCNW verification update: canonical article nowHTTP200 and public RSS
 - Next review: December23 or statutory/agency-rule change. Seek measured access/restoration result rather than inventing a follow-up.
 - Open outcome: no individual application success or national burden recount established. Remedy routes described; actual relief unknown.
 - Follow-up links: none published. Cross-reference current reentry package and existing collateral-consequences research.
+
+## A Repair Rebate Helps. First, You Have to Pay the Repair Bill.
+- Canonical URL: https://themissingseat.org/a-repair-rebate-helps-first-you-have-to-pay-the-repair-bill.html
+- Publication/source edition: November24,2026. Current productionHTTP200 and seven surfaces verified; exact first-live timestamp unknown.
+- Categories: Germany & Beyond; A Seat Was Made; Everyday Life, Money & Rights.
+- Affected people: Saxony repair customers, especially households unable to advance a paid invoice.
+- Baseline: SAB no applications fromDecember2, directiveDecember1 filing, conditionalJanuary11 reopening;115-euro minimum/50percent/200-euro cap, successful paid repair and listed firm.
+- Responsible institutions: Saxon ministry, SAB, participating repair firms.
+- Promises/deadlines: December1 filing, January11,2027 planned reopening subject to budget. Preserve dated notice; a reopening plan is not an open portal.
+- Last verified: November24, official directive and SAB closure notice.
+- Next review: December1 before cutoff; January11 for actual reopening or earlier official change.
+- New evidence: specific closure notice now aligns practical filing action with directive despite older contradictoryFAQ. Existing unpublished HOLD cleared, not a follow-up to an already published story.
+- Outcome/remedy: evaluated Thuringia repairs are separate historical evidence. Saxon actual payout speed, approval rates and excluded households not measured. Seek these rather than repeat subsidy terms.
+- Follow-up links: none; original above. Related positive track TMS_FOLLOW_UP_AND_POSITIVE_RESULTS_TRACKS.md.
+
+## Due-check register, November24
+- Veterans/SNAP original: https://themissingseat.org/they-served-the-country-the-food-benefit-still-missed-them.html . GAO-27-108111 allfour recommendations stillOpen onNovember24. InstitutionsUSDA/VA. No implementation or access increase established. NextDecember1 or GAO status/agency evidence change; cross-reference existing positive/follow-up track rather than duplicate candidate.
+- JasonJones original: https://themissingseat.org/jason-jones-trinidad-tobago-privacy-appeal.html . Docket reopenedNovember24 lists judgment and summary, no separately displayed final remedial order. Local practice/restoration unresolved, no assertion none exists elsewhere. NextDecember1 or official order. Link existing Promise/follow-up record.
+- Germany debt-advice original: https://themissingseat.org/germany-new-debt-advice-law-starts-november-20.html . DueNovember23 review performedNovember24. Current statute confirmsNovember20 commencement and report due; actual ministry submission not established. Hamburg operator still lists almostfour-month wait. ResponsibleBMJV/state/local services; nextNovember25 for report retrieval, not presumed missed duty. No new public follow-up until material verified development.

@@ -1,5 +1,7 @@
 # When Does a Sentence Actually End?
 
+## Publication metadata
+
 - Author: Jansen Bowden / The Missing Seat
 - Completed: November 14, 2026; refreshed November 23, 2026. Published November 23, 2026; public verification complete.
 - Slug: when-does-a-sentence-actually-end
@@ -16,7 +18,7 @@
 - social_visual_policy: v1
 - image_url: https://upload.wikimedia.org/wikipedia/commons/c/c5/US_federal_prison_education_4.jpg
 - image_credit: US Department of Justice, Bureau of Prisons / Wikimedia Commons
-- image_license: Public domain, US federal government work
+- image_license: Public domain
 - image_creator: US Department of Justice, Bureau of Prisons
 - image_archive: Wikimedia Commons, source Bureau of Prisons
 - image_rights_statement: Official DOJ employee work identified as public domain under 17 USC105 in the item record; date unknown.
@@ -123,3 +125,7 @@ Reviewer GP, separate final adversarial/Regular Joe pass after factual review. V
 
 ## Gate 3, November 23, 2026
 PASS, GP. Canonical article HTTP200 with corrected fee and full body; homepage, stories, justice-law topic, feed and sitemap HTTP200 and correct canonical link. Initial404 resolved. First observed live during08:44–08:46UTC checks; exact first-live time unknown. No manual queue, Buffer submission or site_live edit. Website publication complete.
+
+## November 24 source-format validation
+
+GP, format-only revision REENTRY-2026-11-24-M. Added accepted Publication metadata heading and normalized the license enum to Public domain; legal basis remains in image_rights_statement and item evidence. Current source already has an accepted Prospective visual metadata section, unlike the version cached by November23 run36. No article or literal platform wording changed. Reopened Commons item and confirmed federal-work public-domain basis; parser/release validation run locally against current publisher main. Gate 1: PASS for unchanged factual scope and exact rights normalization. Gate 2: PASS, separate format/literal-copy comparison: article and both social strings unchanged, IG remains501 before automatic photo credit. No new publication, manual discovery, Buffer send or database lifecycle edit. Scheduled discovery must re-import and independently validate media.

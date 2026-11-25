@@ -4,7 +4,7 @@
 
 - Author: Jansen Bowden / The Missing Seat, developed with AI assistance
 - Draft date: November 23, 2026
-- Revision: BLACK_FATIGUE_WEATHERING-2026-11-23-A
+- Revision: BLACK_FATIGUE_WEATHERING-2026-11-25-B
 - Status: COMPLETE NARRATIVE DRAFT / RESEARCH AND INDEPENDENT REVIEW HOLD
 - Editorial priority within these five commissions: 1
 - Territory: United States
@@ -24,17 +24,19 @@ What you can do: Seek appropriate care for persistent symptoms, preserve complai
 
 ## Website editorial
 
-I cannot hang up my color when I come home. I cannot decide that tomorrow I will blend in and give myself a day off from whatever somebody else thinks being Black means. When I say I am exhausted, I mean the ordinary problems of life and the extra work of dealing with people who make those problems harder. Sometimes I am angry. Sometimes I am simply tired of having to explain why. This opening develops the experience Jansen described when commissioning this article.
+The workday can end before the effort of dealing with racism does. A person may still be thinking about an encounter, deciding whether to complain or preparing to explain why it mattered. Black fatigue gives a name to that accumulating burden. Weathering research asks a further question: how does sustained adversity register in physical health?
 
 That is the human reason for this story. A person can keep working, laughing and showing up while carrying something that deserves attention. Friends may see the functioning person and assume the cost must be manageable. Institutions can make the same mistake, measuring whether somebody remained at work while overlooking what the workplace demanded of them.
 
-Mary-Frances Winters gave this experience a name in her 2020 book, Black Fatigue: How Racism Erodes the Mind, Body, and Spirit. Her work describes the burden of living with systemic racism. Weathering comes from a related scientific tradition. Arline Geronimus developed the hypothesis that repeated social and economic adversity and political marginalization can produce earlier deterioration in health. The terms meet at accumulated burden, although a book's social description and a population-health hypothesis do different kinds of work. [1, 2]
+Mary-Frances Winters explored this experience in her 2020 book, Black Fatigue: How Racism Erodes the Mind, Body, and Spirit. Her work describes the burden of living with systemic racism. Weathering comes from a related scientific tradition. Arline Geronimus developed the hypothesis that repeated social and economic adversity and political marginalization can produce earlier deterioration in health. The terms meet at accumulated burden, although a book's social description and a population-health hypothesis do different kinds of work. [1, 2]
 
 In a 2006 study, Geronimus and colleagues examined biological indicators in U.S. adults aged 18 to 64. Black participants had a greater probability of high allostatic load, a composite measure of strain across biological systems. Poverty differences did not account for the racial pattern. This is one observational study using an earlier national survey, with limits on what it can establish about mechanisms or any particular person's health. Its significance is that researchers examined what sustained adaptation may cost the body. [2]
 
 A 2015 systematic review and meta-analysis by Yin Paradies and colleagues assembled 293 studies. Reported racism was associated with poorer mental health, including depression, anxiety and psychological stress. The evidence also had limitations, including differences between study designs and stronger associations in cross-sectional than longitudinal data. Taking the findings seriously means giving racial exposure a place in the health conversation while investigating other contributors to symptoms. [3]
 
-That matters when someone says the pressure has them feeling a little crazy. In this article those words express the author's exhaustion. Readers deserve an account that leaves room for the range of Black lives and for individual assessment. Persistent fatigue, distress or sleep problems warrant care that considers the person's circumstances alongside other possible causes. No private medical history is being used to diagnose the author.
+These findings need to be read alongside newer, less conclusive results. A journal meta-analysis published online in December 2025 examined discrimination and allostatic load among Black adults aged 40 and older. Its pooled result was not statistically significant, and study results varied substantially. A related conference abstract reported a significant association using a different set of studies. Those records should not be treated as interchangeable confirmations. The biological evidence deserves attention and further investigation, with its uncertainty visible. [5, 6]
+
+A group-level health pattern also cannot tell a clinician what is causing one person's exhaustion. Readers deserve an account that leaves room for the range of Black lives and for individual assessment. Persistent fatigue, distress or sleep problems warrant care that considers the person's circumstances alongside other possible causes. No private medical history is being used to diagnose the author.
 
 There is also a political choice in where we place the remedy. An employer can offer a wellbeing seminar while leaving the manager named in a discrimination complaint in control of the employee's schedule. A service can offer a referral while making an appointment unaffordable. These are illustrative mechanisms, not reported cases. They show why counting services offered tells us less than following what happened to the person who needed help.
 
@@ -57,12 +59,16 @@ For persistent exhaustion or distress, ask a qualified clinician to consider bot
 
 Black fatigue describes an experience of accumulated burden. Weathering research investigates patterns of physiological strain. A useful response includes appropriate care and changes to the conditions producing avoidable stress.
 
-## Receipts
+## Sources
 
 1. [Winters Group, September 15, 2020, book announcement](https://www.wintersgroup.com/black-fatigue-is-available-now/)
 2. [Geronimus et al., American Journal of Public Health, 2006, weathering study](https://pubmed.ncbi.nlm.nih.gov/16380565/)
 3. [Paradies et al., PLOS ONE, 2015, systematic review and meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC4580597/)
 4. [EEOC, filing a charge and process distinctions](https://www.eeoc.gov/how-file-charge-employment-discrimination)
+
+5. [Harb et al., journal systematic review and meta-analysis, online December 4, 2025; PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/41370963/)
+6. [Harb et al., related conference abstract, December 25, 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12740308/)
+7. [EEOC, Time Limits for Filing a Charge](https://www.eeoc.gov/time-limits-filing-charge)
 
 ## Accountability record
 
@@ -121,3 +127,25 @@ NOT STARTED. Draft branch only. No production HTML, website release, automatic d
 ## Next revision
 
 Resolve the specific Gate 1 gaps, finish visual research and approved metadata, record the exact independently reviewed revision, rerun final editorial and voice checks, and reconcile approved status in the main ledger through the normal process.
+
+## November 25 continuation research and separate provisional review
+
+Revision B; GP. These changes are draft-only and do not supersede unresolved release gates above.
+
+Evidence pass HOLD: directly opened Winters Group announcement, Geronimus PubMed abstract, Paradies full-text record, EEOC time-limit guidance, Harb journal PubMed abstract and related conference abstract. The 2006 PMC full text still returned CAPTCHA; Maryland repository item supplies bibliographic information but no readable manuscript. Journal review and conference abstract report differing included-study counts and pooled findings. Added the journal's non-significant result and explicitly distinguished records; full journal methods and reconciliation remain pending. No clinical reviewer or Claude approval is represented.
+
+Originality: reread complete main-branch black-strength-mental-cost-racism.html. Existing article already covers racial stress, vigilance, sleep, care access, resilience and institutional support. A separate article must develop biological measurement, limits of causal inference and newer mixed findings; changing the title and repeating the support argument is insufficient. Current expanded evidence moves that comparison forward but final distinctness review remains HOLD.
+
+Separate provisional hostile-reader/voice pass HOLD: inspected revised narrative. Removed invented first-person adaptation and embedded production note; opening now uses general explanatory prose without attributing unapproved words to Jansen. Changed the book attribution to avoid implying Winters originated all earlier fatigue terminology. Added counterevidence rather than selecting only positive results. No personal medical history is used. The existing accountability table remains generic and needs named obligations or a clearly framed institutional proposal. Visual research, approved Seat Status, canonical URL and exact final social payload remain unfinished. No final Gate 2 PASS.
+
+Source URLs actually opened November 25:
+- https://www.wintersgroup.com/black-fatigue-is-available-now/
+- https://pubmed.ncbi.nlm.nih.gov/16380565/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC1470581/ (CAPTCHA only)
+- https://drum.lib.umd.edu/items/2717a14a-ea58-45f9-ab4b-ba82129b6d99 (bibliography only)
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC4580597/
+- https://pubmed.ncbi.nlm.nih.gov/41370963/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC12740308/
+- https://www.eeoc.gov/time-limits-filing-charge
+
+No website release, queue approval, Buffer submission or independent review obtained in this revision.

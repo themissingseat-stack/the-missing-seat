@@ -122,7 +122,7 @@ Verified against the receipts listed above. Remaining checks before release:
 
 ## Gate 2
 
-Needed from GP as independent reviewer. Check especially that the renaming discussions are described as reported discussions, not as a Trump order.
+GP, November 25, 2026: **FINAL PASS** on the exact corrected package at commit 65126d0 (article, Short Version, Seat Summary and literal Facebook/Instagram strings). Reported internal naming discussions are explicitly distinguished from an established presidential order. NHHC biography supports age and dates; variable historical casualty accounts justify retaining "hundreds". Scheduled ceremony wording no longer promises an event has occurred. H.R. 2335 authority/time-limit waiver distinguished from presidential award; nonaward statement qualified to reporting found. Invitation-only event and actual HII livestream identified. Developed historical account and specific representative/classroom actions meet Regular Joe review. Instagram 477 characters including URL and link-in-bio line, below 2200; paragraph boundaries and prohibited-character scan clear. Gate 3 remains separate: December 4/5 ceremony and medal/bill status refresh, item-level photo rights or documented fallback, complete metadata and website conversion/live verification. No queue, Buffer or production action in this review.
 
 ## Visual
 

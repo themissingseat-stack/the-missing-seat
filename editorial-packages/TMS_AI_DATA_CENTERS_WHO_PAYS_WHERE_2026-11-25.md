@@ -7,6 +7,7 @@
 - Status: GATE 1 (CLAUDE) PASS / GATE 2 NEEDED FROM GP / NOT RELEASED
 - Location: United States
 - Slug: ai-data-centers-who-pays-where
+- Core demand (Jansen, Nov 25, 23:32): equal payout; level the playing field. Host communities get the same terms as rich areas.
 - Related: "The AI Boom Has a Customer. It May Also Have Your Electricity Bill." (link once; do not repeat its electricity-bill reporting)
 - Seat affected: Black and working-class neighborhoods asked to host AI's pollution without its rewards
 - Seat status: Seat At Risk
@@ -17,7 +18,7 @@
 
 **Who it affects:** Neighborhoods where data centers are built, especially ones that already carry pollution and have little say in what gets built.
 
-**What you can do:** Find out what is proposed near you. Ask your county who gets the tax money, what will power the building, and whether you will get a hearing before it is approved.
+**What you can do:** Demand the Loudoun deal. If a data center comes to your area, ask for the same tax terms, a signed community benefits agreement and a public hearing before approval.
 
 ## Website editorial
 
@@ -61,21 +62,25 @@ A May 2026 study from UC Berkeley's Energy Institute looked at past, current and
 
 Both can be true in different ways. Many data centers sit in wealthy suburbs like Loudoun. The sharper question is who gets the protections and the payoff. A rich county negotiates zoning, tax deals and setbacks. A poor neighborhood may find out after the turbines arrive. The Memphis lawsuit is about exactly that: power plants running before anyone got the permits that give neighbors a say.
 
-### What fair looks like
+### Level the playing field: the Loudoun deal for everyone
 
-If AI is as good for the country as its builders say, the costs and the rewards should land in the same place.
+If a data center is good enough for America's richest county, the deal Loudoun gets should be the floor everywhere else. Any community asked to host one should get the same payout, not a discount.
 
+- **The same tax deal.** No special tax breaks for a data center next to a working-class or Black neighborhood that the company would not get in Loudoun. If the equipment inside is taxed in a rich county, it gets taxed in a poor one.
+- **The money stays local.** A clear share of the revenue goes to the neighborhood that carries the risk, in schools, health clinics, lower utility bills and property tax relief, the way Loudoun homeowners have seen their tax rate cut for a decade.
+- **Signed before shovels.** A written community benefits agreement, with amounts and deadlines, before approval. Not a promise after the turbines are running.
 - **No permit, no power.** Any on-site power plant gets a full air permit, with public notice, before it runs.
-- **Same deal everywhere.** If Loudoun gets 40 percent of its budget from data centers, a working-class county should not get worse terms, fewer protections or less notice.
-- **A real hearing.** Neighbors should hear about a project before approval, not after.
-- **Put the burden where the benefits go.** Companies that profit should pay for the grid upgrades, the water and the cleanup, not the families next door.
+- **A real hearing.** Neighbors hear about a project before approval, not after.
+- **The company pays for its own load.** Grid upgrades, water and cleanup are paid by the companies that profit, not by the families next door.
 
-Taylor Frazier McCollum wants a full ban on the Landover project and others like it. [1] Whether or not you agree, she earned the right to be asked. So did Boxtown.
+If AI companies say the deal is too expensive to offer in a Black neighborhood, they are admitting the neighborhood was chosen because it was cheaper to ignore.
+
+Taylor Frazier McCollum wants a full ban on the Landover project and others like it. [1] Whether a community says yes or no, it deserves the same terms, the same respect and the same check as Loudoun. So does Boxtown.
 
 ## Pull Up A Chair
 
 - **Look up your county's zoning or planning agenda** and search for "data center" or "large load".
-- **Ask three questions in writing:** What will power it? Who gets the tax money? When is the public hearing?
+- **Ask four questions in writing:** What will power it? Is the company getting a tax break Loudoun wouldn't give? How much of the money stays in our neighborhood? When is the public hearing?
 - **Check air permits** at your state environmental agency before any on-site generator runs.
 - **Join or start a petition.** A petition from one evicted mother passed 25,000 signatures.
 
@@ -88,7 +93,7 @@ Taylor Frazier McCollum wants a full ban on the Landover project and others like
 
 ## Seat Summary
 
-The AI boom pays hundreds of billions to the companies that build it and more than a billion a year to the richest county that hosts it. Near Black neighborhoods in Memphis, residents say it brought unpermitted turbines instead. In Maryland, an evicted mother helped stop a $5 billion project. The missing seat is a fair say and a fair share for whoever lives next door.
+The AI boom pays hundreds of billions to the companies that build it and more than a billion a year to the richest county that hosts it. Near Black neighborhoods in Memphis, residents say it brought unpermitted turbines instead. In Maryland, an evicted mother helped stop a $5 billion project. The missing seat is the Loudoun deal for every neighborhood: the same payout, the same say, the same protections.
 
 ## Receipts
 
@@ -118,7 +123,7 @@ Near Black neighborhoods in Memphis, the NAACP says Elon Musk's xAI ran dozens o
 
 In Maryland, Taylor Frazier McCollum, a mother who had just been evicted, started a petition that passed 25,000 signatures and helped put a $5 billion data center on hold.
 
-Same industry. Different deal. Who gets the money, and who gets the turbines?
+Same industry. Different deal. If it's good enough for the richest county, give every neighborhood the same payout. Level the playing field.
 
 https://themissingseat.org/ai-data-centers-who-pays-where.html
 
@@ -130,7 +135,7 @@ Loudoun County, Virginia: data centers pay 40 percent of the budget.
 Memphis: the NAACP says xAI ran gas turbines near Black neighborhoods without air permits. xAI denies it.
 Maryland: an evicted mother's petition passed 25,000 signatures and helped put a $5 billion data center on hold.
 
-Who gets the money, and who gets the risk?
+Same industry. Give every neighborhood the Loudoun deal: the same payout, the same say.
 
 https://themissingseat.org/ai-data-centers-who-pays-where.html
 
@@ -145,6 +150,8 @@ Checked against the receipts. Notes:
 - **GP spot checks:** plaintiffs named in the complaint (receipt 10, secondary); the turbine count and tonnage (receipt 8, advocacy source, attributed); the Boxtown demographics (secondary).
 
 ## Gate 2
+
+The "Level the playing field" section is TMS's policy demand (opinion), not a factual claim. It makes no claim that any specific county gave xAI or another company a tax break; GP should keep it that way unless a sourced example is added.
 
 Needed from GP. Check fairness to xAI and the Loudoun framing ("got paid" is literally true per county data; it is not a claim that Loudoun has no downsides).
 

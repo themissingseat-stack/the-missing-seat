@@ -4,7 +4,7 @@
 
 - Author: Jansen Bowden / The Missing Seat, developed with AI assistance
 - Draft date: November 23, 2026
-- Revision: AI_PROFITS_PUBLIC_COSTS-2026-11-23-A
+- Revision: AI_PROFITS_PUBLIC_COSTS-2026-11-25-B
 - Status: COMPLETE NARRATIVE DRAFT / RESEARCH AND INDEPENDENT REVIEW HOLD
 - Editorial priority within these five commissions: 3
 - Territory: United States
@@ -28,9 +28,21 @@ An AI company can announce a new computing facility with a promise of investment
 
 Nvidia's November 17 earnings release reported $115.8 billion in quarterly revenue, including $107.6 billion from its data-center business. These are sales figures, and the category reaches beyond AI alone. They show the commercial scale of supplying the computing expansion. They do not show a local household's benefit, a developer's net profit or the complete public cost of a particular project. [1]
 
+Nvidia's leadership reversal adds another accountability question to the same expansion. Its SEC filing records the board's reinstatement of Jensen Huang on November 22; the company announced the return publicly on November 23. Nvidia says it received senior U.S. government input on national-security risk while its independent committee's investigation continues. A decision to restore the chief executive therefore should not be described as the completed result of that investigation. [4, 5]
+
+In CNBC's November 23 interview, Trump said he had spoken with the board directly and indirectly and claimed a role in securing Huang's return. That establishes his public account of intervention. It does not establish that all investigators had finished their work or that the board's assurances resolved every question. The public needs the decision timeline, the identity and authority of officials supplying assurances, and an explanation of what the board knew when it acted. [6]
+
+There is a market-information question as well. Who learned about the reversal before the announcement, and did anyone trade on information unavailable to the public? Those are questions for records and investigation. A price increase cannot identify who bought, who sold or how much anyone realized. This article has not established profitable trades by Trump or associates, and does not allege unlawful insider trading.
+
+Public ownership reports offer partial windows. Covered insiders generally report relevant transactions on Form 4 within two business days, subject to exceptions. Form 13F gives quarterly holdings information for covered investment managers; it is not a complete transaction log or a list of everyone who benefited. An inquiry needs disclosure timestamps, relevant stock and options activity, ownership records and evidence about access to information. A fortunate trade alone does not establish unlawful conduct. [7, 8]
+
+These questions concern different parts of the AI economy. Presidential influence and disclosure affect corporate accountability and investors. Utility tariffs decide whether infrastructure risk reaches electricity customers. Neither question answers the other, but both require following the authority that assigns benefits and burdens rather than assuming a rising market proves a public benefit.
+
 The mechanism worth following is electricity cost allocation. FERC's Office of Public Participation explains that large-load connections can significantly affect transmission planning and operations. Its educational account describes the interaction between federal transmission regulation and state decisions affecting retail customers. The actual payment obligation comes from applicable orders, tariffs and agreements. An educational explanation helps readers find those records. [2]
 
 On June 18, FERC directed six regional grid operators and relevant transmission operators to justify or reform their rules for connecting large users. Its announcement combined faster access to electricity with ratepayer safeguards. That combination needs examination in each resulting proceeding. Investor certainty and consumer protection can appear in the same announcement while the detailed allocation remains contested. [3]
+
+Ohio supplies a concrete example of the protection a contract can provide. AEP Ohio says its data-center tariff took effect in July 2025. The utility's current explanation requires reimbursement of buildout costs if a customer cancels, or delays beyond the specified period, before energization. The Ohio Consumers' Counsel describes minimum capacity payments intended to prevent costs from shifting to other customers, and reports an industry appeal filed in November 2025. Those provisions are evidence of a designed safeguard, not a measured dollar reduction on every residential bill. Current appeal disposition still needs checking. [9, 10]
 
 The questions are specific. Which upgrades serve the proposed customer? What commitment requires that customer to pay? How much security is provided if it withdraws? Who pays for capacity built ahead of its arrival? Are the assumptions public enough for a consumer advocate to test? An existing residential customer cannot negotiate an individual contract with the company responsible for the new demand.
 
@@ -56,11 +68,19 @@ Identify your electric utility and state regulator. Ask the consumer advocate fo
 
 The main accountability question is which contract or tariff assigns infrastructure costs and risk, and whether households have meaningful representation before approval.
 
-## Receipts
+## Sources
 
 1. [Nvidia, November 17, 2026, quarterly earnings](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/)
 2. [FERC Office of Public Participation, large-load cost transparency educational guidance](https://www.ferc.gov/cost-transparency-customer-protection)
 3. [FERC, June 18, 2026, large-load proceedings announcement](https://www.ferc.gov/news-events/news/ferc-launches-aggressive-targeted-action-speed-large-load-integration)
+
+4. [SEC, Nvidia8-K, decision November22, filed November23](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm)
+5. [Nvidia, November23 reinstatement announcement](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx)
+6. [CNBC/Versant, November23 interview transcript, labeled unofficial by issuer](https://pressroom.versantmedia.com/cnbc/press-releases/cnbc-transcript-president-donald-trump-speaks-cnbcs-eamon-javers-and-squawk)
+7. [SEC, Form4 instructions](https://www.sec.gov/files/form4.pdf)
+8. [SEC Investor.gov, Form13F explanation](https://www.investor.gov/introduction-investing/investing-basics/glossary/form-13f-reports-filed-institutional-investment)
+9. [AEP Ohio, Data Center Tariff](https://www.aepohio.com/company/about/rates/data-center-tariff/)
+10. [Ohio Consumers' Counsel, case24-0508-EL-ATA](https://occ.ohio.gov/content/data-center-costs-24-0508-el-ata)
 
 ## Accountability record
 
@@ -70,15 +90,21 @@ The main accountability question is which contract or tariff assigns infrastruct
 
 ## Facebook: English
 
-The AI expansion has customers and suppliers earning revenue. It also needs electricity infrastructure, and somebody has to pay for it.
+Nvidia reinstated Jensen Huang on November 22 and announced his return the following day. The company says senior U.S. government input helped inform its decision while an independent investigation continues. Trump told CNBC he intervened with the board.
 
-Before a new data center is approved, ask which upgrades it requires, what the company has committed to pay and who carries the cost if it changes its plans. Those answers are in utility proceedings and contracts.
+That leaves a public record to examine: who supplied the assurances, when the decision changed, who knew before disclosure and whether relevant trading deserves investigation. This article has not established profitable trades by Trump or associates or unlawful insider trading.
 
-Your state's consumer advocate can help identify the docket. A promise of investment deserves a public account of household costs.
+The AI expansion also needs electricity infrastructure. Ohio's data-center tariff shows one way to assign cancellation and capacity risks to large customers. Other communities need to inspect their own utility agreements before assuming households are protected.
+
+Follow both records: the corporate decision and disclosure timeline, and the tariff determining who pays for expansion.
 
 ## Instagram: English
 
-Who pays for the grid upgrades a data center needs? Who carries the cost if it never opens? Look for the utility docket, payment guarantees and regulator's decision. The AI boom's public cost needs an account as clear as its corporate revenue.
+Nvidia brought Jensen Huang back while an independent investigation continues. Trump told CNBC he intervened with the board.
+
+The accountability questions include who supplied the assurances, who knew before disclosure and what the trading records actually show. Profitable trades by Trump or associates have not been established in this article.
+
+The AI boom also needs electricity infrastructure. Ask your utility regulator which agreement protects households if a large data-center project changes its plans.
 
 ## Social handoff
 
@@ -139,3 +165,11 @@ NOT STARTED. Draft branch only. No production HTML, website release, automatic d
 ## Next revision
 
 Resolve the specific Gate 1 gaps, finish visual research and approved metadata, record the exact independently reviewed revision, rerun final editorial and voice checks, and reconcile approved status in the main ledger through the normal process.
+
+## November25 revisionB review
+
+Gate1 HOLD: reopened SEC8-K and Nvidia announcement; read CNBC/Versant issuer transcript (unofficial), SEC Form4 and13F guidance, AEP tariff explanation and OCC case summary. Integrated reinstatement, reported presidential intervention, advance-information/trading inquiry and Ohio cost safeguards into narrative and both social drafts. Article does not establish insider trading or realized profits. Current Ohio appellate disposition, operative tariff/order text, quantified household exposure, original revenue/FERC source refresh and broader archive comparison remain pending. These new opened URLs are sources4–10 above. Reuters direct page failed; CNBC issuer transcript supports attributed intervention account.
+
+New lead: Guardian November24 programme alleges presidential gains; underlying ownership/valuation records not inspected. Do not report no evidence exists generally. URL: https://www.theguardian.com/news/video/2026/nov/24/trump-makes-millions-after-pushing-nvidia-to-reinstate-huang-the-latest . Verify holdings, timing, valuation basis and realized versus unrealized gains before any claim. Earlier November23 update remains historical notes; narrative is current draft position.
+
+Separate GP provisional Gate2 HOLD: read expanded narrative and exact social strings; distinct governance/disclosure and electricity-cost mechanisms explicitly separated; questions do not imply guilt. Specific Ohio safeguard supplies counterevidence to blanket cost-shifting claims. FB919,IG511 before future URL/credit. Final visual, metadata, actual payload and independent review remain pending. Old Instagram character count is superseded. No release or queue approval.

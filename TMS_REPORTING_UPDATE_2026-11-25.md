@@ -28,3 +28,4 @@ Jansen authorized Claude to publish both cleared editorials to the website while
   2. Independently re-check both live pages.
   3. Update PUBLISHER_STATUS.md.
 - **Independent review gap:** these page builds are Claude's own work. GP did not review the HTML before release. The editorial text was double-reviewed; the HTML conversion was not.
+- **Live verification (08:46 UTC, Claude):** both canonical URLs return HTTP 200 on themissingseat.org (they redirect to the extensionless paths). The corrected text is present: "maternal causes", "14 percent of Black women", "16 U.S. surveillance sites" and the biography attribution. The removed personal details are absent. Home, archive, all three topic pages, feed and sitemap list the new URLs. GitHub Pages build for ccfbdbb: success.

@@ -1,151 +1,138 @@
 # We Can't Take Our Blackness Off at the End of the Day
 
 ## Publication metadata
-
 - Author: Jansen Bowden / The Missing Seat, developed with AI assistance
 - Draft date: November 23, 2026
-- Revision: BLACK_FATIGUE_WEATHERING-2026-11-25-B
-- Status: COMPLETE NARRATIVE DRAFT / RESEARCH AND INDEPENDENT REVIEW HOLD
-- Editorial priority within these five commissions: 1
+- Revision: BLACK_FATIGUE_WEATHERING-2026-11-25-C
+- Status: REVISED FULL DRAFT / INDEPENDENT FINAL REVIEW HOLD
+- Editorial priority: urgent first
 - Territory: United States
 - Slug: black-fatigue-weathering-cost-of-enduring
-- Seat affected: Black people carrying racial stress and the institutions responsible for reducing it
-- Seat status: pending selection from the approved vocabulary
+- Seat affected: Black people carrying racial stress; institutions controlling avoidable burdens
+- Seat status: Seat Blocked
 - Publication date: unassigned
-- Canonical production URL: unassigned; do not submit social copy before live verification
+- Canonical production URL: unassigned; source is not released
+- Excerpt: Black fatigue names an accumulating burden. Weathering research examines physical strain, with findings and limits that institutions should take seriously.
+- social_visual_policy: v1
+- image_url: none
+- image_credit: none
+- image_license: none
+- image_creator: none
+- image_archive: none
+- image_rights_statement: none
+- image_license_evidence: none
+- image_alt_text: none
+- preferred_source_link: https://midus.wisc.edu/wp-content/uploads/2024/04/3123.pdf
+- photo_fallback_reason: Searched Library of Congress civil-rights photographs and opened item2013648827 and its pictures record; original item requests failed403/inaccessible. Search excerpt alone is insufficient for subject/rights inspection. Winters Group book image has no verified reuse permission. Use a cream text card rather than an unverified photograph.
 
 ## The Short Version
+What happened: Research on accumulated adversity helps explain why a conversation about Black exhaustion belongs in health and institutional accountability. The evidence includes both longstanding racial health differences and mixed newer results about a particular biological pathway.
 
-What happened: Jansen's account of exhaustion raises a documented question about cumulative racial stress and health.
+Who it affects: Black people carrying racial stress, their families, and employers and services responsible for responding to discrimination.
 
-Who it affects: Black adults and families, including people whose outward success conceals an accumulating burden.
-
-What you can do: Seek appropriate care for persistent symptoms, preserve complaint deadlines and ask institutions what conditions they will change.
+What you can do: Seek appropriate care for persistent symptoms, check external complaint deadlines promptly, and ask institutions for a named investigator, protection against retaliation and a written account of what changed.
 
 ## Website editorial
 
-The workday can end before the effort of dealing with racism does. A person may still be thinking about an encounter, deciding whether to complain or preparing to explain why it mattered. Black fatigue gives a name to that accumulating burden. Weathering research asks a further question: how does sustained adversity register in physical health?
+The workday can end before the effort of dealing with racism does. Someone may still be thinking about an encounter, deciding whether to complain or preparing to explain why it mattered. The next morning can arrive with the same calculation waiting. Black fatigue gives language to that accumulating burden. Weathering research asks a further question about health: what happens when adapting to adversity keeps demanding more from the body?
 
-That is the human reason for this story. A person can keep working, laughing and showing up while carrying something that deserves attention. Friends may see the functioning person and assume the cost must be manageable. Institutions can make the same mistake, measuring whether somebody remained at work while overlooking what the workplace demanded of them.
+This follows an earlier TMS article about Black strength and psychological strain. Here the focus is the biological evidence and the decisions that follow from it. Being able to describe a possible mechanism can help people understand an experience. It can also create a new problem if an institution starts expecting a person to supply medical proof before it will examine mistreatment.
 
-Mary-Frances Winters explored this experience in her 2020 book, Black Fatigue: How Racism Erodes the Mind, Body, and Spirit. Her work describes the burden of living with systemic racism. Weathering comes from a related scientific tradition. Arline Geronimus developed the hypothesis that repeated social and economic adversity and political marginalization can produce earlier deterioration in health. The terms meet at accumulated burden, although a book's social description and a population-health hypothesis do different kinds of work. [1, 2]
+Mary-Frances Winters explored the accumulated burden in her 2020 book, Black Fatigue: How Racism Erodes the Mind, Body, and Spirit. Her account gives a social experience a name. Arline Geronimus's weathering hypothesis comes from population-health research on earlier deterioration under sustained adversity. Neither term means that Blackness itself is an illness or that every Black person has the same experience. [1, 2]
 
-In a 2006 study, Geronimus and colleagues examined biological indicators in U.S. adults aged 18 to 64. Black participants had a greater probability of high allostatic load, a composite measure of strain across biological systems. Poverty differences did not account for the racial pattern. This is one observational study using an earlier national survey, with limits on what it can establish about mechanisms or any particular person's health. Its significance is that researchers examined what sustained adaptation may cost the body. [2]
+An influential 2006 study by Geronimus and colleagues used national survey data from 1999 to 2002 for Black and white adults aged 18 to 64. The researchers combined ten biological indicators, including blood pressure and measures drawn from blood samples, into an allostatic-load score. The idea was to examine strain across several bodily systems. Black participants had higher average scores, and poverty differences did not explain the racial gap. Black women carried a particularly large burden in that analysis. [2]
 
-A 2015 systematic review and meta-analysis by Yin Paradies and colleagues assembled 293 studies. Reported racism was associated with poorer mental health, including depression, anxiety and psychological stress. The evidence also had limitations, including differences between study designs and stronger associations in cross-sectional than longitudinal data. Taking the findings seriously means giving racial exposure a place in the health conversation while investigating other contributors to symptoms. [3]
+The measure needs explaining because the phrase can sound more definitive than it is. Allostatic load is a research index assembled from selected indicators. In this study, scoring choices included how to count people taking medication, and the authors tested alternative approaches. The racial pattern persisted, but the score did not identify a particular discriminatory encounter as the cause of anyone's condition. Group differences provide evidence to investigate; they do not supply an individual diagnosis. [2]
 
-These findings need to be read alongside newer, less conclusive results. A journal meta-analysis published online in December 2025 examined discrimination and allostatic load among Black adults aged 40 and older. Its pooled result was not statistically significant, and study results varied substantially. A related conference abstract reported a significant association using a different set of studies. Those records should not be treated as interchangeable confirmations. The biological evidence deserves attention and further investigation, with its uncertainty visible. [5, 6]
+A 2019 systematic review examined 41 studies testing weathering across physical-health outcomes. The findings generally supported the hypothesis, but most studies used a cross-sectional design, comparing people at a particular time. That makes it harder to establish how exposure and illness developed over an individual's life. The reviewers also identified potential selection bias and limits in the literature they could capture. Weathering is a serious research framework, with questions still open about mechanisms and measurement. [3]
 
-A group-level health pattern also cannot tell a clinician what is causing one person's exhaustion. Readers deserve an account that leaves room for the range of Black lives and for individual assessment. Persistent fatigue, distress or sleep problems warrant care that considers the person's circumstances alongside other possible causes. No private medical history is being used to diagnose the author.
+Newer work makes that caution especially useful. A journal review by Alaa Harb and colleagues, published online in December 2025 and in a 2026 issue, examined perceived discrimination and allostatic load among Black adults in midlife and older age. Five studies qualified for the review; four could be combined in its meta-analysis. The pooled association was not statistically significant, and results varied substantially. The authors discuss differences in exposure measures, biological indicators and study design, alongside the small evidence base. [4]
 
-There is also a political choice in where we place the remedy. An employer can offer a wellbeing seminar while leaving the manager named in a discrimination complaint in control of the employee's schedule. A service can offer a referral while making an appointment unaffordable. These are illustrative mechanisms, not reported cases. They show why counting services offered tells us less than following what happened to the person who needed help.
+That finding cannot establish that discrimination has no health consequences. It does mean this narrower set of studies did not produce a reliable pooled estimate of the association being tested. Comparing Black and white health patterns, studying self-reported unfair treatment within a Black population and diagnosing one person's fatigue are different tasks. A responsible article should not slide between them as though one answer settles all three.
 
-Institutions should be asked for a defined response. Who investigates complaints? What protects the complainant from retaliation? Does the problem stop, and what practical support reaches the affected person? The answer should include accountability for whoever controls the conditions. Colleagues can share the work of challenging discrimination without making a Black employee lead every conversation.
+For a person trying to get through the week, those distinctions matter. Exhaustion deserves an assessment that takes lived stress seriously and considers other possible causes. A clinician needs the person's history and symptoms. A manager investigating discrimination needs evidence about conduct and working conditions. Neither process is helped by declaring every symptom proof of racism, or by treating an unsettled biological estimate as a reason to dismiss a complaint.
 
-There is room for joy inside this account. There is room for humor, ordinary boredom and days when race is nowhere near the front of someone's mind. There must also be room to say that a burden is heavy without being assigned another performance of strength. When a person tells us they are exhausted, the next useful question is what can be taken off their shoulders.
+There is also a question of who carries the work. Consider an illustrative employer that offers a wellbeing seminar while leaving the manager named in a complaint in control of the employee's schedule. The seminar might be useful, but it does not answer whether the conduct stopped or whether reporting it made the employee's position worse. Responsibility for the conditions belongs with the people who can investigate and change them. The person affected should not have to carry every part of that response.
+
+Institutions benefit from work continuing. When an employee keeps delivering, management can mistake continued output for evidence that the situation is tolerable. That is an accountability concern, not a finding that every employer deliberately exploits racial stress. It calls for a more useful record: who received the complaint, who investigated, what protection was offered, what decision followed and whether the person still faces the same problem.
+
+For U.S. workers, waiting for an internal response can have practical consequences. EEOC guidance generally gives a 180-day charge deadline, extended to 300 days where qualifying state or local protections apply. Federal employees and applicants generally have a separate 45-day deadline to contact an agency EEO counselor. Exceptions and details matter. Internal grievances generally do not stop the external clock, so check the applicable process promptly. [5, 6]
+
+A useful institutional response would name the responsible office, explain the next step and provide a way to raise retaliation concerns without returning to the same person. It would follow the result rather than simply count training sessions or referrals. These are proposed accountability measures, not a claim that a particular programme has already reduced illness. Evaluation should ask what burden was removed and what remains.
+
+Black lives contain joy, ambition, humor and ordinary days alongside whatever adversity a person encounters. Nobody should have to perform exhaustion to be believed, or perform strength to stay welcome. The practical obligation is to listen, investigate the conduct and reduce avoidable pressure. Better evidence can improve that work; waiting for a perfect biological measure should not become another excuse to leave it undone.
 
 ## Pull Up A Chair
-
-For persistent exhaustion or distress, ask a qualified clinician to consider both symptoms and lived stress. For a U.S. employment complaint, consult EEOC promptly about the applicable filing deadline and process. Federal workers have a separate process. An internal complaint should not be assumed to preserve an external deadline. Institutions should report the response, protection and outcome, with privacy safeguards.
+If exhaustion persists, arrange an appropriate health assessment and describe both symptoms and the circumstances affecting you. For an employment concern, keep a dated record of conduct and responses, protect private information and check EEOC's applicable process promptly. Do not assume an internal complaint preserves an external deadline. Ask the institution who is responsible for investigation, what protection is available and when you will receive a response.
 
 ## Resources: United States
-
-- [Winters Group, September 15, 2020, book announcement](https://www.wintersgroup.com/black-fatigue-is-available-now/)
-- [Geronimus et al., American Journal of Public Health, 2006, weathering study](https://pubmed.ncbi.nlm.nih.gov/16380565/)
-- [Paradies et al., PLOS ONE, 2015, systematic review and meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC4580597/)
-- [EEOC, filing a charge and process distinctions](https://www.eeoc.gov/how-file-charge-employment-discrimination)
+- [EEOC: How to File a Charge of Employment Discrimination](https://www.eeoc.gov/how-file-charge-employment-discrimination)
+- [EEOC: Time Limits for Filing a Charge](https://www.eeoc.gov/time-limits-filing-charge)
+- [Harb et al.: full journal review, hosted by the University of Wisconsin MIDUS project](https://midus.wisc.edu/wp-content/uploads/2024/04/3123.pdf)
+- [Earlier TMS article: America Keeps Measuring Black Anger. Who Is Measuring Black Strength?](https://themissingseat.org/black-strength-mental-cost-racism.html)
 
 ## Seat Summary
-
-Black fatigue describes an experience of accumulated burden. Weathering research investigates patterns of physiological strain. A useful response includes appropriate care and changes to the conditions producing avoidable stress.
+Black fatigue describes accumulated burden. Weathering examines how sustained adversity may affect physical health. The research merits attention without making a biological score a condition for care or a fair investigation.
 
 ## Sources
-
-1. [Winters Group, September 15, 2020, book announcement](https://www.wintersgroup.com/black-fatigue-is-available-now/)
-2. [Geronimus et al., American Journal of Public Health, 2006, weathering study](https://pubmed.ncbi.nlm.nih.gov/16380565/)
-3. [Paradies et al., PLOS ONE, 2015, systematic review and meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC4580597/)
-4. [EEOC, filing a charge and process distinctions](https://www.eeoc.gov/how-file-charge-employment-discrimination)
-
-5. [Harb et al., journal systematic review and meta-analysis, online December 4, 2025; PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/41370963/)
-6. [Harb et al., related conference abstract, December 25, 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12740308/)
-7. [EEOC, Time Limits for Filing a Charge](https://www.eeoc.gov/time-limits-filing-charge)
+1. [The Winters Group, September15,2020: Black Fatigue book announcement](https://www.wintersgroup.com/black-fatigue-is-available-now/). Establishes author, title, date and the book's stated subject; not a clinical trial.
+2. [Geronimus, Hicken, Keene and Bound, AJPH96(5),2006: Weathering and Age Patterns of Allostatic Load](https://longevity.stanford.edu/wp-content/uploads/2019/10/Allen-Geronimus_-AL-scores.pdf). Full primary paper, Stanford-hosted copy; methods pp826–827, findings/discussion pp829–831.
+3. [Forde et al., Annals of Epidemiology33,2019: The Weathering Hypothesis as an Explanation for Racial Disparities in Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC10676285/). Full review; distinguish 2019 publication from 2023 PMC availability.
+4. [Harb et al., Psychoneuroendocrinology184,2026,107714: Discrimination and Allostatic Load in Black Middle-aged and Older Adults](https://midus.wisc.edu/wp-content/uploads/2024/04/3123.pdf). Full journal paper; online December4,2025; meta-analysis section3.4 and limitations section4.1.
+5. [EEOC: Time Limits for Filing a Charge](https://www.eeoc.gov/time-limits-filing-charge). Opened November25,2026.
+6. [EEOC: How to File a Charge](https://www.eeoc.gov/how-file-charge-employment-discrimination). Opened November25,2026.
 
 ## Accountability record
-
-| Decision or obligation to examine | Responsible actor | Evidence or result to obtain |
+| Issue | Responsible actor | Record or change sought |
 |---|---|---|
-| We Can't Take Our Blackness Off at the End of the Day | Institutions identified in the article | For persistent exhaustion or distress, ask a qualified clinician to consider both symptoms and lived stress. For a U.S. employment complaint, consult EEOC promptly about the applicable filing deadline and process. Federal workers have a separate process. An internal complaint should not be assumed to preserve an external deadline. Institutions should report the response, protection and outcome, with privacy safeguards. |
+| Discrimination complaint | Employer's investigating office and senior management | Named investigator, dated steps, decision, response to retaliation concerns |
+| External filing clock | Worker with EEOC or qualified adviser | Applicable process/deadline; internal procedure is not presumed to pause it |
+| Institutional support | Employer or service leadership | Measure whether the harmful condition changed and useful support reached the person |
+| Biological claims | Researchers, clinicians and publication | Separate group patterns, exposure associations and individual diagnosis; disclose uncertainty |
 
 ## Facebook: English
 
-We can't take our Blackness off at the end of the day. For some of us, ordinary life comes with another layer of calculation, explanation and exhaustion.
+A person can be exhausted by racism while still working, laughing and getting through the day. Black fatigue describes that burden. Weathering research asks how sustained adversity may register in physical health.
 
-Black fatigue gives language to that burden. Weathering research asks how repeated adversity can show up in the body. Both deserve careful attention, alongside care that takes a person's symptoms seriously.
+The evidence deserves care. An influential national study found racial differences in biological strain that poverty alone did not explain. A newer, narrower meta-analysis found no statistically significant pooled association between discrimination and allostatic load among Black adults in midlife and older age. Those studies ask different questions.
 
-When institutions praise resilience, ask what they are doing to reduce the burden. Who investigates discrimination, protects the person raising it and follows up on what changed?
+Neither a blood result nor a research label should become the price of having a discrimination complaint taken seriously. Employers should explain who investigates, how the employee is protected and what changes afterward. People with persistent exhaustion also deserve care that considers their circumstances and other possible causes.
+
+Our article follows what the measures show, where the uncertainty remains and what institutions can do now.
 
 ## Instagram: English
 
-Keeping going can hide what keeping going costs. Our new article examines Black fatigue, weathering research and the difference that practical support and institutional change could make. We deserve a conversation that takes exhaustion seriously.
+Black fatigue describes an accumulating burden. Weathering research investigates whether sustained adversity can register in physical health.
+
+The evidence includes important racial health differences and mixed findings about specific biological pathways. It cannot diagnose one person's exhaustion.
+
+A person should not need a biological test to have discrimination taken seriously. Ask the institution who investigates, what protects the person raising the complaint and what will change.
 
 ## Social handoff
+Draft English strings only. Facebook 1014 characters and Instagram 490 before the future canonical URL and any final credit. No Markdown, smart punctuation, default hashtags, emojis or stock closing in these strings. Canonical URL is unassigned because production HTML is not released. Add exact URL, apply Instagram link-in-bio wording, recount final payload and verify links before delivery. No Buffer action or public preview occurred.
 
-Draft platform texts above are English for this U.S. story. Add the verified canonical article URL and required visual credit at release, then inspect and measure the exact final payload. No platform delivery or preview has occurred. No German exports are represented as complete.
+## Visual sourcing record
+November25,2026, GP: searched site:loc.gov item civil rights march No known restrictions. Located Civil Rights March on D.C., item2013648827. Attempted original item https://www.loc.gov/item/2013648827/ and https://www.loc.gov/pictures/item/2013648827/; original rights/subject inspection failed403/inaccessible. Search excerpt reports no known restrictions but does not meet item-inspection requirement or establish public domain. Winters Group page displays a book image without reusable image permission verified here. No photograph approved. Cream text fallback specifically requested; no synthetic documentary imagery.
 
-## Visual research and provenance
-
-Image research is pending. No licensed photograph or documented text-card fallback is approved for this revision. Follow TMS_SOCIAL_VISUAL_SCHEMA.md and supply item-level rights evidence. Do not infer a license from an institutional website or use synthetic documentary imagery.
-
-## Gate 0: scope and originality
-
-Draft commission, not a publication count. Read the full existing black-strength-mental-cost-racism.html from repository main. Its psychological-stress, vigilance and care-access material overlaps. The proposed new contribution is weathering/allostatic load, differentiated concepts and an institutional burden-reduction account. Final editorial comparison remains necessary.
+## Gate 0: originality and scope
+GP, November25, revisionC. Compared complete existing main manuscript black-strength-mental-cost-racism.html. Older article covers psychological distress, vigilance/sleep, treatment access, strength and support. This article adds biological index construction, inference limits, 2019 weathering synthesis and 2026 journal counterevidence, connecting measurement to complaint accountability. Distinct educational contribution identified; independent reviewer must assess whether the final balance sufficiently avoids repetition. This is an explanatory editorial, not a claim that a new study was released today.
 
 ## Gate 1: evidence review
+GP, November25,2026, revisionC: factual source pass completed for claims retained in this revision. Opened/read primary 2006 paper methods and results/discussion, 2019 review methods/results/discussion, full Harb journal methods/results/limitations, Winters announcement and both EEOC pages. Full-text access gaps resolved through Stanford and MIDUS university copies. Findings and limitations are attributed; no personal diagnosis, invented first-person testimony, causal certainty or new policy outcome claimed. EEOC exception/process scope retained.
 
-HOLD. GP research pass, November 23, 2026, revision A. Sources listed above were located in current research; directly opened content varies. Specific gaps are retained rather than described as completed checks.
+The related Alzheimer's & Dementia conference abstract remains a research note, not narrative evidence: https://pmc.ncbi.nlm.nih.gov/articles/PMC12740308/ . It has different included-study/pooled figures from the full journal paper. This revision relies on the journal's identifiable result and does not invent why the records differ. Journal section3.4 explicitly combines four studies; later limitations text loosely calls five studies meta-analyzed. Used section3.4 plus abstract, not the loose sentence. No correspondence with authors occurred.
 
-Urgent first priority. Opening is adapted authorial prose, not a verbatim quote. Confirm authorial approval of adaptation at independent review. Geronimus full text presented a CAPTCHA; abstract available through search, full methodological read pending. Compare final body with the existing Black Strength article and obtain newer research. Medical review and independent final editorial review outstanding.
+Overall release status remains HOLD pending independent final review and release checks. This evidence pass is GP's, not a clinical specialist's or Claude's approval.
 
-The draft's receipt numbers identify supporting sources, not blanket verification of every proposition. No medical diagnosis, present benefit eligibility, enacted new relief or adjudicated constitutional conclusion is established by this draft.
+## Gate 2: separate hostile-reader, Regular Joe and final voice pass
+GP self-review, November25, revisionC: inspected complete narrative after evidence pass and exact FB/IG strings. Removed stale author-approval blocker after deleting invented first-person adaptation. Replaced generic table with specific actors and records. Developed the measurement argument and distinguished counterevidence from denial of all health effects. Concrete EEOC process remains conditional. Institutional examples and suggested reporting requirements are explicitly illustrative/proposed. No generic slogan ending; paragraph structure retained.
 
-## Gate 2: provisional hostile-reader and Regular Joe review
-
-PROVISIONAL / HOLD. Separate GP read of the complete narrative and literal English social strings, November 23, 2026, revision A.
-
-The opening identifies a concrete human burden. The draft explains actors, consequences and a reader route, and labels recommendations as proposals. Safe edits incorporated before saving include removing unsupported motives and automatic outcome claims, differentiating current rules from proposed changes, and retaining source limits.
-
-Article-specific issues requiring final review: Urgent first priority. Opening is adapted authorial prose, not a verbatim quote. Confirm authorial approval of adaptation at independent review. Geronimus full text presented a CAPTCHA; abstract available through search, full methodological read pending. Compare final body with the existing Black Strength article and obtain newer research. Medical review and independent final editorial review outstanding.
-
-Facebook and Instagram are distinct paragraph-based texts. Instagram draft length is 246 characters before a future URL/credit. Neither draft contains Markdown, smart quotes, em dashes or default hashtags. Final URL, credit, rendering and length checks remain necessary.
-
-This is a provisional self-review, not Claude's independent review and not final Gate 2 PASS. A reviewer must assess this exact revision after factual corrections.
+Self-review complete; INDEPENDENT FINAL REVIEW HOLD. No independent Claude review was obtained. This record is not a final independent Gate2 PASS. Remaining reviewer task: assess originality versus Black Strength, scientific framing and paragraph-level clarity on this exact revision. Do not manufacture a review or queue eligibility.
 
 ## Gate 3
+NOT STARTED. No production HTML, website release, main-queue eligibility, database edit or Buffer submission. Source draft only. Perform release-day verification, final payload/metadata validation and public page checks after required reviews.
 
-NOT STARTED. Draft branch only. No production HTML, website release, automatic discovery, Buffer submission or live claim. Urgent Black Fatigue gets first consideration when its complete release gates pass.
-
-## Next revision
-
-Resolve the specific Gate 1 gaps, finish visual research and approved metadata, record the exact independently reviewed revision, rerun final editorial and voice checks, and reconcile approved status in the main ledger through the normal process.
-
-## November 25 continuation research and separate provisional review
-
-Revision B; GP. These changes are draft-only and do not supersede unresolved release gates above.
-
-Evidence pass HOLD: directly opened Winters Group announcement, Geronimus PubMed abstract, Paradies full-text record, EEOC time-limit guidance, Harb journal PubMed abstract and related conference abstract. The 2006 PMC full text still returned CAPTCHA; Maryland repository item supplies bibliographic information but no readable manuscript. Journal review and conference abstract report differing included-study counts and pooled findings. Added the journal's non-significant result and explicitly distinguished records; full journal methods and reconciliation remain pending. No clinical reviewer or Claude approval is represented.
-
-Originality: reread complete main-branch black-strength-mental-cost-racism.html. Existing article already covers racial stress, vigilance, sleep, care access, resilience and institutional support. A separate article must develop biological measurement, limits of causal inference and newer mixed findings; changing the title and repeating the support argument is insufficient. Current expanded evidence moves that comparison forward but final distinctness review remains HOLD.
-
-Separate provisional hostile-reader/voice pass HOLD: inspected revised narrative. Removed invented first-person adaptation and embedded production note; opening now uses general explanatory prose without attributing unapproved words to Jansen. Changed the book attribution to avoid implying Winters originated all earlier fatigue terminology. Added counterevidence rather than selecting only positive results. No personal medical history is used. The existing accountability table remains generic and needs named obligations or a clearly framed institutional proposal. Visual research, approved Seat Status, canonical URL and exact final social payload remain unfinished. No final Gate 2 PASS.
-
-Source URLs actually opened November 25:
-- https://www.wintersgroup.com/black-fatigue-is-available-now/
-- https://pubmed.ncbi.nlm.nih.gov/16380565/
-- https://pmc.ncbi.nlm.nih.gov/articles/PMC1470581/ (CAPTCHA only)
-- https://drum.lib.umd.edu/items/2717a14a-ea58-45f9-ab4b-ba82129b6d99 (bibliography only)
-- https://pmc.ncbi.nlm.nih.gov/articles/PMC4580597/
-- https://pubmed.ncbi.nlm.nih.gov/41370963/
-- https://pmc.ncbi.nlm.nih.gov/articles/PMC12740308/
-- https://www.eeoc.gov/time-limits-filing-charge
-
-No website release, queue approval, Buffer submission or independent review obtained in this revision.
+## Revision history
+A, November23: initial saved draft, research and independent-review HOLD.
+B, November25: removed unapproved authorial adaptation; added newer mixed findings; provisional review.
+C, November25: full-text source gaps resolved; substantive biological-measurement narrative expanded; current review records replace stale blockers; visual sourcing attempt/fallback and distinct social drafts documented. Independent final review remains outstanding.

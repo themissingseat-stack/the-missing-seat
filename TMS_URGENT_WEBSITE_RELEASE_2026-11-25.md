@@ -1,13 +1,11 @@
-# Urgent website release instruction — November25,2026
+# Urgent website releases — authoritative November25 handoff
 
-Jansen explicitly requests Black Fatigue and the current autism commission on the website as soon as possible, and reaffirms that two website stories per day are allowed. Preserve mandatory factual and separate editorial reviews; the two-story allowance must not itself be used as a reason to delay either eligible story. No additional publication permission is needed.
+Jansen requests Black Fatigue first and Tiffany Hammond's autism book feature second as soon as they clear release checks. Two website editorials/day are authorized. No further publication permission is required.
 
-Priority1: We Can't Take Our Blackness Off at the End of the Day. Recover Claude's approximately1700-word revisionB and its seven Gate1 checks; combine with verified GP source repairs without silently replacing the longer manuscript with GP's990-word versionC. Personal sexuality/mother passages remain omitted unless explicitly authorized. Missing source text is an actual blocker to that reconciliation, not a request for publication permission.
+Both authoritative attachments are now saved verbatim and verified by exact content/blob comparison. Black Fatigue is Claude's attached revisionC, replacing all earlier drafts. Personal-detail exclusion is final; approved opening/close voice retained. Hammond's attached pre-release package replaces the unsaved November19 version. Missing-manuscript recovery is no longer a blocker.
 
-Priority2: He Didn't Need to Change to Belong. The World Needed to Make Room., the Tiffany Hammond How Do You Spell Belong? feature. This is the currently resolved autism commission, separate from existing You Don't Look Autistic. Recover November19 manuscript; describe forthcoming book using released publisher material, verify January26,2027 date and do not claim a full-book review. No separate old-article repost.
+See TMS_FATIGUE_HAMMOND_GATE1_REVIEW_2026-11-25.md for all seven and five factual checks, source evidence and exact proposed corrections. Jansen requires factual changes returned to Claude before release. Supplied Claude Gate2 is conditional on those checks, not final approval of unseen changes. Current documents remain verbatim while that review is outstanding.
 
-Recovery attempts November25: PR82 and existing files checked; targeted Library title/content and accessible Page search did not locate ClaudeB. Conversation retrieval returned existence/scope summaries, not either complete manuscript or seven checks. The supplied inventory is not the missing attachment. Independent final review of changed text has not been obtained.
+After correction review: apply approved exact changes, finalize canonical URLs/social payload and visual metadata, prepare HTML/home/archive/topic/feed/sitemap, respect two/day website limit, release and verify actual production content. No unrelated PR82 story is to be published merely by merging the draft bundle. No additional social slot or Buffer mutation implied.
 
-Concrete remaining release sequence: obtain manuscript text; apply evidence corrections; perform/document both actual reviews on exact final text; prepare canonical article HTML and homepage/archive/topic/feed/sitemap entries; check same-day release count; publish eligible stories within editor's two-per-day allowance; verify actual production content before reporting live. Preserve other drafts, reserves, historical articles and social IDs. User's website request does not require changing Buffer runtime or scheduling a second social slot.
-
-Status: urgent release instruction saved; manuscripts/review reconciliation HOLD; no production article release, queue readiness or Buffer submission claimed.
+Status: exact manuscripts saved; source-check packet complete with correction findings; review/release outstanding; not website live.

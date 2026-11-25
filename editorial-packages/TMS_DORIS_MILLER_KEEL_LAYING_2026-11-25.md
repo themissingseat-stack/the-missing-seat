@@ -47,14 +47,14 @@ Keeping his name on the carrier is not the same as giving Miller the honor his f
 
 The late Representative Eddie Bernice Johnson of Texas pressed for it starting in 2001. Representative Mfume has carried the effort since, with bills for both the Medal of Honor and a Congressional Gold Medal. [13] In August, three sources told reporters the Navy was strongly considering upgrading his Navy Cross. One said Secretary Hegseth had sent Congress a memo recommending it. [5] Bledsoe called the recommendation "very positive." [11]
 
-Final authorization rests with Congress and requires the president's approval. [11] Neither has happened. TMS found no public record of a final decision as of November 25.
+Mfume's bill, H.R. 2335, introduced March 25, 2025, would authorize the president to award the medal despite the normal time limits. Congress can clear the way, but the medal itself is the president's to award. [13] As of November 25, TMS found no report that the bill has passed or that the medal has been awarded.
 
-The Navy has kept its word on the ship's name. On December 5, the keel will be laid with Miller's name. The next step belongs to Congress and the White House.
+The Navy has kept its word on the ship's name. On December 5, the keel is scheduled to be laid with Miller's name on it. The next step belongs to Congress and the White House.
 
 ## Pull Up A Chair
 
 - **Ask your representative** whether they support the Doris Miller Medal of Honor bill. Find them at house.gov.
-- **Watch the keel-laying.** Newport News Shipbuilding has streamed past keel-laying ceremonies on its website.
+- **Watch the keel-laying.** The ceremony is invitation-only. HII plans to livestream it on December 5 at hii.com/events/cvn81.
 - **Teach the story.** Miller's Navy Cross citation is short enough to read aloud in a classroom.
 
 ## Resources
@@ -80,8 +80,10 @@ A Black enlisted sailor's name will stay on a nuclear aircraft carrier after a q
 9. ABC30 (Navy Cross citation; Liscome Bay); Scripps (Waco, enlisted 1939); CNN via WAFB (son of a sharecropper, Modly). https://abc30.com/story/navy-mulls-stripping-black-war-heros-name-aircraft-carrier-trump-sources/19714109/
 10. NPR, August 2026 (messman one of few jobs open to Black sailors). https://www.npr.org/transcripts/nx-s1-5950880
 11. CNN via Arizona's Family (Nimitz; Bledsoe "very positive"); CNN via Scripps (Congress and presidential approval). Receipts 4 and 5.
-12. Born October 12, 1919; died November 24, 1943. Wikipedia, Doris Miller (dates only; GP to confirm with the Naval History and Heritage Command). https://en.wikipedia.org/wiki/Doris_Miller . Liscome Bay deaths: ABC reports about 700. Article says "hundreds"; GP to confirm the figure with NHHC before adding a number.
-13. Rep. Mfume, March 25, 2025. https://mfume.house.gov/media/press-releases/congressman-kweisi-mfume-introduces-legislation-to-commemorate-african-american-world-war-ii-hero-doris-miller-0
+12. Born October 12, 1919; died November 24, 1943, age 24: NHHC (receipt 15), confirmed by GP. Liscome Bay deaths: NHHC accounts differ (642 to 702), so the article says "hundreds" and gives no number.
+13. Rep. Mfume, March 25, 2025. https://mfume.house.gov/media/press-releases/congressman-kweisi-mfume-introduces-legislation-to-commemorate-african-american-world-war-ii-hero-doris-miller-0 ; H.R. 2335 text. https://www.govinfo.gov/content/pkg/BILLS-119hr2335ih/html/BILLS-119hr2335ih.htm
+14. HII event page (December 5, Newport News; livestream). https://www.hii.com/events/cvn81
+15. NHHC biography (birth, death, enlistment). https://www.history.navy.mil/our-collections/photography/us-people/m/miller--doris.html
 
 ## Facebook: English
 
@@ -115,6 +117,8 @@ Verified against the receipts listed above. Remaining checks before release:
 1. Confirm with the Naval History and Heritage Command: birth and death dates, and the Liscome Bay death toll.
 2. On December 4 or 5, check that the keel-laying is still scheduled, or happened, and adjust the tense.
 3. Check whether there is new Medal of Honor action (a Congressional waiver or a presidential decision).
+
+**Update, November 25 evening:** GP's Gate 2 corrections were reviewed by Claude, and all were accepted and applied: the December 5 sentence now says "scheduled"; H.R. 2335 is named and its authorization is explained; the status claim is qualified; the real livestream page is given; the NHHC dates are confirmed. **Gate 1: PASS.** Release-day checks remain (event status, any new bill action).
 
 ## Gate 2
 

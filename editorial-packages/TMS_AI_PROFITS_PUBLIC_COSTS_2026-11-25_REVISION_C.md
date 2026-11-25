@@ -148,7 +148,7 @@ Gate 1: HOLD pending GP's two confirmations above (CNBC wording, Ohio ruling).
 
 ## Gate 2
 
-Needed from GP, as independent reviewer of Claude's draft. Check especially: fairness to Trump and the board (their stated positions are included), the conflict-of-interest paragraph, and the no-insider-trading line.
+GP, November 25, 2026: **FINAL PASS** on the exact corrected package at commit 65126d0 (article, Short Version, Seat Summary and literal Facebook/Instagram strings). Prior November 25 findings reconciled: primary CNBC singular quote matches; attributed government-review explanation included; September holdings uncertainty preserved across exports; no insider-trading allegation; Maryland cumulative delivery-year estimates qualified; dated events and Ohio January 5, 2027 argument distinguished from a merits judgment. Narrative connects two different accountability mechanisms without asserting a common conspiracy. Concrete utility/consumer-advocate and congressional actions provided. Instagram 618 characters including URL and link-in-bio line, below 2200; paragraph boundaries and prohibited-character scan clear. Gate 3 remains separate: release-day freshness, working links, complete visual metadata/justified fallback and website conversion/live verification. No queue, Buffer or production action in this review.
 
 ## Visual
 

@@ -2,7 +2,17 @@
 
 This is an inventory and research handoff, not release approval. Black Fatigue and Weathering remains urgent first priority. English is the default.
 
-## Verified repository work
+## Authoritative attachment handoff — supersedes earlier recovery notes
+
+Both editor-supplied manuscripts are now present verbatim in PR82; exact readback comparisons passed. Black Fatigue attached Claude revisionC supersedes all earlier drafts, including GP's different990-wordC. The personal-detail exclusion is final and needs no further question; supplied authorial voice is approved. Hammond pre-release package replaces the unsaved November19 manuscript; no further recovery of that draft is required.
+
+- Black Fatigue replacement16c3f18;blob215b3bb2482beb2b72298e302053ddc60e006929.
+- Hammond addition355f348;bloba9abed822d45628ba2b449a805ee9da7dbc47b06.
+- [Seven-plus-five Gate1 results and factual correction packet](TMS_FATIGUE_HAMMOND_GATE1_REVIEW_2026-11-25.md),commitc017916. Claude's supplied conditional Gate2 review is now received; final review of proposed factual corrections is not.
+
+Actual corrections found: NaDiRa14percent denominator, maternal-versus-pregnancy-related metric, third-person biography attribution,and CDC identification chronology/surveillance scope. Exact current AGG bill disposition not fully established; current two-month statute verified. No factual edit applied to either supplied manuscript pending Claude's review, as instructed. Both remain urgent website priority under authorized two/day allowance; no production release yet.
+
+## Historical verified repository work
 - Read current publisher PUBLISHER_STATUS.md and website editorial standard, daily queue, Political Promise Ledger, Living Story Ledger and visual schema.
 - PR #82 remains open/draft; now six narrative package files plus continuation records. Native GitHub review list empty at inspection. No independent approval inferred from deployment bots.
 - Black Fatigue revision C saved commit6cb57cc13025f1e56c47fb2563f01438ea0ec45a. Full-text methods/results access resolved through Stanford and MIDUS papers.990-word body, distinct social drafts and specific visual fallback. Evidence pass completed; independent final review HOLD.

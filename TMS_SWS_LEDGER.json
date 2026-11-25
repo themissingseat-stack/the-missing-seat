@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "track": "SWS; excluded from full editorial inventory",
   "entries": [
     {
@@ -278,5 +278,15 @@
     "2026-11-18"
   ],
   "missing_page_dates_note": "No entries with these dates in current page; does not prove drafts never existed. No invented or backdated content added.",
-  "unpublished_queue": []
+  "unpublished_queue": [
+    {
+      "id": "writing-is-not-always-a-message-2026-11-25",
+      "date": "2026-11-25",
+      "title": "Writing Is Not Always a Message to Someone",
+      "text": "just because someone writes something doesn't mean they're talking to someone specifically.",
+      "provenance": "Verbatim excerpt from Jansen's accessible November15 Setting Boundaries conversation, supplied in current context. Heading is editorial. Original lowercase wording preserved.",
+      "publication_status": "created_unpublished",
+      "review": "Provenance and literal wording checked; archive duplicate and website integration pending."
+    }
+  ]
 }

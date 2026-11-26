@@ -2,7 +2,7 @@
 
 ## Publication metadata
 
-- X URL: https://themissingseat.org/ai-boom-profits-public-electricity-costs.html
+- Canonical URL: https://themissingseat.org/ai-boom-profits-public-electricity-costs.html
 - Published: November 26, 2026
 - Author: Jansen Bowden / The Missing Seat
 - Draft date: November 23, 2026; rewritten November 25, 2026

@@ -4,6 +4,16 @@
 
 Companion ledgers: [TMS_DAILY_EDITORIAL_QUEUE.md](TMS_DAILY_EDITORIAL_QUEUE.md) (queue and the Regular Joe comprehension test).
 
+## Binding role and external-review rule — November 26, 2026
+
+Jansen assigns GP to research, drafting, factual investigation, independent Gate 1/Gate 2 reviews and code proposals through PRs. The Claude editorial thread is the website editorial approval and release operator (including Gate 3 and production verification). The Claude social media thread alone operates Buffer, the social publisher, publisher queue, site_live, cron, and code-PR review and merges. GP must never change those production states or perform a production merge.
+
+No author may review their own editorial as one of its two mandatory reviews. Every released complete editorial must have **two substantive, dated Gate 1 and Gate 2 PASS reviews** on the exact final version, and **at least one review from the other AI system** (GP vs. Claude). If Claude authors it, GP reviews; if GP authors it, Claude reviews. The other review must also be by an eligible non-author; separate substantive Gate passes may be performed by the same non-author reviewer if no additional reviewer is available, but this is not evidence that two independent individuals reviewed it. Author self-checks do not satisfy the two-gate rule. Exact pre-reviewed corrections do not require a needless repeat unless they add new facts or substantively change meaning.
+
+From November 27, 2026: **at most one new full website editorial per Berlin calendar day and one social editorial per day.** The November 19–26 two-website-release exception expires on November 26. GP hands off reviewable work to Claude, without publishing or queuing. Article and social copy must end with a topic-specific conclusion, never the retired compulsory `Ally = Action. 🪑` slogan.
+
+All visual fields in newly drafted packages must appear under the literal `## Prospective visual metadata` heading. Real photographs require an accepted `image_license` (original, public domain, cc0, CC BY or CC BY-SA with version, individually licensed) and item-level rights evidence. Text-card fallback uses `image_url: none` and an explicit `photo_fallback_reason`. Do not change published or scheduled items while preparing this documentation.
+
 ## Standing update 2026-11-15: authentic photography and verified source previews
 
 All **new** full editorial packages must perform a documented search for an authentic, topic-relevant photograph with item-level rights evidence and required attribution. Include `image_url`, `image_credit`, `image_license`, `preferred_source_link` and the extended provenance fields in [TMS_SOCIAL_VISUAL_SCHEMA.md](TMS_SOCIAL_VISUAL_SCHEMA.md). The daily editorial workflow must populate the fields after researching rights, not assume archival images are free to reuse. If no eligible photo exists, a specific fallback reason is mandatory.

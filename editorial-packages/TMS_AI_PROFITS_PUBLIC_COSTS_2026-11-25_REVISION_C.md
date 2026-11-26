@@ -39,6 +39,8 @@ Nvidia's stock rose more than 30 percent on November 23, its best day since May 
 
 The president has reported owning Nvidia stock. His financial disclosure, filed November 5 with the Office of Government Ethics, shows he held between 32,000 and 370,000 shares as of September 30. Applied to the November 23 rise of nearly $40 a share, that range works out to a paper gain of $1.3 million to $14.6 million. [9] The disclosure does not show trades in October or November, so it cannot say what he held on November 23. These are not realized profits. The stock had fallen sharply after Huang resigned, so some of that day's gain may simply have recovered earlier losses.
 
+The rally did not last. Nvidia shares fell about 8 percent the next day, Tuesday, and another 3.9 percent on Wednesday, as doubts about the investigations and board oversight lingered. [21] On Tuesday, Huang told employees at an all-hands meeting that he had violated parts of Nvidia's code of conduct and made "some terrible mistakes," according to a person familiar with the matter. [22]
+
 The White House says the president's portfolio is run by independent managers. A spokesman said neither the president nor any member of his family has any ability to direct or provide input on how it is invested or when. [10]
 
 TMS is not alleging insider trading. We do not know who bought or sold Nvidia stock before the announcement, and a well-timed trade is not proof of wrongdoing. The problem is simpler. A president used the weight of his office on a private company's board, the board says that weight helped decide the matter, and the president has reported owning shares of that company. That is a conflict of interest in plain view, whoever manages the account.
@@ -104,6 +106,8 @@ A board settled a national-security question before its own investigation finish
 17. Ohio Capital Journal via Highland County Press, AEP Ohio data center tariff (minimum billing, exit fees). https://highlandcountypress.com/headlines/aep-ohio-says-new-data-center-tariff-working-critics-arent-buying-it ; WOWO. https://wowo.com/data-center-energy-demand-dispute-heads-to-ohio-supreme-court/
 18. Scioto Post, Ohio Supreme Court Case No. 2025-1458. https://www.sciotopost.com/?p=445587 ; Ohio Supreme Court oral argument calendar (January 5, 2027). https://www.supremecourt.ohio.gov/docs/Clerk/calendar/OArgCalendar.pdf
 19. FERC, June 18, 2026. https://ferc.gov/news-events/news/ferc-launches-aggressive-targeted-action-speed-large-load-integration ; E&E News. https://www.eenews.net/articles/ferc-acts-to-force-us-markets-to-protect-electricity-ratepayers/
+21. AFP via The Manila Times, November 25, 2026 (about 8 percent Tuesday). https://www.manilatimes.net/2026/11/25/world/huangs-return-fails-to-dispel-doubts-as-nvidia-shares-drop/2477534 ; NBC News (down 3.9 percent Wednesday, second straight down day). https://www.nbcnews.com/business/markets/market-sell-underway-gains-huangs-nvidia-move-stall-rcna611268
+22. Reuters via Investing.com, November 24, 2026. https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757
 20. SEC, Form 4 instructions. https://www.sec.gov/files/form4.pdf ; PJM footprint (13 states and D.C.): SEJ. https://www.sej.org/node/53300
 
 ## Facebook: English
@@ -153,3 +157,7 @@ GP, November 25, 2026: **FINAL PASS** on the exact corrected package at commit 6
 ## Visual
 
 Cream text-card fallback. Image search: the subjects are a corporate executive, a private individual and the president. No documentary photo with item-level rights evidence was found that adds information beyond the text, and TMS does not use stock or agency photos without a license. Reason recorded for v1 metadata at release.
+
+## Pre-release update, November 26 (Claude)
+
+Overnight check before release found new facts. A new paragraph after the holdings section reports: shares down about 8 percent on Tuesday and 3.9 percent on Wednesday (AFP; NBC); and Huang told staff he had violated parts of the code of conduct (Reuters, one source). Nothing previously reviewed changed. Release is held until GP checks this paragraph only (new facts return to the reviewer). The social copy is unchanged, because it describes the November 23 move accurately.

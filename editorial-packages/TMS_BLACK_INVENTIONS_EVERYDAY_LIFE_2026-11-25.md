@@ -4,7 +4,7 @@
 
 - Author: Jansen Bowden / The Missing Seat
 - Draft: Claude, November 25, 2026, from Jansen's commission and words of the same evening
-- Status: GATE 1 (CLAUDE) PASS / GATE 2 NEEDED FROM GP / NOT RELEASED
+- Status: GATE 1 PASS / GATE 2 FINAL PASS (GP exact Morgan correction applied verbatim, Nov 26) / RELEASING
 - Priority: URGENT. Jansen directs it ahead of the regular queue; it may run as a second editorial on a two-editorial day.
 - Location: United States
 - Slug: you-still-use-what-we-made
@@ -31,7 +31,7 @@ Here are the receipts.
 
 ### On the road and at home
 
-**The three-position traffic signal.** Garrett Morgan, the son of a formerly enslaved parent, patented an improved traffic signal in 1923 after seeing a crash in Cleveland. Signals then only said stop and go. His added a third, all-stop position that cleared the intersection, the idea behind the caution light. [1] He also patented a breathing device, a safety hood that protected rescuers from smoke and gas. [1] He did not invent the first traffic signal. His contribution was a safer one.
+**The three-position traffic signal.** Garrett Morgan, the son of a formerly enslaved parent, patented an improved traffic signal in 1923 after seeing a crash in Cleveland. Many signals then had only stop and go positions. Morgan's design added an all-stop interval to clear the intersection. [1] He also patented a breathing device, a safety hood that protected rescuers from smoke and gas. [1] He did not invent the first traffic signal. His contribution was a safer one.
 
 **The home security system.** In 1966, Marie Van Brittan Brown, a nurse in Queens, New York, designed one of the first camera-based home security systems, with a camera, a monitor and a remote door lock, because police took too long to come to her neighborhood. She and her husband, Albert Brown, received the patent in 1969. Later home security systems built on ideas like hers. [2]
 
@@ -94,7 +94,7 @@ The country uses Black American work every day: on the road, in the hospital, at
 
 ## Receipts
 
-1. Google Patents, U.S. 1,475,024, granted November 20, 1923. https://patents.google.com/patent/US1475024A/en ; Harness IP (Morgan patents, including the breathing device); KATU/Amazing America (crash, all-stop position). https://www.harnessip.com/blog/2020/02/05/recognizing-the-history-makers-in-black-history-month/ ; https://wset.com/amazing-america/celebrating-black-history-month-5-inventors-who-changed-how-we-live-work-and-play-nasa-rocket-apollo-space-john-glenstem ; History.com (son of an enslaved parent). https://www.history.com/news/9-black-inventors-african-american
+1. Google Patents, U.S. 1,475,024, granted November 20, 1923. https://patents.google.com/patent/US1475024A/en ; FHWA, Safer Stop and Go. https://highways.dot.gov/highway-history/general-highway-history/safer-stop-and-go-garrett-morgans-traffic-signal-legacy ; Harness IP (Morgan patents, including the breathing device); KATU/Amazing America (crash, all-stop position). https://www.harnessip.com/blog/2020/02/05/recognizing-the-history-makers-in-black-history-month/ ; https://wset.com/amazing-america/celebrating-black-history-month-5-inventors-who-changed-how-we-live-work-and-play-nasa-rocket-apollo-space-john-glenstem ; History.com (son of an enslaved parent). https://www.history.com/news/9-black-inventors-african-american
 2. Google Patents, U.S. 3,482,037 (filed August 1, 1966; granted December 2, 1969; Marie Van Brittan Brown and Albert L. Brown). https://patents.google.com/patent/US3482037A/en ; Lemelson-MIT. https://lemelson.mit.edu/resources/marie-van-brittan-brown
 3. Infobase (Jones, more than 60 patents, roof-mounted unit; Bath, Laserphaco Probe, first African American woman doctor with a medical patent). https://infobase.com/?p=114478
 4. Google Patents, U.S. 252,386, granted January 17, 1882 (applied February 19, 1881). https://patents.google.com/patent/US252386A/en ; National Inventors Hall of Fame. https://www.invent.org/inductees/lewis-latimer ; The Root; Yahoo/12 Black inventors (many inventors worked on the bulb). https://www.theroot.com/20-tech-game-changers-in-black-history
@@ -164,3 +164,5 @@ Cream text card with the headline. No collage of portraits unless item-level rig
 ## Correction record, November 26 (Claude)
 
 All ten of GP's corrections and its two hostile-reader recommendations (commit a6011ab) were accepted and applied: Morgan's patent number; Latimer's 1882 grant; Brown "one of the first camera-based" systems, co-patented with Albert Brown; Drew "large-scale blood banking", not sole inventor; Lawson's legacy narrowed; Dean with Dennis Moeller; Lacks reframed as taken, not invented, with "for decades" and an undisclosed 2023 settlement (the later Novartis report was not added because it is unverified); hip-hop's collaborative Bronx origins; the pay and credit generalization tied to cases; Carver per the National Archives; GP's suggested closing sentence; and "give it back" made explicit as a moral challenge. The Facebook and Instagram copy was rewritten with the same precision. The Instagram copy no longer carries its own "Link in bio" line, so the automatic link line won't duplicate it.
+
+**Final, November 26:** GP's last exact Morgan replacement (`TMS_GP_FINAL_REVIEW_NVIDIA_INVENTIONS_2026-11-26.md`) was applied verbatim. Under Jansen's November 26 process rule (exact reviewer corrections applied verbatim count as cleared), Gate 2 is FINAL PASS. The FHWA source was added to receipt 1.

@@ -2,9 +2,9 @@
 
 Applies to NEW social posts after November 15, 2026; grandfather legacy packages and all posts already queued in Buffer. Supplement TMS_EDITORIAL_STANDARD.md; do not bypass release gates.
 
-## Publication metadata
+## Prospective visual metadata
 
-Each new full editorial package must include these literal metadata keys under `## Publication metadata`:
+Every new full editorial package must place all prospective visual fields under the literal `## Prospective visual metadata` heading. Keep author, canonical URL, slug and other article-level fields separately under `## Publication metadata`; do not place visual fields as unheaded introductory bullets:
 
 ```text
 social_visual_policy: v1
@@ -24,7 +24,7 @@ photo_fallback_reason: none
 
 During daily editorial research, **actively search** relevant official sources, public archives, museum collections and image repositories for an authentic, topic-specific photograph. Open the original item record. Record search terms, searches attempted, creator, archive, subject verification, original item URL, explicit license/rights statement, restrictions, required attribution, evidence URL and the date verified under `## Visual sourcing record`. Do not infer public domain from age, archive or public availability. Commercial stock images and editorial-only photos require permission. Never generate synthetic documentary scenes of actual people or historical events.
 
-License types accepted for prospective photos: documented original owned/authorized by TMS; CC0; CC BY and CC BY-SA with attribution and share-alike compliance; public domain with item-level evidence; or individually licensed with terms/permission verified. An unlabeled, merely 'licensed', or all-rights-reserved image does not pass. Record the actual license, not a guess. Source images must remain accessible until Buffer publishes. No undocumented rights means no photo.
+Accepted `image_license` values for an actual photo (case-insensitive) are: `original`, `public domain`, `cc0`, `cc by 4.0` or another explicit CC BY version, `cc by-sa 4.0` or another explicit CC BY-SA version, and `individually licensed`. Record original ownership/authorization, public domain status, item-level evidence, Creative Commons attribution/share-alike obligations, or individual written permission as appropriate. Do not write unrecognized descriptive license values such as 'licensed' or omit the required CC version. For an eligible text-card fallback, use `image_url: none`, `image_license: none` and a specific `photo_fallback_reason`. An unlabeled, merely 'licensed', or all-rights-reserved image does not pass. Record the actual license, not a guess. Source images must remain accessible until Buffer publishes. No undocumented rights means no photo.
 
 If no eligible photo is found, set `image_url: none`, `image_credit: none`, `image_license: none`, `image_creator: none`, `image_archive: none`, `image_rights_statement: none`, `image_license_evidence: none`, `image_alt_text: none`, and provide a specific and substantial `photo_fallback_reason`. For images rejected by technical validation, the publisher also records its specific rejection reason. Do not silently fall back to a text card.
 

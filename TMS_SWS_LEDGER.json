@@ -1,7 +1,16 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "track": "SWS; excluded from full editorial inventory",
   "entries": [
+    {
+      "id": "the-body-keeps-its-own-accounts-2026-11-26",
+      "date": "2026-11-26",
+      "title": "The Body Keeps Its Own Accounts",
+      "text": "The body keeps its own accounts. It doesn't care what your employer pays you. But it's definitely not a silent partner.",
+      "provenance": "Verbatim accessible November25 Jansen work/stress conversation. Editorial heading only.",
+      "publication_status": "committed_live_unverified",
+      "source": "something-worth-sharing.html#the-body-keeps-its-own-accounts-2026-11-26"
+    },
     {
       "id": "the-time-to-act-2026-11-17",
       "date": "2026-11-17",
@@ -262,12 +271,12 @@
     "note": "All six dates present on the verified public archive; preserved."
   },
   "today": {
-    "date": "2026-11-24",
-    "text": "A useful answer leaves you knowing what to do next. It might be a name, a phone number, a document to bring or a date you cannot miss. If an explanation sounds impressive but you still do not know where to start, ask again. There is nothing embarrassing about needing the instructions in words you can use. And when you are the person giving the answer, stay long enough to find out whether it helped.",
-    "translation_de": "Eine hilfreiche Antwort zeigt dir, was du als Nächstes tun kannst. Vielleicht ist es ein Name, eine Telefonnummer, ein Dokument zum Mitbringen oder ein Termin, den du nicht verpassen darfst. Wenn eine Erklärung beeindruckend klingt, du aber noch immer nicht weißt, wo du anfangen sollst, frag noch einmal. Es ist nicht peinlich, eine Anleitung in verständlichen Worten zu brauchen. Und wenn du die Antwort gibst, bleib lange genug, um herauszufinden, ob sie geholfen hat.",
-    "provenance": "New editorial reflection with AI assistance, not a Jansen quotation.",
-    "publication_status": "published_live_verified",
-    "public_verified": "2026-11-24"
+    "id": "the-body-keeps-its-own-accounts-2026-11-26",
+    "date": "2026-11-26",
+    "title": "The Body Keeps Its Own Accounts",
+    "text": "The body keeps its own accounts. It doesn't care what your employer pays you. But it's definitely not a silent partner.",
+    "provenance": "Verbatim accessible November25 Jansen work/stress conversation. Editorial heading only.",
+    "publication_status": "committed_live_unverified"
   },
   "missing_page_dates": [
     "2026-10-31",

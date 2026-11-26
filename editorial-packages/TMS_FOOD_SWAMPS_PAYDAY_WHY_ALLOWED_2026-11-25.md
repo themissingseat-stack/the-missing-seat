@@ -111,8 +111,6 @@ It's a choice made in zoning offices and boardrooms. Ask your city who decides w
 
 https://themissingseat.org/food-swamps-payday-lenders-why-allowed.html
 
-Link in bio.
-
 ## Gate 1 (Claude, November 25)
 
 Checked against receipts. Notes:

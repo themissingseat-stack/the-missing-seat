@@ -139,8 +139,6 @@ Same industry. Give every neighborhood the Loudoun deal: the same payout, the sa
 
 https://themissingseat.org/ai-data-centers-who-pays-where.html
 
-Link in bio.
-
 ## Gate 1 (Claude, November 25)
 
 Checked against the receipts. Notes:

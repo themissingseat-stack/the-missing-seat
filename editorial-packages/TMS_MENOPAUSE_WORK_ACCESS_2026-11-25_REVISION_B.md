@@ -126,8 +126,6 @@ Ask your employer who handles adjustment requests, and how they keep it private.
 
 https://themissingseat.org/menopause-work-hide-what-it-costs.html
 
-Link in bio.
-
 ## Gate 1 (Claude, November 25)
 
 Checked against receipts 2, 3, 6–12. GP had already checked 1, 4 and 5. Open items for GP:

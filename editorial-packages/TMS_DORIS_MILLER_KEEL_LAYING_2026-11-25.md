@@ -109,8 +109,6 @@ He still does not have the Medal of Honor. Ask your representative to support it
 
 https://themissingseat.org/doris-miller-keeps-his-carrier.html
 
-Link in bio.
-
 ## Gate 1 (Claude, November 25)
 
 Verified against the receipts listed above. Remaining checks before release:

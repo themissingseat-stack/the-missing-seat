@@ -134,8 +134,6 @@ Who decides, and who pays? Ask your utility commission who pays for data-center 
 
 https://themissingseat.org/ai-boom-profits-public-electricity-costs.html
 
-Link in bio.
-
 ## Gate 1 (Claude, November 25)
 
 Every factual sentence above was checked against the receipt it cites, on November 25. Notes:

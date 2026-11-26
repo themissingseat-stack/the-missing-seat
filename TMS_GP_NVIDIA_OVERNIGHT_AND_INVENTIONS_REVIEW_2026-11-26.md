@@ -1,78 +1,82 @@
-# GP: Nvidia overnight paragraph and inventions review — November 26, 2026
-Reviewed branch head0070cd60c3adc6b337e5dbf6a241701038ca2bad, PR82. Scope: Nvidia's new paragraph only, then complete inventions article and social exports. No Buffer, queue, production or runtime changes. Claude remains social operator. Urgent priority and proposed18:00Berlin social opportunity preserved; no scheduledpost asserted.
+# GP review: Nvidia overnight paragraph and urgent inventions package
+November 26, 2026. Exact source: PR #82, commit 0070cd60c3adc6b337e5dbf6a241701038ca2bad.
+No article wording, Buffer, queue, database or production changes. Claude remains social operator.
 
-## Nvidia overnight paragraph — evidence/HOLD; earlier finalPASS preserved
-Exact current file: editorial-packages/TMS_AI_PROFITS_PUBLIC_COSTS_2026-11-25_REVISION_C.md, blobacb1eb57365609f9ddb8f6a9653eaac1f9d6f325.
-Reuters original reporting opened viaInvesting:
+## Nvidia: new paragraph only — HOLD for the closing-return correction
+Earlier final Gate 2 PASS remains recorded for the previous text. It does not cover this new paragraph.
+
+Reuters, opened in full through its syndication:
 https://www.investing.com/news/stock-market-news/nvidia-slips-as-investors-assess-risks-surrounding-huangs-return-as-ceo-5047757
-It reportsNovember24Tuesdayclose5.9%lower, not8%. It supports the code-of-conduct admission, one-person attribution and "some terrible mistakes". Same source saysHuang disputed that political pressure caused his return; that is relevant when adding his account.
-WednesdayNovember25close3.9%lower supported byReutersmarketreport andAP indexedreport:
+Reports Tuesday November 24 closing decline of 5.9%, not 8%. Supports the code-of-conduct admission and short quotation, attributed to one person familiar with the meeting. It also reports Huang disputed that presidential pressure caused his reinstatement.
+
+Wednesday November 25 closing decline of 3.9% is supported by indexed Reuters and AP market reports:
 https://www.reuters.com/business/ai-stocks-slide-fears-over-infrastructure-buildout-costs-2026-11-25/
 https://apnews.com/article/10044b4fb55d3ff20fde9ba9e9acaab1
-DirectReuters/APfullpages not retrievable in this check, indexedfullreport content retrieved; alternatives corroborate. Reutersdistinguishes8.5%intradayWednesday from3.9%close. AFPsourcepaywall402; NBC URL unavailable. Do not mix intraday and closing returns or infer precise cause from price alone.
+Direct full-page retrieval failed for these two URLs; indexed report text was retrieved. Reuters distinguishes Wednesday's 8.5% intraday decline from its 3.9% closing decline. AFP returned a paywall and the cited NBC page was inaccessible. Do not combine intraday and closing returns.
 
-Exact proposed replacement paragraph for Claude:
-"Some of the rally was reversed. Nvidia shares closed5.9percent lower onNovember24 and3.9percent lower onNovember25. [21] At aNovember24 all-hands meeting, Huang said he had violated parts of Nvidia's code of conduct and made 'some terrible mistakes,' according to a person familiar with the matter who spoke toReuters. The same report said Huang disputed that pressure fromTrump caused his reinstatement. [22]"
-Copyediting: restore normal spaces around dates/numbers and use straight doublequotes around the short quotation in finalarticle. Change receipt21 to actualclosing-return sources above. Proposed wordings are not applied or represented as Claudeapproved.
-A two-day partial reversal does not mean the whole31%gain disappeared. Preserve earlier conditionalholdings/no-realizedprofit language. PriorGate2PASS applies to preupdateversion, not this addedparagraph. The only newparagraphHOLD is the returnnumber/baseline and correspondingsource/attribution; no broad re-review of alreadyaccepted narrative demanded.
+Exact proposed replacement for Claude:
+> Some of the rally was reversed. Nvidia shares closed 5.9 percent lower on November 24 and 3.9 percent lower on November 25. [21] At a November 24 all-hands meeting, Huang said he had violated parts of Nvidia's code of conduct and made "some terrible mistakes," according to a person familiar with the matter who spoke to Reuters. The same report said Huang disputed that pressure from Trump caused his reinstatement. [22]
 
-## Inventions evidence review — correction/HOLD
-Exact file: editorial-packages/TMS_BLACK_INVENTIONS_EVERYDAY_LIFE_2026-11-25.md, blob50072217e312fd2ed6f08bdecc5c1365e493d3ec.
-Full article, summaries, receipts, FB/IG inspected. Rhetoricalclosing is Jansen's commissionedargument and maystay. Do not substituteEuropean/Africanfocus or demandJansenapprove routinefacts.
+Update receipt 21 accordingly. A partial reversal does not establish that the whole earlier gain disappeared. No broader rewrite of previously accepted material requested. Proposed replacement is not applied or represented as Claude-approved.
 
-### Requested four checks
-1. Morgan: correct trafficpatent isUS1,475,024, grantedNovember20,1923. Draftreceipt/Gate1lists1,475,074 incorrectly. Primaryrecord opened:
-https://patents.google.com/patent/US1475024A/en
-2. Brown: US3,482,037 filedAugust1,1966, grantedDecember2,1969; bothMarieVanBrittanBrown andAlbertL.Brown named. PASS. Primaryrecord:
-https://patents.google.com/patent/US3482037A/en
-3. Latimer: filamentmanufacturingpatentUS252,386 grantedJanuary17,1882; applicationfiledFebruary19,1881. Draftconfusesfilingwithgrant. Correctionrequired. Primaryrecordopened, including originalspecification:
-https://patents.google.com/patent/US252386A/en
-Independentinstitutionalbiography:
-https://www.invent.org/inductees/lewis-latimer
-4. Drew: ScienceHistoryInstitute supports morethan14,000donations and5,000litersplasmashipped byJanuary1941, leadershipandScuddercollaboration. PASS onfigures:
-https://www.sciencehistory.org/historical-profile/charles-richard-drew
-Retainplasma distinction; neitherDrew nor anysingleperson invented allbloodbanking.
+## Inventions: requested factual checks
+File: editorial-packages/TMS_BLACK_INVENTIONS_EVERYDAY_LIFE_2026-11-25.md.
+Reviewed blob: 50072217e312fd2ed6f08bdecc5c1365e493d3ec.
+Read article, summaries, sources and literal Facebook/Instagram strings.
 
-### Exact correction directions
-- Morganbody: describe his improvedthree-position/all-stopdesign, not allprevioussignals as universallytwo-position or simple directidentitywithmodernyellowlights. Closing/exports: "Morgan's traffic-signal improvement" ratherthan assignalltrafficsignals tohim.
-- Latimerbody: change1881to1882forgrant; optionallyretain1881explicitlyasfilingyear.
-- Brownexports: "Marie Van Brittan Brown, with Albert Brown: an early camera-based home security system." Camera/CCTVitself wasnotinventedbyher. Institutionalaccountopened:
-https://lemelson.mit.edu/resources/marie-van-brittan-brown
-- Drewheading/exports: "Charles Drew: pioneering blood-plasma preservation and large-scale blood banking." Avoid standalonelabel "The blood bank: Dr.CharlesDrew" implyingsoleinvention. UnderDrewparagraphreferencecollaboration andresearch/programorganization ratherthan discoveryofplasmaseparation.
-- Lawson: currentbodyappropriatelynameshisteam; replace "Every game you ever bought separately follows that model" with narrower cartridgeindustrylegacy. Use "Jerry Lawson led the team that brought the cartridge-based Fairchild Channel F to market." TheStrongidentifiestheAlpexprototypeandteam:
-https://artsandculture.google.com/story/sAXRgC0NUykHLA
-https://www.museumofplay.org/blog/collection-documents-the-career-of-video-game-pioneer-jerry-lawson/
-- Dean: creditco-inventorDennisMoeller andspecificcomputerarchitecture; avoid callingthisinventionallplug-inconnections/currentports. Opened:
-https://www.invent.org/inductees/mark-dean
-- Lacks: replaceunqualified "Her family was never paid" with a historicallyboundedstatementaboutdecadeswithoutcompensation, thenidentify2023ThermoFisherundisclosedsettlement. Do notinferzero/currentpaymentoramountfromconfidentialterms. ClarifyHeLaisthefirstcontinuouslyculturedhumancellline, notfirsthumancells toevergrowbrieflyinlab. Humanbiologicalmaterialtakenwithoutconsent is distinctfromaninvention, whilefullyrelevanttothepublic-benefit/exploitationargument. PrimaryHopkinsaccountopened:
-https://www.hopkinsmedicine.org/henrietta-lacks/
-AP2026Novartissettlementindexedreportalsofound:
-https://apnews.com/article/89fa08519ee04a2ef68fa296c31c55b9
-Do notcall2023theonly/currentlastsettlement. Updatedsettlementcoverageisnotneededifarticleonlynames2023asoneexample.
-- Music: retainBlackAmericanoriginsandfoundationalrole; SmithsonianalsocreditsAfro-CaribbeanandAfro-Latinotraditions, includingJamaicantoasting. Addthatcontexttohip-hopandreplace"nearlyeverykind"/"almostanyradiostationintheworld"withsupportedinfluenceclaim. Opened:
-https://www.searchablemuseum.com/hip-hop-origins/
-- Opening: "often...neverpaid...nevergotcredit" acrossallnamedpeopleisnotestablishedbyapatentlist. Tieextraction/deniedrights toNedandLackswithoutimplyingallnamedinventorsreceivednopayorrecognition.
-- Carver: peanutbuttermythcorrectionretained; useNationalArchivesinsteadofsyndicatedlistanddropunverifiedbabyproductexample:
-https://www.archives.gov/college-park/highlights/carver-patents
+| Check | Finding |
+|---|---|
+| Morgan patent | CORRECT to US 1,475,024, granted November 20, 1923; draft says 1,475,074. |
+| Brown patent | PASS: US 3,482,037; filed August 1, 1966, granted December 2, 1969; Marie Van Brittan Brown and Albert L. Brown named. |
+| Latimer patent | CORRECT: US 252,386 granted January 17, 1882. February 19, 1881 was the application date. |
+| Drew figures | PASS: more than 14,000 donations and 5,000 liters of plasma shipped under his leadership by the programme's January 1941 conclusion. |
 
-### Patent exclusion and originality
-AttorneyGeneral1858lettertranscriptopened:
-https://docsteach.org/document/attorney-general-patent-applications-slaves/
-Swansonoriginalscholarlyaccountopened:
-https://columbialawreview.org/content/race-and-selective-legal-memory-reflections-on-invention-of-a-slave/
-SupportsNed/opinion/exclusionargument; do notgeneralizeittoallBlackpeoplethroughoutentireantebellumperiod. Creditandrightswerestructurallyrestricted; theabsenceofpatentsdoesnotestablishabsenceofinvention.
-CurrentqueuealreadyincludespublishedDrewcoverage andotherBlackachievementpieces. Thiscross-domainresponse toracistdenialhasdistinctscope; crosslinkexistingDrewratherthanrepackagehimasanewstandalonecommission. FullarchiveoverlapauditremainsGate0releasework.
+Primary records and institutional history opened:
+- https://patents.google.com/patent/US1475024A/en
+- https://patents.google.com/patent/US3482037A/en
+- https://patents.google.com/patent/US252386A/en
+- https://www.sciencehistory.org/historical-profile/charles-richard-drew
 
-## IndependentGate2 — PROVISIONAL/HOLD
-Readability: purposefullistformatfitscommission; specificnamesmakeclaimstestable. Angerand"giveitback"rhetoricarenotgroundsforrejection. Mainmaterialproblemisshortexportsthatundoarticle'scarefuldistinctionbetweeninvention,improvement,teamleadershipandbiologicalexploitation. CarryprecisionthroughFB/IGandShortVersion.
-Recommendedclarifyingsentencebeforeclose:
-"Black Americans do not have to invent something to deserve equal rights. These contributions expose the dishonesty of treating us as outsiders in a country we helped build."
-Thispreservesthepointwithoutmakingcitizenship/dignityconditionalonproductivity.
-Clarify"giveitback"isamoralchallenge,notaclaimofracialpatentownershiporarequesttorestrictmedicalcare. Moderntechnologiesarecollaborative; affectedpatentsmayhaveexpiredorbeenassigned. Do notclaimallproductslegallybelongtoaracialgroup.
-Photo/rights: draftblanketstatementallpatentdrawingsnotcopyrightedistooabsolute. USPTOsaystypicallynotrestrictedwithlimitedexceptions:
+## Inventions: required corrections for Claude
+1. **Morgan:** Correct the patent number in receipts and review notes. Retain his specific all-stop improvement; do not imply he invented every traffic signal or that all earlier signals were identical.
+2. **Latimer:** Change grant year to 1882; 1881 may remain only as filing year.
+3. **Brown:** In exports, identify an early camera-based home security system, co-patented with Albert Brown. Do not credit invention of the camera or all CCTV. Institutional source: https://lemelson.mit.edu/resources/marie-van-brittan-brown
+4. **Drew:** Replace categorical "The blood bank: Dr. Charles Drew" with pioneering plasma preservation and large-scale blood banking. His important research and programme leadership did not make him the sole inventor of all blood banking.
+5. **Lawson:** Keep team leadership and the Channel F. Replace "Every game you ever bought separately follows that model" with a narrower legacy statement. The Strong identifies the Alpex prototype and Lawson-led team: https://artsandculture.google.com/story/sAXRgC0NUykHLA ; https://www.museumofplay.org/blog/collection-documents-the-career-of-video-game-pioneer-jerry-lawson/
+6. **Dean:** Name co-inventor Dennis Moeller and their particular computer architecture, rather than imply invention of every modern plug or port: https://www.invent.org/inductees/mark-dean
+7. **Lacks:** Replace "Her family was never paid" with historically bounded decades without compensation, followed by the 2023 undisclosed Thermo Fisher settlement. Do not imply that was the only or latest settlement. AP also reports a 2026 Novartis settlement; direct AP retrieval failed, so treat that later report as an indexed reporting lead if adding details. Describe HeLa as the first continuously cultured human cell line, not the first human cells ever grown briefly. Explain that tissue taken without consent is distinct from invention. Primary institutional account: https://www.hopkinsmedicine.org/henrietta-lacks/ ; later AP report: https://apnews.com/article/89fa08519ee04a2ef68fa296c31c55b9
+8. **Music:** Preserve Black American origins and foundational influence while acknowledging the Afro-Caribbean and Afro-Latino traditions Smithsonian identifies in hip-hop. Avoid unmeasured "nearly every kind" or "almost any radio station" claims: https://www.searchablemuseum.com/hip-hop-origins/
+9. **Pay and credit:** A list of patents does not establish that all or most named inventors received no pay or recognition. Tie documented extraction and exclusion to the specific cases, without erasing successful careers.
+10. **Carver:** Keep the peanut-butter myth correction. Use the National Archives account; drop the unverified baby-product example: https://www.archives.gov/college-park/highlights/carver-patents
+
+Other institutional biographies opened support the narrower contributions:
+- https://www.invent.org/inductees/lewis-latimer
+- https://www.invent.org/inductees/patricia-bath
+- https://www.invent.org/inductees/lonnie-johnson
+- https://www.invent.org/inductees/frederick-mckinley-jones
+
+## Separate hostile-reader / Regular Joe review — PROVISIONAL / HOLD
+The premise and forceful closing fit Jansen's explicit commission. This is not a rejection of his anger or rhetorical "give it back" argument. The main problem is that short exports erase the careful distinction between invention, improvement, team leadership and biological exploitation. Carry precision into all formats.
+
+Suggested sentence before the close:
+> Black Americans do not have to invent something to deserve equal rights. These contributions expose the dishonesty of treating us as outsiders in a country we helped build.
+
+Make clear "give it back" is a moral challenge, not a literal claim of racial patent ownership or a demand to withhold medical care. Collaborative work and expired or assigned patents do not diminish Black contributions.
+
+The list format serves this particular commission; retain developed paragraphs around it. A distinct cross-domain response to racist denial is appropriate, while cross-linking existing Drew coverage. Full archive overlap checks remain release work.
+
+## Patent exclusion and visuals
+The 1858 Attorney General letter and Swanson's scholarship support the exclusion argument:
+- https://docsteach.org/document/attorney-general-patent-applications-slaves/
+- https://columbialawreview.org/content/race-and-selective-legal-memory-reflections-on-invention-of-a-slave/
+
+Do not generalize the ruling into a claim that no Black person ever obtained a patent throughout the entire antebellum period.
+
+The draft's blanket claim that patent drawings cannot be copyrighted is too absolute. USPTO describes typical freedom from restriction with limited exceptions:
 https://www.uspto.gov/terms-use-uspto-websites
-Specificsource/binary/rightsorjustifiedcreamfallbackremainsGate3.
-CurrentIG438charactersbeforepipeline-appendedline, safelyunder2200. LiteralcaptionstillhasURLplus"Linkinbio"; Claude'snewproductionruleaddslineautomatically, so validatefinaltransformedstringandremoveonlytheduplicatedsourcecomponentunderClaude'soperatorcontrol. NoBuffereditmade.
+Document actual item-level rights or a researched cream fallback before release.
 
-## Fast completion handoff
-Claudecanapplytheseexactcorrectionsandreturncorrectedversionforfinalreview; noJansenpersonalapprovalrequired. Preserveurgentpriorityand18:00proposalwithoutclaimingscheduling. GPdoesnotapproveknownwrongnumbersjusttomeetcutoff.
+Current Instagram source string: 438 characters before any automatic addition. Claude's new publishing rule adds its own link line; validate the final transformed string and remove only the duplicate source component under Claude's control. No Buffer edit made.
+
+## Next step
+Claude: apply these corrections and return the exact versions for final review. GP: review those corrections promptly; no further personal approval from Jansen is required. Preserve urgent priority and the proposed 18:00 Berlin opportunity without claiming a scheduled or published post.

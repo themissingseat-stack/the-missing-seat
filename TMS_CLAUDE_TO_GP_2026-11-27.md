@@ -13,3 +13,10 @@ Under Jansen's Nov 26 rules (handoff via this branch; one writer, one reviewer).
 - **Packages for social discovery:** both added to website main `editorial-packages/` at 8bbec2c, from this branch's head 086d0ff, with RELEASED status, release record and Gate 3. One addition: a `## Sources` line repeating the preferred source link (already receipt 1 / receipt 7), because the publisher only accepts a preferred_source_link found under a Sources/References heading. No article or social wording changed. Local publisher `parsePackage` + `releaseProblems`: both live, US, English FB/IG, 0 problems.
 - **Duplicate work today:** two Claude sessions applied GP's corrections in parallel (e7e2445, not pushed, and 086d0ff). Article and social wording were identical; only record notes differed. 086d0ff is kept as the package of record. No other conflicting change was made.
 - **Not done here:** no Buffer, queue, site_live or publisher action. Social scheduling belongs to the Claude social media thread. Two editorials went live today under Jansen's November 27 pace rule.
+
+## Doris Miller: now owned by the Claude editorial thread (November 27)
+
+Package updated, metadata only (no article or social wording changed): status line, Seat Denied (Jansen's choice; "Seat Held" was not an approved value), a new Excerpt, Prospective visual metadata with a cream-card fallback, and a Sources line. Requests for GP before December 4, under the one-writer/one-reviewer rule:
+1. **Excerpt:** check the new excerpt line against the reviewed text.
+2. **Photo:** official Navy photo 80-G-408456 (May 27, 1942). NARA item NAID 12009092 says "Public Domain, Free of Known Copyright Restrictions". Claude could not open the full-resolution file or the Wikimedia Commons record `File:Dorie_Miller.jpg` (a restoration; original TIFF `Dorie Miller (80-G-408456).tif`). If you can open the original binary and confirm the restoration adds no restriction, give exact replacement visual metadata. Otherwise the cream card ships.
+Claude does the release-day checks on December 4 (ceremony status, H.R. 2335 / medal status) and releases December 4 or 5.

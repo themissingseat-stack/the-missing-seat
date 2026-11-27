@@ -4,12 +4,27 @@
 
 - Author: The Missing Seat
 - Draft: Claude, November 25, 2026. Standalone piece; the earlier TMS Doris Miller story could not be located.
-- Status: GATE 1 (CLAUDE) PASS / GATE 2 NEEDED FROM GP / NOT RELEASED
+- Status: GATE 1 (CLAUDE) PASS / GATE 2 FINAL PASS (GP, November 25) / GATE 3 AND RELEASE BY CLAUDE EDITORIAL THREAD, DECEMBER 4-5 / NOT RELEASED
 - Release timing: December 4 or 5, 2026, around the keel-laying. Before release, check that the ceremony happened or is still on schedule.
 - Location: United States
 - Slug: doris-miller-keeps-his-carrier
 - Seat affected: Black service members whose heroism was recognized late, and the public record of who gets honored
-- Seat status: Seat Held
+- Seat status: Seat Denied
+- Excerpt: The Navy kept Doris Miller's name on its newest carrier after reported talk of renaming it. The Medal of Honor his supporters have sought since 2001 is still waiting on Congress and the president.
+
+## Prospective visual metadata
+
+- social_visual_policy: v1
+- image_url: none
+- image_credit: The Missing Seat
+- image_license: original
+- image_creator: The Missing Seat
+- image_archive: none
+- image_rights_statement: Original TMS cream text card. No outside photograph attached.
+- image_license_evidence: Original card rendered by the publisher; not a license for any outside photograph.
+- image_alt_text: Cream text card with the headline Doris Miller Keeps His Carrier. He Is Still Waiting for His Medal.
+- preferred_source_link: https://news.usni.org/2026/11/20/pearl-harbor-hero-doris-miller-will-stay-namesake-of-cvn-81
+- photo_fallback_reason: Claude searched on November 27, 2026. Candidate: official U.S. Navy photograph 80-G-408456 (Miller wearing the Navy Cross, May 27, 1942); the National Archives item record for this image (NAID 12009092, Record Group 80) states "Public Domain, Free of Known Copyright Restrictions". Claude could not open the full-resolution file or the Wikimedia Commons record (File:Dorie_Miller.jpg, a restored copy) from this session, so the photo is not attached. Cream card until the original binary and the restoration's terms are checked.
 
 ## The Short Version
 
@@ -85,6 +100,10 @@ A Black enlisted sailor's name will stay on a nuclear aircraft carrier after a q
 14. HII event page (December 5, Newport News; livestream). https://www.hii.com/events/cvn81
 15. NHHC biography (birth, death, enlistment). https://www.history.navy.mil/our-collections/photography/us-people/m/miller--doris.html
 
+## Sources
+
+- Preferred visual source link (same as receipt 2): https://news.usni.org/2026/11/20/pearl-harbor-hero-doris-miller-will-stay-namesake-of-cvn-81
+
 ## Facebook: English
 
 Doris Miller keeps his carrier.
@@ -125,3 +144,17 @@ GP, November 25, 2026: **FINAL PASS** on the exact corrected package at commit 6
 ## Visual
 
 Authentic U.S. Navy photo of Doris Miller (1942, public domain as U.S. government work) if item-level rights evidence is documented from NHHC or the National Archives. Otherwise use the cream card.
+
+## Gate 3 preparation, November 27 (Claude editorial thread)
+
+Ownership moved to the editorial thread on November 27 (PUBLISHER_STATUS, "One job per chat"). Changes, metadata only; no article or social wording changed:
+- Status line corrected: GP's final Gate 2 PASS of November 25 was already recorded above.
+- Seat status "Seat Held" is not an approved value. Jansen chose **Seat Denied** on November 27 (the medal is the missing seat; the Seat Summary line about the name stays).
+- Excerpt added (Claude wording, from the Short Version and Seat Summary).
+- Prospective visual metadata added with a documented cream-card fallback and the photo candidate; a Sources line repeats receipt 2 so the publisher finds the preferred source link.
+
+Release-day checklist (December 4, Claude):
+1. Keel-laying still scheduled for December 5 (HII event page, USNI). If it moved or was cancelled, the December 5 sentences change and go back to GP.
+2. Medal of Honor / H.R. 2335 status. Any new action is a new fact and goes back to GP.
+3. Photo: if GP or Claude opens the original binary and confirms the restoration carries no added restriction, switch to the photo with full item-level metadata; otherwise ship the cream card.
+4. Add Canonical URL and Published lines, build the page and surfaces, verify HTTP 200, add the package to main.

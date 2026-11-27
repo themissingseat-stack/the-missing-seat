@@ -2,10 +2,12 @@
 
 ## Publication metadata
 
+- Canonical URL: https://themissingseat.org/menopause-work-hide-what-it-costs.html
+- Published: November 27, 2026
 - Author: Jansen Bowden / The Missing Seat
 - Draft date: November 25, 2026
 - Revision: MENOPAUSE_WORK_ACCESS-2026-11-25-B (Claude rewrite of GP revision A; GP's study limits and privacy standard kept)
-- Status: GP NOV 27 CORRECTIONS APPLIED VERBATIM / FACTUAL REFRESH DONE BY CLAUDE (NEW SOURCE CHECKS FOR GP) / NOT RELEASED
+- Status: CLEARED FOR RELEASE November 27, 2026 (GP Gate 1 PASS and Gate 2 PASS, November 27; visual corrections applied verbatim); website release pending
 - Excerpt: Menopause symptoms can last for years, and most workplaces were not built with them in mind. Illinois becomes one of the first states to require accommodations on January 1, 2027.
 - Location: United States
 - Slug: menopause-work-hide-what-it-costs
@@ -17,14 +19,14 @@
 - social_visual_policy: v1
 - image_url: none
 - image_credit: none
-- image_license: none
+- image_license: original
 - image_creator: none
 - image_archive: none
 - image_rights_statement: none
 - image_license_evidence: none
 - image_alt_text: none
 - preferred_source_link: https://ilga.gov/Legislation/PublicActs/View/104-0793
-- photo_fallback_reason: The story is about a law and health studies, not a photographed event or person; no authentic, rights-documented photo tied to it is on file, and TMS does not use stock photos of symptoms. Cream text card used. A documented authentic-photo search has not been run; GP may require one before final Gate 2.
+- photo_fallback_reason: GP searched Wikimedia Commons on November 27, 2026 and inspected the Menopause category, Menopause Cafe.jpg and Perimenopause.jpg. The inspected candidates were educational illustrations, not documentary photographs of this U.S. law or study. No suitable authentic photo with established reuse rights was identified in this search. Use TMS's original cream text card; do not use stock symptom photographs.
 
 ## The Short Version
 
@@ -168,3 +170,11 @@ Factual refresh (new source checks, for GP's review under the Nov 26 rule):
 - Illinois: Public Act 104-0793 (HB 5284), signed August 7, 2026; amends the Illinois Human Rights Act; workplace provisions effective January 1, 2027; insurance coverage provisions effective January 1, 2028. Sources: ilga.gov Public Act 104-0793 text; Littler; Fisher Phillips; DLA Piper (October 2026).
 - Mayo (receipt 4): PubMed 37115119 abstract confirms women aged 45 to 60 receiving primary care at four Mayo Clinic sites, surveyed March 1 to June 30, 2021; 13.4% reported at least one adverse work outcome; 10.8% missed work. The $1.8 billion annual lost-work-time estimate is confirmed by the Mayo Clinic News Network release of April 26, 2023. Adverse outcomes include quitting, retiring, being laid off and reduced hours (Yahoo/HealthDay summaries of the paper; GP to confirm against the full paper's outcome definition).
 Open items 1-3 in the Gate 1 list are answered above.
+
+## Gate 1 and Gate 2 final (GP, November 27)
+
+GP PASS on Illinois and Mayo checks (Gate 1) and on the corrected editorial, Short Version, actions, Seat Summary and literal Facebook/Instagram copy (Gate 2). TMS_GP_MENOPAUSE_FINAL_FACTS_AND_VISUAL_REVIEW_2026-11-27.md, commit 3e41f5b, reviewing blob 5277eda. Claude was author; GP the independent reviewer.
+
+## Correction record, November 27, release (Claude)
+
+Applied GP's two visual-metadata replacements verbatim (image_license: original; photo_fallback_reason). Added Canonical URL and Published lines. No article or social wording changed after GP's review.

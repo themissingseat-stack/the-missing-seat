@@ -5,11 +5,26 @@
 - Author: Jansen Bowden / The Missing Seat
 - Draft date: November 25, 2026
 - Revision: MENOPAUSE_WORK_ACCESS-2026-11-25-B (Claude rewrite of GP revision A; GP's study limits and privacy standard kept)
-- Status: GATE 1 PASS (GP checks + Claude) / GP CORRECTIONS APPLIED / FINAL GATE 2 NEEDED FROM GP / NOT RELEASED
+- Status: GP NOV 27 CORRECTIONS APPLIED VERBATIM / FACTUAL REFRESH DONE BY CLAUDE (NEW SOURCE CHECKS FOR GP) / NOT RELEASED
+- Excerpt: Menopause symptoms can last for years, and most workplaces were not built with them in mind. Illinois becomes one of the first states to require accommodations on January 1, 2027.
 - Location: United States
 - Slug: menopause-work-hide-what-it-costs
 - Seat affected: Women in midlife whose symptoms meet workplaces built without them in mind
 - Seat status: Seat At Risk
+
+## Prospective visual metadata
+
+- social_visual_policy: v1
+- image_url: none
+- image_credit: none
+- image_license: none
+- image_creator: none
+- image_archive: none
+- image_rights_statement: none
+- image_license_evidence: none
+- image_alt_text: none
+- preferred_source_link: https://ilga.gov/Legislation/PublicActs/View/104-0793
+- photo_fallback_reason: Searched Wikimedia Commons, Library of Congress and government (NIH, CDC) image collections for an authentic, rights-documented photo of midlife women at work tied to this story. Results were generic or staged stock-style images with no documentary link to the Illinois law or the studies; TMS does not use unlicensed stock. Cream text card used.
 
 ## The Short Version
 
@@ -29,7 +44,7 @@ For millions of women, that is the real cost of menopause. The symptoms are ordi
 
 Menopause is a normal stage of life. Symptoms range from mild to severe. They include hot flashes, night sweats, broken sleep, mood changes and trouble with memory and concentration. [1]
 
-They do not pass quickly. The Study of Women's Health Across the Nation (SWAN) followed more than 3,000 women at seven U.S. sites for up to 17 years. For more than half of the women with frequent hot flashes and night sweats, the symptoms lasted more than seven years. [2] Among the women in the study who had frequent hot flashes and night sweats, Black women had the longest median duration, about 10 years. Japanese and Chinese American women had the shortest, around five. [3] The researchers told doctors to warn women that symptoms may last longer for African American women. [2]
+Frequent hot flashes and night sweats can last for years. The Study of Women's Health Across the Nation (SWAN) followed more than 3,000 women at seven U.S. sites for up to 17 years. For more than half of the women with frequent hot flashes and night sweats, the symptoms lasted more than seven years. [2] Among the women in the study who had frequent hot flashes and night sweats, Black women had the longest median duration, about 10 years. Japanese and Chinese American women had the shortest, around five. [3] The researchers told doctors to warn women that symptoms may last longer for African American women. [2]
 
 For many of the Black women in that study, it lasted ten years. That is not a phase. It is a large share of a working life, arriving at the age when many women are in line for their most senior jobs.
 
@@ -41,7 +56,7 @@ A 2025 study at one U.S. drug company found that only 9 percent of employees wit
 
 ### Why women hide it
 
-Two things meet in midlife: a woman's body changes, and her workplace starts deciding whether she still has a future there.
+A woman may be managing symptoms while also worrying about whether her employer still sees a future for her.
 
 Workplaces have long been designed around a worker who does not menstruate, get pregnant or go through menopause. When a woman's health needs show up, they are often treated as a private inconvenience, and she is expected to absorb the cost. In TMS's reading, that is how patriarchy works at the office. It shows up in rules about who gets a break, who controls the thermostat, and whose sick days count against them, not in anyone's stated intentions. We are describing how these rules work, not reporting a measured national pattern.
 
@@ -76,7 +91,7 @@ She is still doing her job. She should not have to hide what it costs.
 - **If you manage people:** Name one confidential contact and track whether requests get answered.
 - **Check your state:** Ask your state legislators whether your state protects menopause at work. Illinois rules take effect January 1, 2027.
 
-## Resources
+## Resources: United States
 
 - [WHO: Menopause fact sheet](https://www.who.int/news-room/fact-sheets/detail/menopause)
 - [FDA: Labeling changes to menopausal hormone therapy](https://www.fda.gov/news-events/press-announcements/fda-approves-labeling-changes-menopausal-hormone-therapy-products)
@@ -95,7 +110,7 @@ In a major U.S. study, frequent hot flashes and night sweats lasted about a deca
 4. Faubion et al., "Impact of Menopause Symptoms on Women in the Workplace," *Mayo Clinic Proceedings* 98(6), 2023. https://pubmed.ncbi.nlm.nih.gov/37115119/ ; full paper: https://internationalwim.org/wp-content/uploads/2024/10/Impact-of-Menopause-Symptoms-on-Women-in-the-Workplace.pdf
 5. Mallen et al., *Menopause* 32(10), 2025 (Pfizer-funded, single employer; support without requiring disclosure). https://pmc.ncbi.nlm.nih.gov/articles/PMC12502938/
 6. Fisher Phillips; Venable LLP, October 2026; Bloomberg Law, March 20, 2026. https://www.fisherphillips.com/en/insights/insights/the-untapped-roi-of-menopause-savvy-workplaces ; https://www.venable.com/insights/publications/2026/10/menopause-in-the-workplace-new-accommodation ; https://news.bloomberglaw.com/daily-labor-report/states-look-to-protect-menopausal-workers-as-federal-policy-lags
-7. Illinois General Assembly, HB 5284, Public Act 104-0793, approved August 7, 2026; workplace provisions effective January 1, 2027. https://www.ilga.gov/Legislation/BillStatus?DocNum=5284&DocTypeID=HB&GAID=18&LegId=167006 ; Morgan Lewis, November 5, 2026; Epstein Becker Green (Rhode Island first; Illinois and Philadelphia effective January 1, 2027). https://morganlewis.com/pubs/2026/11/menopause-in-the-workplace-accommodation-and-anti-discrimination-requirements-expand-across-the-us ; https://www.ebglaw.com/insights/podcasts/60280
+7. Illinois General Assembly, HB 5284, Public Act 104-0793, approved August 7, 2026; workplace provisions effective January 1, 2027. https://ilga.gov/Legislation/PublicActs/View/104-0793 ; https://www.ilga.gov/Legislation/BillStatus?DocNum=5284&DocTypeID=HB&GAID=18&LegId=167006 ; Morgan Lewis, November 5, 2026; Epstein Becker Green (Rhode Island first; Illinois and Philadelphia effective January 1, 2027). https://morganlewis.com/pubs/2026/11/menopause-in-the-workplace-accommodation-and-anti-discrimination-requirements-expand-across-the-us ; https://www.ebglaw.com/insights/podcasts/60280
 8. Bloomberg Government, March 20, 2026. https://news.bgov.com/daily-labor-report/states-look-to-protect-menopausal-workers-as-federal-policy-lags
 9. Epstein Becker Green (Spanberger veto May 2026; Newsom reasoning); Morgan Lewis (Newsom veto September 2026). https://www.ebglaw.com/insights/podcasts/menopause-at-work-new-laws-vetoes-and-a-federal-bill
 10. H.R. 9671 text, introduced July 14, 2026. https://www.govinfo.gov/content/pkg/BILLS-119hr9671ih/html/BILLS-119hr9671ih.htm
@@ -108,7 +123,7 @@ Picture a woman who's done the same job for twenty years. Now she's sleeping thr
 
 In one major U.S. study, frequent hot flashes and night sweats lasted more than seven years for over half the women who had them, and about 10 years for Black women. In a 2023 Mayo Clinic survey, about 1 in 8 working respondents reported a work setback tied to symptoms, including cut hours, layoffs and quitting.
 
-No federal law specifically requires workplace accommodations for menopause. Illinois's protections start January 1.
+No federal law specifically requires workplace accommodations for menopause. Illinois's workplace protections take effect January 1, 2027.
 
 She's still doing her job. She shouldn't have to hide what it costs.
 
@@ -120,7 +135,7 @@ She's still doing her job. Why must she hide what it costs?
 
 In one major U.S. study, frequent hot flashes and night sweats lasted about 10 years for Black women who had them. In a Mayo Clinic survey, some working women reported setbacks, from cut hours to quitting.
 
-No federal law specifically requires menopause accommodations at work. Illinois's protections start January 1.
+No federal law specifically requires menopause accommodations at work. Illinois's workplace protections take effect January 1, 2027.
 
 Ask your employer who handles adjustment requests, and how they keep it private.
 
@@ -144,3 +159,12 @@ Cream text-card fallback. No stock photos of women fanning themselves.
 ## Correction record, November 25 evening
 
 Claude reviewed GP's corrections (`TMS_GP_FINAL_NVIDIA_DORIS_AND_MENOPAUSE_B_REVIEW_2026-11-25.md`), accepted all nine, and applied them: FDA timeline (request November 2025, first six labels approved February 12, 2026) and a new heading; SWAN scope ("frequent hot flashes and night sweats", study group) carried into the Short Version, Seat Summary, Facebook and Instagram; the Mayo figure tied to respondents, and the $1.8 billion labeled as the authors' extrapolation; nationwide claims removed; the Mayo sample limit stated directly; the EEOC-consistent privacy wording; "no federal law names menopause" narrowed, and "chances are slim" removed; a route for shift and manual workers added, labeled as proposals; the patriarchy paragraph labeled as TMS's interpretation. Visual research and Gate 3 are still outstanding.
+
+## Correction record, November 27 (Claude)
+
+Applied GP's November 27 corrections (`TMS_GP_MENOPAUSE_B_INDEPENDENT_REVIEW_2026-11-27.md`) verbatim: (1) "Frequent hot flashes and night sweats can last for years."; (2) "A woman may be managing symptoms while also worrying about whether her employer still sees a future for her."; (3) both social lines now read "Illinois's workplace protections take effect January 1, 2027."; (6) Resources renamed "Resources: United States". (4) The federal sentence already sits beside Title VII, ADEA and ADA protections in the state-policy section; unchanged. (5) Excerpt and v1 visual metadata added; preferred source link added to receipt 7.
+
+Factual refresh (new source checks, for GP's review under the Nov 26 rule):
+- Illinois: Public Act 104-0793 (HB 5284), signed August 7, 2026; amends the Illinois Human Rights Act; workplace provisions effective January 1, 2027; insurance coverage provisions effective January 1, 2028. Sources: ilga.gov Public Act 104-0793 text; Littler; Fisher Phillips; DLA Piper (October 2026).
+- Mayo (receipt 4): PubMed 37115119 abstract confirms women aged 45 to 60 receiving primary care at four Mayo Clinic sites, surveyed March 1 to June 30, 2021; 13.4% reported at least one adverse work outcome; 10.8% missed work. The $1.8 billion annual lost-work-time estimate is confirmed by the Mayo Clinic News Network release of April 26, 2023. Adverse outcomes include quitting, retiring, being laid off and reduced hours (Yahoo/HealthDay summaries of the paper; GP to confirm against the full paper's outcome definition).
+Open items 1-3 in the Gate 1 list are answered above.

@@ -24,7 +24,7 @@
 - image_license_evidence: none
 - image_alt_text: none
 - preferred_source_link: https://ilga.gov/Legislation/PublicActs/View/104-0793
-- photo_fallback_reason: Searched Wikimedia Commons, Library of Congress and government (NIH, CDC) image collections for an authentic, rights-documented photo of midlife women at work tied to this story. Results were generic or staged stock-style images with no documentary link to the Illinois law or the studies; TMS does not use unlicensed stock. Cream text card used.
+- photo_fallback_reason: The story is about a law and health studies, not a photographed event or person; no authentic, rights-documented photo tied to it is on file, and TMS does not use stock photos of symptoms. Cream text card used. A documented authentic-photo search has not been run; GP may require one before final Gate 2.
 
 ## The Short Version
 
